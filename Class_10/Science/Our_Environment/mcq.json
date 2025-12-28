@@ -1,0 +1,422 @@
+[
+  {
+    "id": "OE_01",
+    "question": "Which of the following is an example of an artificial ecosystem?",
+    "options": [
+      "Forest",
+      "Pond",
+      "Crop field",
+      "Lake"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Crop fields and gardens are man-made and managed by humans, making them artificial ecosystems, unlike forests and ponds which are natural.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "OE_02",
+    "question": "In a food chain, if the energy available at the producer level is $10,000\\text{ J}$, how much energy will be available at the secondary consumer level?",
+    "options": [
+      "$1,000\\text{ J}$",
+      "$100\\text{ J}$",
+      "$10\\text{ J}$",
+      "$1\\text{ J}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to the 10% law, only 10% of energy is transferred to the next level. Producer ($10,000\\text{ J}$) $\\rightarrow$ Primary Consumer ($1,000\\text{ J}$) $\\rightarrow$ Secondary Consumer ($100\\text{ J}$).",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "OE_03",
+    "question": "Ozone molecules are formed by the action of UV rays on oxygen. What is the chemical formula for ozone?",
+    "options": [
+      "$\\ce{O2}$",
+      "$\\ce{O3}$",
+      "$\\ce{O}$",
+      "$\\ce{O4}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ozone is a molecule formed by three atoms of oxygen ($\\ce{O3}$) through the reaction: $\\ce{O2 ->[UV] O + O}$ and then $\\ce{O + O2 -> O3}$.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "OE_04",
+    "question": "The phenomenon of progressive accumulation of non-biodegradable chemicals at each trophic level is known as:",
+    "options": [
+      "Eutrophication",
+      "Biological magnification",
+      "Pollution",
+      "Accumulation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biological magnification refers to the increase in the concentration of toxic substances like pesticides (e.g., DDT) in the bodies of organisms at higher trophic levels.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "OE_05",
+    "question": "Which of the following organisms occupy the first trophic level in a food chain?",
+    "options": [
+      "Herbivores",
+      "Carnivores",
+      "Autotrophs",
+      "Decomposers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Autotrophs (producers) capture solar energy and fix it into chemical energy, forming the base (first level) of every food chain.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "OE_06",
+    "question": "What percentage of solar energy is captured by green plants in a terrestrial ecosystem?",
+    "options": [
+      "$10\\%$",
+      "$1\\%$",
+      "$50\\%$",
+      "$100\\%$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Green plants in a terrestrial ecosystem capture about $1\\%$ of the energy of sunlight that falls on their leaves and convert it into food energy.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "OE_07",
+    "question": "Decomposers in an ecosystem are responsible for:",
+    "options": [
+      "Converting inorganic material to organic",
+      "Converting organic material to inorganic forms",
+      "Trapping solar energy",
+      "Consuming herbivores"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Decomposers (bacteria and fungi) break down the complex organic substances of dead remains into simple inorganic substances that go into the soil.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "OE_08",
+    "question": "Depletion of the ozone layer is mainly due to the use of:",
+    "options": [
+      "$\\ce{CH4}$",
+      "$\\ce{CO2}$",
+      "$\\ce{CFCs}$",
+      "$\\ce{N2O}$"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chlorofluorocarbons ($\\ce{CFCs}$), used in refrigerants and fire extinguishers, release chlorine atoms in the stratosphere that break down ozone molecules.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "OE_09",
+    "question": "The flow of energy in an ecosystem is always:",
+    "options": [
+      "Unidirectional",
+      "Bidirectional",
+      "Multidirectional",
+      "Cyclic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Energy flow is unidirectional; it moves from producers to consumers and cannot be captured back by the preceding level.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "OE_10",
+    "question": "In 1987, an agreement was signed to freeze the production of $\\ce{CFCs}$. Which organization spearheaded this?",
+    "options": [
+      "WHO",
+      "UNEP",
+      "UNESCO",
+      "WWF"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The United Nations Environment Programme (UNEP) succeeded in forging an agreement to freeze $\\ce{CFC}$ production at 1986 levels (Montreal Protocol).",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "OE_11",
+    "question": "Which of the following is a non-biodegradable waste?",
+    "options": [
+      "Paper",
+      "Wood",
+      "Plastic",
+      "Vegetable peels"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Plastic is non-biodegradable because it cannot be broken down by biological processes or enzymes of decomposers.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "OE_12",
+    "question": "What happens if we kill all the organisms in one trophic level?",
+    "options": [
+      "The population of next trophic level increases",
+      "The population of next trophic level decreases",
+      "No impact on ecosystem",
+      "Biodiversity increases"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If a trophic level is removed, the organisms in the next level will die due to lack of food, and the population of the previous level will grow uncontrollably, disrupting the balance.",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "OE_13",
+    "question": "Organisms that can synthesize their own food using $\\ce{CO2}$ and $\\ce{H2O}$ in the presence of sunlight are:",
+    "options": [
+      "Heterotrophs",
+      "Saprophytes",
+      "Autotrophs",
+      "Parasites"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Autotrophs, mainly green plants, perform photosynthesis to produce food: $\\ce{6CO2 + 12H2O ->[Sunlight] C6H12O6 + 6O2 + 6H2O}$.",
+    "difficulty": "Easy",
+    "year": "2025"
+  },
+  {
+    "id": "OE_14",
+    "question": "In the following food chain, who gets the least energy? Grass $\\rightarrow$ Grasshopper $\\rightarrow$ Frog $\\rightarrow$ Snake $\\rightarrow$ Eagle",
+    "options": [
+      "Grass",
+      "Frog",
+      "Snake",
+      "Eagle"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Energy decreases as we move up the food chain. The apex predator (Eagle) at the highest trophic level receives the least amount of energy.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "OE_15",
+    "question": "Which gas is primarily responsible for the greenhouse effect leading to global warming?",
+    "options": [
+      "$\\ce{O2}$",
+      "$\\ce{CO2}$",
+      "$\\ce{N2}$",
+      "$\\ce{Ar}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carbon dioxide ($\\ce{CO2}$) traps heat in the atmosphere, contributing to the greenhouse effect and global warming.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "OE_16",
+    "question": "Which of the following groups contains only biodegradable items?",
+    "options": [
+      "Grass, flowers and leather",
+      "Grass, wood and plastic",
+      "Fruit-peels, cake and lime-juice",
+      "Cake, wood and grass"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fruit-peels, cake, and lime-juice are all organic substances that can be broken down by bacteria.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "OE_17",
+    "question": "The number of trophic levels in a food chain is limited to 3 or 4 because:",
+    "options": [
+      "Energy increases at each level",
+      "Energy decreases at each level",
+      "Organisms become larger",
+      "Organisms become smaller"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Since only $10\\%$ of energy is transferred, after 3-4 levels, the remaining energy is too small to support another organism.",
+    "difficulty": "Hard",
+    "year": "2022"
+  },
+  {
+    "id": "OE_18",
+    "question": "Which of these is a result of excessive UV radiation hitting the earth?",
+    "options": [
+      "Global warming",
+      "Acid rain",
+      "Skin cancer",
+      "Eutrophication"
+    ],
+    "correctAnswer": 2,
+    "explanation": "UV radiation is highly damaging; it can cause skin cancer, cataract, and damage the immune system in humans.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "OE_19",
+    "question": "The disposal of waste by burning it at high temperatures in a furnace is called:",
+    "options": [
+      "Landfill",
+      "Composting",
+      "Incineration",
+      "Recycling"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Incineration involves the combustion of organic substances contained in waste materials to reduce their volume.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "OE_20",
+    "question": "What is the functional unit of the environment comprising of biotic and abiotic components?",
+    "options": [
+      "Biome",
+      "Ecosystem",
+      "Habitat",
+      "Biosphere"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An ecosystem is a system where living organisms interact with each other and their physical environment (abiotic factors).",
+    "difficulty": "Easy",
+    "year": "2025"
+  },
+  {
+    "id": "OE_21",
+    "question": "In a food web, the arrow points from:",
+    "options": [
+      "The eater to the eaten",
+      "The eaten to the eater",
+      "The sun to the consumer",
+      "Top level to bottom level"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The arrow indicates the direction of energy flow, pointing from the organism being consumed to the organism that consumes it.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "OE_22",
+    "question": "Which of the following will have the highest concentration of harmful chemicals due to biological magnification in a pond?",
+    "options": [
+      "Phytoplankton",
+      "Small fish",
+      "Zooplankton",
+      "Fish-eating birds"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The highest trophic level (birds) accumulates the maximum concentration of toxins because they consume many organisms from the levels below.",
+    "difficulty": "Hard",
+    "year": "2022"
+  },
+  {
+    "id": "OE_23",
+    "question": "Kulluhs (disposable clay cups) were discontinued in Indian Railways primarily because:",
+    "options": [
+      "They were expensive",
+      "Making them used up fertile topsoil",
+      "They were unhygienic",
+      "They were not biodegradable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mass production of Kulluhs led to the loss of large amounts of fertile topsoil, which is a significant environmental concern.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "OE_24",
+    "question": "Which of the following represents a correct food chain?",
+    "options": [
+      "Tiger $\\rightarrow$ Deer $\\rightarrow$ Grass",
+      "Grass $\\rightarrow$ Fish $\\rightarrow$ Goat",
+      "Grass $\\rightarrow$ Deer $\\rightarrow$ Tiger",
+      "Deer $\\rightarrow$ Grass $\\rightarrow$ Tiger"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Grass (Producer) is eaten by Deer (Herbivore), which is then eaten by Tiger (Carnivore).",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "OE_25",
+    "question": "In an ecosystem, the biotic components include:",
+    "options": [
+      "Temperature, rainfall, and wind",
+      "Soil, minerals, and water",
+      "Producers, consumers, and decomposers",
+      "Oxygen, nitrogen, and $\\ce{CO2}$"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Biotic components are the living parts of the ecosystem, including plants, animals, and microorganisms.",
+    "difficulty": "Easy",
+    "year": "2025"
+  },
+  {
+    "id": "OE_26",
+    "question": "If an organism $X$ is eaten by organism $Y$, then energy is transferred from:",
+    "options": [
+      "$Y$ to $X$",
+      "$X$ to $Y$",
+      "Sun to $Y$",
+      "Decomposers to $X$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Energy flows from the prey ($X$) to the predator ($Y$) as the latter consumes the former.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "OE_27",
+    "question": "Why is it recommended to use paper bags instead of plastic bags?",
+    "options": [
+      "Paper is cheaper",
+      "Paper is stronger",
+      "Paper is biodegradable",
+      "Paper is colorful"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paper is made of cellulose which can be decomposed by microorganisms, whereas plastic persists in the environment for hundreds of years.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "OE_28",
+    "question": "The percentage of energy available to the next trophic level is $10\\%$. What happens to the other $90\\%$?",
+    "options": [
+      "It is lost as heat",
+      "Used for life processes (growth, reproduction)",
+      "Both A and B",
+      "Stored as fat indefinitely"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Most of the energy ($90\\%$) is lost as heat to the environment or used by the organism for its own metabolic processes like digestion and growth.",
+    "difficulty": "Hard",
+    "year": "2025"
+  },
+  {
+    "id": "OE_29",
+    "question": "Biological magnification is most clearly seen in:",
+    "options": [
+      "Biodegradable pollutants",
+      "Non-biodegradable pollutants",
+      "Nutrients like nitrates",
+      "Water vapor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Only non-biodegradable pollutants (like heavy metals or pesticides) that cannot be metabolized or excreted get magnified in the food chain.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "OE_30",
+    "question": "Which of the following is not an abiotic factor?",
+    "options": [
+      "Temperature",
+      "Bacteria",
+      "Soil",
+      "Humidity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bacteria are living organisms, hence they are a biotic factor. Temperature, soil, and humidity are physical (abiotic) factors.",
+    "difficulty": "Easy",
+    "year": "2021"
+  }
+]
