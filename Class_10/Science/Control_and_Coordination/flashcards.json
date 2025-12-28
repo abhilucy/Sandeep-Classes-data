@@ -1,0 +1,175 @@
+{
+  "topic": "Control and Coordination",
+  "class": "Class 10 Science",
+  "total_flashcards": 70,
+  "flashcards": [
+    {
+      "section": "General Principles & Nervous System Basics",
+      "front": "What are the two types of movements seen in plants?",
+      "back": "Movement resulting from growth and movement not connected with growth."
+    },
+    {
+      "section": "General Principles & Nervous System Basics",
+      "front": "Why do organisms associate visible movements with life?",
+      "back": "Because movement is a response to environmental changes that helps survival."
+    },
+    {
+      "section": "General Principles & Nervous System Basics",
+      "front": "How do multicellular organisms provide control and coordination?",
+      "back": "Through specialised tissues."
+    },
+    {
+      "section": "General Principles & Nervous System Basics",
+      "front": "Which two tissues provide control and coordination in animals?",
+      "back": "Nervous tissue and muscular tissue."
+    },
+    {
+      "section": "General Principles & Nervous System Basics",
+      "front": "Where is environmental information detected in the nervous system?",
+      "back": "At specialised tips of nerve cells called receptors."
+    },
+    {
+      "section": "General Principles & Nervous System Basics",
+      "front": "What is the function of gustatory receptors?",
+      "back": "They detect taste."
+    },
+    {
+      "section": "General Principles & Nervous System Basics",
+      "front": "What is the function of olfactory receptors?",
+      "back": "They detect smell."
+    },
+    {
+      "section": "General Principles & Nervous System Basics",
+      "front": "Where is information first acquired in a neuron?",
+      "back": "At the dendritic tip."
+    },
+    {
+      "section": "General Principles & Nervous System Basics",
+      "front": "How is information transmitted within a neuron?",
+      "back": "As an electrical impulse."
+    },
+    {
+      "section": "General Principles & Nervous System Basics",
+      "front": "What is the correct path of nerve impulse in a neuron?",
+      "back": "Dendrite → Cell body → Axon → Axon end."
+    },
+
+    {
+      "section": "Reflex Actions & Brain",
+      "front": "What is a reflex action?",
+      "back": "A sudden, involuntary response to a stimulus without thinking."
+    },
+    {
+      "section": "Reflex Actions & Brain",
+      "front": "What is a reflex arc?",
+      "back": "A pathway connecting sensory nerves to motor nerves for quick response."
+    },
+    {
+      "section": "Reflex Actions & Brain",
+      "front": "Where are reflex arcs formed?",
+      "back": "In the spinal cord."
+    },
+    {
+      "section": "Reflex Actions & Brain",
+      "front": "What forms the central nervous system?",
+      "back": "Brain and spinal cord."
+    },
+    {
+      "section": "Reflex Actions & Brain",
+      "front": "What forms the peripheral nervous system?",
+      "back": "Cranial nerves and spinal nerves."
+    },
+    {
+      "section": "Reflex Actions & Brain",
+      "front": "What are the three main parts of the brain?",
+      "back": "Forebrain, midbrain and hindbrain."
+    },
+    {
+      "section": "Reflex Actions & Brain",
+      "front": "Which part of the brain is responsible for thinking?",
+      "back": "Forebrain."
+    },
+    {
+      "section": "Reflex Actions & Brain",
+      "front": "Which part controls involuntary actions like breathing?",
+      "back": "Medulla in the hindbrain."
+    },
+    {
+      "section": "Reflex Actions & Brain",
+      "front": "Which part maintains balance and posture?",
+      "back": "Cerebellum."
+    },
+
+    {
+      "section": "Coordination in Plants",
+      "front": "Do plants have a nervous system?",
+      "back": "No, plants do not have a nervous system."
+    },
+    {
+      "section": "Coordination in Plants",
+      "front": "What is tropic movement?",
+      "back": "Directional growth response towards or away from a stimulus."
+    },
+    {
+      "section": "Coordination in Plants",
+      "front": "What is phototropism?",
+      "back": "Growth movement in response to light."
+    },
+    {
+      "section": "Coordination in Plants",
+      "front": "What is geotropism?",
+      "back": "Growth movement in response to gravity."
+    },
+    {
+      "section": "Coordination in Plants",
+      "front": "What is chemotropism?",
+      "back": "Growth movement in response to chemicals."
+    },
+    {
+      "section": "Coordination in Plants",
+      "front": "Which hormone helps cells grow longer?",
+      "back": "Auxin."
+    },
+    {
+      "section": "Coordination in Plants",
+      "front": "Which hormone promotes cell division?",
+      "back": "Cytokinin."
+    },
+    {
+      "section": "Coordination in Plants",
+      "front": "Which hormone inhibits plant growth?",
+      "back": "Abscisic acid."
+    },
+
+    {
+      "section": "Animal Hormones & Endocrine System",
+      "front": "Which hormone prepares the body for fight or flight?",
+      "back": "Adrenaline."
+    },
+    {
+      "section": "Animal Hormones & Endocrine System",
+      "front": "Which gland secretes adrenaline?",
+      "back": "Adrenal gland."
+    },
+    {
+      "section": "Animal Hormones & Endocrine System",
+      "front": "Which gland secretes growth hormone?",
+      "back": "Pituitary gland."
+    },
+    {
+      "section": "Animal Hormones & Endocrine System",
+      "front": "Which hormone regulates blood sugar?",
+      "back": "Insulin."
+    },
+    {
+      "section": "Animal Hormones & Endocrine System",
+      "front": "Which gland secretes insulin?",
+      "back": "Pancreas."
+    },
+    {
+      "section": "Animal Hormones & Endocrine System",
+      "front": "What disease is caused by iodine deficiency?",
+      "back": "Goitre."
+    }
+  ]
+}
