@@ -1,0 +1,403 @@
+
+
+[
+  {
+    "id": "ABS_01",
+    "question": "Which of the following salts does not contain water of crystallization?",
+    "options": [
+      "Blue Vitriol",
+      "Baking Soda",
+      "Washing Soda",
+      "Gypsum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Blue Vitriol (CuSO4.5H2O), Washing Soda (Na2CO3.10H2O), and Gypsum (CaSO4.2H2O) all contain water of crystallization. Baking soda (NaHCO3) is an anhydrous salt in its standard form.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "ABS_02",
+    "question": "A solution reacts with crushed egg-shells to give a gas that turns lime-water milky. The solution contains:",
+    "options": [
+      "NaCl",
+      "HCl",
+      "LiCl",
+      "KCl"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Egg shells are made of Calcium Carbonate (CaCO3). When an acid like HCl reacts with a carbonate, it releases CO2 gas, which turns lime water milky due to the formation of calcium carbonate precipitate.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "ABS_03",
+    "question": "Which of the following is used for dissolution of gold?",
+    "options": [
+      "Hydrochloric acid",
+      "Sulphuric acid",
+      "Nitric acid",
+      "Aqua regia"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aqua regia is a freshly prepared mixture of concentrated hydrochloric acid and concentrated nitric acid in the ratio of 3:1. It is a highly corrosive, fuming liquid that can dissolve noble metals like gold and platinum.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ABS_04",
+    "question": "Sodium hydrogen carbonate when added to acetic acid evolves a gas. Which of the following statements are true about the gas evolved? (i) It turns lime water milky (ii) It extinguishes a burning splinter (iii) It dissolves in a solution of sodium hydroxide (iv) It has a pungent odour.",
+    "options": [
+      "(i) and (ii)",
+      "(i), (ii) and (iii)",
+      "(ii), (iii) and (iv)",
+      "(i) and (iv)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The gas evolved is CO2. It turns lime water milky, extinguishes a flame, and reacts with NaOH (an alkali) to form sodium carbonate. It is odorless.",
+    "difficulty": "Hard",
+    "year": "2022"
+  },
+  {
+    "id": "ABS_05",
+    "question": "Which of the following is the correct order of increasing acid strength?",
+    "options": [
+      "Water < Acetic acid < Hydrochloric acid",
+      "Water < Hydrochloric acid < Acetic acid",
+      "Acetic acid < Water < Hydrochloric acid",
+      "Hydrochloric acid < Water < Acetic acid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Water is neutral (pH 7), Acetic acid is a weak organic acid, and Hydrochloric acid is a strong mineral acid that ionizes completely in water.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ABS_06",
+    "question": "Assertion (A): During the electrolysis of brine, chlorine gas is given off at the anode. Reason (R): In the chlor-alkali process, hydrogen gas is collected at the cathode.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Both statements are correct facts about the chlor-alkali process, but the collection of hydrogen at the cathode does not explain why chlorine is released at the anode.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "ABS_07",
+    "question": "What is the pH of the solution formed when a small amount of acid is added to water?",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "First increases then decreases"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Adding acid increases the concentration of H+ ions. Since pH is inversely proportional to H+ concentration (-log[H+]), the pH value decreases.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ABS_08",
+    "question": "Identify the basic salt from the following:",
+    "options": [
+      "Na2CO3",
+      "NH4Cl",
+      "Na2SO4",
+      "NaCl"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Na2CO3 is formed from a strong base (NaOH) and a weak acid (H2CO3), making it a basic salt. NH4Cl is acidic, while NaCl and Na2SO4 are neutral.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "ABS_09",
+    "question": "An aqueous solution turns red litmus solution blue. Excess addition of which of the following solution would reverse the change?",
+    "options": [
+      "Baking powder",
+      "Lime",
+      "Ammonium hydroxide solution",
+      "Hydrochloric acid"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The initial solution is basic (turns red litmus blue). To reverse this (turn blue litmus red), an excess of an acidic solution like HCl must be added.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ABS_10",
+    "question": "The pH of gastric juice released during digestion is:",
+    "options": [
+      "Less than 7",
+      "More than 7",
+      "Equal to 7",
+      "Equal to 0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gastric juice contains HCl, which makes it highly acidic to activate pepsin for protein digestion, hence its pH is significantly less than 7.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ABS_11",
+    "question": "When Zinc metal reacts with Sodium Hydroxide, which products are formed?",
+    "options": [
+      "Sodium Zincate and Oxygen",
+      "Sodium Zincate and Hydrogen",
+      "Sodium Oxide and Zinc",
+      "Zinc Hydroxide and Sodium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zn + 2NaOH -> Na2ZnO2 (Sodium Zincate) + H2 gas. This is a characteristic reaction where certain metals react with bases to release hydrogen.",
+    "difficulty": "Hard",
+    "year": "2021"
+  },
+  {
+    "id": "ABS_12",
+    "question": "Which of the following gives the correct color of phenolphthalein in acidic and basic medium respectively?",
+    "options": [
+      "Pink, Colorless",
+      "Colorless, Pink",
+      "Red, Blue",
+      "Blue, Red"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Phenolphthalein is a synthetic indicator that remains colorless in acidic or neutral solutions and turns pink in basic solutions.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ABS_13",
+    "question": "Assertion (A): Distilled water does not conduct electricity, but rain water does. Reason (R): Rain water contains dissolved salts and gases like CO2 that form ions.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conduction of electricity requires ions. Distilled water is pure and unionized. Rain water dissolves atmospheric gases like CO2 and SO2 forming carbonic/sulfuric acid which provides ions.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ABS_14",
+    "question": "Plaster of Paris is obtained by heating Gypsum at what temperature?",
+    "options": [
+      "373 K",
+      "273 K",
+      "473 K",
+      "573 K"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gypsum (CaSO4.2H2O) when heated at 373 K (100 degrees Celsius) loses 1.5 molecules of water to become Plaster of Paris (CaSO4.1/2H2O).",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ABS_15",
+    "question": "Assertion (A): While diluting an acid, water should be added to the concentrated acid. Reason (R): The process of dissolving an acid in water is highly endothermic.",
+    "options": [
+      "Both A and R are true",
+      "Both A and R are false",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Assertion is false: Acid must be added to water to dissipate heat. Reason is false: The process is highly exothermic, not endothermic.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ABS_16",
+    "question": "A sample of soil is mixed with water and allowed to settle. The clear supernatant solution turns the pH paper yellowish-orange. Which of the following would change the color of this pH paper to greenish-blue?",
+    "options": [
+      "Lemon juice",
+      "Vinegar",
+      "Common salt",
+      "An antacid"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yellowish-orange indicates acidic soil (pH < 7). To make it greenish-blue (basic, pH > 7), we must add a basic substance like an antacid (Mg(OH)2).",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ABS_17",
+    "question": "Which gas is evolved when a metal carbonate reacts with an acid?",
+    "options": [
+      "Hydrogen",
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Metal Carbonate + Acid -> Salt + Water + Carbon dioxide. This is a fundamental reaction in the NCERT syllabus.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ABS_18",
+    "question": "Case-Based: A student was given four unknown solutions A, B, C, D with pH values 2, 7, 10, 14. Which solution has the highest concentration of hydroxyl (OH-) ions?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Higher pH values represent more basic solutions. A pH of 14 is strongly basic and contains the maximum concentration of OH- ions among the given options.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ABS_19",
+    "question": "Calcium phosphate is present in tooth enamel. Its nature is:",
+    "options": [
+      "Basic",
+      "Acidic",
+      "Neutral",
+      "Amphoteric"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Calcium phosphate is a salt of a strong base (Calcium hydroxide) and a weak acid (Phosphoric acid), giving it a basic nature.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "ABS_20",
+    "question": "Common salt besides being used in kitchen can also be used as the raw material for making: (i) Washing soda (ii) Bleaching powder (iii) Baking soda (iv) Slaked lime",
+    "options": [
+      "(i) and (ii)",
+      "(i), (ii) and (iii)",
+      "(i) and (iii)",
+      "(i), (iii) and (iv)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sodium chloride (NaCl) is used to produce NaOH (Chlor-alkali), which then helps make Bleaching powder. It is also a direct reactant in the Solvay process for Baking soda and Washing soda. Slaked lime is Ca(OH)2, not made from NaCl.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ABS_21",
+    "question": "The chemical formula of Bleaching Powder is:",
+    "options": [
+      "CaO",
+      "Ca(OH)2",
+      "CaOCl2",
+      "CaCl2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bleaching powder is Calcium Oxychloride, represented by the formula CaOCl2, produced by the action of chlorine on dry slaked lime.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "ABS_22",
+    "question": "Assertion (A): Ammonia is a base but does not contain a hydroxyl group. Reason (R): Ammonia dissolves in water to produce OH- ions.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ammonia (NH3) is basic because it reacts with water (H2O) to form Ammonium hydroxide (NH4OH), which dissociates into NH4+ and OH- ions.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ABS_23",
+    "question": "Which of the following indicators is an olfactory indicator?",
+    "options": [
+      "Litmus",
+      "Vanilla essence",
+      "Turmeric",
+      "Methyl orange"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olfactory indicators are substances whose smell changes in acidic or basic media. Examples include onion, vanilla essence, and clove oil.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ABS_24",
+    "question": "What happens when a solution of an acid is mixed with a solution of a base in a test tube? (i) Temperature of the solution increases (ii) Temperature of the solution decreases (iii) Salt formation takes place",
+    "options": [
+      "(i) only",
+      "(i) and (iii)",
+      "(ii) and (iii)",
+      "(i), (ii) and (iii)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Neutralization is an exothermic reaction (increases temperature) and results in the formation of salt and water.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ABS_25",
+    "question": "Bee-sting contains which acid that causes pain and irritation?",
+    "options": [
+      "Acetic acid",
+      "Methanoic acid",
+      "Citric acid",
+      "Tartaric acid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bee stings inject methanoic acid (also called formic acid) into the skin. Rubbing a mild base like baking soda provides relief.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ABS_26",
+    "question": "Case-Based: A salt 'X' is used in fire extinguishers and for making crispy pakoras. On heating, it gives out CO2. Identify 'X'.",
+    "options": [
+      "Sodium Carbonate",
+      "Sodium Hydrogen Carbonate",
+      "Calcium Carbonate",
+      "Calcium Oxychloride"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sodium hydrogen carbonate (Baking soda) is used in soda-acid fire extinguishers and as a leavening agent in cooking.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ABS_27",
+    "question": "Assertion (A): The pH of acid rain is less than 5.6. Reason (R): CO2, SO2 and NO2 dissolve in rain water to form acids.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atmospheric pollutants react with rain water to form carbonic, sulfuric, and nitric acids, lowering the pH below 5.6, which defines acid rain.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ABS_28",
+    "question": "Which of the following is used to treat indigestion caused by overeating?",
+    "options": [
+      "Antibiotic",
+      "Analgesic",
+      "Antacid",
+      "Antiseptic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Antacids are mild bases (like Milk of Magnesia) that neutralize the excess HCl produced in the stomach during indigestion.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "ABS_29",
+    "question": "When dilute HCl is added to Iron filings, what happens?",
+    "options": [
+      "Hydrogen gas and iron chloride are produced",
+      "Chlorine gas and iron hydroxide are produced",
+      "No reaction takes place",
+      "Iron salt and water are produced"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fe + 2HCl -> FeCl2 + H2. Metals above hydrogen in the reactivity series displace hydrogen from dilute acids.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "ABS_30",
+    "question": "The aqueous solution of which salt turns phenolphthalein pink?",
+    "options": [
+      "KCl",
+      "CH3COONa",
+      "NH4NO3",
+      "Na2SO4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CH3COONa (Sodium Acetate) is a basic salt (Strong base + Weak acid). Basic solutions turn phenolphthalein pink. Others are neutral or acidic.",
+    "difficulty": "Hard"
+  }
+]
