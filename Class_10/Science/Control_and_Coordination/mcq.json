@@ -1,0 +1,423 @@
+
+[
+  {
+    "id": "CC01",
+    "question": "Which part of the neuron is responsible for acquiring information?",
+    "options": [
+      "Axon",
+      "Dendrite",
+      "Cell Body",
+      "Nerve ending"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dendrites are the specialized branch-like structures of a neuron that receive chemical signals from the axons of other neurons and convert them into electrical impulses.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "CC02",
+    "question": "In a synapse, chemical signals are transmitted from:",
+    "options": [
+      "Dendrite of one neuron to the cell body of another",
+      "Axon to the cell body of the same neuron",
+      "Axon end of one neuron to the dendrite of another",
+      "Cell body to the axon of the same neuron"
+    ],
+    "correctAnswer": 2,
+    "explanation": "At the synapse, neurotransmitters are released from the axon terminal of the pre-synaptic neuron and travel across the gap to reach the dendrites of the post-synaptic neuron.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "CC03",
+    "question": "The correct sequence of components in a reflex arc is:",
+    "options": [
+      "Receptor -> Sensory neuron -> Spinal cord -> Motor neuron -> Effector",
+      "Effector -> Motor neuron -> Spinal cord -> Sensory neuron -> Receptor",
+      "Receptor -> Motor neuron -> Spinal cord -> Sensory neuron -> Effector",
+      "Spinal cord -> Sensory neuron -> Receptor -> Motor neuron -> Effector"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A reflex arc follows the path: Receptor (senses stimulus) -> Sensory neuron (carries signal) -> Spinal cord (processing center) -> Motor neuron (carries command) -> Effector (muscle/gland responds).",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "CC04",
+    "question": "The main thinking part of the human brain is the:",
+    "options": [
+      "Hindbrain",
+      "Midbrain",
+      "Forebrain",
+      "Cerebellum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The forebrain, specifically the cerebrum, is the primary site for complex thinking, memory, reasoning, and voluntary actions.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "CC05",
+    "question": "Which part of the brain maintains the posture and equilibrium of the body?",
+    "options": [
+      "Forebrain",
+      "Cerebellum",
+      "Medulla",
+      "Pons"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The cerebellum, a part of the hindbrain, is responsible for precision of voluntary actions and maintaining body balance and posture.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "CC06",
+    "question": "Involuntary actions like salivation and blood pressure are controlled by:",
+    "options": [
+      "Pons",
+      "Cerebellum",
+      "Medulla in the hindbrain",
+      "Cerebrum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The medulla oblongata in the hindbrain controls various involuntary activities such as blood pressure, salivation, and vomiting.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "CC07",
+    "question": "Which plant hormone is responsible for the inhibition of growth?",
+    "options": [
+      "Auxin",
+      "Gibberellin",
+      "Cytokinin",
+      "Abscisic acid"
+    ],
+    "correctAnswer": 3,
+    "explanation": "While auxins, gibberellins, and cytokinins promote growth, Abscisic acid (ABA) acts as a growth inhibitor, often leading to the wilting of leaves.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "CC08",
+    "question": "The movement of a sunflower in accordance with the path of the sun is due to:",
+    "options": [
+      "Chemotropism",
+      "Geotropism",
+      "Phototropism",
+      "Hydrotropism"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Phototropism is the directional growth or movement of a plant part in response to light stimulus.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "CC09",
+    "question": "The growth of pollen tubes towards ovules is an example of:",
+    "options": [
+      "Hydrotropism",
+      "Chemotropism",
+      "Geotropism",
+      "Phototropism"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chemotropism is the movement or growth of plant parts toward chemical stimuli, such as the growth of pollen tubes towards the $\\ce{C6H12O6}$ rich secretions of the ovule.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "CC10",
+    "question": "Iodine is necessary for the synthesis of which hormone?",
+    "options": [
+      "Adrenaline",
+      "Thyroxine",
+      "Auxin",
+      "Insulin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Iodine is essential for the thyroid gland to synthesize thyroxine, which regulates carbohydrate, protein, and fat metabolism.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "CC11",
+    "question": "A person with a deficiency of insulin might suffer from:",
+    "options": [
+      "Goitre",
+      "Dwarfism",
+      "Diabetes",
+      "Gigantism"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Insulin, produced by the pancreas, regulates the level of glucose ($\\ce{C6H12O6}$) in the blood. Its deficiency leads to diabetes mellitus.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "CC12",
+    "question": "Which gland is often referred to as the 'master gland'?",
+    "options": [
+      "Adrenal gland",
+      "Thyroid gland",
+      "Pituitary gland",
+      "Pancreas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pituitary gland is called the master gland because its hormones regulate the activity of many other endocrine glands.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "CC13",
+    "question": "The 'fight or flight' response is triggered by the hormone:",
+    "options": [
+      "Thyroxine",
+      "Insulin",
+      "Adrenaline",
+      "Oestrogen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adrenaline is secreted by the adrenal glands during stress or emergency, increasing heart rate and blood flow to muscles to prepare for action.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "CC14",
+    "question": "Which of the following is a plant hormone that promotes cell division?",
+    "options": [
+      "Auxin",
+      "Gibberellin",
+      "Cytokinin",
+      "Abscisic acid"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cytokinins are hormones that promote rapid cell division and are found in areas of rapid growth like fruits and seeds.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "CC15",
+    "question": "Bending of a shoot towards light is caused by the concentration of auxin:",
+    "options": [
+      "On the side facing the light",
+      "On the shady side of the shoot",
+      "Evenly throughout the shoot",
+      "At the very tip only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When light hits one side of a shoot, auxin diffuses towards the shady side, causing cells there to grow longer and resulting in the shoot bending towards the light.",
+    "difficulty": "Hard",
+    "year": "2025"
+  },
+  {
+    "id": "CC16",
+    "question": "What is the function of the gustatory receptors in humans?",
+    "options": [
+      "To detect smell",
+      "To detect taste",
+      "To detect sound",
+      "To detect light"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gustatory receptors are located on the tongue and are responsible for detecting different tastes.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "CC17",
+    "question": "Which part of the brain is responsible for the regulation of respiration?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Pons",
+      "Hypothalamus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pons, located in the hindbrain, contains centers that regulate the rate and depth of breathing.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "CC18",
+    "question": "The gap between two neurons is called a:",
+    "options": [
+      "Dendrite",
+      "Synapse",
+      "Axon",
+      "Impulse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The synapse is the functional junction between the axon terminal of one neuron and the dendrite of the next.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "CC19",
+    "question": "The hormone that regulates the development of secondary sexual characteristics in males is:",
+    "options": [
+      "Oestrogen",
+      "Progesterone",
+      "Testosterone",
+      "Insulin"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Testosterone, produced by the testes, is responsible for the changes seen in boys during puberty.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "CC20",
+    "question": "Which of the following is an example of a nastic movement?",
+    "options": [
+      "Growth of roots towards gravity",
+      "Folding of leaves of sensitive plant on touch",
+      "Bending of stem towards light",
+      "Growth of pollen tube"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nastic movements, like the folding of leaves in Mimosa pudica, are non-directional responses to stimuli, unlike tropic movements.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "CC21",
+    "question": "The feedback mechanism in the body ensures that:",
+    "options": [
+      "Hormones are secreted in large quantities",
+      "Hormones are secreted in precise quantities and at right times",
+      "Hormones are never secreted",
+      "Only one hormone works at a time"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Feedback mechanisms, such as those controlling blood glucose ($\\ce{C6H12O6}$) levels, regulate the timing and amount of hormone release.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "CC22",
+    "question": "Dramatic changes in body appearance during puberty are mainly due to the secretion of:",
+    "options": [
+      "Thyroxine and Insulin",
+      "Estrogen and Testosterone",
+      "Adrenaline and Thyroxine",
+      "Growth hormone and Insulin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Puberty changes are driven by sex hormones: Testosterone in males and Estrogen in females.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "CC23",
+    "question": "Roots of plants are:",
+    "options": [
+      "Positively phototropic",
+      "Negatively geotropic",
+      "Positively geotropic",
+      "Positively thigmotropic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Roots grow downwards in the direction of gravity, making them positively geotropic.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "CC24",
+    "question": "Which gland secretes digestive enzymes as well as hormones?",
+    "options": [
+      "Thyroid",
+      "Pancreas",
+      "Pituitary",
+      "Adrenal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pancreas is a heterocrine gland; its exocrine part secretes digestive enzymes and its endocrine part secretes insulin and glucagon.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "CC25",
+    "question": "A person has a swollen neck. This condition is likely caused by the deficiency of:",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Iodine",
+      "Potassium"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A swollen neck is a symptom of Goitre, caused by the deficiency of Iodine ($\\ce{I2}$) which is needed for thyroxine production.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "CC26",
+    "question": "Which of the following coordinates the activities of the body?",
+    "options": [
+      "Nervous system only",
+      "Endocrine system only",
+      "Both Nervous and Endocrine systems",
+      "Excretory system only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The nervous system provides rapid electrical coordination, while the endocrine system provides chemical coordination through hormones.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "CC27",
+    "question": "In the absence of the plant hormone auxin, the plant would likely:",
+    "options": [
+      "Grow taller",
+      "Not be able to bend towards light",
+      "Produce more fruit",
+      "Have stronger roots"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Auxin is essential for phototropism; without it, the differential growth required to bend towards light would not occur.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "CC28",
+    "question": "Which hormone is associated with 'Dwarfism'?",
+    "options": [
+      "Thyroxine",
+      "Growth Hormone",
+      "Insulin",
+      "Adrenaline"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dwarfism is caused by the deficiency of Growth Hormone (GH) secreted by the pituitary gland during childhood.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "CC29",
+    "question": "The survival of an organism in a changing environment depends on its ability to:",
+    "options": [
+      "Maintain constant internal conditions",
+      "Stop all chemical reactions",
+      "Grow without limits",
+      "Avoid all stimuli"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Homeostasis, or the maintenance of constant internal conditions (like $37^\\circ C$ body temp), is crucial for survival and is managed by control systems.",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "CC30",
+    "question": "Reflex actions are primarily controlled by the:",
+    "options": [
+      "Brain",
+      "Spinal cord",
+      "Nerves",
+      "Muscles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Most reflex actions are processed in the spinal cord to allow for an immediate response, though the information eventually reaches the brain.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  }
+]
