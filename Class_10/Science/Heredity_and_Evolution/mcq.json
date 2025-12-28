@@ -1,0 +1,423 @@
+
+[
+  {
+    "id": "1",
+    "question": "In a monohybrid cross between a tall pea plant ($TT$) and a short pea plant ($tt$), what is the phenotypic ratio of the $\\ce{F2}$ generation?",
+    "options": [
+      "$1:1$",
+      "$3:1$",
+      "$1:2:1$",
+      "$9:3:3:1$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the $\\ce{F2}$ generation of a monohybrid cross, three-fourths of the plants are tall and one-fourth are short, resulting in a phenotypic ratio of $3:1$.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "2",
+    "question": "Which part of the cell contains the information source for making proteins?",
+    "options": [
+      "Cytoplasm",
+      "Cell wall",
+      "$\\ce{DNA}$ in the nucleus",
+      "Mitochondria"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The $\\ce{DNA}$ (Deoxyribonucleic acid) present in the cell nucleus is the information source for making proteins. A section of $\\ce{DNA}$ that provides information for one protein is called a gene.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "3",
+    "question": "A cross between a tall plant ($TT$) and a short pea plant ($tt$) resulted in progeny that were all tall plants because:",
+    "options": [
+      "Tallness is the dominant trait",
+      "Shortness is the dominant trait",
+      "Tallness is the recessive trait",
+      "Height of pea plant is not governed by gene $T$ or $t$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallness is a dominant trait ($T$), and shortness is a recessive trait ($t$). In the $\\ce{F1}$ generation, the genotype is $Tt$, but only the dominant trait is expressed.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "4",
+    "question": "In humans, if a gene for 'A' blood group is inherited from the father and a gene for 'O' blood group is inherited from the mother, the blood group of the child will be:",
+    "options": [
+      "Blood group O",
+      "Blood group A",
+      "Blood group AB",
+      "Blood group B"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The gene for blood group A ($I^A$) is dominant over the gene for blood group O ($i$). Therefore, the genotype $I^Ai$ results in blood group A.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "5",
+    "question": "The number of pairs of sex chromosomes in a human zygote is:",
+    "options": [
+      "$23$",
+      "$22$",
+      "$1$",
+      "$2$"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Humans have $23$ pairs of chromosomes in total. Out of these, $22$ pairs are autosomes and $1$ pair is the sex chromosome ($XX$ in females, $XY$ in males).",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "6",
+    "question": "In a dihybrid cross between two plants with round yellow seeds ($RrYy$), what is the ratio of plants with round green seeds in the $\\ce{F2}$ generation?",
+    "options": [
+      "$9/16$",
+      "$3/16$",
+      "$1/16$",
+      "$4/16$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a dihybrid cross, the phenotypic ratio is $9:3:3:1$. The '3' parts represent the recombinant phenotypes: round green and wrinkled yellow. Thus, round green is $3/16$.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "7",
+    "question": "Which of the following determines the sex of a child in humans?",
+    "options": [
+      "The length of the mother's pregnancy",
+      "The genetic makeup of the egg",
+      "The genetic makeup of the sperm",
+      "The nutrition of the mother"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In humans, females produce eggs with only $X$ chromosomes, while males produce two types of sperms: $50\\%$ carrying $X$ and $50\\%$ carrying $Y$. The sperm's chromosome determines the sex.",
+    "difficulty": "Easy",
+    "year": "2025"
+  },
+  {
+    "id": "8",
+    "question": "The process by which new species develop from existing species is known as:",
+    "options": [
+      "Heredity",
+      "Speciation",
+      "Variation",
+      "Genetic Drift"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speciation is the evolutionary process by which populations evolve to become distinct species.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "9",
+    "question": "Organs which have the same basic structure but different functions are called:",
+    "options": [
+      "Analogous organs",
+      "Homologous organs",
+      "Vestigial organs",
+      "Fossils"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Homologous organs, like the forelimbs of a human and the wing of a bird, have a common structural design but perform different functions.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "10",
+    "question": "If a round, green seeded pea plant ($RRyy$) is crossed with wrinkled, yellow seeded pea plant ($rrYY$), the seeds produced in $\\ce{F1}$ generation are:",
+    "options": [
+      "Round and yellow",
+      "Wrinkled and green",
+      "Round and green",
+      "Wrinkled and yellow"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The $\\ce{F1}$ generation will have the genotype $RrYy$. Since round ($R$) and yellow ($Y$) are dominant traits, all seeds will be round and yellow.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "11",
+    "question": "Which of the following is an example of an acquired trait?",
+    "options": [
+      "Eye colour",
+      "Skin colour",
+      "Reduction in body weight due to starvation",
+      "Texture of hair"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Acquired traits are changes in an individual due to environmental factors or use/disuse during a lifetime. They are not passed to the next generation because they do not change the germ cell $\\ce{DNA}$.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "12",
+    "question": "According to Mendel, the genotypic ratio of the $\\ce{F2}$ generation in a monohybrid cross is:",
+    "options": [
+      "$3:1$",
+      "$1:2:1$",
+      "$9:3:3:1$",
+      "$1:1$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The genotypic ratio of $\\ce{F2}$ in a monohybrid cross is $1(TT):2(Tt):1(tt)$, which is $1:2:1$.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "13",
+    "question": "Variation is important for the:",
+    "options": [
+      "Survival of the individual",
+      "Survival of the species",
+      "Increase in population",
+      "Maintenance of body design"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Variation provides the basis for natural selection. While it may not benefit an individual, it ensures the survival of the species during environmental changes.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "14",
+    "question": "The wing of a bat and the wing of a bird are examples of:",
+    "options": [
+      "Homologous organs",
+      "Analogous organs",
+      "Vestigial organs",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Analogous organs have different origins and basic structures but perform similar functions due to adaptation to a similar environment.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "15",
+    "question": "A basket of vegetables contains carrot, potato, radish, and tomato. Which of them represent homologous structures?",
+    "options": [
+      "Carrot and potato",
+      "Carrot and tomato",
+      "Radish and carrot",
+      "Potato and tomato"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Radish and carrot are both modified roots, meaning they share the same basic structure and origin, making them homologous.",
+    "difficulty": "Hard",
+    "year": "2021"
+  },
+  {
+    "id": "16",
+    "question": "The science of heredity and variation is called:",
+    "options": [
+      "Evolution",
+      "Genetics",
+      "Biology",
+      "Taxonomy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genetics is the branch of biology that deals with the study of heredity and the variation of inherited characteristics.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "17",
+    "question": "In some reptiles, the temperature at which fertilized eggs are kept determines:",
+    "options": [
+      "The health of the offspring",
+      "The sex of the offspring",
+      "The number of eggs",
+      "The speed of hatching"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In certain animals like some turtles and snails, sex determination is environmental and depends on the temperature at which the eggs are incubated.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "18",
+    "question": "The exchange of genetic material takes place in:",
+    "options": [
+      "Vegetative propagation",
+      "Asexual reproduction",
+      "Sexual reproduction",
+      "Budding"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sexual reproduction involves the fusion of male and female gametes, leading to the exchange and recombination of genetic material, which results in variation.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "19",
+    "question": "Who is known as the Father of Genetics?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Jean-Baptiste Lamarck",
+      "Watson and Crick"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gregor Johann Mendel is known as the Father of Genetics for his pioneering work on pea plants.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "20",
+    "question": "Fossils are the:",
+    "options": [
+      "Living organisms in the deep sea",
+      "Remains of organisms preserved in earth layers",
+      "Man-made artifacts",
+      "Waste products of plants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fossils are the preserved remains or impressions of prehistoric organisms that lived thousands or millions of years ago.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "21",
+    "question": "Which of the following is NOT a controlled experiment conducted by Mendel?",
+    "options": [
+      "Monohybrid cross",
+      "Dihybrid cross",
+      "Back cross",
+      "Study of human height"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mendel conducted his experiments on pea plants (Pisum sativum), not on humans.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "22",
+    "question": "Genetic drift provides diversity without any:",
+    "options": [
+      "Adaptation",
+      "Mutation",
+      "Reproduction",
+      "Variation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Genetic drift refers to random changes in the frequency of alleles in a population, which can lead to diversity without necessarily being an adaptation for survival.",
+    "difficulty": "Hard",
+    "year": "2023"
+  },
+  {
+    "id": "23",
+    "question": "Wild cabbage was evolved into 'Broccoli' through:",
+    "options": [
+      "Natural selection",
+      "Artificial selection",
+      "Genetic engineering",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Artificial selection is a process where humans breed plants or animals for specific traits. Broccoli was developed from wild cabbage by selecting for arrested flower development.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "24",
+    "question": "How many chromosomes does a human sperm cell contain?",
+    "options": [
+      "$46$",
+      "$23$",
+      "$22$",
+      "$44$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sperms are gametes and contain a haploid set of chromosomes, which is $23$ in humans.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "25",
+    "question": "Which cross-type result would lead to a $1:1$ ratio of tall to short plants?",
+    "options": [
+      "$TT \\times tt$",
+      "$Tt \\times tt$",
+      "$Tt \\times Tt$",
+      "$TT \\times Tt$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A cross between a heterozygous tall plant ($Tt$) and a homozygous recessive short plant ($tt$) is a test cross resulting in a $1:1$ ratio.",
+    "difficulty": "Hard",
+    "year": "2025"
+  },
+  {
+    "id": "26",
+    "question": "Evolutionary relationships can be traced by identifying:",
+    "options": [
+      "Only homologous organs",
+      "Only fossils",
+      "Common patterns in $\\ce{DNA}$",
+      "Only analogous organs"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Comparing the $\\ce{DNA}$ of different species is the most direct method to trace evolutionary relationships, as similar $\\ce{DNA}$ sequences imply a closer common ancestor.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "27",
+    "question": "A zygote which has an $X$ chromosome inherited from the father will develop into a:",
+    "options": [
+      "Boy",
+      "Girl",
+      "X-linked mutant",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The mother always contributes an $X$. If the father contributes an $X$, the zygote is $XX$ (Female). If the father contributes a $Y$, the zygote is $XY$ (Male).",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "28",
+    "question": "The concept of 'Natural Selection' was given by:",
+    "options": [
+      "Mendel",
+      "Darwin",
+      "Lamarck",
+      "Morgan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Charles Darwin proposed the theory of evolution by natural selection in his book 'On the Origin of Species'.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "29",
+    "question": "Which of the following traits cannot be passed on to the progeny?",
+    "options": [
+      "Rudimentary eye",
+      "Tail-less mouse (after surgical removal)",
+      "Height of plant",
+      "Colour of seeds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Surgical removal of a tail is an acquired trait and does not affect the genetic material of the germ cells; hence it cannot be inherited.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "30",
+    "question": "The $\\ce{F2}$ generation is obtained by:",
+    "options": [
+      "Cross-pollinating $\\ce{F1}$ plants",
+      "Self-pollinating $\\ce{F1}$ plants",
+      "Cross-pollinating parent plants",
+      "Back-crossing $\\ce{F1}$ with parents"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mendel obtained the $\\ce{F2}$ generation by allowing the $\\ce{F1}$ hybrid plants to self-pollinate.",
+    "difficulty": "Easy",
+    "year": "2021"
+  }
+]
