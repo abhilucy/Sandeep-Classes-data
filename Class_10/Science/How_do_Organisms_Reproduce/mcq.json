@@ -1,0 +1,423 @@
+
+[
+  {
+    "id": "Q1",
+    "question": "In Amoeba, reproduction occurs through which of the following methods?",
+    "options": [
+      "Multiple fission",
+      "Binary fission",
+      "Budding",
+      "Fragmentation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Amoeba reproduces by binary fission where the parent cell divides into two identical daughter cells after the nucleus lengthens and divides.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "Q2",
+    "question": "Which organism reproduces by multiple fission to survive unfavorable conditions or as a regular mode like in Plasmodium?",
+    "options": [
+      "Amoeba",
+      "Leishmania",
+      "Plasmodium",
+      "Hydra"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Plasmodium, the malarial parasite, divides into many daughter cells simultaneously by multiple fission.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "Q3",
+    "question": "Identify the organism that shows budding as a mode of asexual reproduction.",
+    "options": [
+      "Amoeba",
+      "Yeast",
+      "Spirogyra",
+      "Planaria"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In yeast, a small bulb-like projection called a bud comes out from the individual cell which then detaches and matures into a new yeast cell.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "Q4",
+    "question": "The ability of an organism to give rise to a new individual from its broken body parts is called:",
+    "options": [
+      "Fragmentation",
+      "Budding",
+      "Regeneration",
+      "Vegetative propagation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Regeneration is the ability of an organism like Hydra or Planaria to grow into a complete individual from its cut body parts.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "Q5",
+    "question": "The thread-like structures that develop on a moist slice of bread in Rhizopus are called:",
+    "options": [
+      "Sporangia",
+      "Hyphae",
+      "Stolons",
+      "Rhizoids"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The thread-like structures are the hyphae of the bread mould (Rhizopus). They are not reproductive parts but the vegetative body.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "Q6",
+    "question": "Vegetative propagation refers to the formation of new plants from:",
+    "options": [
+      "Stem, roots, and flowers",
+      "Stem, roots, and leaves",
+      "Stem, flowers, and fruits",
+      "Stem, leaves, and flowers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vegetative propagation is an asexual method where new plants are produced from vegetative parts like roots, stems, and leaves.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "Q7",
+    "question": "Which of these plants reproduces through its leaves?",
+    "options": [
+      "Rose",
+      "Bryophyllum",
+      "Sugarcane",
+      "Money plant"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bryophyllum produces buds in the notches along the leaf margins which fall on the soil and develop into new plants.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "Q8",
+    "question": "The process of DNA copying is essential in reproduction because it leads to:",
+    "options": [
+      "Exact carbon copies always",
+      "Variation in offspring",
+      "Production of clones only",
+      "Complete stability of species"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DNA copying is not absolutely accurate, leading to variations which are the basis for evolution and survival of species over time.",
+    "difficulty": "Hard",
+    "year": "2023"
+  },
+  {
+    "id": "Q9",
+    "question": "In a flower, the female reproductive part consists of:",
+    "options": [
+      "Stigma, Style, and Ovary",
+      "Stigma, Anther, and Filament",
+      "Stamen, Pollen, and Ovule",
+      "Sepal, Petal, and Stamen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The carpel or pistil is the female reproductive part containing the stigma (receptive tip), style (elongated tube), and ovary (swollen base).",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "Q10",
+    "question": "The transfer of pollen grains from the anther to the stigma of the same flower is called:",
+    "options": [
+      "Cross-pollination",
+      "Self-pollination",
+      "Fertilization",
+      "Germination"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Self-pollination occurs when pollen is transferred from the anther to the stigma of the same flower or another flower on the same plant.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "Q11",
+    "question": "Which part of the flower develops into a seed after fertilization?",
+    "options": [
+      "Ovary",
+      "Ovule",
+      "Stigma",
+      "Pollen grain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "After fertilization, the zygote divides and forms an embryo within the ovule, which eventually develops a tough coat and converts into a seed.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "Q12",
+    "question": "During fertilization in plants, the pollen tube enters the ovule through an opening called:",
+    "options": [
+      "Stigma",
+      "Style",
+      "Micropyle",
+      "Chalaza"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pollen tube grows through the style and enters the ovule via a small pore called the micropyle to release male gametes.",
+    "difficulty": "Hard",
+    "year": "2025"
+  },
+  {
+    "id": "Q13",
+    "question": "The period during adolescence when reproductive tissues begin to mature is called:",
+    "options": [
+      "Adulthood",
+      "Puberty",
+      "Germination",
+      "Propagation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Puberty is the stage of life when the body becomes sexually mature and capable of reproduction due to hormonal changes.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "Q14",
+    "question": "In human males, the testes are located in the scrotum outside the abdominal cavity because:",
+    "options": [
+      "It provides more space",
+      "It protects from injury",
+      "Sperm formation requires lower temperature",
+      "It facilitates easy release of sperms"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sperm formation requires a temperature $2-3^{\\circ}C$ lower than the normal body temperature, which is provided by the scrotum.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "Q15",
+    "question": "Which gland contributes fluid to the semen to provide nutrition and easy transport for sperms?",
+    "options": [
+      "Thyroid gland",
+      "Prostate gland",
+      "Pituitary gland",
+      "Adrenal gland"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The prostate gland and seminal vesicles add their secretions to the vas deferens so that sperms are in a fluid medium for easier transport and nutrition.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "Q16",
+    "question": "In the human female reproductive system, fertilization usually occurs in the:",
+    "options": [
+      "Uterus",
+      "Cervix",
+      "Fallopian tube",
+      "Vagina"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fertilization, the fusion of sperm and egg, typically takes place in the fallopian tube (oviduct).",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "Q17",
+    "question": "What is the function of the placenta in humans?",
+    "options": [
+      "Protecting the embryo from shocks",
+      "Providing oxygen and glucose to the embryo",
+      "Removing waste from the mother's blood",
+      "Secreting bile for digestion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The placenta is a disc-like tissue that connects the embryo to the mother's uterine wall, facilitating the exchange of nutrients, oxygen, and waste.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "Q18",
+    "question": "If the egg is not fertilized, the thick and spongy lining of the uterus breaks and comes out through the vagina as blood and mucous. This process is:",
+    "options": [
+      "Fertilization",
+      "Implantation",
+      "Menstruation",
+      "Gestation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Menstruation is the monthly shedding of the uterine lining when fertilization does not occur, lasting roughly 2 to 8 days.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "Q19",
+    "question": "Which of the following is a mechanical barrier method of contraception?",
+    "options": [
+      "Copper-T",
+      "Condoms",
+      "Oral pills",
+      "Vasectomy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Condoms act as a mechanical barrier that prevents the sperm from reaching the egg, also protecting against STDs.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "Q20",
+    "question": "The surgical method of contraception in females where the fallopian tube is blocked is:",
+    "options": [
+      "Vasectomy",
+      "Tubectomy",
+      "IUCD",
+      "Oral pills"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tubectomy is a surgical procedure for females where the fallopian tubes are cut or tied to prevent the egg from reaching the uterus.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "Q21",
+    "question": "Which of the following is a sexually transmitted disease caused by a virus?",
+    "options": [
+      "Syphilis",
+      "Gonorrhea",
+      "Warts",
+      "Typhoid"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Warts and HIV-AIDS are sexually transmitted diseases caused by viruses, whereas Syphilis and Gonorrhea are caused by bacteria.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "Q22",
+    "question": "The embryo gets nutrition from the mother's blood with the help of a special tissue called:",
+    "options": [
+      "Zygote",
+      "Placenta",
+      "Villi",
+      "Uterus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The placenta contains villi on the embryo's side and blood spaces on the mother's side to maximize the surface area for nutrient exchange.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "Q23",
+    "question": "In flowering plants, the fusion of one male gamete with the egg and another with the two polar nuclei is called:",
+    "options": [
+      "Double fertilization",
+      "Triple fusion",
+      "Pollination",
+      "Syngamy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Double fertilization is a complex process in angiosperms where two fertilizations occur: one forming the zygote and the other forming the endosperm.",
+    "difficulty": "Hard",
+    "year": "2025"
+  },
+  {
+    "id": "Q24",
+    "question": "Spirogyra reproduces asexually by:",
+    "options": [
+      "Budding",
+      "Fragmentation",
+      "Regeneration",
+      "Fission"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Spirogyra, a multicellular alga with simple body organization, simply breaks up into smaller pieces (fragments) upon maturation.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "Q25",
+    "question": "Which of the following is NOT a function of the testes?",
+    "options": [
+      "Production of sperms",
+      "Secretion of testosterone",
+      "Production of eggs",
+      "Regulation of secondary sexual characters"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Production of eggs is the function of the ovaries in the female reproductive system.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "Q26",
+    "question": "Copper-T is placed in the:",
+    "options": [
+      "Vagina",
+      "Uterus",
+      "Fallopian tube",
+      "Cervix"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Copper-T is an Intrauterine Contraceptive Device (IUCD) placed in the uterus by a doctor to prevent pregnancy.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "Q27",
+    "question": "The ratio of number of chromosomes in a human zygote to a human sperm is:",
+    "options": [
+      "2:1",
+      "1:2",
+      "1:1",
+      "4:1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A sperm is a haploid gamete ($n=23$) while a zygote is formed by the fusion of two gametes, making it diploid ($2n=46$). Thus the ratio is $2:1$.",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "Q28",
+    "question": "Which among the following is a unisexual flower?",
+    "options": [
+      "Hibiscus",
+      "Mustard",
+      "Papaya",
+      "Petunia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Papaya and watermelon are examples of unisexual flowers as they contain either stamens or carpels, but not both.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "Q29",
+    "question": "What happens to the ovary after fertilization?",
+    "options": [
+      "It shrivels and falls off",
+      "It develops into a seed",
+      "It develops into a fruit",
+      "It develops into an embryo"
+    ],
+    "correctAnswer": 2,
+    "explanation": "After fertilization, the ovules become seeds and the ovary grows rapidly and ripens to form a fruit.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "Q30",
+    "question": "The sequence of events of sexual reproduction in a flower is:",
+    "options": [
+      "Pollination, Fertilization, Embryo, Seedling",
+      "Seedling, Embryo, Fertilization, Pollination",
+      "Pollination, Fertilization, Seedling, Embryo",
+      "Fertilization, Pollination, Embryo, Seedling"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct sequence is: transfer of pollen (pollination), fusion of gametes (fertilization), development of zygote to embryo, and growth into a seedling.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  }
+]
