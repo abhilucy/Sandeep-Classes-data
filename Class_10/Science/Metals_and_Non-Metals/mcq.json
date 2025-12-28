@@ -1,91 +1,49 @@
-    [
+[
   {
-    "id": "MNM-01",
-    "question": "Which of the following pairs will give displacement reactions?",
+    "id": "MNM001",
+    "question": "Which of the following metals does not react even with steam?",
     "options": [
-      "NaCl solution and Copper metal",
-      "MgCl2 solution and Aluminium metal",
-      "FeSO4 solution and Silver metal",
-      "AgNO3 solution and Copper metal"
+      "Iron",
+      "Calcium",
+      "Lead",
+      "Aluminum"
     ],
-    "correctAnswer": 3,
-    "explanation": "Copper is more reactive than silver and hence can displace silver from silver nitrate solution. NaCl, MgCl2, and FeSO4 contain metals more reactive than the ones they are paired with in the options.",
+    "correctAnswer": 2,
+    "explanation": "Lead, Copper, Silver, and Gold do not react with water at all, including steam. Iron and Aluminum react with steam to form oxides, while Calcium reacts with cold water.",
     "difficulty": "Moderate",
     "year": "2023"
   },
   {
-    "id": "MNM-02",
-    "question": "An element reacts with oxygen to give a compound with a high melting point. This compound is also soluble in water. The element is likely to be:",
+    "id": "MNM002",
+    "question": "Ionic compounds have high melting points because:",
     "options": [
-      "Calcium",
-      "Carbon",
-      "Silicon",
-      "Iron"
+      "They have weak intermolecular forces",
+      "They have strong electrostatic forces of attraction between oppositely charged ions",
+      "They are formed by sharing of electrons",
+      "They are generally liquid at room temperature"
     ],
-    "correctAnswer": 0,
-    "explanation": "Calcium reacts with oxygen to form Calcium Oxide (CaO), which has a high melting point and reacts with water to form Calcium Hydroxide.",
-    "difficulty": "Easy",
-    "year": "2022"
+    "correctAnswer": 1,
+    "explanation": "Ionic compounds are formed by the transfer of electrons, creating strong electrostatic attractions between positive and negative ions. Breaking these bonds requires significant energy, hence high melting points. They are solids, not liquids, and covalent compounds involve sharing.",
+    "difficulty": "Moderate",
+    "year": "2024"
   },
   {
-    "id": "MNM-03",
-    "question": "Food cans are coated with tin and not with zinc because:",
+    "id": "MNM003",
+    "question": "Aluminum is used for making cooking utensils. Which properties of aluminum are responsible for this? (i) Good thermal conductivity (ii) Good electrical conductivity (iii) Ductility (iv) High melting point",
     "options": [
-      "Zinc is costlier than tin",
-      "Zinc has a higher melting point than tin",
-      "Zinc is more reactive than tin",
-      "Zinc is less reactive than tin"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Zinc is more reactive than tin and can react with the organic acids present in food, making it unfit for consumption.",
-    "difficulty": "Easy",
-    "year": "2021"
-  },
-  {
-    "id": "MNM-04",
-    "question": "Which of the following metals do not react with cold as well as hot water?",
-    "options": [
-      "Na",
-      "Ca",
-      "Mg",
-      "Fe"
+      "(i) and (ii)",
+      "(i) and (iii)",
+      "(ii) and (iii)",
+      "(i) and (iv)"
     ],
     "correctAnswer": 3,
-    "explanation": "Iron (Fe) does not react with cold or hot water but reacts with steam to form iron oxide and hydrogen gas.",
+    "explanation": "Cooking utensils require good thermal conductivity to heat food evenly and a high melting point so the metal doesn't melt on the stove. Electrical conductivity and ductility are irrelevant for the function of a pot.",
     "difficulty": "Moderate",
-    "year": "2024"
+    "year": "2023"
   },
   {
-    "id": "MNM-05",
-    "question": "The composition of aqua-regia is:",
-    "options": [
-      "Dil. HCl : Conc. HNO3 (3:1)",
-      "Conc. HCl : Dil. HNO3 (3:1)",
-      "Conc. HCl : Conc. HNO3 (3:1)",
-      "Dil. HCl : Dil. HNO3 (3:1)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Aqua-regia is a freshly prepared mixture of concentrated hydrochloric acid and concentrated nitric acid in the ratio of 3:1.",
-    "difficulty": "Moderate",
-    "year": "2024"
-  },
-  {
-    "id": "MNM-06",
-    "question": "Which of the following are amphoteric oxides?",
-    "options": [
-      "MgO and ZnO",
-      "Al2O3 and Na2O",
-      "Al2O3 and ZnO",
-      "Fe2O3 and ZnO"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Amphoteric oxides like Al2O3 and ZnO react with both acids and bases to produce salt and water.",
-    "difficulty": "Moderate",
-    "year": "2025"
-  },
-  {
-    "id": "MNM-07",
-    "question": "Assertion (A): Magnesium chloride is an ionic compound. Reason (R): Metals and non-metals react by transfer of electrons.",
+    "id": "MNM004",
+    "question": "Assertion (A): Magnesium starts floating when placed in hot water. Reason (R): Magnesium reacts with hot water to form Magnesium hydroxide and Hydrogen gas, and bubbles of hydrogen stick to its surface.",
     "options": [
       "Both A and R are true and R is the correct explanation of A",
       "Both A and R are true but R is not the correct explanation of A",
@@ -93,11 +51,68 @@
       "A is false but R is true"
     ],
     "correctAnswer": 0,
-    "explanation": "Magnesium transfers two electrons to two chlorine atoms, forming Mg2+ and Cl- ions; this electron transfer defines ionic bonding.",
-    "difficulty": "Easy"
+    "explanation": "Magnesium reacts with hot water. The hydrogen gas produced forms bubbles that attach to the metal, making it buoyant. This is a characteristic physical behavior during the chemical reaction.",
+    "difficulty": "Hard",
+    "year": "2022"
   },
   {
-    "id": "MNM-08",
+    "id": "MNM005",
+    "question": "The process of heating carbonate ores strongly in the absence of air to convert them into oxides is known as:",
+    "options": [
+      "Roasting",
+      "Calcination",
+      "Smelting",
+      "Refining"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Calcination is used for carbonate ores in limited or no air. Roasting is used for sulfide ores in the presence of excess air. Smelting involves reduction, and refining is the final purification.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "MNM006",
+    "question": "Galvanization is a method of protecting iron from rusting by coating it with a thin layer of:",
+    "options": [
+      "Gallium",
+      "Aluminum",
+      "Zinc",
+      "Silver"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Zinc is used in galvanization because it is more reactive than iron and provides sacrificial protection, even if the coating is scratched. Silver and Gallium are too expensive or impractical.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "MNM007",
+    "question": "Case Study: An ore on treatment with dilute HCl gives a gas which turns lime water milky. The ore is:",
+    "options": [
+      "Sulphide ore",
+      "Carbonate ore",
+      "Nitrate ore",
+      "Chloride ore"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carbonate ores react with dilute acids to release Carbon Dioxide (CO2), which turns lime water milky. Sulphide ores would release H2S, which has a rotten egg smell and doesn't affect lime water this way.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "MNM008",
+    "question": "During electrolytic refining of copper, the impure metal is made the:",
+    "options": [
+      "Anode",
+      "Cathode",
+      "Electrolyte",
+      "Both Anode and Cathode"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In electrolytic refining, the thick block of impure metal is the anode (where oxidation/dissolution occurs), and a thin strip of pure metal is the cathode (where pure metal deposits). The electrolyte is a salt solution of the metal.",
+    "difficulty": "Hard",
+    "year": "2025"
+  },
+  {
+    "id": "MNM009",
     "question": "Which of the following non-metals is a liquid at room temperature?",
     "options": [
       "Carbon",
@@ -106,130 +121,69 @@
       "Sulphur"
     ],
     "correctAnswer": 1,
-    "explanation": "Bromine is the only non-metal that exists as a liquid at room temperature.",
-    "difficulty": "Easy"
-  },
-  {
-    "id": "MNM-09",
-    "question": "Which of the following represents the correct order of reactivity?",
-    "options": [
-      "Mg > Al > Zn > Fe",
-      "Mg > Zn > Al > Fe",
-      "Al > Zn > Mg > Fe",
-      "Fe > Zn > Al > Mg"
-    ],
-    "correctAnswer": 0,
-    "explanation": "According to the reactivity series, Magnesium is the most reactive among these, followed by Aluminium, Zinc, and then Iron.",
-    "difficulty": "Moderate"
-  },
-  {
-    "id": "MNM-10",
-    "question": "Solder is an alloy of:",
-    "options": [
-      "Pb and Sn",
-      "Cu and Zn",
-      "Cu and Sn",
-      "Pb and Zn"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Solder is an alloy of lead (Pb) and tin (Sn) and has a low melting point, making it suitable for welding electrical wires.",
+    "explanation": "Bromine is the only non-metal that exists as a liquid at room temperature. Carbon, Phosphorus, and Sulphur are solids.",
     "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "MNM010",
+    "question": "Assertion (A): Highly reactive metals like Sodium and Potassium are stored under kerosene. Reason (R): They react vigorously with moisture and oxygen in the air.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sodium and Potassium are at the top of the reactivity series. They react exothermically with air and water, often catching fire, so kerosene acts as a protective barrier.",
+    "difficulty": "Moderate",
     "year": "2023"
   },
   {
-    "id": "MNM-11",
-    "question": "An element X is soft and can be cut with a knife. It is very reactive to air and cannot be kept open in air. It reacts vigorously with water. Identify X.",
+    "id": "MNM011",
+    "question": "Which of the following is an amphoteric oxide?",
     "options": [
-      "Mg",
-      "Na",
-      "P",
-      "Ca"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sodium (Na) is an alkali metal that is soft, highly reactive with air and water, and stored in kerosene.",
-    "difficulty": "Easy"
-  },
-  {
-    "id": "MNM-12",
-    "question": "Metals are refined by using different methods. Which of the following metals are refined by electrolytic refining? (i) Au (ii) Cu (iii) Na (iv) K",
-    "options": [
-      "(i) and (ii)",
-      "(i) and (iii)",
-      "(ii) and (iii)",
-      "(iii) and (iv)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Copper and Gold are typically refined using electrolytic refining, whereas Na and K are extracted by electrolysis of their molten chlorides.",
-    "difficulty": "Hard"
-  },
-  {
-    "id": "MNM-13",
-    "question": "Assertion (A): Hydrogen gas is not evolved when a metal reacts with nitric acid. Reason (R): Nitric acid is a strong oxidizing agent.",
-    "options": [
-      "Both A and R are true and R is the correct explanation of A",
-      "Both A and R are true but R is not the correct explanation of A",
-      "A is true but R is false",
-      "A is false but R is true"
-    ],
-    "correctAnswer": 0,
-    "explanation": "HNO3 oxidizes the H2 produced to water and itself gets reduced to nitrogen oxides, except in reactions with Mg and Mn.",
-    "difficulty": "Hard"
-  },
-  {
-    "id": "MNM-14",
-    "question": "Galvanization is a method of protecting iron from rusting by coating it with a thin layer of:",
-    "options": [
-      "Gallium",
-      "Aluminium",
-      "Zinc",
-      "Silver"
+      "Na2O",
+      "MgO",
+      "Al2O3",
+      "CuO"
     ],
     "correctAnswer": 2,
-    "explanation": "Galvanization involves coating iron or steel with Zinc to prevent corrosion.",
-    "difficulty": "Easy"
+    "explanation": "Amphoteric oxides like Al2O3 and ZnO react with both acids and bases to produce salt and water. Na2O and MgO are purely basic oxides.",
+    "difficulty": "Moderate",
+    "year": "2024"
   },
   {
-    "id": "MNM-15",
-    "question": "Case Study: A metal M is found in nature as its carbonate ore MCO3. It is used in the galvanization of iron. Identify M and the process to convert MCO3 into its oxide.",
+    "id": "MNM012",
+    "question": "Aqua regia is a freshly prepared mixture of concentrated HNO3 and concentrated HCl in the ratio of:",
     "options": [
-      "M is Zn; Process is Calcination",
-      "M is Fe; Process is Roasting",
-      "M is Al; Process is Calcination",
-      "M is Zn; Process is Roasting"
+      "1:3",
+      "3:1",
+      "2:3",
+      "3:2"
     ],
     "correctAnswer": 0,
-    "explanation": "Zinc is used for galvanization. Carbonate ores like ZnCO3 are converted to oxides by heating in limited air, a process called calcination.",
-    "difficulty": "Moderate"
+    "explanation": "Aqua regia consists of 1 part concentrated Nitric acid (HNO3) and 3 parts concentrated Hydrochloric acid (HCl). It is highly corrosive and can dissolve gold and platinum.",
+    "difficulty": "Moderate",
+    "year": "2022"
   },
   {
-    "id": "MNM-16",
-    "question": "When Al2O3 is reacted with NaOH, the product formed is:",
+    "id": "MNM013",
+    "question": "Which of the following metals exists in its native state in nature?",
     "options": [
-      "NaAlO2",
-      "Na2AlO2",
-      "NaAl2O",
-      "Na2AlO3"
+      "Copper",
+      "Gold",
+      "Zinc",
+      "Aluminum"
     ],
-    "correctAnswer": 0,
-    "explanation": "Aluminium oxide is amphoteric; it reacts with sodium hydroxide to form Sodium Aluminate (NaAlO2) and water.",
-    "difficulty": "Moderate"
+    "correctAnswer": 1,
+    "explanation": "Gold and Platinum are least reactive and are found in their free (native) state. Copper and Silver are sometimes found free but mostly as compounds. Zinc and Aluminum are too reactive to be found free.",
+    "difficulty": "Easy",
+    "year": "2021"
   },
   {
-    "id": "MNM-17",
-    "question": "During electrolytic refining of zinc, it gets:",
-    "options": [
-      "deposited on cathode",
-      "deposited on anode",
-      "deposited on cathode as well as anode",
-      "remains in the solution"
-    ],
-    "correctAnswer": 0,
-    "explanation": "In electrolytic refining, the pure metal is always deposited at the cathode.",
-    "difficulty": "Moderate"
-  },
-  {
-    "id": "MNM-18",
-    "question": "Assertion (A): Ionic compounds have high melting and boiling points. Reason (R): A large amount of energy is required to break the strong inter-ionic attraction.",
+    "id": "MNM014",
+    "question": "Assertion (A): Covalent compounds are generally poor conductors of electricity. Reason (R): They do not form ions in solution or in molten state.",
     "options": [
       "Both A and R are true and R is the correct explanation of A",
       "Both A and R are true but R is not the correct explanation of A",
@@ -237,116 +191,139 @@
       "A is false but R is true"
     ],
     "correctAnswer": 0,
-    "explanation": "Ionic compounds consist of oppositely charged ions held by strong electrostatic forces, requiring high thermal energy to overcome.",
-    "difficulty": "Moderate"
+    "explanation": "Electricity conduction in compounds requires free ions or electrons. Covalent compounds share electrons and do not ionize, making them insulators. Ionic compounds conduct when molten or dissolved because ions become free.",
+    "difficulty": "Moderate",
+    "year": "2024"
   },
   {
-    "id": "MNM-19",
-    "question": "Which of the following non-metals is lustrous?",
+    "id": "MNM015",
+    "question": "The reaction: Fe2O3 + 2Al -> Al2O3 + 2Fe + Heat is used for:",
     "options": [
-      "Sulphur",
-      "Oxygen",
-      "Nitrogen",
-      "Iodine"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Iodine is a non-metal but it possesses a natural metallic luster.",
-    "difficulty": "Easy"
-  },
-  {
-    "id": "MNM-20",
-    "question": "Case Study: The process of joining railway tracks involves the reaction of Iron(III) oxide with Aluminium. This reaction is:",
-    "options": [
-      "Endothermic and Displacement",
-      "Exothermic and Displacement",
-      "Neutralization",
-      "Combination"
+      "Making steel",
+      "Welding railway tracks",
+      "Extracting Aluminum",
+      "Galvanization"
     ],
     "correctAnswer": 1,
-    "explanation": "The Thermite reaction (Fe2O3 + Al) is a displacement reaction that is highly exothermic, producing molten iron.",
-    "difficulty": "Moderate"
+    "explanation": "This is the Thermite reaction. The heat produced is so high that the iron is formed in a molten state, which is used to join cracked railway tracks or machine parts.",
+    "difficulty": "Hard",
+    "year": "2023"
   },
   {
-    "id": "MNM-21",
+    "id": "MNM016",
     "question": "Which property of metals is used for making bells and strings of musical instruments?",
     "options": [
-      "Ductility",
       "Malleability",
+      "Ductility",
       "Sonorousness",
       "Conductivity"
     ],
     "correctAnswer": 2,
-    "explanation": "Metals are sonorous, meaning they produce a ringing sound when struck, which is why they are used in bells.",
-    "difficulty": "Easy"
+    "explanation": "Sonorousness is the property of metals to produce a ringing sound when struck. Malleability (sheets) and ductility (wires) are physical shapes, and conductivity refers to heat/electricity.",
+    "difficulty": "Easy",
+    "year": "2025"
   },
   {
-    "id": "MNM-22",
-    "question": "Assertion (A): Generally, metals are not found in their free state. Reason (R): Most metals are very reactive.",
+    "id": "MNM017",
+    "question": "Case Study: A student added Zinc granules to Copper Sulphate solution. What will be the observation?",
+    "options": [
+      "Solution stays blue, no reaction",
+      "Solution turns colorless and a reddish-brown deposit forms",
+      "Solution turns green",
+      "Gas is evolved with a pop sound"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zinc is more reactive than Copper and displaces it from CuSO4 (blue) to form ZnSO4 (colorless). The displaced Copper deposits as a reddish-brown layer on the zinc.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "MNM018",
+    "question": "The non-metal which is a good conductor of electricity is:",
+    "options": [
+      "Diamond",
+      "Graphite",
+      "Sulphur",
+      "Iodine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Graphite is an allotrope of carbon where each carbon atom is bonded to three others, leaving one free electron per atom to conduct electricity. Diamond is an insulator.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "MNM019",
+    "question": "When a metal 'X' is treated with cold water, it gives a base 'Y' with molecular formula YOH (Mass = 40) and liberates gas 'Z'. Identify X.",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Magnesium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sodium (Na) reacts with water to form NaOH (Mass: 23+16+1=40) and Hydrogen gas. Potassium forms KOH (Mass 56). Calcium forms Ca(OH)2.",
+    "difficulty": "Hard",
+    "year": "2025"
+  },
+  {
+    "id": "MNM020",
+    "question": "Assertion (A): Gold is used for making jewelry. Reason (R): Gold is highly reactive and oxidizes easily.",
     "options": [
       "Both A and R are true and R is the correct explanation of A",
       "Both A and R are true but R is not the correct explanation of A",
       "A is true but R is false",
       "A is false but R is true"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Highly reactive metals react with atmospheric gases and are found as compounds; only noble metals like Gold are found free.",
-    "difficulty": "Moderate"
-  },
-  {
-    "id": "MNM-23",
-    "question": "Which of the following oxide(s) of iron would be obtained on prolonged reaction of iron with steam?",
-    "options": [
-      "FeO",
-      "Fe2O3",
-      "Fe3O4",
-      "Fe2O3 and Fe3O4"
     ],
     "correctAnswer": 2,
-    "explanation": "Iron reacts with steam to form magnetic iron oxide (Fe3O4) and hydrogen gas.",
-    "difficulty": "Hard"
+    "explanation": "Gold is used for jewelry because it is highly lusterous and *least* reactive, meaning it does not tarnish or oxidize. The Reason is false because Gold is chemically inert.",
+    "difficulty": "Easy",
+    "year": "2023"
   },
   {
-    "id": "MNM-24",
-    "question": "If copper is kept open in air, it slowly loses its shining brown surface and gains a green coating. This is due to the formation of:",
+    "id": "MNM021",
+    "question": "Solder is an alloy of:",
     "options": [
-      "CuSO4",
-      "CuCO3.Cu(OH)2",
-      "Cu(NO3)2",
-      "CuO"
+      "Copper and Tin",
+      "Lead and Tin",
+      "Copper and Zinc",
+      "Iron and Carbon"
     ],
     "correctAnswer": 1,
-    "explanation": "Copper reacts with moist CO2 in the air to form basic copper carbonate, which is green.",
-    "difficulty": "Hard"
+    "explanation": "Solder is an alloy of Lead (Pb) and Tin (Sn). It has a low melting point, making it ideal for joining electrical wires. Brass is Cu+Zn, Bronze is Cu+Sn.",
+    "difficulty": "Moderate",
+    "year": "2025"
   },
   {
-    "id": "MNM-25",
-    "question": "The atomic number of an element X is 12. Which inert gas is nearest to X?",
+    "id": "MNM022",
+    "question": "Food cans are coated with tin and not with zinc because:",
     "options": [
-      "He",
-      "Ne",
-      "Ar",
-      "Kr"
+      "Zinc is costlier than tin",
+      "Zinc has a higher melting point than tin",
+      "Zinc is more reactive than tin",
+      "Zinc is a less reactive than tin"
     ],
-    "correctAnswer": 1,
-    "explanation": "Element X is Magnesium (Z=12). The nearest noble gas is Neon (Z=10).",
-    "difficulty": "Easy"
+    "correctAnswer": 2,
+    "explanation": "Zinc is more reactive than tin and might react with the organic acids present in food, potentially making it toxic. Tin is less reactive and safer for food contact.",
+    "difficulty": "Moderate",
+    "year": "2021"
   },
   {
-    "id": "MNM-26",
-    "question": "Which of the following metals catches fire on reacting with water?",
+    "id": "MNM023",
+    "question": "Generally, metals react with acids to give salt and hydrogen gas. Which of the following acids does not give hydrogen gas on reacting with metals (except Mn and Mg)?",
     "options": [
-      "Na",
-      "Mg",
-      "Al",
-      "Cu"
+      "H2SO4",
+      "HCl",
+      "HNO3",
+      "All of these"
     ],
-    "correctAnswer": 0,
-    "explanation": "Sodium reacts violently and exothermically with water; the heat evolved ignites the hydrogen gas produced.",
-    "difficulty": "Easy"
+    "correctAnswer": 2,
+    "explanation": "Nitric acid (HNO3) is a strong oxidizing agent. It oxidizes the hydrogen produced to water and itself gets reduced to nitrogen oxides. Only Magnesium and Manganese react with very dilute HNO3 to give H2 gas.",
+    "difficulty": "Hard",
+    "year": "2024"
   },
   {
-    "id": "MNM-27",
-    "question": "Assertion (A): Zinc is used in the recovery of silver from complex [Ag(CN)2]-. Reason (R): Zinc is more electropositive than silver.",
+    "id": "MNM024",
+    "question": "Assertion (A): Zinc is used in the recovery of Silver from its complex cyanide solution. Reason (R): Zinc is more electropositive than silver.",
     "options": [
       "Both A and R are true and R is the correct explanation of A",
       "Both A and R are true but R is not the correct explanation of A",
@@ -354,46 +331,92 @@
       "A is false but R is true"
     ],
     "correctAnswer": 0,
-    "explanation": "Zinc, being more reactive (electropositive), displaces silver from its cyanide complex.",
-    "difficulty": "Hard"
+    "explanation": "Zinc is higher in the reactivity series (more electropositive/reactive) than silver. It can displace silver from its complexes. This is a common metallurgical process.",
+    "difficulty": "Hard",
+    "year": "2023"
   },
   {
-    "id": "MNM-28",
-    "question": "Case Study: An element A reacts with water to form a compound B which is used in white washing. The compound B on heating forms compound C. Identify A, B and C.",
+    "id": "MNM025",
+    "question": "Which of the following is the correct order of reactivity?",
     "options": [
-      "A=Ca, B=Ca(OH)2, C=CaO",
-      "A=CaO, B=Ca(OH)2, C=CaCO3",
-      "A=Ca, B=CaO, C=Ca(OH)2",
-      "A=Ca, B=CaCO3, C=CaO"
+      "Mg > Al > Zn > Fe",
+      "Mg > Zn > Al > Fe",
+      "Fe > Zn > Al > Mg",
+      "Al > Mg > Fe > Zn"
     ],
     "correctAnswer": 0,
-    "explanation": "Calcium reacts with water to form Calcium hydroxide (slaked lime) used for white washing. Heating slaked lime (or the limestone formed after reaction with CO2) leads back to CaO.",
-    "difficulty": "Moderate"
+    "explanation": "According to the reactivity series, Magnesium is the most reactive among these, followed by Aluminum, Zinc, and then Iron.",
+    "difficulty": "Moderate",
+    "year": "2022"
   },
   {
-    "id": "MNM-29",
-    "question": "Reaction between X and Y forms compound Z. X loses electron and Y gains electron. Which of the following properties is NOT shown by Z?",
+    "id": "MNM026",
+    "question": "Metals like Copper and Silver lose their shine and get a green or black coating due to:",
     "options": [
-      "Has high melting point",
-      "Has low melting point",
-      "Conducts electricity in molten state",
-      "Occurs as solid"
+      "Corrosion",
+      "Reduction",
+      "Hydrogenation",
+      "Calcination"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Copper forms a green coating of basic copper carbonate, and silver forms a black coating of silver sulphide due to reaction with atmospheric gases. This process is called corrosion.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "MNM027",
+    "question": "Case Study: Metal M is found in the middle of the reactivity series. It is extracted from its sulphide ore. The first step involves:",
+    "options": [
+      "Calcination",
+      "Roasting",
+      "Electrolysis",
+      "Reduction with Carbon"
     ],
     "correctAnswer": 1,
-    "explanation": "The description defines an ionic compound. Ionic compounds have high melting points, not low.",
-    "difficulty": "Moderate"
+    "explanation": "Sulphide ores of medium reactivity metals (like Zinc or Iron) are first converted to oxides by Roasting (heating in excess air). Calcination is for carbonates, and Carbon reduction happens after the oxide is formed.",
+    "difficulty": "Moderate",
+    "year": "2024"
   },
   {
-    "id": "MNM-30",
-    "question": "In the electrolytic refining of copper, the electrolyte used is:",
+    "id": "MNM028",
+    "question": "An element reacts with oxygen to give a compound with a high melting point. This compound is also soluble in water. The element is likely to be:",
     "options": [
-      "Acidified copper sulphate solution",
-      "Copper chloride solution",
-      "Sodium chloride solution",
-      "Molten copper sulphate"
+      "Calcium",
+      "Carbon",
+      "Silicon",
+      "Iron"
     ],
     "correctAnswer": 0,
-    "explanation": "Acidified copper sulphate solution is used as the electrolyte to ensure better conductivity and smooth transfer of Cu ions.",
-    "difficulty": "Moderate"
+    "explanation": "Calcium reacts with oxygen to form CaO (Calcium oxide), which has a high melting point and reacts with water to form soluble Calcium Hydroxide. Carbon and Silicon oxides are gases or insoluble solids (SiO2).",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "MNM029",
+    "question": "Electronic configuration of three elements X, Y, Z: X(2,8), Y(2,8,7), Z(2,8,2). Which is correct?",
+    "options": [
+      "X is a metal",
+      "Y is a metal",
+      "Z is a non-metal",
+      "Y is a non-metal and Z is a metal"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Y has 7 valence electrons, so it needs to gain 1 electron (Non-metal). Z has 2 valence electrons, so it loses them (Metal). X is a noble gas (Neon) because its octet is complete.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "MNM030",
+    "question": "Assertion (A): Alloys are homogeneous mixtures of metals with other metals or non-metals. Reason (R): Alloys generally have better properties like higher strength or corrosion resistance than pure metals.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Both statements are true. Alloys are indeed homogeneous mixtures and are created to improve properties. However, the definition of an alloy (homogeneous mixture) doesn't 'explain' why the properties are better; that is due to the atomic arrangement.",
+    "difficulty": "Moderate",
+    "year": "2025"
   }
 ]
