@@ -1,0 +1,408 @@
+[
+  {
+    "id": "1",
+    "question": "Which of the following observations is correct when magnesium ribbon is burnt in air?",
+    "options": [
+      "A yellow flame is produced with a black residue.",
+      "A dazzling white flame is produced with a white powder.",
+      "A blue flame is produced with a green residue.",
+      "A red flame is produced with a grey powder."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When magnesium ribbon reacts with oxygen present in the air, it forms magnesium oxide ($\\\\ce{MgO}$), which is a white powder. This reaction occurs with a dazzling white flame.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "2",
+    "question": "On heating lead nitrate powder in a boiling tube, we observe brown fumes. These fumes are of:",
+    "options": [
+      "$\\\\ce{NO}$",
+      "$\\\\ce{NO2}$",
+      "$\\\\ce{N2O}$",
+      "$\\\\ce{O2}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thermal decomposition of lead nitrate yields lead oxide, oxygen, and nitrogen dioxide gas. The reaction is $\\\\ce{2Pb(NO3)2 -> 2PbO + 4NO2 + O2}$. The nitrogen dioxide ($\\\\ce{NO2}$) gas appears as brown fumes.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "3",
+    "question": "Which of the following is a displacement reaction?",
+    "options": [
+      "$\\\\ce{MgO + H2O -> Mg(OH)2}$",
+      "$\\\\ce{Fe + CuSO4 -> FeSO4 + Cu}$",
+      "$\\\\ce{CaCO3 -> CaO + CO2}$",
+      "$\\\\ce{2H2 + O2 -> 2H2O}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In this reaction, Iron ($\\\\ce{Fe}$) is more reactive than Copper ($\\\\ce{Cu}$), so it displaces copper from the copper sulphate solution. This is a classic example of a single displacement reaction.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "4",
+    "question": "The ratio of hydrogen and oxygen gases evolved during the electrolysis of water by volume is:",
+    "options": [
+      "$1:2$",
+      "$2:1$",
+      "$1:1$",
+      "$1:8$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water ($\\\\ce{H2O}$) consists of two parts hydrogen and one part oxygen. During electrolysis ($\\\\ce{2H2O -> 2H2 + O2}$), the volume of hydrogen gas collected at the cathode is double the volume of oxygen gas collected at the anode.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "5",
+    "question": "The reaction $\\\\ce{MnO2 + 4HCl -> MnCl2 + 2H2O + Cl2}$ is an example of a redox reaction because:",
+    "options": [
+      "$\\\\ce{MnO2}$ is reduced and $\\\\ce{HCl}$ is oxidized.",
+      "$\\\\ce{MnO2}$ is oxidized and $\\\\ce{HCl}$ is reduced.",
+      "Both are oxidized.",
+      "Both are reduced."
+    ],
+    "correctAnswer": 0,
+    "explanation": "$\\\\ce{MnO2}$ loses oxygen to become $\\\\ce{MnCl2}$ (reduction), while $\\\\ce{HCl}$ loses hydrogen (or loses electrons) to form $\\\\ce{Cl2}$ (oxidation).",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "6",
+    "question": "Which of the following is an endothermic process?",
+    "options": [
+      "Dilution of sulphuric acid",
+      "Sublimation of dry ice",
+      "Condensation of water vapours",
+      "Respiration in human beings"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Endothermic processes absorb energy from the surroundings. Sublimation of dry ice ($\\\\ce{CO2(s) -> CO2(g)}$) requires heat to break intermolecular forces.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "7",
+    "question": "A substance 'X' is used in white washing and is obtained by heating limestone in the absence of air. Identify 'X'.",
+    "options": [
+      "$\\\\ce{CaCO3}$",
+      "$\\\\ce{CaO}$",
+      "$\\\\ce{Ca(OH)2}$",
+      "$\\\\ce{Ca}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Limestone ($\\\\ce{CaCO3}$) on heating gives Calcium Oxide ($\\\\ce{CaO}$), also known as quicklime, which is used for white washing.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "8",
+    "question": "Silver chloride turns grey in sunlight. This is an example of:",
+    "options": [
+      "Combination reaction",
+      "Displacement reaction",
+      "Photolytic decomposition",
+      "Double displacement reaction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Silver chloride ($\\\\ce{AgCl}$) decomposes into silver metal (grey) and chlorine gas in the presence of light: $\\\\ce{2AgCl -> 2Ag + Cl2}$.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "9",
+    "question": "When sodium sulphate solution is added to barium chloride solution, a white precipitate is formed. The white precipitate is:",
+    "options": [
+      "$\\\\ce{NaCl}$",
+      "$\\\\ce{BaSO4}$",
+      "$\\\\ce{Na2SO4}$",
+      "$\\\\ce{BaCl2}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The reaction is $\\\\ce{Na2SO4 + BaCl2 -> BaSO4 + 2NaCl}$. Barium sulphate ($\\\\ce{BaSO4}$) is the insoluble white precipitate formed in this double displacement reaction.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "10",
+    "question": "The chemical formula of rust is:",
+    "options": [
+      "$\\\\ce{Fe2O3}$",
+      "$\\\\ce{Fe3O4}$",
+      "$\\\\ce{Fe2O3.xH2O}$",
+      "$\\\\ce{Fe(OH)2}$"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rusting is the corrosion of iron where it reacts with oxygen and moisture to form hydrated ferric oxide, represented as $\\\\ce{Fe2O3.xH2O}$.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "11",
+    "question": "Which gas is used in the storage of fat and oil containing foods for a long time?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Neon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nitrogen is an inert gas that prevents the oxidation of fats and oils in food, thereby preventing rancidity.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "12",
+    "question": "Identify the reducing agent in the reaction: $\\\\ce{Fe2O3 + 3CO -> 2Fe + 3CO2}$",
+    "options": [
+      "$\\\\ce{Fe2O3}$",
+      "$\\\\ce{CO}$",
+      "$\\\\ce{Fe}$",
+      "$\\\\ce{CO2}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In this reaction, Carbon Monoxide ($\\\\ce{CO}$) gains oxygen to become $\\\\ce{CO2}$, meaning it is oxidized and thus acts as the reducing agent.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "13",
+    "question": "What happens when dilute hydrochloric acid is added to iron filings?",
+    "options": [
+      "Hydrogen gas and iron chloride are produced.",
+      "Chlorine gas and iron hydroxide are produced.",
+      "No reaction takes place.",
+      "Iron salt and water are produced."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Iron reacts with dilute $\\\\ce{HCl}$ to form iron(II) chloride and evolve hydrogen gas: $\\\\ce{Fe + 2HCl -> FeCl2 + H2}$.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "14",
+    "question": "The decomposition of ferrous sulphate ($\\\\ce{FeSO4.7H2O}$) crystals results in the evolution of gases with a characteristic smell of burning sulphur. The gases are:",
+    "options": [
+      "$\\\\ce{SO2}$ and $\\\\ce{O2}$",
+      "$\\\\ce{SO2}$ and $\\\\ce{SO3}$",
+      "$\\\\ce{SO3}$ and $\\\\ce{O2}$",
+      "$\\\\ce{S}$ and $\\\\ce{O2}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thermal decomposition of $\\\\ce{FeSO4}$ yields $\\\\ce{Fe2O3}$, $\\\\ce{SO2}$, and $\\\\ce{SO3}$. Both $\\\\ce{SO2}$ and $\\\\ce{SO3}$ have the smell of burning sulphur.",
+    "difficulty": "Hard",
+    "year": "2022"
+  },
+  {
+    "id": "15",
+    "question": "A balanced chemical equation is in accordance with:",
+    "options": [
+      "Law of multiple proportions",
+      "Law of conservation of mass",
+      "Law of constant proportions",
+      "Avogadro's Law"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to the law of conservation of mass, mass can neither be created nor destroyed in a chemical reaction, so the number of atoms of each element must remain the same on both sides.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "16",
+    "question": "Which of the following is a combination reaction?",
+    "options": [
+      "$\\\\ce{CH4 + 2O2 -> CO2 + 2H2O}$",
+      "$\\\\ce{Pb + CuCl2 -> PbCl2 + Cu}$",
+      "$\\\\ce{CaO + H2O -> Ca(OH)2}$",
+      "$\\\\ce{2AgBr -> 2Ag + Br2}$"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A combination reaction is one where two or more reactants combine to form a single product. Calcium oxide and water combine to form calcium hydroxide.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "17",
+    "question": "In the reaction $\\\\ce{CuO + H2 -> Cu + H2O}$, the substance oxidized is:",
+    "options": [
+      "$\\\\ce{CuO}$",
+      "$\\\\ce{H2}$",
+      "$\\\\ce{Cu}$",
+      "$\\\\ce{H2O}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oxidation is the gain of oxygen. Here, $\\\\ce{H2}$ gains oxygen to form $\\\\ce{H2O}$, so hydrogen is the substance oxidized.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "18",
+    "question": "The reaction of burning natural gas ($\\\\ce{CH4 + 2O2 -> CO2 + 2H2O + heat}$) is:",
+    "options": [
+      "Endothermic",
+      "Exothermic",
+      "Decomposition",
+      "Displacement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reactions that release energy in the form of heat are called exothermic reactions. Combustion of methane releases a significant amount of heat.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "19",
+    "question": "Why is respiration considered an exothermic reaction?",
+    "options": [
+      "Because oxygen is absorbed.",
+      "Because energy is released in the form of heat/ATP.",
+      "Because carbon dioxide is released.",
+      "Because it is a physical change."
+    ],
+    "correctAnswer": 1,
+    "explanation": "During respiration, glucose reacts with oxygen in the cells of our body to produce energy ($\\\\ce{C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy}$), making it an exothermic process.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "20",
+    "question": "When lead nitrate solution is mixed with potassium iodide solution, a yellow precipitate is formed. This precipitate is:",
+    "options": [
+      "Potassium nitrate",
+      "Lead iodide",
+      "Lead oxide",
+      "Iodine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The double displacement reaction is $\\\\ce{Pb(NO3)2 + 2KI -> PbI2 + 2KNO3}$. Lead iodide ($\\\\ce{PbI2}$) is the yellow precipitate.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "21",
+    "question": "Which of the following is NOT a physical change?",
+    "options": [
+      "Boiling of water to give water vapour",
+      "Melting of ice to give water",
+      "Dissolution of salt in water",
+      "Combustion of Liquefied Petroleum Gas (LPG)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Combustion of LPG involves a chemical reaction with oxygen to form new products like $\\\\ce{CO2}$ and $\\\\ce{H2O}$ with the release of heat, so it is a chemical change.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "22",
+    "question": "Fatty foods become rancid due to the process of:",
+    "options": [
+      "Oxidation",
+      "Reduction",
+      "Hydrogenation",
+      "Corrosion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rancidity is the process of slow oxidation of oil and fat present in food materials resulting in a change in smell and taste.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "23",
+    "question": "In the equation $\\\\ce{xFe + yH2O -> zFe3O4 + wH2}$, what are the values of x, y, z, and w?",
+    "options": [
+      "x=1, y=1, z=1, w=1",
+      "x=3, y=4, z=1, w=4",
+      "x=3, y=2, z=1, w=2",
+      "x=2, y=3, z=1, w=3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "To balance: 3 Iron atoms on both sides (x=3), 4 Oxygen atoms on both sides (y=4), and 8 Hydrogen atoms on both sides (w=4). $\\\\ce{3Fe + 4H2O -> Fe3O4 + 4H2}$.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "24",
+    "question": "Which of the following metals does not react even with steam?",
+    "options": [
+      "Iron",
+      "Aluminium",
+      "Zinc",
+      "Copper"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Metals like Gold, Silver, and Copper are very low in the reactivity series and do not react with water or steam.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "25",
+    "question": "Calcium oxide reacts vigorously with water to produce slaked lime. This reaction can be classified as: (i) Combination, (ii) Exothermic, (iii) Endothermic, (iv) Oxidation",
+    "options": [
+      "(i) and (iii)",
+      "(i) and (ii)",
+      "(ii) and (iv)",
+      "(iii) and (iv)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The reaction $\\\\ce{CaO + H2O -> Ca(OH)2}$ is a combination reaction (two reactants, one product) and it releases a lot of heat (exothermic).",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "26",
+    "question": "A student takes about $2 mL$ of sodium hydroxide solution in a test tube and adds a few pieces of granulated zinc metal to it. On heating, a gas is evolved. The gas is:",
+    "options": [
+      "$\\\\ce{O2}$",
+      "$\\\\ce{H2}$",
+      "$\\\\ce{CO2}$",
+      "$\\\\ce{NO2}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zinc reacts with sodium hydroxide to form sodium zincate and hydrogen gas: $\\\\ce{Zn + 2NaOH -> Na2ZnO2 + H2}$.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "27",
+    "question": "Which among the following is/are double displacement reaction(s)? (i) $\\\\ce{Pb + CuCl2 -> PbCl2 + Cu}$, (ii) $\\\\ce{Na2SO4 + BaCl2 -> BaSO4 + 2NaCl}$, (iii) $\\\\ce{C + O2 -> CO2}$, (iv) $\\\\ce{CH4 + 2O2 -> CO2 + 2H2O}$",
+    "options": [
+      "(i) and (iv)",
+      "(ii) only",
+      "(i) and (ii)",
+      "(iii) and (iv)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A double displacement reaction involves the exchange of ions between two compounds. Only reaction (ii) shows this exchange between $\\\\ce{Na+}$, $\\\\ce{SO4^{2-}}$, $\\\\ce{Ba^{2+}}$, and $\\\\ce{Cl-}$.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "28",
+    "question": "What is the color of the coating formed on Silver and Copper articles due to corrosion?",
+    "options": [
+      "Silver: Black; Copper: Green",
+      "Silver: Green; Copper: Black",
+      "Silver: Brown; Copper: Green",
+      "Silver: Black; Copper: Brown"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Silver reacts with sulphur in the air to form black silver sulphide ($\\\\ce{Ag2S}$). Copper reacts with moist $\\\\ce{CO2}$ to form a green coating of basic copper carbonate.",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "29",
+    "question": "Which of the following statements about the given reaction are correct? $\\\\ce{3Fe(s) + 4H2O(g) -> Fe3O4(s) + 4H2(g)}$ (i) Iron metal is getting oxidized, (ii) Water is getting reduced, (iii) Water is acting as reducing agent, (iv) Water is acting as oxidizing agent",
+    "options": [
+      "(i), (ii) and (iii)",
+      "(iii) and (iv)",
+      "(i), (ii) and (iv)",
+      "(ii) and (iv)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Iron gains oxygen (oxidized). Water loses oxygen (reduced). Since water causes iron to oxidize, water is the oxidizing agent.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "30",
+    "question": "Identify the precipitate in the reaction between Lead Nitrate and Potassium Iodide.",
+    "options": [
+      "$\\\\ce{KNO3}$",
+      "$\\\\ce{PbI2}$",
+      "$\\\\ce{Pb(NO3)2}$",
+      "$\\\\ce{KI}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the double displacement reaction $\\\\ce{Pb(NO3)2 + 2KI -> PbI2 + 2KNO3}$, lead iodide ($\\\\ce{PbI2}$) is the insoluble yellow solid (precipitate).",
+    "difficulty": "Easy",
+    "year": "2023"
+  }
+]
