@@ -1,0 +1,422 @@
+[
+  {
+    "id": "C10_CH4_01",
+    "question": "Which of the following is the correct reason why carbon cannot form C4+ cations?",
+    "options": [
+      "It requires a large amount of energy to remove four electrons.",
+      "The nucleus with six protons cannot hold ten electrons.",
+      "Carbon is a metal and prefers to share electrons.",
+      "Carbon has a low ionization enthalpy."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Option 0 is correct because removing four electrons requires a massive amount of energy which the carbon atom cannot provide. Option 1 describes the C4- anion case. Option 2 is false as Carbon is a non-metal. Option 3 is factually incorrect.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "C10_CH4_02",
+    "question": "Catenation is the ability of an atom to form bonds with other atoms of the same element. Which element exhibits this property to the maximum extent?",
+    "options": [
+      "Silicon",
+      "Carbon",
+      "Sulphur",
+      "Nitrogen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct because Carbon-Carbon bond strength is very high and stable. Silicon (Option 0) shows catenation but the chains are reactive and unstable. Sulphur (Option 2) forms rings/chains but not to the extent of Carbon. Nitrogen (Option 3) has limited catenation.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "C10_CH4_03",
+    "question": "How many structural isomers are possible for Pentane (C5H12)?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct as Pentane has 3 isomers: n-pentane, isopentane (2-methylbutane), and neopentane (2,2-dimethylpropane). Option 0 refers to Butane. Options 2 and 3 are incorrect for this molecular formula.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "C10_CH4_04",
+    "question": "In the structure of Graphite, each carbon atom is bonded to how many other carbon atoms?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct; Graphite has a hexagonal layered structure where each C is bonded to 3 others. Option 2 describes Diamond. Options 0 and 3 do not represent the bonding environment of graphite.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "C10_CH4_05",
+    "question": "Which functional group is present in the compound CH3-CH2-CHO?",
+    "options": [
+      "Alcohol",
+      "Carboxylic Acid",
+      "Ketone",
+      "Aldehyde"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Option 3 is correct because the -CHO group represents an aldehyde (Propanal). Option 0 is -OH, Option 1 is -COOH, and Option 2 is >C=O (non-terminal).",
+    "difficulty": "Easy",
+    "year": "2025 SP"
+  },
+  {
+    "id": "C10_CH4_06",
+    "question": "Assertion: Graphite is a good conductor of electricity. Reason: It has one free valence electron per carbon atom that can move.",
+    "options": [
+      "Both Assertion and Reason are true and Reason is the correct explanation.",
+      "Both Assertion and Reason are true but Reason is not the correct explanation.",
+      "Assertion is true but Reason is false.",
+      "Assertion is false but Reason is true."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Option 0 is correct. Graphite's structure involves 3 bonds per carbon, leaving the fourth electron delocalized, which allows for electrical conductivity.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "C10_CH4_07",
+    "question": "Case Study: A student takes 2ml of ethanoic acid in a test tube and adds a pinch of sodium hydrogen carbonate. Which gas is evolved?",
+    "options": [
+      "Hydrogen",
+      "Oxygen",
+      "Carbon Dioxide",
+      "Carbon Monoxide"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Option 2 is correct because carboxylic acids react with carbonates/bicarbonates to produce CO2 gas. Option 0 is evolved when reacting with metals. Options 1 and 3 are not products of this reaction.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "C10_CH4_08",
+    "question": "Which of the following represents the correct formula for the third member of the homologous series of Alkynes?",
+    "options": [
+      "C3H4",
+      "C4H6",
+      "C5H8",
+      "C2H2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct. Alkynes start with Ethyne (C2H2, n=2). The second is Propyne (C3H4), and the third is Butyne (C4H6). Use formula CnH2n-2.",
+    "difficulty": "Hard",
+    "year": "2022"
+  },
+  {
+    "id": "C10_CH4_09",
+    "question": "Addition reactions are typically shown by which type of compounds?",
+    "options": [
+      "Saturated hydrocarbons",
+      "Unsaturated hydrocarbons",
+      "Alkanes only",
+      "Noble gases"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct because unsaturated compounds (alkenes/alkynes) have double or triple bonds that can open up to add atoms. Alkanes (Options 0 and 2) show substitution reactions. Option 3 is non-reactive.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "C10_CH4_10",
+    "question": "What is the catalyst used in the industrial hydrogenation of vegetable oils?",
+    "options": [
+      "Iron",
+      "Nickel",
+      "Copper",
+      "Magnesium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct; Nickel (or Palladium) acts as a catalyst to add hydrogen to unsaturated vegetable oils to form saturated fats (vanaspati ghee). Others are not used for this specific reaction.",
+    "difficulty": "Easy",
+    "year": "2025 SP"
+  },
+  {
+    "id": "C10_CH4_11",
+    "question": "Which of the following compounds will give a blue flame on complete combustion?",
+    "options": [
+      "CH4",
+      "C2H2",
+      "C6H6",
+      "C10H8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Option 0 is correct because Methane is a saturated hydrocarbon which burns with a clean blue flame. Options 1, 2, and 3 are unsaturated or aromatic and burn with a sooty yellow flame due to incomplete combustion.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "C10_CH4_12",
+    "question": "The first member of the Alkyne homologous series is:",
+    "options": [
+      "Methane",
+      "Ethane",
+      "Ethyne",
+      "Ethene"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Option 2 is correct. An alkyne requires a triple bond between two carbon atoms, so it must start with at least two carbons. Methane (Option 0) is an alkane. Ethene (Option 3) is an alkene.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "C10_CH4_13",
+    "question": "Assertion: Ethanol is used as a fuel in some countries. Reason: It burns with a clean flame and produces carbon dioxide and water.",
+    "options": [
+      "Both Assertion and Reason are true and Reason is the correct explanation.",
+      "Both Assertion and Reason are true but Reason is not the correct explanation.",
+      "Assertion is true but Reason is false.",
+      "Assertion is false but Reason is true."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Option 0 is correct. Ethanol is a clean-burning fuel (bio-fuel) often mixed with petrol. It undergoes complete combustion easily compared to longer-chain hydrocarbons.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "C10_CH4_14",
+    "question": "Vinegar is a solution of:",
+    "options": [
+      "50%-60% acetic acid in alcohol",
+      "5%-8% acetic acid in alcohol",
+      "5%-8% acetic acid in water",
+      "50%-60% acetic acid in water"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Option 2 is correct. Vinegar is a dilute solution of acetic acid (ethanoic acid) in water. Option 3 is incorrect because of the high concentration. Options 0 and 1 use the wrong solvent.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "C10_CH4_15",
+    "question": "The hydrophilic end of a soap molecule is:",
+    "options": [
+      "The long hydrocarbon chain",
+      "The ionic part (COONa)",
+      "The carbon-carbon double bond",
+      "The methyl group"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct. The ionic head (carboxylate group) is water-loving (hydrophilic). Option 0 is the hydrophobic tail. Options 2 and 3 do not define the polarity of soap.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "C10_CH4_16",
+    "question": "Case Study: While cooking, if the bottom of the vessel is getting blackened on the outside, it means:",
+    "options": [
+      "The food is not cooked completely.",
+      "The fuel is not burning completely.",
+      "The fuel is wet.",
+      "The fuel is burning completely."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct. Blackening (soot) indicates incomplete combustion of the fuel, often due to blocked air holes. Option 3 would mean no soot. Options 0 and 2 are irrelevant factors for soot formation.",
+    "difficulty": "Moderate",
+    "year": "2025 SP"
+  },
+  {
+    "id": "C10_CH4_17",
+    "question": "What is the IUPAC name for the compound CH3-CO-CH3?",
+    "options": [
+      "Ethanal",
+      "Propanone",
+      "Ethanone",
+      "Propanal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct. It contains 3 carbons (Prop-) and a ketone group (-one). Option 0 and 3 are aldehydes. Option 2 is impossible as a ketone requires at least 3 carbons.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "C10_CH4_18",
+    "question": "Soaps do not work effectively in hard water because they form an insoluble precipitate called:",
+    "options": [
+      "Micelle",
+      "Scum",
+      "Lather",
+      "Ester"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct. Soap reacts with Calcium and Magnesium ions in hard water to form 'scum'. Option 0 is the cleaning structure. Option 2 is what soaps produce in soft water. Option 3 is a fruit-smelling compound.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "C10_CH4_19",
+    "question": "Which of the following is an example of a substitution reaction?",
+    "options": [
+      "CH2=CH2 + H2 -> CH3-CH3",
+      "CH4 + Cl2 -> CH3Cl + HCl",
+      "CH3CH2OH -> CH2=CH2 + H2O",
+      "2Na + 2CH3CH2OH -> 2CH3CH2ONa + H2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct. Methane reacts with chlorine where a hydrogen is replaced by chlorine. Option 0 is an addition reaction. Option 2 is dehydration. Option 3 is a metal-alcohol reaction.",
+    "difficulty": "Hard",
+    "year": "2022"
+  },
+  {
+    "id": "C10_CH4_20",
+    "question": "Alkaline Potassium Permanganate (KMnO4) acts as what in the conversion of alcohols to carboxylic acids?",
+    "options": [
+      "Reducing agent",
+      "Dehydrating agent",
+      "Oxidizing agent",
+      "Catalyst"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Option 2 is correct. Alkaline KMnO4 adds oxygen to the alcohol, oxidizing it to an acid. Dehydrating agents (Option 1) like conc. H2SO4 remove water.",
+    "difficulty": "Moderate",
+    "year": "2025 SP"
+  },
+  {
+    "id": "C10_CH4_21",
+    "question": "Assertion: Covalent compounds generally have low melting and boiling points. Reason: The intermolecular forces in covalent compounds are weak.",
+    "options": [
+      "Both Assertion and Reason are true and Reason is the correct explanation.",
+      "Both Assertion and Reason are true but Reason is not the correct explanation.",
+      "Assertion is true but Reason is false.",
+      "Assertion is false but Reason is true."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Option 0 is correct. Unlike ionic bonds, the attraction between molecules in covalent substances is weak, requiring less heat to break.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "C10_CH4_22",
+    "question": "Identify the unsaturated hydrocarbon from the following list:",
+    "options": [
+      "C2H6",
+      "C3H8",
+      "C2H2",
+      "CH4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Option 2 (Ethyne) has a triple bond and is unsaturated. Options 0, 1, and 3 follow the CnH2n+2 formula for saturated alkanes.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "C10_CH4_23",
+    "question": "The functional group -COOH is characteristic of:",
+    "options": [
+      "Alcohols",
+      "Ketones",
+      "Aldehydes",
+      "Carboxylic Acids"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Option 3 is correct. -COOH is the carboxyl group. Alcohol is -OH (Option 0), Ketone is >C=O (Option 1), and Aldehyde is -CHO (Option 2).",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "C10_CH4_24",
+    "question": "Which compound is formed when Ethanol reacts with Ethanoic acid in the presence of an acid catalyst?",
+    "options": [
+      "Sodium Ethoxide",
+      "Ethyl Ethanoate",
+      "Ethene",
+      "Methane"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct. This is an esterification reaction forming an ester (Ethyl Ethanoate) which has a sweet smell. Option 0 involves Sodium metal. Option 2 is dehydration at high temp.",
+    "difficulty": "Hard",
+    "year": "2025 SP"
+  },
+  {
+    "id": "C10_CH4_25",
+    "question": "The number of covalent bonds in a molecule of Ethane (C2H6) is:",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct. There are 6 C-H bonds and 1 C-C bond, totaling 7 covalent bonds. Counting only C-H leads to Option 0, which is a common mistake.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "C10_CH4_26",
+    "question": "Which allotrope of carbon consists of 60 carbon atoms arranged in the shape of a football?",
+    "options": [
+      "Graphite",
+      "Diamond",
+      "Buckminsterfullerene",
+      "Carbon Nanotube"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Option 2 is correct. C60 is the specific spherical allotrope named after Buckminster Fuller. Options 0 and 1 have different structures (layers/tetrahedral).",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "C10_CH4_27",
+    "question": "Assertion: Diamond is the hardest known natural substance. Reason: Each carbon atom in diamond is bonded to four other carbon atoms forming a rigid 3D structure.",
+    "options": [
+      "Both Assertion and Reason are true and Reason is the correct explanation.",
+      "Both Assertion and Reason are true but Reason is not the correct explanation.",
+      "Assertion is true but Reason is false.",
+      "Assertion is false but Reason is true."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Option 0 is correct. The tetrahedral 3D arrangement of strong covalent bonds throughout the crystal gives diamond its extreme hardness.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "C10_CH4_28",
+    "question": "Detergents are better than soaps for laundry because:",
+    "options": [
+      "They are biodegradable.",
+      "They do not form scum with hard water.",
+      "They are made from natural oils.",
+      "They are less expensive."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct. Detergents use ammonium or sulphonate salts that don't precipitate with Calcium/Magnesium. Option 0 is usually false (soaps are more biodegradable).",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "C10_CH4_29",
+    "question": "What happens when ethanol is heated with concentrated sulphuric acid at 443 K?",
+    "options": [
+      "It forms Ethanoic acid.",
+      "It forms Ethene.",
+      "It forms Diethyl ether.",
+      "It forms Methane."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct. Conc. H2SO4 acts as a dehydrating agent removing a water molecule from ethanol to form ethene. Option 0 requires an oxidizing agent. Option 2 occurs at lower temperatures.",
+    "difficulty": "Hard",
+    "year": "2025 SP"
+  },
+  {
+    "id": "C10_CH4_30",
+    "question": "Two successive members of a homologous series differ in their molecular formula by:",
+    "options": [
+      "CH",
+      "CH2",
+      "CH3",
+      "C2H2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Option 1 is correct. Every subsequent member adds one carbon and two hydrogens (-CH2-) and differs by 14u in molecular mass.",
+    "difficulty": "Easy",
+    "year": "2021"
+  }
+]
