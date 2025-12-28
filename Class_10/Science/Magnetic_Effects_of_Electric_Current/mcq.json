@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1",
+    "question": "The magnetic field lines inside a long current-carrying solenoid are:",
+    "options": [
+      "Circular",
+      "Relatively parallel to each other",
+      "Diverging",
+      "Converging"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Inside a solenoid, the magnetic field lines are parallel straight lines. This indicates that the magnetic field is uniform at all points inside the solenoid.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "2",
+    "question": "According to Fleming's Left-Hand Rule, if the forefinger points in the direction of the magnetic field and the middle finger in the direction of current, the thumb points in the direction of:",
+    "options": [
+      "Induced current",
+      "Magnetic field strength",
+      "Motion or force",
+      "Electric potential"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fleming's Left-Hand Rule states that the thumb indicates the direction of the force (motion) acting on the conductor when the forefinger and middle finger are aligned with the magnetic field and current respectively.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "3",
+    "question": "What is the frequency of Alternating Current (AC) supplied in India?",
+    "options": [
+      "$60\\text{ Hz}$",
+      "$50\\text{ Hz}$",
+      "$100\\text{ Hz}$",
+      "$0\\text{ Hz}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In India, the frequency of the alternating current is $50\\text{ Hz}$, meaning it changes direction $100$ times per second.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "4",
+    "question": "Which of the following properties of a proton can change while it moves freely in a magnetic field? (More than one may be correct, choose the most relevant)",
+    "options": [
+      "Mass",
+      "Speed",
+      "Velocity",
+      "Both Speed and Velocity"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When a proton enters a magnetic field, a force acts perpendicular to its motion. This changes its direction, hence its velocity changes, even though the speed might remain constant.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "5",
+    "question": "The phenomenon of electromagnetic induction is:",
+    "options": [
+      "The process of charging a body",
+      "The process of generating magnetic field due to current",
+      "Producing induced current in a coil due to relative motion between a magnet and the coil",
+      "The process of rotating a motor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Electromagnetic induction is the production of an electromotive force (and thus current) across an electrical conductor in a changing magnetic field.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "6",
+    "question": "At the time of short circuit, the current in the circuit:",
+    "options": [
+      "Reduces substantially",
+      "Does not change",
+      "Increases heavily",
+      "Varies continuously"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A short circuit occurs when the live wire and neutral wire come in direct contact. The resistance of the circuit becomes very low, causing the current to increase heavily.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "7",
+    "question": "The essential difference between an AC generator and a DC generator is:",
+    "options": [
+      "AC generator has an electromagnet while a DC generator has permanent magnet",
+      "DC generator will generate a higher voltage",
+      "AC generator will generate a higher voltage",
+      "AC generator has slip rings while the DC generator has a commutator"
+    ],
+    "correctAnswer": 3,
+    "explanation": "AC generators use slip rings to maintain an alternating connection, while DC generators use a split-ring commutator to ensure the current flows in only one direction.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "8",
+    "question": "A device used to detect the presence of current in a circuit is:",
+    "options": [
+      "Ammeter",
+      "Voltmeter",
+      "Galvanometer",
+      "Generator"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A galvanometer is a sensitive instrument that can detect the presence of even small currents and also show its direction.",
+    "difficulty": "Easy",
+    "year": "2025"
+  },
+  {
+    "id": "9",
+    "question": "What is the color of the insulation for the 'Live' wire in a domestic circuit?",
+    "options": [
+      "Green",
+      "Black",
+      "Red",
+      "Yellow"
+    ],
+    "correctAnswer": 2,
+    "explanation": "According to standard color coding, the live wire (phase) is usually insulated with red or brown, the neutral is black or blue, and the earth is green or yellow.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "10",
+    "question": "The magnetic field lines around a straight current-carrying conductor are:",
+    "options": [
+      "Straight lines parallel to the conductor",
+      "Concentric circles centered on the wire",
+      "Parabolic lines",
+      "Elliptical lines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using the Right-Hand Thumb Rule, we can determine that the magnetic field lines form concentric circles around the straight wire.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "11",
+    "question": "An electron enters a magnetic field at right angles to it. The direction of force acting on the electron will be:",
+    "options": [
+      "To the right",
+      "To the left",
+      "Out of the page",
+      "Into the page"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Using Fleming's Left-Hand Rule, remember that the direction of current is opposite to the flow of electrons. If the electron moves right, current is left. The force is then determined to be into the page.",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "12",
+    "question": "The soft iron core inside a solenoid acts to:",
+    "options": [
+      "Decrease the magnetic field",
+      "Increase the strength of the magnetic field",
+      "Change the direction of current",
+      "Insulate the wires"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A soft iron core ($\\ce{Fe}$) has high permeability, which concentrates the magnetic flux and significantly increases the strength of the magnetic field of the solenoid.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "13",
+    "question": "A rectangular coil of copper wire is rotated in a magnetic field. The direction of the induced current changes once in each:",
+    "options": [
+      "Two revolutions",
+      "One revolution",
+      "Half revolution",
+      "One-fourth revolution"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In an AC generator, the induced current changes direction every half rotation ($180^\\circ$) as the sides of the coil move up and then down through the magnetic field.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "14",
+    "question": "Overloading of a domestic circuit can be prevented by using:",
+    "options": [
+      "Thick wires",
+      "A fuse of proper rating",
+      "An ammeter",
+      "A voltmeter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A fuse is a safety device that breaks the circuit if the current exceeds a safe limit, thus preventing damage from overloading or short circuits.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "15",
+    "question": "Which rule is used to find the direction of induced current?",
+    "options": [
+      "Fleming's Left-Hand Rule",
+      "Fleming's Right-Hand Rule",
+      "Right-Hand Thumb Rule",
+      "Maxwell's Corkscrew Rule"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fleming's Right-Hand Rule is specifically used to determine the direction of induced current when a conductor moves in a magnetic field.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "16",
+    "question": "The strength of the magnetic field produced by a circular loop at its center is:",
+    "options": [
+      "Directly proportional to the radius",
+      "Inversely proportional to the current",
+      "Directly proportional to the current",
+      "Independent of the current"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The magnetic field $B$ at the center of a circular coil is directly proportional to the current $I$ ($B \\propto I$) and inversely proportional to the radius $r$.",
+    "difficulty": "Hard",
+    "year": "2025"
+  },
+  {
+    "id": "17",
+    "question": "The Earth wire is connected to:",
+    "options": [
+      "The neutral terminal",
+      "The live terminal",
+      "A metal plate buried deep in the earth",
+      "The switch of the appliance"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The earth wire is a safety measure that provides a low-resistance path for leakage current to flow into the ground, protecting users from electric shocks.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "18",
+    "question": "The potential difference between the live and neutral wires in India is:",
+    "options": [
+      "$110\\text{ V}$",
+      "$220\\text{ V}$",
+      "$440\\text{ V}$",
+      "$50\\text{ V}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standard domestic power supply in India is $220\\text{ V}$ with a frequency of $50\\text{ Hz}$.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "19",
+    "question": "Which of the following does NOT affect the magnitude of force on a current-carrying conductor in a magnetic field?",
+    "options": [
+      "Magnitude of current",
+      "Strength of magnetic field",
+      "Length of the conductor",
+      "Color of the wire"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The force is given by $F = BIL \\sin \\theta$. It depends on current ($I$), magnetic field ($B$), and length ($L$). Color has no physical effect on the force.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "20",
+    "question": "If the direction of the current in a vertical wire is upwards, the direction of the magnetic field lines as seen from above is:",
+    "options": [
+      "Clockwise",
+      "Anticlockwise",
+      "Straight lines",
+      "Vertical"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to the Right-Hand Thumb Rule, if the thumb points up (current), the fingers curl in the anticlockwise direction.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "21",
+    "question": "The most important safety method used for protecting home appliances from short circuiting or overloading is:",
+    "options": [
+      "Earthing",
+      "Use of fuse",
+      "Use of stabilizer",
+      "Use of electric meter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The fuse is the primary safety device that protects the circuit by melting and breaking the connection during excessive current flow.",
+    "difficulty": "Easy",
+    "year": "2025"
+  },
+  {
+    "id": "22",
+    "question": "Magnetic field lines:",
+    "options": [
+      "Intersect at the poles",
+      "Intersect at the equator",
+      "Never intersect each other",
+      "Are always straight"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Magnetic field lines never intersect because if they did, a compass needle would have to point in two different directions at the point of intersection, which is impossible.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "23",
+    "question": "In an electric motor, the function of the commutator is to:",
+    "options": [
+      "Reverse the direction of current in the coil",
+      "Increase the speed of the motor",
+      "Reverse the magnetic field",
+      "Maintain a constant current"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The split-ring commutator reverses the direction of current in the coil every half rotation to ensure the motor continues to rotate in the same direction.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "24",
+    "question": "A permanent magnet is usually made of:",
+    "options": [
+      "Soft iron",
+      "Steel",
+      "Copper",
+      "Aluminum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Steel is used for permanent magnets because it has high retentivity, meaning it retains its magnetism even after the external magnetizing field is removed.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "25",
+    "question": "The direction of magnetic field lines outside a bar magnet is from:",
+    "options": [
+      "South pole to North pole",
+      "North pole to South pole",
+      "Center to poles",
+      "Random directions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "By convention, magnetic field lines emerge from the North pole and enter at the South pole outside the magnet.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "26",
+    "question": "Who discovered the magnetic effect of electric current?",
+    "options": [
+      "Hans Christian Oersted",
+      "Michael Faraday",
+      "Fleming",
+      "Ampere"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In 1820, Oersted accidentally discovered that a compass needle deflected when placed near a wire carrying electric current.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "27",
+    "question": "An alpha particle (positively charged) is projected towards west and gets deflected towards north by a magnetic field. The direction of the magnetic field is:",
+    "options": [
+      "Towards south",
+      "Towards east",
+      "Downward",
+      "Upward"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Using Fleming's Left-Hand Rule: Current is West (direction of positive charge), Force is North. The Forefinger (field) will point Upwards.",
+    "difficulty": "Hard",
+    "year": "2023"
+  },
+  {
+    "id": "28",
+    "question": "The magnetic field produced by a given current-carrying wire at a point:",
+    "options": [
+      "Increases with distance",
+      "Decreases with distance",
+      "Remains same",
+      "Is zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The magnetic field strength $B$ is inversely proportional to the distance $r$ from the wire ($B \\propto 1/r$).",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "29",
+    "question": "Commercial electric motors do NOT use:",
+    "options": [
+      "An electromagnet to rotate the armature",
+      "Large number of turns of conducting wire in the coil",
+      "A permanent magnet to rotate the armature",
+      "A soft iron core on which the coil is wound"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Commercial motors use electromagnets instead of permanent magnets to produce a much stronger magnetic field.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "30",
+    "question": "The force experienced by a current-carrying conductor in a magnetic field is maximum when the angle between them is:",
+    "options": [
+      "$0^\\circ$",
+      "$45^\\circ$",
+      "$90^\\circ$",
+      "$180^\\circ$"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The force $F = BIL \\sin \\theta$ is maximum when $\\sin \\theta = 1$, which occurs at $\\theta = 90^\\circ$ (perpendicular).",
+    "difficulty": "Moderate",
+    "year": "2022"
+  }
+]
