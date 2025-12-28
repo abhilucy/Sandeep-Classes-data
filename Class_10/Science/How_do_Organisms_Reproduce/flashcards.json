@@ -1,0 +1,226 @@
+here{
+  "topic": "How Do Organisms Reproduce",
+  "class": "Class 10 Science",
+  "total_flashcards": 70,
+  "flashcards": [
+    {
+      "section": "Basics of Reproduction and DNA",
+      "front": "Is reproduction necessary for the survival of an individual organism?",
+      "back": "No, reproduction is not essential to maintain the life of an individual."
+    },
+    {
+      "section": "Basics of Reproduction and DNA",
+      "front": "Why do we notice organisms if reproduction is not essential for survival?",
+      "back": "Because reproduction produces large numbers of individuals of the same species."
+    },
+    {
+      "section": "Basics of Reproduction and DNA",
+      "front": "What determines similarity between parents and offspring?",
+      "back": "Similar body designs due to similar DNA blueprints."
+    },
+    {
+      "section": "Basics of Reproduction and DNA",
+      "front": "Where is hereditary information stored?",
+      "back": "In DNA molecules present in chromosomes inside the nucleus."
+    },
+    {
+      "section": "Basics of Reproduction and DNA",
+      "front": "What is the role of DNA in a cell?",
+      "back": "DNA provides information for making proteins."
+    },
+    {
+      "section": "Basics of Reproduction and DNA",
+      "front": "What happens if DNA information changes?",
+      "back": "Different proteins are formed, leading to altered body designs."
+    },
+    {
+      "section": "Basics of Reproduction and DNA",
+      "front": "What is the most basic event in reproduction?",
+      "back": "Creation of a copy of DNA."
+    },
+    {
+      "section": "Basics of Reproduction and DNA",
+      "front": "Why is cellular apparatus needed along with DNA copying?",
+      "back": "Because DNA alone cannot maintain life without organised cell structures."
+    },
+    {
+      "section": "Basics of Reproduction and DNA",
+      "front": "Are DNA copies exactly identical?",
+      "back": "No, slight variations occur because DNA copying is not perfectly accurate."
+    },
+    {
+      "section": "Basics of Reproduction and DNA",
+      "front": "What forms the basis of evolution?",
+      "back": "Variations produced during DNA copying."
+    },
+
+    {
+      "section": "Asexual Reproduction",
+      "front": "What is asexual reproduction?",
+      "back": "Reproduction involving a single parent producing genetically similar offspring."
+    },
+    {
+      "section": "Asexual Reproduction",
+      "front": "What is binary fission?",
+      "back": "Division of a unicellular organism into two identical individuals."
+    },
+    {
+      "section": "Asexual Reproduction",
+      "front": "How does binary fission differ in Amoeba and Leishmania?",
+      "back": "Amoeba divides in any plane, while Leishmania divides in a definite orientation."
+    },
+    {
+      "section": "Asexual Reproduction",
+      "front": "What is multiple fission?",
+      "back": "Division of one cell into many daughter cells at the same time."
+    },
+    {
+      "section": "Asexual Reproduction",
+      "front": "How does Spirogyra reproduce?",
+      "back": "By fragmentation."
+    },
+    {
+      "section": "Asexual Reproduction",
+      "front": "Why can’t complex organisms reproduce by simple cell division?",
+      "back": "Because their cells are specialised and organised into tissues and organs."
+    },
+    {
+      "section": "Asexual Reproduction",
+      "front": "What is regeneration?",
+      "back": "Ability to form a complete organism from body parts."
+    },
+    {
+      "section": "Asexual Reproduction",
+      "front": "Which organisms show regeneration?",
+      "back": "Hydra and Planaria."
+    },
+    {
+      "section": "Asexual Reproduction",
+      "front": "What is budding?",
+      "back": "Formation of a new individual as an outgrowth on the parent body."
+    },
+    {
+      "section": "Asexual Reproduction",
+      "front": "What is vegetative propagation?",
+      "back": "Reproduction using vegetative parts like root, stem or leaves."
+    },
+
+    {
+      "section": "Sexual Reproduction in Plants",
+      "front": "Why is sexual reproduction important?",
+      "back": "It produces variation by combining DNA from two parents."
+    },
+    {
+      "section": "Sexual Reproduction in Plants",
+      "front": "What is meiosis?",
+      "back": "A cell division that produces gametes with half the chromosome number."
+    },
+    {
+      "section": "Sexual Reproduction in Plants",
+      "front": "What are gametes?",
+      "back": "Reproductive cells that fuse during fertilisation."
+    },
+    {
+      "section": "Sexual Reproduction in Plants",
+      "front": "What are the male and female reproductive parts of a flower?",
+      "back": "Stamen (male) and pistil (female)."
+    },
+    {
+      "section": "Sexual Reproduction in Plants",
+      "front": "What is pollination?",
+      "back": "Transfer of pollen grains from anther to stigma."
+    },
+    {
+      "section": "Sexual Reproduction in Plants",
+      "front": "What is fertilisation?",
+      "back": "Fusion of male and female gametes."
+    },
+    {
+      "section": "Sexual Reproduction in Plants",
+      "front": "What does the ovule develop into after fertilisation?",
+      "back": "Seed."
+    },
+    {
+      "section": "Sexual Reproduction in Plants",
+      "front": "What does the ovary develop into?",
+      "back": "Fruit."
+    },
+
+    {
+      "section": "Human Reproduction",
+      "front": "What is puberty?",
+      "back": "The stage when reproductive organs become mature."
+    },
+    {
+      "section": "Human Reproduction",
+      "front": "Where are sperms produced?",
+      "back": "In testes."
+    },
+    {
+      "section": "Human Reproduction",
+      "front": "Why are testes located outside the body?",
+      "back": "To maintain lower temperature required for sperm formation."
+    },
+    {
+      "section": "Human Reproduction",
+      "front": "What hormone is produced by testes?",
+      "back": "Testosterone."
+    },
+    {
+      "section": "Human Reproduction",
+      "front": "Where are eggs produced?",
+      "back": "In ovaries."
+    },
+    {
+      "section": "Human Reproduction",
+      "front": "Where does fertilisation occur in humans?",
+      "back": "In the fallopian tube."
+    },
+    {
+      "section": "Human Reproduction",
+      "front": "Where does embryo develop?",
+      "back": "In the uterus."
+    },
+    {
+      "section": "Human Reproduction",
+      "front": "What is placenta?",
+      "back": "A tissue that provides nutrients and oxygen to the embryo."
+    },
+
+    {
+      "section": "Reproductive Health",
+      "front": "Name two bacterial STDs.",
+      "back": "Gonorrhoea and syphilis."
+    },
+    {
+      "section": "Reproductive Health",
+      "front": "Name two viral STDs.",
+      "back": "HIV-AIDS and genital warts."
+    },
+    {
+      "section": "Reproductive Health",
+      "front": "How can STDs be prevented?",
+      "back": "By using condoms and maintaining hygiene."
+    },
+    {
+      "section": "Reproductive Health",
+      "front": "What is the function of oral contraceptive pills?",
+      "back": "They prevent ovulation by altering hormone levels."
+    },
+    {
+      "section": "Reproductive Health",
+      "front": "What is the function of Copper-T?",
+      "back": "It prevents pregnancy when placed in the uterus."
+    },
+    {
+      "section": "Reproductive Health",
+      "front": "What is vasectomy?",
+      "back": "Surgical method of contraception in males."
+    },
+    {
+      "section": "Reproductive Health",
+      "front": "What is tubectomy?",
+      "back": "Surgical method of contraception in females."
+    }
+  ]
+}
