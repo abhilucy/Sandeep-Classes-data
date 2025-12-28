@@ -1,0 +1,497 @@
+    "options": [
+      "Roasting",
+      "Thermite reaction",
+      "Calcination",
+      "Electrolysis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Thermite reaction involves the reaction of Iron(III) oxide with Aluminum powder. The heat produced is so high that the iron is obtained in a molten state, which is used to weld tracks.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "MNM19",
+    "question": "Assertion (A): Magnesium chloride is an ionic compound. Reason (R): Metals and non-metals react by mutual sharing of electrons.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Assertion is true. However, the Reason is false because metals and non-metals react by the transfer of electrons from metal to non-metal to form ionic compounds. Sharing occurs in covalent bonding.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "MNM20",
+    "question": "Assertion (A): Zinc is used in the galvanization of iron. Reason (R): Zinc is more reactive than iron and hence gets oxidized in preference to iron.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zinc acts as a sacrificial layer. Because it is more reactive than iron, it reacts with atmospheric oxygen and moisture first, preventing the iron underneath from rusting.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "MNM21",
+    "question": "Assertion (A): Highly reactive metals are obtained by electrolysis of their molten ores. Reason (R): These metals have more affinity for oxygen than carbon.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Metals like Na, Ca, and Al are so reactive that carbon cannot reduce their oxides. This is because these metals have a higher affinity for oxygen than carbon does. Therefore, electrolytic reduction is used.",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "MNM22",
+    "question": "Assertion (A): Platinum, Gold, and Silver are used to make jewelry. Reason (R): These metals are highly reactive.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Assertion is true, but the Reason is false. These metals are used for jewelry because they are the least reactive (noble metals) and do not corrode or lose their lustre easily.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "MNM23",
+    "question": "Assertion (A): Nitrogen is a non-metal. Reason (R): Nitrogen forms basic oxides.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+
+[
+  {
+    "id": "MNM01",
+    "question": "Which of the following metals reacts only with steam and not with hot or cold water?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Magnesium",
+      "Iron"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Iron (Fe) does not react with cold or hot water but reacts with steam to produce Iron(II,III) oxide and hydrogen gas. Sodium and Calcium react with cold water, while Magnesium reacts with hot water.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "MNM02",
+    "question": "An element 'X' is soft and can be cut with a knife. It is very reactive to air and cannot be kept open in air. It reacts vigorously with water. Identify the element.",
+    "options": [
+      "Magnesium",
+      "Sodium",
+      "Phosphorus",
+      "Calcium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sodium and Potassium are soft alkali metals that are highly reactive. They react vigorously with air and water, often catching fire, which is why they are stored in kerosene.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "MNM03",
+    "question": "Which of the following pairs will give displacement reactions?",
+    "options": [
+      "NaCl solution and Copper metal",
+      "MgCl2 solution and Aluminum metal",
+      "FeSO4 solution and Silver metal",
+      "AgNO3 solution and Copper metal"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Copper is more reactive than Silver, so it can displace Silver from Silver Nitrate solution. In other options, the metal is less reactive than the metal in the salt solution.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "MNM04",
+    "question": "Which of the following oxide(s) of iron would be obtained on prolonged reaction of iron with steam?",
+    "options": [
+      "FeO",
+      "Fe2O3",
+      "Fe3O4",
+      "Fe2O3 and Fe3O4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When iron reacts with steam for a long time, it forms magnetic iron oxide (Fe3O4), also known as Iron(II,III) oxide.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "MNM05",
+    "question": "What happens when calcium is treated with water? (i) It does not react with water. (ii) It reacts violently with water. (iii) It reacts less violently with water. (iv) Bubbles of hydrogen gas formed stick to the surface of calcium.",
+    "options": [
+      "(i) and (iv)",
+      "(ii) and (iii)",
+      "(i) and (ii)",
+      "(iii) and (iv)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Calcium reacts less violently with water compared to sodium. The heat evolved is not sufficient for hydrogen to catch fire. Instead, the metal starts floating because bubbles of hydrogen gas stick to its surface.",
+    "difficulty": "Hard",
+    "year": "2025"
+  },
+  {
+    "id": "MNM06",
+    "question": "Which of the following is an amphoteric oxide?",
+    "options": [
+      "Na2O",
+      "SO2",
+      "Al2O3",
+      "MgO"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Amphoteric oxides like Al2O3 and ZnO react with both acids and bases to produce salt and water.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "MNM07",
+    "question": "During electrolytic refining of zinc, it gets:",
+    "options": [
+      "Deposited on cathode",
+      "Deposited on anode",
+      "Deposited on cathode as well as anode",
+      "Remains in the solution"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In electrolytic refining, the pure metal is always deposited at the cathode (negative electrode), while the impure metal is made the anode (positive electrode).",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "MNM08",
+    "question": "Which of the following non-metals is a liquid at room temperature?",
+    "options": [
+      "Carbon",
+      "Bromine",
+      "Phosphorus",
+      "Sulfur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bromine is the only non-metal that exists as a liquid at room temperature. Mercury is a metal that is liquid at room temperature.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "MNM09",
+    "question": "The process in which a carbonate ore is heated strongly in the absence of air to convert it into metal oxide is called:",
+    "options": [
+      "Roasting",
+      "Reduction",
+      "Calcination",
+      "Smelting"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Calcination is the process of heating carbonate ores in limited supply or absence of air. Roasting is used for sulphide ores in the presence of excess air.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "MNM10",
+    "question": "Alloys are homogeneous mixtures of a metal with a metal or non-metal. Which among the following alloys contains a non-metal as one of its constituents?",
+    "options": [
+      "Brass",
+      "Bronze",
+      "Amalgam",
+      "Steel"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Steel is an alloy of iron and a small amount of carbon (a non-metal). Brass (Cu+Zn), Bronze (Cu+Sn), and Amalgam (Metal+Hg) consist only of metals.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "MNM11",
+    "question": "Which of the following properties is NOT generally exhibited by ionic compounds?",
+    "options": [
+      "Solubility in water",
+      "Electrical conductivity in solid state",
+      "High melting and boiling points",
+      "Electrical conductivity in molten state"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ionic compounds do not conduct electricity in the solid state because the ions are held in fixed positions by strong electrostatic forces. They conduct electricity only in molten or aqueous states.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "MNM12",
+    "question": "The electronic configurations of three elements X, Y and Z are X-2,8; Y-2,8,7 and Z-2,8,2. Which of the following is correct?",
+    "options": [
+      "X is a metal",
+      "Y is a metal",
+      "Z is a non-metal",
+      "Y is a non-metal and Z is a metal"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Element X (2,8) is a noble gas (Neon). Element Y (2,8,7) has 7 valence electrons, so it is a non-metal (Chlorine). Element Z (2,8,2) has 2 valence electrons, so it is a metal (Magnesium).",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "MNM13",
+    "question": "Which of the following metals is obtained by the electrolysis of their molten chlorides?",
+    "options": [
+      "Na and Mg",
+      "Cu and Fe",
+      "Fe and Al",
+      "Cu and Ag"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Highly reactive metals like Sodium (Na), Magnesium (Mg), and Calcium (Ca) are extracted by the electrolysis of their molten chlorides because they cannot be reduced by carbon.",
+    "difficulty": "Hard",
+    "year": "2022"
+  },
+  {
+    "id": "MNM14",
+    "question": "Iodine is a:",
+    "options": [
+      "Lustrous metal",
+      "Lustrous non-metal",
+      "Non-lustrous metal",
+      "Non-lustrous non-metal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non-metals are generally dull, but Iodine is an exception as it is a non-metal that possesses a natural metallic lustre.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "MNM15",
+    "question": "Reaction between X and Y forms compound Z. X loses electron and Y gains electron. Which of the following properties is not shown by Z?",
+    "options": [
+      "Has high melting point",
+      "Has low melting point",
+      "Conducts electricity in molten state",
+      "Occurs as solid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Compound Z is an ionic compound because it is formed by the transfer of electrons. Ionic compounds have high melting points due to strong inter-ionic attraction.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "MNM16",
+    "question": "Galvanization is a method of protecting iron from rusting by coating it with a thin layer of:",
+    "options": [
+      "Gallium",
+      "Aluminum",
+      "Zinc",
+      "Silver"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Galvanization involves coating iron or steel with Zinc. Even if the zinc coating is scratched, the iron remains protected because zinc is more reactive and oxidizes preferentially.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "MNM17",
+    "question": "Which of the following metals exist in their native state in nature? (i) Cu (ii) Au (iii) Zn (iv) Ag",
+    "options": [
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "(ii) and (iv)",
+      "(iii) and (iv)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Metals at the bottom of the reactivity series, such as Gold (Au) and Silver (Ag), are least reactive and are often found in the free or native state. Copper and Silver are also found in combined states as sulfide or oxide ores.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "MNM18",
+    "question": "The highly exothermic metal displacement reaction used to join railway tracks is called:",
+    "options": [
+      "Roasting",
+      "Thermite reaction",
+      "Calcination",
+      "Electrolysis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Thermite reaction involves the reaction of Iron(III) oxide with Aluminum powder. The heat produced is so high that the iron is obtained in a molten state, which is used to weld tracks.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "MNM19",
+    "question": "Assertion (A): Magnesium chloride is an ionic compound. Reason (R): Metals and non-metals react by mutual sharing of electrons.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Assertion is true. However, the Reason is false because metals and non-metals react by the transfer of electrons from metal to non-metal to form ionic compounds. Sharing occurs in covalent bonding.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "MNM20",
+    "question": "Assertion (A): Zinc is used in the galvanization of iron. Reason (R): Zinc is more reactive than iron and hence gets oxidized in preference to iron.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zinc acts as a sacrificial layer. Because it is more reactive than iron, it reacts with atmospheric oxygen and moisture first, preventing the iron underneath from rusting.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "MNM21",
+    "question": "Assertion (A): Highly reactive metals are obtained by electrolysis of their molten ores. Reason (R): These metals have more affinity for oxygen than carbon.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Metals like Na, Ca, and Al are so reactive that carbon cannot reduce their oxides. This is because these metals have a higher affinity for oxygen than carbon does. Therefore, electrolytic reduction is used.",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "MNM22",
+    "question": "Assertion (A): Platinum, Gold, and Silver are used to make jewelry. Reason (R): These metals are highly reactive.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Assertion is true, but the Reason is false. These metals are used for jewelry because they are the least reactive (noble metals) and do not corrode or lose their lustre easily.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "MNM23",
+    "question": "Assertion (A): Nitrogen is a non-metal. Reason (R): Nitrogen forms basic oxides.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Assertion is true, but Reason is false. Non-metals like Nitrogen generally form acidic or neutral oxides (e.g., NO2 is acidic). Basic oxides are characteristic of metals.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "MNM24",
+    "question": "Assertion (A): Hydrogen gas is not evolved when a metal reacts with nitric acid. Reason (R): Nitric acid is a strong oxidizing agent.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nitric acid (HNO3) oxidizes the H2 produced to water and itself gets reduced to nitrogen oxides. However, Magnesium and Manganese are exceptions and react with very dilute HNO3 to evolve H2.",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "MNM25",
+    "question": "Case Study: A student took four test tubes I, II, III and IV containing Aluminum sulfate, Copper sulfate, Ferrous sulfate and Zinc sulfate solutions respectively. He added Iron strips to all. In which test tube will a reaction occur?",
+    "options": [
+      "I and II",
+      "Only II",
+      "II and IV",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to the reactivity series, Iron is more reactive than Copper but less reactive than Aluminum and Zinc. Thus, Iron will only displace Copper from Copper sulfate (II).",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "MNM26",
+    "question": "Case Study: An ore 'A' on heating in air gives sulfur dioxide gas. 'A' is most likely a:",
+    "options": [
+      "Carbonate ore",
+      "Sulfide ore",
+      "Oxide ore",
+      "Chloride ore"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sulfide ores (like Zinc Blende or Cinnabar) release sulfur dioxide gas when heated in the presence of excess oxygen (Roasting).",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "MNM27",
+    "question": "Case Study: To prevent the corrosion of the bottom of a ship, blocks of Magnesium are often attached to the steel (iron) hull. This is because:",
+    "options": [
+      "Magnesium is cheaper than iron",
+      "Magnesium is more reactive than iron",
+      "Magnesium makes the ship lighter",
+      "Magnesium prevents the ship from sinking"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is cathodic protection. Magnesium is more reactive than iron; it undergoes corrosion instead of the iron hull, acting as a sacrificial anode.",
+    "difficulty": "Hard",
+    "year": "2025"
+  },
+  {
+    "id": "MNM28",
+    "question": "Case Study: A metal M is found in the form of its carbonate ore. Which sequence of steps is best to extract M?",
+    "options": [
+      "Calcination followed by reduction with carbon",
+      "Roasting followed by reduction with carbon",
+      "Electrolysis of the carbonate ore",
+      "Direct reduction of the carbonate with carbon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Carbonate ores are first converted to oxides via Calcination (heating in absence of air). The resulting metal oxide is then reduced to the metal using a reducing agent like carbon (coke).",
+    "difficulty": "Hard",
+    "year": "2022"
+  },
+  {
+    "id": "MNM29",
+    "question": "Case Study: Aqua regia is a freshly prepared mixture of concentrated acids used to dissolve gold. What is the composition and ratio?",
+    "options": [
+      "HCl and HNO3 in 1:3 ratio",
+      "HCl and HNO3 in 3:1 ratio",
+      "H2SO4 and HCl in 3:1 ratio",
+      "HNO3 and H2SO4 in 1:3 ratio"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aqua regia (Royal Water) is a mixture of concentrated Hydrochloric acid (HCl) and concentrated Nitric acid (HNO3) in the ratio of 3:1.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "MNM30",
+    "question": "Case Study: Which of the following metals is used in the extraction of chromium from chromic oxide?",
+    "options": [
+      "Magnesium",
+      "Carbon",
+      "Aluminum",
+      "Copper"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aluminum is used as a reducing agent in the extraction of metals like Chromium and Manganese from their oxides because it is more reactive and the reaction is highly exothermic.",
+    "difficulty": "Hard",
+    "year": "2024"
+  }
+]
