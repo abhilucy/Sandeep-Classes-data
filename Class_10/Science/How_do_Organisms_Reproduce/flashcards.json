@@ -1,4 +1,4 @@
-here{
+{
   "topic": "How Do Organisms Reproduce",
   "class": "Class 10 Science",
   "total_flashcards": 70,
@@ -30,7 +30,7 @@ here{
     },
     {
       "section": "Basics of Reproduction and DNA",
-      "front": "What happens if DNA information changes?",
+      "front": "What happens if DNA information changes?
       "back": "Different proteins are formed, leading to altered body designs."
     },
     {
