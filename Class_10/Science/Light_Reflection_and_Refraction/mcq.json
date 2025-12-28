@@ -1,0 +1,423 @@
+
+[
+  {
+    "id": "sci_10_lrr_01",
+    "question": "An object is placed at a distance of $10\\text{ cm}$ from a convex mirror of focal length $15\\text{ cm}$. Find the position of the image.",
+    "options": [
+      "$v = +6\\text{ cm}$",
+      "$v = -6\\text{ cm}$",
+      "$v = +30\\text{ cm}$",
+      "$v = -30\\text{ cm}$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using mirror formula: $\\frac{1}{f} = \\frac{1}{v} + \\frac{1}{u}$. Here, $u = -10\\text{ cm}$ and $f = +15\\text{ cm}$ (convex mirror). $\\frac{1}{15} = \\frac{1}{v} + \\frac{1}{-10} \\implies \\frac{1}{v} = \\frac{1}{15} + \\frac{1}{10} = \\frac{2+3}{30} = \\frac{5}{30}$. Thus, $v = 6\\text{ cm}$.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "sci_10_lrr_02",
+    "question": "The refractive index of transparent medium is greater than one because:",
+    "options": [
+      "Speed of light in vacuum < Speed of light in medium",
+      "Speed of light in vacuum > Speed of light in medium",
+      "Speed of light in vacuum = Speed of light in medium",
+      "Frequency of light changes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Refractive index $n = \\frac{c}{v}$, where $c$ is the speed of light in vacuum and $v$ is the speed in the medium. Since $c$ is the maximum possible speed ($3 \\times 10^8 \\text{ m/s}$), $n$ is always greater than 1 for any material medium.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "sci_10_lrr_03",
+    "question": "A concave mirror produces a magnification of $+4$. The object is placed:",
+    "options": [
+      "At the focus",
+      "Between pole and focus",
+      "Between focus and centre of curvature",
+      "Beyond centre of curvature"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Positive magnification ($m > 0$) for a mirror indicates a virtual and erect image. In a concave mirror, a virtual, erect, and magnified image is formed only when the object is placed between the pole ($P$) and the focus ($F$).",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "sci_10_lrr_04",
+    "question": "Which of the following can make a parallel beam of light when light from a point source is incident on it?",
+    "options": [
+      "Concave mirror as well as convex lens",
+      "Convex mirror as well as concave lens",
+      "Two plane mirrors placed at $90^{\\circ}$ to each other",
+      "Concave mirror as well as concave lens"
+    ],
+    "correctAnswer": 0,
+    "explanation": "When a point source is placed at the focus of a concave mirror or a convex lens, the reflected/refracted rays emerge parallel to the principal axis.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "sci_10_lrr_05",
+    "question": "A ray of light passes from a medium $A$ to medium $B$. No bending of light occurs if the ray of light hits the boundary of medium $B$ at an angle of:",
+    "options": [
+      "$0^{\\circ}$ with the normal",
+      "$45^{\\circ}$ with the normal",
+      "$90^{\\circ}$ with the normal",
+      "$60^{\\circ}$ with the normal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to Snell's law, $n_1 \\sin i = n_2 \\sin r$. If the angle of incidence $i = 0^{\\circ}$ (normal incidence), then $\\sin 0 = 0$, which implies $r = 0^{\\circ}$. The ray passes undeviated.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "sci_10_lrr_06",
+    "question": "A convex lens has a focal length of $20\\text{ cm}$. At what distance from the lens should the object be placed so that it forms a real and inverted image of the same size?",
+    "options": [
+      "$20\\text{ cm}$",
+      "$40\\text{ cm}$",
+      "$10\\text{ cm}$",
+      "$60\\text{ cm}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For a convex lens, a real, inverted image of the same size as the object is formed when the object is placed at $2F$. Given $f = 20\\text{ cm}$, $2F = 2 \\times 20 = 40\\text{ cm}$.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "sci_10_lrr_07",
+    "question": "The power of a lens is $-2.5\\text{ D}$. Its focal length and type are:",
+    "options": [
+      "$-40\\text{ cm}$, convex lens",
+      "$+40\\text{ cm}$, concave lens",
+      "$-40\\text{ cm}$, concave lens",
+      "$-25\\text{ cm}$, concave lens"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Power $P = \\frac{1}{f(\\text{in m})}$. Given $P = -2.5\\text{ D}$, $f = \\frac{1}{-2.5} = -0.4\\text{ m} = -40\\text{ cm}$. A negative focal length indicates a concave (diverging) lens.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "sci_10_lrr_08",
+    "question": "The refractive index of glass is $1.50$ and the speed of light in air is $3 \\times 10^8 \\text{ m/s}$. The speed of light in glass is:",
+    "options": [
+      "$2 \\times 10^8 \\text{ m/s}$",
+      "$1.5 \\times 10^8 \\text{ m/s}$",
+      "$4.5 \\times 10^8 \\text{ m/s}$",
+      "$2.5 \\times 10^8 \\text{ m/s}$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "$n = \\frac{c}{v} \\implies v = \\frac{c}{n}$. Substituting the values: $v = \\frac{3 \\times 10^8}{1.5} = 2 \\times 10^8 \\text{ m/s}$.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "sci_10_lrr_09",
+    "question": "Where should an object be placed in front of a convex lens to get a real image of the size of the object?",
+    "options": [
+      "At the principal focus of the lens",
+      "At twice the focal length",
+      "At infinity",
+      "Between the optical centre of the lens and its principal focus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When an object is at $2F_1$, the image is formed at $2F_2$ on the other side, being real, inverted, and the same size.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "sci_10_lrr_10",
+    "question": "The radius of curvature of a spherical mirror is $20\\text{ cm}$. Its focal length is:",
+    "options": [
+      "$10\\text{ cm}$",
+      "$20\\text{ cm}$",
+      "$40\\text{ cm}$",
+      "$5\\text{ cm}$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For spherical mirrors, the focal length $f$ is half of the radius of curvature $R$. $f = \\frac{R}{2} = \\frac{20}{2} = 10\\text{ cm}$.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "sci_10_lrr_11",
+    "question": "Light travels fastest in:",
+    "options": [
+      "Water",
+      "Glass",
+      "Diamond",
+      "Vacuum"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Light travels fastest in vacuum where there are no particles to obstruct its path, at a speed of approximately $3 \\times 10^8 \\text{ m/s}$.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "sci_10_lrr_12",
+    "question": "A ray of light is travelling from a rarer medium to a denser medium. While entering the denser medium at the point of incidence, it:",
+    "options": [
+      "Goes straight into the second medium",
+      "Bends towards the normal",
+      "Bends away from the normal",
+      "Does not enter at all"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When light travels from an optically rarer medium to a denser medium, its speed decreases, causing it to bend towards the normal.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "sci_10_lrr_13",
+    "question": "If the magnification produced by a lens has a negative value, the image will be:",
+    "options": [
+      "Virtual and erect",
+      "Real and erect",
+      "Real and inverted",
+      "Virtual and inverted"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Magnification $m = \\frac{h'}{h}$. A negative $m$ implies that the image height $h'$ is negative (downwards), which means the image is inverted. Real images are always inverted.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "sci_10_lrr_14",
+    "question": "A full length image of a distant tall building can definitely be seen by using:",
+    "options": [
+      "A concave mirror",
+      "A convex mirror",
+      "A plane mirror",
+      "Both concave as well as plane mirror"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Convex mirrors have a wider field of view and always form diminished, virtual, and erect images of distant objects, allowing a full view of large structures.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "sci_10_lrr_15",
+    "question": "The laws of reflection hold true for:",
+    "options": [
+      "Plane mirrors only",
+      "Concave mirrors only",
+      "Convex mirrors only",
+      "All reflecting surfaces"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The laws of reflection ($∠i = ∠r$ and the coplanar nature of rays) apply to all types of reflecting surfaces, whether plane or curved (spherical).",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "sci_10_lrr_16",
+    "question": "In the case of refraction through a rectangular glass slab, the emergent ray is:",
+    "options": [
+      "Perpendicular to the incident ray",
+      "Parallel to the incident ray",
+      "Inclined at $45^{\\circ}$ to the incident ray",
+      "Along the same line as the incident ray"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a parallel-sided glass slab, the extent of bending at the first surface is equal and opposite to that at the second surface. Thus, the emergent ray is parallel to the incident ray but laterally shifted.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "sci_10_lrr_17",
+    "question": "An object at a distance of $30\\text{ cm}$ from a concave mirror gets its image at the same point. The focal length of the mirror is:",
+    "options": [
+      "$-30\\text{ cm}$",
+      "$30\\text{ cm}$",
+      "$-15\\text{ cm}$",
+      "$+15\\text{ cm}$"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In a concave mirror, the object and image coincide at the centre of curvature ($C$). Thus $R = 30\\text{ cm}$. Since $f = \\frac{R}{2}$, $f = 15\\text{ cm}$. By sign convention, $f$ for a concave mirror is negative, so $f = -15\\text{ cm}$.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "sci_10_lrr_18",
+    "question": "The SI unit of power of a lens is:",
+    "options": [
+      "Metre",
+      "Centimetre",
+      "Dioptre",
+      "Watt"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The power of a lens is measured in Dioptres ($D$), where $1\\text{ D} = 1\\text{ m}^{-1}$.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "sci_10_lrr_19",
+    "question": "Which of the following mirrors is used by a dentist to examine a small cavity?",
+    "options": [
+      "Convex mirror",
+      "Plane mirror",
+      "Concave mirror",
+      "Combination of convex and concave mirror"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A concave mirror produces an enlarged, virtual, and erect image when the object (tooth) is placed very close to it (within the focal length).",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "sci_10_lrr_20",
+    "question": "If the power of a lens is $+0.1\\text{ D}$, its focal length is:",
+    "options": [
+      "$1\\text{ m}$",
+      "$10\\text{ m}$",
+      "$10\\text{ cm}$",
+      "$-10\\text{ m}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$f = \\frac{1}{P} = \\frac{1}{0.1} = 10\\text{ metres}$.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "sci_10_lrr_21",
+    "question": "According to the New Cartesian Sign Convention, the focal length of a convex lens is _____ and that of a concave lens is _____.",
+    "options": [
+      "Positive, Negative",
+      "Negative, Positive",
+      "Positive, Positive",
+      "Negative, Negative"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By convention, the focal length of a converging (convex) lens is positive, and the focal length of a diverging (concave) lens is negative.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "sci_10_lrr_22",
+    "question": "Magnification produced by a plane mirror is:",
+    "options": [
+      "Less than $1$",
+      "Greater than $1$",
+      "Zero",
+      "Equal to $+1$"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A plane mirror always forms an image of the same size as the object ($h' = h$) and is erect (positive height). Thus $m = \\frac{h'}{h} = +1$.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "sci_10_lrr_23",
+    "question": "A ray of light enters from medium $n_1$ to medium $n_2$. If $n_2 > n_1$, the angle of refraction $r$ will be:",
+    "options": [
+      "Greater than $i$",
+      "Less than $i$",
+      "Equal to $i$",
+      "Zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using Snell's Law $n_1 \\sin i = n_2 \\sin r$. Since $n_2 > n_1$, it follows that $\\sin r < \\sin i$, hence $r < i$. Light bends towards the normal.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "sci_10_lrr_24",
+    "question": "The point on the principal axis where all parallel rays meet after reflection in a concave mirror is called:",
+    "options": [
+      "Pole",
+      "Centre of curvature",
+      "Principal focus",
+      "Optical centre"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The principal focus is defined as the point on the principal axis where rays initially parallel to the axis converge after reflection.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "sci_10_lrr_25",
+    "question": "Two lenses of power $+2.5\\text{ D}$ and $-1.5\\text{ D}$ are placed in contact. The total power of the combination is:",
+    "options": [
+      "$+4.0\\text{ D}$",
+      "$-1.0\\text{ D}$",
+      "$+1.0\\text{ D}$",
+      "$+0.5\\text{ D}$"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The net power $P$ of a combination of lenses in contact is the algebraic sum of individual powers: $P = P_1 + P_2 = 2.5 + (-1.5) = +1.0\\text{ D}$.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "sci_10_lrr_26",
+    "question": "An object is placed $20\\text{ cm}$ in front of a plane mirror. The distance between the object and its image is:",
+    "options": [
+      "$20\\text{ cm}$",
+      "$40\\text{ cm}$",
+      "$10\\text{ cm}$",
+      "$0\\text{ cm}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a plane mirror, the image is formed at the same distance behind the mirror as the object is in front of it ($v = -u$). Distance $= |u| + |v| = 20 + 20 = 40\\text{ cm}$.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "sci_10_lrr_27",
+    "question": "Which of the following materials cannot be used to make a lens?",
+    "options": [
+      "Water",
+      "Glass",
+      "Plastic",
+      "Clay"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A lens must be made of a transparent material that can refract light. Clay is opaque and does not allow light to pass through.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "sci_10_lrr_28",
+    "question": "The image formed by a concave lens is always:",
+    "options": [
+      "Virtual, erect and diminished",
+      "Real, inverted and enlarged",
+      "Virtual, erect and enlarged",
+      "Real, inverted and diminished"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A concave (diverging) lens always forms a virtual, erect, and diminished image, regardless of the position of the object.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "sci_10_lrr_29",
+    "question": "The angle of incidence for a ray of light passing through the optical centre of a lens is:",
+    "options": [
+      "$0^{\\circ}$",
+      "$90^{\\circ}$",
+      "$45^{\\circ}$",
+      "Undefined"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A ray of light passing through the optical centre of a thin lens goes undeviated, implying it effectively strikes the surface normally or at a point where the surfaces are parallel.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "sci_10_lrr_30",
+    "question": "If the focal length of a spherical mirror is $f = -20\\text{ cm}$, the mirror is:",
+    "options": [
+      "Convex",
+      "Concave",
+      "Plane",
+      "None of these"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to sign conventions, the focal length of a concave mirror is negative because its focus is in front of the reflecting surface.",
+    "difficulty": "Easy",
+    "year": "2022"
+  }
+]
