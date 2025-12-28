@@ -1,0 +1,422 @@
+[
+  {
+    "id": "LP-001",
+    "question": "Which of the following equations correctly represents the process of photosynthesis?",
+    "options": [
+      "$ce{6CO2 + 6H2O -> C6H12O6 + 6O2}$",
+      "$ce{6CO2 + 12H2O ->[Sunlight][Chlorophyll] C6H12O6 + 6O2 + 6H2O}$",
+      "$ce{C6H12O6 + 6O2 -> 6CO2 + 6H2O + Energy}$",
+      "$ce{6CO2 + 12H2O -> C6H12O6 + 6O2}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to NCERT, the balanced chemical equation for photosynthesis is $ce{6CO2 + 12H2O ->[Sunlight][Chlorophyll] C6H12O6 + 6O2 + 6H2O}$, where 12 molecules of water are used to produce 6 molecules of water along with glucose and oxygen.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "LP-002",
+    "question": "In the human digestive system, what happens if the secretion of gastric glands does not contain $ce{HCl}$?",
+    "options": [
+      "Proteins will not be digested as pepsin remains inactive.",
+      "Starch will not be converted into maltose.",
+      "Fats will not be emulsified by bile.",
+      "The medium will become too alkaline for trypsin."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gastric glands secrete $ce{HCl}$ which creates an acidic medium ($pH$ about 1.8) necessary for the activation of the enzyme pepsinogen into active pepsin. Without $ce{HCl}$, protein digestion in the stomach would be severely impaired.",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "LP-003",
+    "question": "During vigorous muscular exercise, the buildup of which substance causes muscle cramps?",
+    "options": [
+      "Ethanol",
+      "$ce{CO2}$",
+      "Lactic acid",
+      "Pyruvate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When there is a lack of oxygen in our muscle cells, pyruvate is converted into lactic acid ($ce{C3H6O3}$), a three-carbon molecule. This buildup of lactic acid in the muscles during sudden activity causes cramps.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "LP-004",
+    "question": "Which chamber of the human heart has the thickest muscular walls to pump blood to all parts of the body?",
+    "options": [
+      "Right Atrium",
+      "Left Atrium",
+      "Right Ventricle",
+      "Left Ventricle"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The left ventricle has the thickest muscular walls because it has to pump oxygenated blood to the entire body through the aorta, requiring high pressure.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "LP-005",
+    "question": "In which part of the nephron does the selective reabsorption of useful substances like glucose, amino acids, and salts take place?",
+    "options": [
+      "Glomerulus",
+      "Bowman's capsule",
+      "Tubular part",
+      "Collecting duct"
+    ],
+    "correctAnswer": 2,
+    "explanation": "While the initial filtrate contains many useful substances, they are selectively reabsorbed in the tubular part of the nephron as the urine flows along the tube, depending on the body's needs.",
+    "difficulty": "Moderate",
+    "year": "2025 (Sample)"
+  },
+  {
+    "id": "LP-006",
+    "question": "What is the correct sequence of anaerobic respiration in yeast?",
+    "options": [
+      "Glucose -> Pyruvate -> Ethanol + $ce{CO2}$",
+      "Glucose -> Pyruvate -> Lactic Acid",
+      "Glucose -> Pyruvate -> $ce{CO2}$ + $ce{H2O}$",
+      "Glucose -> Pyruvate -> Ethanol + $ce{H2O}$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In yeast, during fermentation, the breakdown of pyruvate ($ce{C3H4O3}$) occurs in the absence of oxygen to produce ethanol ($ce{C2H5OH}$), carbon dioxide, and energy.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "LP-007",
+    "question": "Which component of blood is responsible for the clotting of blood at the site of injury?",
+    "options": [
+      "Red Blood Cells",
+      "White Blood Cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Platelets (thrombocytes) circulate around the body and help in the clotting of blood at the site of injury, preventing excessive loss of blood and maintenance of pressure.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "LP-008",
+    "question": "The opening and closing of the stomatal pore is a function of:",
+    "options": [
+      "Chloroplasts",
+      "Guard cells",
+      "Lenticels",
+      "Stomatal aperture"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The opening and closing of the pore is a function of the guard cells. The guard cells swell when water flows into them, causing the stomatal pore to open. Similarly, the pore closes if the guard cells shrink.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "LP-009",
+    "question": "Which of the following is the correct path of urine in the human body?",
+    "options": [
+      "Kidney -> Ureter -> Urethra -> Urinary bladder",
+      "Kidney -> Urinary bladder -> Ureter -> Urethra",
+      "Kidney -> Ureter -> Urinary bladder -> Urethra",
+      "Urinary bladder -> Kidney -> Ureter -> Urethra"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until it is released through the urethra.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "LP-010",
+    "question": "If salivary amylase is lacking in the saliva, which of the following events in the mouth cavity will be affected?",
+    "options": [
+      "Proteins breaking down into amino acids.",
+      "Starch breaking down into sugars.",
+      "Fats breaking down into fatty acids and glycerol.",
+      "Absorption of vitamins."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Saliva contains an enzyme called salivary amylase that breaks down starch, which is a complex molecule, to give simple sugar (maltose).",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "LP-011",
+    "question": "The exit of unabsorbed food material is regulated by:",
+    "options": [
+      "Anal sphincter",
+      "Liver",
+      "Small intestine",
+      "Villi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The exit of waste material (faeces) from the body is regulated by the anal sphincter at the end of the digestive tract.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "LP-012",
+    "question": "The breakdown of pyruvate to give carbon dioxide, water and energy takes place in:",
+    "options": [
+      "Cytoplasm",
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The second step of aerobic respiration, where the three-carbon pyruvate molecule is broken down into three molecules of $ce{CO2}$ and $ce{H2O}$, takes place in the mitochondria.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "LP-013",
+    "question": "Why do terrestrial organisms have an advantage over aquatic organisms regarding respiration?",
+    "options": [
+      "They can breathe inside water.",
+      "The amount of dissolved oxygen is fairly low compared to the amount of oxygen in the air.",
+      "Terrestrial organisms do not need oxygen.",
+      "Aquatic organisms have lungs."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Since the amount of dissolved oxygen in water is fairly low compared to the amount of oxygen in the air, the rate of breathing in aquatic organisms is much faster than that seen in terrestrial organisms.",
+    "difficulty": "Hard",
+    "year": "2023"
+  },
+  {
+    "id": "LP-014",
+    "question": "Which of the following helps in the upward movement of water and dissolved minerals from roots to leaves in tall plants?",
+    "options": [
+      "Translocation",
+      "Transpiration pull",
+      "Photosynthesis",
+      "Active transport only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The evaporation of water molecules from the cells of a leaf (transpiration) creates a suction (transpiration pull) which pulls water from the xylem cells of roots to the leaves.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "LP-015",
+    "question": "Bile juice does not contain any enzyme, yet it is essential for digestion. Why?",
+    "options": [
+      "It makes the food acidic.",
+      "It emulsifies fats and provides an alkaline medium for pancreatic enzymes.",
+      "It helps in protein digestion.",
+      "It contains salivary amylase."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bile juice from the liver makes the acidic food coming from the stomach alkaline so that pancreatic enzymes can act on it. Bile salts also break large fat globules into smaller globules (emulsification).",
+    "difficulty": "Hard",
+    "year": "2025 (Sample)"
+  },
+  {
+    "id": "LP-016",
+    "question": "What is the function of the 'Valves' present in the heart and veins?",
+    "options": [
+      "To increase blood pressure.",
+      "To ensure that blood does not flow backwards.",
+      "To oxygenate the blood.",
+      "To separate the atria from ventricles."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Valves ensure that blood does not flow backwards when the atria or ventricles contract or when blood moves against gravity in veins.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "LP-017",
+    "question": "In plants, the carbohydrates which are not used immediately are stored in the form of:",
+    "options": [
+      "Glycogen",
+      "Starch",
+      "Glucose",
+      "Cellulose"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In plants, the carbohydrates which are not used immediately are stored in the form of starch, which serves as the internal energy reserve. In animals, it is stored as glycogen.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "LP-018",
+    "question": "Which vessel carries oxygenated blood from the lungs to the heart?",
+    "options": [
+      "Pulmonary Artery",
+      "Pulmonary Vein",
+      "Aorta",
+      "Vena Cava"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pulmonary vein is an exception to the general rule of veins; it carries oxygenated blood from the lungs back to the left atrium of the heart.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "LP-019",
+    "question": "The blood pressure is measured by an instrument called:",
+    "options": [
+      "Barometer",
+      "Sphygmomanometer",
+      "Stethoscope",
+      "Potentiometer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Blood pressure is the force that blood exerts against the wall of a vessel, and it is measured using a sphygmomanometer.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "LP-020",
+    "question": "The internal (cellular) energy reserve in autotrophs is:",
+    "options": [
+      "Glycogen",
+      "Protein",
+      "Starch",
+      "Fatty acid"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Autotrophs (plants) store the excess glucose produced during photosynthesis in the form of starch to be used as and when required.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "LP-021",
+    "question": "Which part of the alimentary canal receives bile from the liver?",
+    "options": [
+      "Stomach",
+      "Small Intestine",
+      "Large Intestine",
+      "Oesophagus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The small intestine is the site of the complete digestion of carbohydrates, proteins, and fats. It receives the secretions of the liver (bile) and pancreas for this purpose.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "LP-022",
+    "question": "What is the role of the 'Alveoli' in the lungs?",
+    "options": [
+      "To filter the air.",
+      "To provide a surface where the exchange of gases can take place.",
+      "To warm the air.",
+      "To produce mucus."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Within the lungs, the passage divides into smaller tubes which finally terminate in balloon-like structures called alveoli, providing a large surface area for the exchange of $ce{O2}$ and $ce{CO2}$.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "LP-023",
+    "question": "Transport of soluble products of photosynthesis is called:",
+    "options": [
+      "Transpiration",
+      "Translocation",
+      "Respiration",
+      "Evaporation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The transport of soluble products of photosynthesis (sucrose/amino acids) through the phloem is called translocation.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "LP-024",
+    "question": "Artificial kidney is a device to remove nitrogenous waste products from the blood through:",
+    "options": [
+      "Osmosis",
+      "Dialysis",
+      "Diffusion",
+      "Active Transport"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hemodialysis is the process of using an artificial kidney to remove nitrogenous waste products from the blood of a patient with kidney failure.",
+    "difficulty": "Moderate",
+    "year": "2025 (Sample)"
+  },
+  {
+    "id": "LP-025",
+    "question": "Large intestine in humans mainly carries out:",
+    "options": [
+      "Absorption of water",
+      "Digestion of fats",
+      "Digestion of carbohydrates",
+      "Absorption of amino acids"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The unabsorbed food is sent into the large intestine where its wall absorbs more water from this material, and the rest is removed from the body via the anus.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "LP-026",
+    "question": "Which of the following is the first enzyme to mix with food in the digestive tract?",
+    "options": [
+      "Pepsin",
+      "Cellulase",
+      "Amylase",
+      "Trypsin"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Salivary amylase is the first enzyme to mix with food in the mouth, initiating the breakdown of starch into simpler sugars.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "LP-027",
+    "question": "Double circulation refers to:",
+    "options": [
+      "Blood moving twice through the heart in one cycle.",
+      "Blood moving through two hearts.",
+      "Blood moving through the heart and then the lungs only.",
+      "Two types of blood flowing in the same vessel."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In humans, blood goes through the heart twice during each cycle (systemic and pulmonary circulation). This is known as double circulation.",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "LP-028",
+    "question": "The tracheal rings are made of cartilage to:",
+    "options": [
+      "Help in gas exchange.",
+      "Prevent the collapse of the air passage.",
+      "Increase the surface area.",
+      "Filter the dust particles."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rings of cartilage are present in the throat/trachea to ensure that the air-passage does not collapse even when there is little air in it.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "LP-029",
+    "question": "Lymph is similar to blood plasma but:",
+    "options": [
+      "Colorless and contains less protein.",
+      "Red and contains more protein.",
+      "Colorless and contains more protein.",
+      "Red and contains less protein."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lymph or tissue fluid is another medium of transport. It is similar to the plasma of blood but is colorless and contains less protein than blood plasma.",
+    "difficulty": "Hard",
+    "year": "2023"
+  },
+  {
+    "id": "LP-030",
+    "question": "Which of the following is an example of an organism that uses parasitic nutritive strategy?",
+    "options": [
+      "Amoeba",
+      "Mushroom",
+      "Cuscuta (Amarbel)",
+      "Yeast"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Some organisms derive nutrition from plants or animals without killing them. This parasitic nutritive strategy is used by a wide variety of organisms like Cuscuta (Amarbel), ticks, lice, leeches, and tapeworms.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  }
+]
