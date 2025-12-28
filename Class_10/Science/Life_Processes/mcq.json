@@ -1,667 +1,245 @@
+
 [
   {
-    "id": "LP01",
-    "question": "The balanced chemical equation for photosynthesis is represented as:",
+    "id": "LP_01",
+    "question": "Which of the following chemical equations represents the process of photosynthesis correctly?",
     "options": [
-      "$6CO_2 + 6H_2O \\rightarrow C_6H_{12}O_6 + 6O_2$ "
+      "$6CO_2 + 12H_2O \\xrightarrow{Chlorophyll, Sunlight} C_6H_{12}O_6 + 6O_2 + 6H_2O$",
+      "6$CO_2$ + 6$H_2O$ + Sunlight $\\rightarrow$ $C_6H_{12}O_6$ + $O_2$",
+      "6$CO_2$ + 12$H_2O$ $\\rightarrow$ $C_6H_{12}O_6$ + 6$O_2$ + 6$H_2O$",
+      "6$CO_2$ + 10$H_2O$ $\\rightarrow$ $C_6H_{12}O_6$ + 6$O_2$"
     ],
     "correctAnswer": 0,
-    "explanation": "The process of photosynthesis involves the conversion of carbon dioxide and water into glucose and oxygen in the presence of sunlight and chlorophyll. The standard balanced equation is $6CO_2 + 6H_2O \\rightarrow C_6H_{12}O_6 + 6O_2$.",
-    "difficulty": "Moderate",
-    "year": "2021"
-  },
-  {
-    "id": "LP02",
-    "question": "The opening and closing of the stomatal pore depends upon:",
-    "options": [
-      "Oxygen",
-      "Temperature",
-      "Water in guard cells",
-      "Concentration of $CO_2$"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The guard cells swell when water flows into them, causing the stomatal pore to open. Similarly, the pore closes if the guard cells shrink due to loss of water. This is a turgor-driven mechanism.",
-    "difficulty": "Moderate",
-    "year": "2022"
-  },
-  {
-    "id": "LP03",
-    "question": "In the process of respiration, the breakdown of pyruvate to give carbon dioxide, water, and energy takes place in:",
-    "options": [
-      "Cytoplasm",
-      "Mitochondria",
-      "Chloroplast",
-      "Nucleus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "While the breakdown of glucose into pyruvate occurs in the cytoplasm (glycolysis), the further breakdown of pyruvate into $CO_2$, water, and energy (ATP) occurs in the mitochondria during aerobic respiration.",
-    "difficulty": "Moderate",
-    "year": "2023"
-  },
-  {
-    "id": "LP04",
-    "question": "Which of the following is the correct sequence of air passage during inhalation?",
-    "options": [
-      "Nostrils $\\rightarrow$ Larynx $\\rightarrow$ Pharynx $\\rightarrow$ Trachea $\\rightarrow$ Lungs",
-      "Nasal passage $\\rightarrow$ Trachea $\\rightarrow$ Pharynx $\\rightarrow$ Larynx $\\rightarrow$ Alveoli",
-      "Nostrils $\\rightarrow$ Pharynx $\\rightarrow$ Larynx $\\rightarrow$ Trachea $\\rightarrow$ Alveoli",
-      "Nasal passage $\\rightarrow$ Larynx $\\rightarrow$ Trachea $\\rightarrow$ Pharynx $\\rightarrow$ Alveoli"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Inhalation follows the path: Nostrils $\\rightarrow$ Nasal cavity $\\rightarrow$ Pharynx $\\rightarrow$ Larynx $\\rightarrow$ Trachea $\\rightarrow$ Bronchi $\\rightarrow$ Bronchioles $\\rightarrow$ Alveoli (where gas exchange occurs).",
-    "difficulty": "Hard",
-    "year": "2024"
-  },
-  {
-    "id": "LP05",
-    "question": "The internal (cellular) energy reserve in autotrophs is:",
-    "options": [
-      "Glycogen",
-      "Protein",
-      "Starch",
-      "Fatty acid"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Plants (autotrophs) store excess carbohydrates produced during photosynthesis in the form of starch. In contrast, animals store energy as glycogen.",
-    "difficulty": "Easy",
-    "year": "2021"
-  },
-  {
-    "id": "LP06",
-    "question": "What prevents the backflow of blood inside the heart during contraction?",
-    "options": [
-      "Valves in heart",
-      "Thick muscular walls of ventricles",
-      "Thin walls of atria",
-      "All of the above"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Valves ensure that blood does not flow backwards when the atria or ventricles contract. The tricuspid, bicuspid, and semilunar valves are critical for unidirectional flow.",
-    "difficulty": "Easy",
-    "year": "2024"
-  },
-  {
-    "id": "LP07",
-    "question": "Which enzyme is responsible for the digestion of proteins in the small intestine?",
-    "options": [
-      "Pepsin",
-      "Salivary amylase",
-      "Trypsin",
-      "Lipase"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Pepsin digests proteins in the stomach (acidic medium), while Trypsin, secreted by the pancreas, continues protein digestion in the small intestine (alkaline medium).",
-    "difficulty": "Moderate",
-    "year": "2025 (Sample)"
-  },
-  {
-    "id": "LP08",
-    "question": "The movement of food in the phloem is called:",
-    "options": [
-      "Transpiration",
-      "Evaporation",
-      "Translocation",
-      "Respiration"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Translocation is the transport of soluble products of photosynthesis (sucrose, amino acids) through the phloem from leaves to other parts of the plant.",
-    "difficulty": "Easy",
-    "year": "2022"
-  },
-  {
-    "id": "LP09",
-    "question": "A blood vessel which pumps the blood from the heart to the entire body:",
-    "options": [
-      "Artery",
-      "Vein",
-      "Capillary",
-      "Haemoglobin"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Arteries carry blood away from the heart to various organs at high pressure, which is why they have thick, elastic walls.",
-    "difficulty": "Easy",
-    "year": "2023"
-  },
-  {
-    "id": "LP10",
-    "question": "The filtration units of kidneys are called:",
-    "options": [
-      "Ureter",
-      "Urethra",
-      "Neurons",
-      "Nephrons"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Each kidney contains a large number of filtration units called nephrons, packed close together. They remove nitrogenous wastes like urea from the blood.",
-    "difficulty": "Easy",
-    "year": "2024"
-  },
-  {
-    "id": "LP11",
-    "question": "Which of the following events does NOT occur in photosynthesis?",
-    "options": [
-      "Absorption of light energy by chlorophyll",
-      "Conversion of light energy to chemical energy",
-      "Oxidation of carbon to carbon dioxide",
-      "Reduction of carbon dioxide to carbohydrates"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Photosynthesis involves the reduction of $CO_2$ to carbohydrates, not the oxidation of carbon. Water is oxidized to oxygen during the process.",
-    "difficulty": "Hard",
-    "year": "2021"
-  },
-  {
-    "id": "LP12",
-    "question": "The amount of energy released during the hydrolysis of ATP to ADP and inorganic phosphate is approximately:",
-    "options": [
-      "$15.5\\ kJ/mol$ "
-    ],
-    "correctAnswer": 1,
-    "explanation": "When the terminal phosphate linkage in ATP is broken using water, energy equivalent to $30.5\\ kJ/mol$ is released.",
-    "difficulty": "Hard",
-    "year": "2023"
-  },
-  {
-    "id": "LP13",
-    "question": "If salivary amylase is lacking in the saliva, which of the following events in the mouth cavity will be affected?",
-    "options": [
-      "Proteins breaking down into amino acids",
-      "Starch breaking down into sugars",
-      "Fats breaking down into fatty acids and glycerol",
-      "Absorption of vitamins"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Salivary amylase acts on starch (a complex carbohydrate) and breaks it down into simpler sugars like maltose.",
-    "difficulty": "Moderate",
-    "year": "2025 (Sample)"
-  },
-  {
-    "id": "LP14",
-    "question": "The oxygen-rich blood from the lungs comes to the _____ of the heart.",
-    "options": [
-      "Left atrium",
-      "Right atrium",
-      "Left ventricle",
-      "Right ventricle"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Oxygenated blood from the lungs enters the left atrium via the pulmonary vein. It then moves to the left ventricle to be pumped to the rest of the body.",
+    "explanation": "The standard balanced equation for photosynthesis involves 6 molecules of $CO_2$ and 12 molecules of $H_2O$ to produce glucose, water, and oxygen in the presence of sunlight and chlorophyll.",
     "difficulty": "Moderate",
     "year": "2024"
   },
   {
-    "id": "LP15",
-    "question": "In which part of the nephron does the selective reabsorption of useful substances like glucose and amino acids occur?",
-    "options": [
-      "Bowman's capsule",
-      "Glomerulus",
-      "Tubule",
-      "Collecting duct"
-[
-  {
-    "id": "LP01",
-    "question": "The balanced chemical equation for photosynthesis is represented as:",
-    "options": [
-      "$6CO_2 + 6H_2O \\rightarrow C_6H_{12}O_6 + 6O_2$ "
-    ],
-    "correctAnswer": 0,
-    "explanation": "The process of photosynthesis involves the conversion of carbon dioxide and water into glucose and oxygen in the presence of sunlight and chlorophyll. The standard balanced equation is $6CO_2 + 6H_2O \\rightarrow C_6H_{12}O_6 + 6O_2$.",
-    "difficulty": "Moderate",
-    "year": "2021"
-  },
-  {
-    "id": "LP02",
-    "question": "The opening and closing of the stomatal pore depends upon:",
-    "options": [
-      "Oxygen",
-      "Temperature",
-      "Water in guard cells",
-      "Concentration of $CO_2$"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The guard cells swell when water flows into them, causing the stomatal pore to open. Similarly, the pore closes if the guard cells shrink due to loss of water. This is a turgor-driven mechanism.",
-    "difficulty": "Moderate",
-    "year": "2022"
-  },
-  {
-    "id": "LP03",
-    "question": "In the process of respiration, the breakdown of pyruvate to give carbon dioxide, water, and energy takes place in:",
-    "options": [
-      "Cytoplasm",
-      "Mitochondria",
-      "Chloroplast",
-      "Nucleus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "While the breakdown of glucose into pyruvate occurs in the cytoplasm (glycolysis), the further breakdown of pyruvate into $CO_2$, water, and energy (ATP) occurs in the mitochondria during aerobic respiration.",
-    "difficulty": "Moderate",
-    "year": "2023"
-  },
-  {
-    "id": "LP04",
-    "question": "Which of the following is the correct sequence of air passage during inhalation?",
-    "options": [
-      "Nostrils $\\rightarrow$ Larynx $\\rightarrow$ Pharynx $\\rightarrow$ Trachea $\\rightarrow$ Lungs",
-      "Nasal passage $\\rightarrow$ Trachea $\\rightarrow$ Pharynx $\\rightarrow$ Larynx $\\rightarrow$ Alveoli",
-      "Nostrils $\\rightarrow$ Pharynx $\\rightarrow$ Larynx $\\rightarrow$ Trachea $\\rightarrow$ Alveoli",
-      "Nasal passage $\\rightarrow$ Larynx $\\rightarrow$ Trachea $\\rightarrow$ Pharynx $\\rightarrow$ Alveoli"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Inhalation follows the path: Nostrils $\\rightarrow$ Nasal cavity $\\rightarrow$ Pharynx $\\rightarrow$ Larynx $\\rightarrow$ Trachea $\\rightarrow$ Bronchi $\\rightarrow$ Bronchioles $\\rightarrow$ Alveoli (where gas exchange occurs).",
-    "difficulty": "Hard",
-    "year": "2024"
-  },
-  {
-    "id": "LP05",
-    "question": "The internal (cellular) energy reserve in autotrophs is:",
-    "options": [
-      "Glycogen",
-      "Protein",
-      "Starch",
-      "Fatty acid"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Plants (autotrophs) store excess carbohydrates produced during photosynthesis in the form of starch. In contrast, animals store energy as glycogen.",
-    "difficulty": "Easy",
-    "year": "2021"
-  },
-  {
-    "id": "LP06",
-    "question": "What prevents the backflow of blood inside the heart during contraction?",
-    "options": [
-      "Valves in heart",
-      "Thick muscular walls of ventricles",
-      "Thin walls of atria",
-      "All of the above"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Valves ensure that blood does not flow backwards when the atria or ventricles contract. The tricuspid, bicuspid, and semilunar valves are critical for unidirectional flow.",
-    "difficulty": "Easy",
-    "year": "2024"
-  },
-  {
-    "id": "LP07",
-    "question": "Which enzyme is responsible for the digestion of proteins in the small intestine?",
-    "options": [
-      "Pepsin",
-      "Salivary amylase",
-      "Trypsin",
-      "Lipase"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Pepsin digests proteins in the stomach (acidic medium), while Trypsin, secreted by the pancreas, continues protein digestion in the small intestine (alkaline medium).",
-    "difficulty": "Moderate",
-    "year": "2025 (Sample)"
-  },
-  {
-    "id": "LP08",
-    "question": "The movement of food in the phloem is called:",
-    "options": [
-      "Transpiration",
-      "Evaporation",
-      "Translocation",
-      "Respiration"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Translocation is the transport of soluble products of photosynthesis (sucrose, amino acids) through the phloem from leaves to other parts of the plant.",
-    "difficulty": "Easy",
-    "year": "2022"
-  },
-  {
-    "id": "LP09",
-    "question": "A blood vessel which pumps the blood from the heart to the entire body:",
-    "options": [
-      "Artery",
-      "Vein",
-      "Capillary",
-      "Haemoglobin"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Arteries carry blood away from the heart to various organs at high pressure, which is why they have thick, elastic walls.",
-    "difficulty": "Easy",
-    "year": "2023"
-  },
-  {
-    "id": "LP10",
-    "question": "The filtration units of kidneys are called:",
-    "options": [
-      "Ureter",
-      "Urethra",
-      "Neurons",
-      "Nephrons"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Each kidney contains a large number of filtration units called nephrons, packed close together. They remove nitrogenous wastes like urea from the blood.",
-    "difficulty": "Easy",
-    "year": "2024"
-  },
-  {
-    "id": "LP11",
-    "question": "Which of the following events does NOT occur in photosynthesis?",
-    "options": [
-      "Absorption of light energy by chlorophyll",
-      "Conversion of light energy to chemical energy",
-      "Oxidation of carbon to carbon dioxide",
-      "Reduction of carbon dioxide to carbohydrates"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Photosynthesis involves the reduction of $CO_2$ to carbohydrates, not the oxidation of carbon. Water is oxidized to oxygen during the process.",
-    "difficulty": "Hard",
-    "year": "2021"
-  },
-  {
-    "id": "LP12",
-    "question": "The amount of energy released during the hydrolysis of ATP to ADP and inorganic phosphate is approximately:",
-    "options": [
-      "$15.5\\ kJ/mol$ "
-    ],
-    "correctAnswer": 1,
-    "explanation": "When the terminal phosphate linkage in ATP is broken using water, energy equivalent to $30.5\\ kJ/mol$ is released.",
-    "difficulty": "Hard",
-    "year": "2023"
-  },
-  {
-    "id": "LP13",
-    "question": "If salivary amylase is lacking in the saliva, which of the following events in the mouth cavity will be affected?",
-    "options": [
-      "Proteins breaking down into amino acids",
-      "Starch breaking down into sugars",
-      "Fats breaking down into fatty acids and glycerol",
-      "Absorption of vitamins"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Salivary amylase acts on starch (a complex carbohydrate) and breaks it down into simpler sugars like maltose.",
-    "difficulty": "Moderate",
-    "year": "2025 (Sample)"
-  },
-  {
-    "id": "LP14",
-    "question": "The oxygen-rich blood from the lungs comes to the _____ of the heart.",
-    "options": [
-      "Left atrium",
-      "Right atrium",
-      "Left ventricle",
-      "Right ventricle"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Oxygenated blood from the lungs enters the left atrium via the pulmonary vein. It then moves to the left ventricle to be pumped to the rest of the body.",
-    "difficulty": "Moderate",
-    "year": "2024"
-  },
-  {
-    "id": "LP15",
-    "question": "In which part of the nephron does the selective reabsorption of useful substances like glucose and amino acids occur?",
-    "options": [
-      "Bowman's capsule",
-      "Glomerulus",
-      "Tubule",
-      "Collecting duct"
-    ],
-    "correctAnswer": 2,
-    "explanation": "As the filtrate flows along the tubular part of the nephron, useful substances such as glucose, amino acids, salts, and a major amount of water are selectively reabsorbed into the surrounding capillaries.",
-    "difficulty": "Hard",
-    "year": "2022"
-  },
-  {
-    "id": "LP16",
-    "question": "What is the common feature between the gaseous exchange in the alveoli of lungs and the villi of the small intestine?",
-    "options": [
-      "Both are locations for digestion",
-      "Both have thin walls and a large surface area for transport",
-      "Both are controlled by the diaphragm",
-      "Both filter urea from blood"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Both alveoli and villi are specialized for maximizing efficiency. Alveoli provide a large surface area for $O_2$ and $CO_2$ exchange, and villi provide a large surface area for nutrient absorption. Both are richly supplied with blood vessels.",
-    "difficulty": "Hard",
-    "year": "2024"
-  },
-  {
-    "id": "LP17",
-    "question": "During vigorous physical exercise, the buildup of _______ in our muscles causes cramps.",
-    "options": [
-      "Ethanol",
-      "Carbon dioxide",
-      "Lactic acid",
-      "Pyruvate"
-    ],
-    "correctAnswer": 2,
-    "explanation": "When there is a lack of oxygen in muscle cells, pyruvate is converted into lactic acid (a three-carbon molecule). This buildup causes muscle fatigue and cramps.",
-    "difficulty": "Moderate",
-    "year": "2023"
-  },
-  {
-    "id": "LP18",
-    "question": "Which of the following is correct regarding the blood pressure of a healthy adult?",
-    "options": [
-      "Systolic: $120\\ mmHg$, Diastolic: $80\\ mmHg$",
-      "Systolic: $80\\ mmHg$, Diastolic: $120\\ mmHg$",
-      "Systolic: $100\\ mmHg$, Diastolic: $60\\ mmHg$",
-      "Systolic: $140\\ mmHg$, Diastolic: $90\\ mmHg$"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The normal systolic pressure (contraction) is about $120\\ mmHg$ and diastolic pressure (relaxation) is $80\\ mmHg$.",
-    "difficulty": "Easy",
-    "year": "2021"
-  },
-  {
-    "id": "LP19",
-    "question": "Which component of blood is responsible for clotting at the site of injury?",
-    "options": [
-      "RBCs",
-      "WBCs",
-      "Platelets",
-      "Plasma"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Platelets circulate in the blood and help in clotting (coagulation) at the site of an injury to prevent excessive blood loss.",
-    "difficulty": "Easy",
-    "year": "2022"
-  },
-  {
-    "id": "LP20",
-    "question": "The xylem in plants is responsible for:",
-    "options": [
-      "Transport of water",
-      "Transport of food",
-      "Transport of amino acids",
-      "Transport of oxygen"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The xylem tissues (vessels and tracheids) transport water and dissolved minerals from the roots to the leaves.",
-    "difficulty": "Easy",
-    "year": "2021"
-  },
-  {
-    "id": "LP21",
-    "question": "The site of complete digestion of carbohydrates, proteins, and fats is:",
-    "options": [
-      "Stomach",
-      "Large Intestine",
-      "Small Intestine",
-      "Liver"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The small intestine is the site of complete digestion where secretions from the liver (bile) and pancreas (pancreatic juice) act on the food.",
-    "difficulty": "Moderate",
-    "year": "2023"
-  },
-  {
-    "id": "LP22",
-    "question": "What is the function of the hydrochloric acid secreted in the stomach?",
-    "options": [
-      "To digest starch",
-      "To kill bacteria and provide an acidic medium for pepsin",
-      "To emulsify fats",
-      "To absorb vitamins"
-    ],
-    "correctAnswer": 1,
-    "explanation": "$HCl$ creates an acidic medium which facilitates the action of the enzyme pepsin (protease) and also kills many bacteria that enter with food.",
-    "difficulty": "Moderate",
-    "year": "2024"
-  },
-  {
-    "id": "LP23",
-    "question": "Why do herbivores like cows have a longer small intestine compared to carnivores like tigers?",
-    "options": [
-      "To digest meat faster",
-      "To allow for the digestion of cellulose",
-      "To store more food",
-      "To absorb more water"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cellulose is difficult to digest; hence, herbivores need a longer small intestine to allow the bacteria and enzymes enough time to break it down. Meat is easier to digest, so carnivores have shorter intestines.",
-    "difficulty": "Hard",
-    "year": "2025 (Sample)"
-  },
-  {
-    "id": "LP24",
-    "question": "Which of the following is an example of a parasitic plant?",
-    "options": [
-      "Cuscuta (Amarbel)",
-      "Mushroom",
-      "Bread mould",
-      "Yeast"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cuscuta is a parasitic plant that derives its nutrition from a host plant. Mushrooms, bread mould, and yeast are saprophytes (derive nutrition from dead matter).",
-    "difficulty": "Moderate",
-    "year": "2022"
-  },
-  {
-    "id": "LP25",
-    "question": "The rate of breathing in aquatic organisms is much faster than in terrestrial organisms because:",
-    "options": [
-      "Aquatic organisms have more energy",
-      "The amount of dissolved oxygen in water is fairly low compared to air",
-      "Water is heavier than air",
-      "Aquatic organisms have larger lungs"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Since the concentration of dissolved oxygen in water is much lower than the oxygen level in the atmosphere, aquatic animals need to breathe faster to meet their oxygen requirements.",
-    "difficulty": "Hard",
-    "year": "2021"
-  },
-  {
-    "id": "LP26",
-    "question": "Bile juice is secreted by the liver and stored in the:",
-    "options": [
-      "Pancreas",
-      "Gall bladder",
-      "Stomach",
-      "Duodenum"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bile is produced in the liver and stored in the gall bladder until it is needed in the small intestine for the emulsification of fats.",
-    "difficulty": "Easy",
-    "year": "2023"
-  },
-  {
-    "id": "LP27",
-    "question": "The process by which plants lose water in the form of vapor through stomata is:",
-    "options": [
-      "Transpiration",
-      "Photosynthesis",
-      "Translocation",
-      "Respiration"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Transpiration is the loss of water vapor from the aerial parts of the plant. It creates a suction pull that helps in the upward movement of water and minerals.",
-    "difficulty": "Easy",
-    "year": "2024"
-  },
-  {
-    "id": "LP28",
-    "question": "The process of converting glucose into energy in the absence of oxygen in yeast is called:",
+    "id": "LP_02",
+    "question": "In the absence of oxygen, pyruvate is converted into ethanol and carbon dioxide in yeast. This process is called:",
     "options": [
       "Aerobic respiration",
+      "Anaerobic respiration",
       "Fermentation",
-      "Beta-oxidation",
-      "Nitrogen fixation"
+      "Beta-oxidation"
     ],
-    "correctAnswer": 1,
-    "explanation": "Fermentation is the anaerobic breakdown of glucose by yeast, resulting in the production of ethanol, $CO_2$, and a small amount of energy.",
-    "difficulty": "Moderate",
-    "year": "2022"
-  },
-  {
-    "id": "LP29",
-    "question": "In the human heart, which chamber has the thickest muscular walls?",
-    "options": [
-      "Right Atrium",
-      "Left Atrium",
-      "Right Ventricle",
-      "Left Ventricle"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The left ventricle has the thickest walls because it has to pump blood at high pressure to the entire body, whereas the right ventricle only pumps blood to the lungs.",
-    "difficulty": "Hard",
-    "year": "2025 (Sample)"
-  },
-  {
-    "id": "LP30",
-    "question": "Identify the nitrogenous waste product excreted by the human body:",
-    "options": [
-      "Ammonia",
-      "Urea",
-      "Uric Acid",
-      "Nitric Acid"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The human kidney filters out nitrogenous waste, primarily in the form of urea, from the blood to be excreted as urine.",
+    "correctAnswer": 2,
+    "explanation": "Fermentation is a specific type of anaerobic respiration occurring in yeast where pyruvate, a 3-carbon molecule, is broken down into ethanol (2-carbon) and $CO_2$.",
     "difficulty": "Easy",
     "year": "2023"
-  }
-]￼Enter    ],
-    "correctAnswer": 2,
-    "explanation": "As the filtrate flows along the tubular part of the nephron, useful substances such as glucose, amino acids, salts, and a major amount of water are selectively reabsorbed into the surrounding capillaries.",
-    "difficulty": "Hard",
-    "year": "2022"
   },
   {
-    "id": "LP16",
-    "question": "What is the common feature between the gaseous exchange in the alveoli of lungs and the villi of the small intestine?",
+    "id": "LP_03",
+    "question": "What prevents the backflow of blood inside the heart during contraction?",
     "options": [
-      "Both are locations for digestion",
-      "Both have thin walls and a large surface area for transport",
-      "Both are controlled by the diaphragm",
-      "Both filter urea from blood"
+      "Thick muscular walls of ventricles",
+      "Valves in heart",
+      "Thin walls of atria",
+      "Septum"
     ],
     "correctAnswer": 1,
-    "explanation": "Both alveoli and villi are specialized for maximizing efficiency. Alveoli provide a large surface area for $O_2$ and $CO_2$ exchange, and villi provide a large surface area for nutrient absorption. Both are richly supplied with blood vessels.",
-    "difficulty": "Hard",
-    "year": "2024"
-  },
-  {
-    "id": "LP17",
-    "question": "During vigorous physical exercise, the buildup of _______ in our muscles causes cramps.",
-    "options": [
-      "Ethanol",
-      "Carbon dioxide",
-      "Lactic acid",
-      "Pyruvate"
-    ],
-    "correctAnswer": 2,
-    "explanation": "When there is a lack of oxygen in muscle cells, pyruvate is converted into lactic acid (a three-carbon molecule). This buildup causes muscle fatigue and cramps.",
-    "difficulty": "Moderate",
-    "year": "2023"
-  },
-  {
-    "id": "LP18",
-    "question": "Which of the following is correct regarding the blood pressure of a healthy adult?",
-    "options": [
-      "Systolic: $120\\ mmHg$, Diastolic: $80\\ mmHg$",
-      "Systolic: $80\\ mmHg$, Diastolic: $120\\ mmHg$",
-      "Systolic: $100\\ mmHg$, Diastolic: $60\\ mmHg$",
-      "Systolic: $140\\ mmHg$, Diastolic: $90\\ mmHg$"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The normal systolic pressure (contraction) is about $120\\ mmHg$ and diastolic pressure (relaxation) is $80\\ mmHg$.",
+    "explanation": "Valves ensure that blood flows in only one direction and prevent the backflow of blood into the atria or ventricles when the heart chambers contract.",
     "difficulty": "Easy",
     "year": "2021"
   },
   {
-    "id": "LP19",
+    "id": "LP_04",
+    "question": "Which part of the nephron allows the selective reabsorption of useful substances like glucose, amino acids, salts and water?",
+    "options": [
+      "Glomerulus",
+      "Bowman's capsule",
+      "Tubular part",
+      "Ureter"
+    ],
+    "correctAnswer": 2,
+    "explanation": "As the filtrate flows through the tubular part of the nephron, useful substances like glucose, amino acids, and water are selectively reabsorbed into the surrounding blood capillaries.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "LP_05",
+    "question": "The enzyme pepsin, secreted by the gastric glands, acts only in the presence of:",
+    "options": [
+      "Bile juice",
+      "Hydrochloric acid",
+      "Mucus",
+      "Salivary amylase"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gastric glands release $HCl$, which creates an acidic medium (pH approx 1.8) necessary for the activation of the protein-digesting enzyme pepsin from pepsinogen.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "LP_06",
+    "question": "Oxygenated blood is carried from the lungs to the left atrium of the heart by the:",
+    "options": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Aorta",
+      "Vena cava"
+    ],
+    "correctAnswer": 1,
+    "explanation": "While most veins carry deoxygenated blood, the pulmonary vein is an exception that carries oxygen-rich blood from the lungs to the left atrium.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "LP_07",
+    "question": "During vigorous physical exercise, the buildup of $\\text{lactic acid}$ in our muscles causes cramps. This happens because of:",
+    "options": [
+      "Lack of $CO_2$",
+      "Lack of $O_2$",
+      "Excess of $H_2O$",
+      "Excess of $O_2$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the absence or insufficiency of oxygen ($O_2$), pyruvate is converted into lactic acid in muscle cells, leading to localized energy release and muscle cramps.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "LP_08",
+    "question": "Which of the following is the correct sequence of organs in the human excretory system?",
+    "options": [
+      "Kidney $\\rightarrow$ Bladder $\\rightarrow$ Ureter $\\rightarrow$ Urethra",
+      "Kidney $\\rightarrow$ Ureter $\\rightarrow$ Bladder $\\rightarrow$ Urethra",
+      "Bladder $\\rightarrow$ Kidney $\\rightarrow$ Ureter $\\rightarrow$ Urethra",
+      "Ureter $\\rightarrow$ Kidney $\\rightarrow$ Bladder $\\rightarrow$ Urethra"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Urine produced in the kidneys passes through the ureters into the urinary bladder, where it is stored until released through the urethra.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "LP_09",
+    "question": "The opening and closing of the stomatal pore is a function of the:",
+    "options": [
+      "Chloroplasts",
+      "Guard cells",
+      "Lenticels",
+      "Stomatal apparatus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The swelling of guard cells due to water intake causes the stomatal pore to open, while shrinking causes it to close.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "LP_10",
+    "question": "The internal energy reserve in autotrophs is:",
+    "options": [
+      "Glycogen",
+      "Starch",
+      "Protein",
+      "Fatty acid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants (autotrophs) store the carbohydrates they synthesize in the form of starch, which serves as an internal energy reserve.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "LP_11",
+    "question": "Which of the following is not a function of the large intestine?",
+    "options": [
+      "Absorption of water",
+      "Absorption of certain salts",
+      "Digestion of proteins",
+      "Formation of faeces"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Protein digestion occurs in the stomach and small intestine via enzymes like pepsin and trypsin. The large intestine primarily absorbs water and salts.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "LP_12",
+    "question": "The translocation of food and other substances in plants takes place in the sieve tubes with the help of adjacent:",
+    "options": [
+      "Tracheids",
+      "Vessels",
+      "Companion cells",
+      "Xylem parenchyma"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Companion cells provide metabolic support to sieve tube elements in the phloem to facilitate the translocation of food (sucrose).",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "LP_13",
+    "question": "If salivary amylase is lacking in the saliva, which of the following events in the mouth cavity will be affected?",
+    "options": [
+      "Proteins breaking down into amino acids",
+      "Starch breaking down into sugars",
+      "Fats breaking down into fatty acids and glycerol",
+      "Absorption of vitamins"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Salivary amylase is responsible for the hydrolysis of starch into simpler sugars like maltose. Its absence would halt starch digestion in the mouth.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "LP_14",
+    "question": "In which part of the alimentary canal is food finally digested?",
+    "options": [
+      "Stomach",
+      "Mouth cavity",
+      "Large intestine",
+      "Small intestine"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The small intestine is the site of complete digestion of carbohydrates, proteins, and fats through the action of intestinal, pancreatic, and bile juices.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "LP_15",
+    "question": "The movement of water and dissolved minerals from roots to the leaves is driven primarily by:",
+    "options": [
+      "Translocation",
+      "Transpiration pull",
+      "Active transport",
+      "Osmosis only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Transpiration pull is the main suction force created by the evaporation of water from stomata, which pulls water columns upward through the xylem.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "LP_16",
+    "question": "What is the correct pathway of air during inhalation?",
+    "options": [
+      "Nostrils $\\rightarrow$ Larynx $\\rightarrow$ Pharynx $\\rightarrow$ Trachea $\\rightarrow$ Lungs",
+      "Nasal passage $\\rightarrow$ Pharynx $\\rightarrow$ Larynx $\\rightarrow$ Trachea $\\rightarrow$ Alveoli",
+      "Larynx $\\rightarrow$ Nostrils $\\rightarrow$ Pharynx $\\rightarrow$ Lungs",
+      "Nostrils $\\rightarrow$ Pharynx $\\rightarrow$ Larynx $\\rightarrow$ Alveoli $\\rightarrow$ Trachea"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Air enters through nostrils, passes the pharynx and larynx into the trachea, then through bronchi into the bronchioles and finally the alveoli.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "LP_17",
+    "question": "The blood pressure in the arteries during ventricular relaxation is called:",
+    "options": [
+      "Systolic pressure",
+      "Diastolic pressure",
+      "Pulse pressure",
+      "Atmospheric pressure"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diastolic pressure is the minimum pressure in the arteries when the heart's ventricles are relaxed and filling with blood.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "LP_18",
     "question": "Which component of blood is responsible for clotting at the site of injury?",
     "options": [
       "RBCs",
@@ -670,90 +248,176 @@
       "Plasma"
     ],
     "correctAnswer": 2,
-    "explanation": "Platelets circulate in the blood and help in clotting (coagulation) at the site of an injury to prevent excessive blood loss.",
-    "difficulty": "Easy",
-    "year": "2022"
-  },
-  {
-    "id": "LP20",
-    "question": "The xylem in plants is responsible for:",
-    "options": [
-      "Transport of water",
-      "Transport of food",
-      "Transport of amino acids",
-      "Transport of oxygen"
-    ],
-    "correctAnswer": 0,
-xplanation": "The xylem tissues (vessels and tracheids) transport water and dissolved minerals from the roots to the leaves.",
+    "explanation": "Platelets circulate in the blood and form a plug at the site of injury to prevent excessive blood loss through the process of coagulation.",
     "difficulty": "Easy",
     "year": "2021"
   },
   {
-    "id": "LP21",
-    "question": "The site of complete digestion of carbohydrates, proteins, and fats is:",
+    "id": "LP_19",
+    "question": "Choose the correct statement about the heart:",
     "options": [
-      "Stomach",
-      "Large Intestine",
-      "Small Intestine",
-      "Liver"
+      "Left atrium receives deoxygenated blood from different parts of body",
+      "Right atrium receives oxygenated blood from lungs",
+      "Left ventricle pumps oxygenated blood to different body parts",
+      "Right ventricle pumps oxygenated blood to lungs"
     ],
     "correctAnswer": 2,
-    "explanation": "The small intestine is the site of complete digestion where secretions from the liver (bile) and pancreas (pancreatic juice) act on the food.",
+    "explanation": "The left ventricle is the strongest chamber, pumping oxygenated blood through the aorta to the entire body.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "LP_20",
+    "question": "The filtration units of kidneys are called:",
+    "options": [
+      "Ureters",
+      "Urethra",
+      "Neurons",
+      "Nephrons"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Nephrons are the structural and functional units of the kidney responsible for filtration, reabsorption, and secretion.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "LP_21",
+    "question": "Single circulation (blood flows through the heart only once during one cycle of passage through the body) is exhibited by:",
+    "options": [
+      "Labeo, Chameleon, Salamander",
+      "Hippocampus, Exocoetus, Anabas",
+      "Hyla, Rana, Draco",
+      "Whale, Dolphin, Turtle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fishes (like Hippocampus and Anabas) have a two-chambered heart and exhibit single circulation, where blood is oxygenated in the gills and sent directly to the body.",
+    "difficulty": "Hard",
+    "year": "2023"
+  },
+  {
+    "id": "LP_22",
+    "question": "During cellular respiration, the energy released is immediately used to synthesize a molecule called:",
+    "options": [
+      "ADP",
+      "ATP",
+      "Glucose",
+      "Pyruvate"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ATP (Adenosine Triphosphate) is the energy currency of the cell, synthesized from ADP and inorganic phosphate using the energy from respiration.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "LP_23",
+    "question": "The respiratory pigment in human beings is:",
+    "options": [
+      "Carotene",
+      "Chlorophyll",
+      "Hemoglobin",
+      "Mitochondria"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hemoglobin has a very high affinity for oxygen and is responsible for transporting it from the lungs to all tissues in the human body.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "LP_24",
+    "question": "Which statement is true about the role of bile?",
+    "options": [
+      "It makes the food acidic",
+      "It digests proteins into amino acids",
+      "It emulsifies fats into small globules",
+      "It is secreted by the pancreas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bile juice, secreted by the liver, performs two tasks: it makes the acidic food from the stomach alkaline and emulsifies large fat globules into smaller ones.",
     "difficulty": "Moderate",
     "year": "2023"
   },
   {
-    "id": "LP22",
-    "question": "What is the function of the hydrochloric acid secreted in the stomach?",
+    "id": "LP_25",
+    "question": "The rate of breathing in aquatic organisms is much faster than in terrestrial organisms because:",
     "options": [
-      "To digest starch",
-      "To kill bacteria and provide an acidic medium for pepsin",
-      "To emulsify fats",
-      "To absorb vitamins"
+      "Aquatic organisms have more energy requirements",
+      "The amount of dissolved oxygen in water is fairly low",
+      "Water contains more $CO_2$",
+      "Gills are less efficient than lungs"
     ],
     "correctAnswer": 1,
-    "explanation": "$HCl$ creates an acidic medium which facilitates the action of the enzyme pepsin (protease) and also kills many bacteria that enter with food.",
-    "difficulty": "Moderate",
+    "explanation": "Since the concentration of dissolved oxygen in water is lower than the oxygen level in the air, aquatic animals must breathe faster to obtain sufficient $O_2$.",
+    "difficulty": "Hard",
     "year": "2024"
   },
   {
-    "id": "LP23",
-    "question": "Why do herbivores like cows have a longer small intestine compared to carnivores like tigers?",
+    "id": "LP_26",
+    "question": "In plants, the waste products are stored in:",
     "options": [
-      "To digest meat faster",
-      "To allow for the digestion of cellulose",
-      "To store more food",
-      "To absorb more water"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cellulose is difficult to digest; hence, herbivores need a longer small intestine to allow the bacteria and enzymes enough time to break it down. Meat is easier to digest, so carnivores have shorter intestines.",
-    "difficulty": "Hard",
-    "year": "2025 (Sample)"
-  },
-  {
-    "id": "LP24",
-    "question": "Which of the following is an example of a parasitic plant?",
-    "options": [
-      "Cuscuta (Amarbel)",
-      "Mushroom",
-      "Bread mould",
-      "Yeast"
+      "Vacuoles",
+      "Xylem",
+      "Phloem",
+      "Leaves only"
     ],
     "correctAnswer": 0,
-    "explanation": "Cuscuta is a parasitic plant that derives its nutrition from a host plant. Mushrooms, bread mould, and yeast are saprophytes (derive nutrition from dead matter).",
+    "explanation": "Many plant waste products are stored in cellular vacuoles. They may also be stored in leaves that fall off, or as resins and gums in old xylem.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "LP_27",
+    "question": "Which of the following processes involves the use of energy (ATP) in plants?",
+    "options": [
+      "Absorption of water by roots",
+      "Transpiration",
+      "Translocation of sucrose",
+      "Movement of water in xylem"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Unlike the movement of water in xylem (which is physical), the translocation of sucrose into phloem sieve tubes requires energy from ATP.",
+    "difficulty": "Hard",
+    "year": "2025"
+  },
+  {
+    "id": "LP_28",
+    "question": "Identify the correct path of breakdown of glucose in the cytoplasm:",
+    "options": [
+      "Glucose (6-carbon) $\\rightarrow$ Pyruvate (3-carbon) + Energy",
+      "Glucose (6-carbon) $\\rightarrow$ Ethanol (2-carbon) + Energy",
+      "Glucose (6-carbon) $\\rightarrow$ Lactic acid (3-carbon) + Energy",
+      "Glucose (6-carbon) $\\rightarrow$ $CO_2$ + $H_2O$"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The first step of respiration (glycolysis) occurs in the cytoplasm where one molecule of 6-carbon glucose is broken down into two molecules of 3-carbon pyruvate.",
     "difficulty": "Moderate",
     "year": "2022"
   },
   {
-    "id": "LP25",
-    "question": "The rate of breathing in aquatic organisms is much faster than in terrestrial organisms because:",
+    "id": "LP_29",
+    "question": "Artificial kidney works on the principle of:",
     "options": [
-      "Aquatic organisms have more energy",
-      "The amount of dissolved oxygen in water is fairly low compared to air",
-      "Water is heavier than air",
-      "Aquatic organisms have larger lungs"
+      "Diffusion",
+      "Osmosis",
+      "Dialysis",
+      "Active transport"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hemodialysis is used to remove nitrogenous waste products from the blood of patients with kidney failure using a semi-permeable membrane and dialyzing fluid.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "LP_30",
+    "question": "How much energy is released when the terminal phosphate linkage in ATP is broken using water?",
+    "options": [
+      "$15.5 kJ/mol$",
+      "$30.5 kJ/mol$",
+      "$45.5 kJ/mol$",
+      "$60.5 kJ/mol$"
     ],
     "correctAnswer": 1,
-    "explanation": "Since the concentration of dissolved oxygen in water is much lower than the oxygen level in the atmosphere, aquatic animals need to breathe faster to meet their oxygen requirements.",
+    "explanation": "The hydrolysis of the terminal phosphate bond in ATP releases energy equivalent to $30.5 kJ/mol$, which drives various endothermic reactions in the cell.",
     "difficulty": "Hard",
-
+    "year": "2024"
+  }
+]
