@@ -1,0 +1,422 @@
+[
+  {
+    "id": "C01",
+    "question": "Which property of carbon allows it to form a large number of compounds by bonding with other carbon atoms?",
+    "options": [
+      "Tetravalency",
+      "Catenation",
+      "High electronegativity",
+      "Isomerism"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Catenation is the unique ability of carbon to form long chains or rings by bonding with other carbon atoms. Tetravalency refers to having 4 valence electrons, but catenation specifically explains the self-linking property. Electronegativity is moderate for carbon, and isomerism is a result of these properties, not the cause.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "C02",
+    "question": "Carbon forms four covalent bonds by sharing its four valence electrons. After sharing, carbon attains the electronic configuration of which noble gas?",
+    "options": [
+      "Helium",
+      "Neon",
+      "Argon",
+      "Krypton"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carbon has an atomic number of 6 (2, 4). By sharing four electrons, it gains a total of 8 electrons in its second shell, matching Neon (2, 8). Helium has only 2 electrons, while Argon has 18.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "C03",
+    "question": "Assertion: Carbon cannot form C4+ cation or C4- anion easily. Reason: Removing four electrons requires a huge amount of energy, and holding ten electrons by six protons is difficult.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Carbon forms covalent bonds because ionic bonds are energetically unfavorable. Removing 4 electrons (C4+) requires too much energy, and 6 protons cannot hold 10 electrons (C4-) due to inter-electronic repulsion.",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "C04",
+    "question": "What is the number of covalent bonds present in a molecule of Ethane (C2H6)?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In ethane (CH3-CH3), there is 1 C-C bond and 6 C-H bonds, totaling 7 covalent bonds. Option 6 only counts hydrogens; 8 and 9 are incorrect calculations.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "C05",
+    "question": "Identify the unsaturated hydrocarbon from the following:",
+    "options": [
+      "Propane",
+      "Cyclohexane",
+      "Ethene",
+      "Butane"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Unsaturated hydrocarbons contain double or triple bonds. Ethene (C2H4) has a double bond. Propane and Butane are alkanes (single bonds), and Cyclohexane is a saturated cyclic hydrocarbon.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "C06",
+    "question": "Which of the following represents the correct general formula for the Alkyne homologous series?",
+    "options": [
+      "CnH2n+2",
+      "CnH2n",
+      "CnH2n-2",
+      "CnH2n-1"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Alkynes have at least one triple bond, following CnH2n-2. CnH2n+2 is for alkanes, CnH2n for alkenes, and CnH2n-1 is an alkyl group.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "C07",
+    "question": "Assertion: Diamond is a poor conductor of electricity. Reason: In diamond, every carbon atom is bonded to four other carbon atoms, leaving no free electrons.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diamond's structure uses all four valence electrons in rigid 3D bonding, so there are no free electrons to conduct electricity. Graphite, however, has one free electron per carbon atom.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "C08",
+    "question": "Which substance is used as an oxidizing agent in the conversion of Ethanol to Ethanoic acid?",
+    "options": [
+      "Concentrated H2SO4",
+      "Alkaline KMnO4",
+      "Sodium metal",
+      "Nickel catalyst"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alkaline Potassium Permanganate (KMnO4) or acidified Potassium Dichromate are strong oxidizing agents that convert alcohols to acids. H2SO4 is a dehydrating agent, Sodium reacts with alcohols to form hydrogen, and Nickel is used for hydrogenation.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "C09",
+    "question": "Methane reacts with Chlorine in the presence of sunlight. This reaction is an example of:",
+    "options": [
+      "Addition reaction",
+      "Substitution reaction",
+      "Oxidation reaction",
+      "Combustion reaction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In saturated hydrocarbons, chlorine replaces hydrogen atoms one by one in the presence of sunlight; this is a substitution reaction. Addition reactions occur only in unsaturated hydrocarbons.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "C10",
+    "question": "When vegetable oils are converted into vegetable ghee, which catalyst is commonly used?",
+    "options": [
+      "Iron",
+      "Nickel",
+      "Magnesium",
+      "Manganese"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hydrogenation of oils (liquid unsaturated fats) into ghee (solid saturated fats) uses Nickel or Palladium as a catalyst. Iron is used in the Haber process; others are not standard for this reaction.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "C11",
+    "question": "Which of the following is the structural formula of Benzene?",
+    "options": [
+      "C6H12 with all single bonds",
+      "C6H6 with alternating single and double bonds",
+      "C6H14 linear chain",
+      "C5H10 pentagon ring"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Benzene (C6H6) is a cyclic hydrocarbon with three alternating double bonds. C6H12 is cyclohexane, C6H14 is hexane, and C5H10 is cyclopentane.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "C12",
+    "question": "Case Study: A student takes 2ml of Ethanol and 2ml of Ethanoic acid along with a few drops of conc. H2SO4 in a test tube and warms it. What is the characteristic smell of the product formed?",
+    "options": [
+      "Pungent like vinegar",
+      "Sweet fruity smell",
+      "Rotten eggs",
+      "Burning sulfur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The reaction between an alcohol (ethanol) and a carboxylic acid (ethanoic acid) in the presence of an acid catalyst produces an Ester (Ethyl Ethanoate), which has a characteristic sweet fruity smell.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "C13",
+    "question": "Assertion: Soaps form scum with hard water. Reason: Hard water contains Calcium and Magnesium salts which react with soap to form insoluble precipitates.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Soap molecules react with Ca and Mg ions in hard water to form 'scum' (insoluble precipitate), reducing soap efficiency. Detergents are used to overcome this.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "C14",
+    "question": "What happens when a small piece of Sodium is dropped into Ethanol?",
+    "options": [
+      "No reaction occurs",
+      "Sodium ethoxide and Hydrogen gas are formed",
+      "Ethanoic acid is formed",
+      "Sodium hydroxide and water are formed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ethanol reacts with active metals like Sodium to release Hydrogen gas and form Sodium Ethoxide (C2H5ONa). It does not oxidize to acid or form NaOH in this reaction.",
+    "difficulty": "Hard",
+    "year": "2022"
+  },
+  {
+    "id": "C15",
+    "question": "Which of the following compounds will give a yellow sooty flame on combustion?",
+    "options": [
+      "Methane",
+      "Ethane",
+      "Ethene",
+      "Propane"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Unsaturated hydrocarbons like Ethene (alkenes) and Alkynes burn with a yellow sooty flame due to incomplete combustion of high carbon content. Saturated hydrocarbons (Methane, Ethane, Propane) usually burn with a clean blue flame.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "C16",
+    "question": "The functional group present in Propanone is:",
+    "options": [
+      "-OH",
+      "-CHO",
+      ">C=O",
+      "-COOH"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Propanone is a ketone; ketones have the Carbonyl group (>C=O) within the chain. -OH is alcohol, -CHO is aldehyde, and -COOH is carboxylic acid.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "C17",
+    "question": "Case Study: In a soap micelle, the 'tails' of the soap molecules are oriented towards:",
+    "options": [
+      "The water",
+      "The center of the micelle (towards the dirt/oil)",
+      "The outer surface of the micelle",
+      "Random directions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Soap has a hydrophilic head (attracted to water) and a hydrophobic tail (attracted to oil/dirt). In a micelle, tails point inward to trap the oil, while heads face outward towards water.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "C18",
+    "question": "What is the result of reacting Ethanoic acid with Sodium Hydrogen Carbonate?",
+    "options": [
+      "Brisk effervescence of CO2",
+      "Evolution of H2 gas",
+      "Formation of a white precipitate",
+      "No reaction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethanoic acid reacts with carbonates/bicarbonates to produce Sodium Ethanoate, water, and Carbon Dioxide (CO2). The CO2 causes brisk effervescence.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "C19",
+    "question": "Which of the following is the correct order of boiling points for the homologous series of alkanes?",
+    "options": [
+      "Methane > Ethane > Propane",
+      "Propane > Ethane > Methane",
+      "Ethane > Methane > Propane",
+      "All have the same boiling point"
+    ],
+    "correctAnswer": 1,
+    "explanation": "As the molecular mass increases in a homologous series, the boiling point increases due to stronger Van der Waals forces. Propane (C3H8) > Ethane (C2H6) > Methane (CH4).",
+    "difficulty": "Hard",
+    "year": "2022"
+  },
+  {
+    "id": "C20",
+    "question": "Glacial acetic acid is:",
+    "options": [
+      "100% pure Ethanoic acid",
+      "5% solution of Ethanoic acid",
+      "Frozen Ethanoic acid found in glaciers",
+      "Ethanoic acid mixed with Ice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pure Ethanoic acid is called Glacial acetic acid because it freezes into ice-like crystals in cold climates (melting point is 290K). Vinegar is a 5-8% solution.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "C21",
+    "question": "How many structural isomers are possible for Pentane (C5H12)?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pentane has 3 isomers: n-pentane (straight chain), isopentane (2-methylbutane), and neopentane (2,2-dimethylpropane).",
+    "difficulty": "Hard",
+    "year": "2021"
+  },
+  {
+    "id": "C22",
+    "question": "When Ethanol is heated at 443K with excess concentrated Sulphuric acid, the product is:",
+    "options": [
+      "Ethane",
+      "Ethene",
+      "Ethyne",
+      "Ethanoic Acid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Concentrated H2SO4 acts as a dehydrating agent at 443K, removing a water molecule from Ethanol to form Ethene (unsaturation).",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "C23",
+    "question": "The IUPAC name of CH3-CH2-CHO is:",
+    "options": [
+      "Ethanol",
+      "Propanal",
+      "Ethanal",
+      "Propanol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "There are three carbon atoms (Prop-), single bonds (an), and an aldehyde group (-al). Thus, Propanal. Ethanol and Ethanal have only two carbons.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "C24",
+    "question": "Assertion: Saturated hydrocarbons are generally unreactive. Reason: They contain only single bonds between carbon atoms which are very stable.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alkanes (saturated) are relatively inert because C-C and C-H single bonds are strong and difficult to break under normal conditions, unlike double/triple bonds in unsaturated ones.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "C25",
+    "question": "Detergents are better than soaps because:",
+    "options": [
+      "They are biodegradable",
+      "They do not form scum with hard water",
+      "They are made from vegetable oils",
+      "They are cheaper"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Detergents (ammonium or sulphonate salts of long chain carboxylic acids) do not react with Ca/Mg ions to form scum, making them effective even in hard water. Soaps are generally more biodegradable than many detergents.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "C26",
+    "question": "Which of the following is a member of the same homologous series as Methanol?",
+    "options": [
+      "CH3CHO",
+      "CH3CH2OH",
+      "CH3COOH",
+      "CH4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Methanol (CH3OH) is an alcohol. Ethanol (CH3CH2OH) is the next member of the alcohol homologous series. CH3CHO is an aldehyde, CH3COOH is an acid, and CH4 is an alkane.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "C27",
+    "question": "The heteroatom(s) present in CH3-CH2-O-CH2-CH2Cl are: (i) Oxygen, (ii) Carbon, (iii) Hydrogen, (iv) Chlorine",
+    "options": [
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "(iii) and (iv)",
+      "(i) and (iv)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In organic compounds, atoms other than Carbon and Hydrogen are called heteroatoms. Here, Oxygen and Chlorine are the heteroatoms.",
+    "difficulty": "Hard",
+    "year": "2024"
+  },
+  {
+    "id": "C28",
+    "question": "What is the catalyst used in the addition reaction of Hydrogen to Alkenes?",
+    "options": [
+      "Concentrated H2SO4",
+      "Alkaline KMnO4",
+      "Palladium or Nickel",
+      "Anhydrous AlCl3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Addition of hydrogen (hydrogenation) to unsaturated hydrocarbons requires a catalyst like Nickel (Ni) or Palladium (Pd) to break the double/triple bonds.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "C29",
+    "question": "Case Study: Denatured alcohol is made unfit for drinking by adding:",
+    "options": [
+      "Water",
+      "Methanol and dyes",
+      "Ethanoic acid",
+      "Sugar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "To prevent misuse of industrial ethanol, it is 'denatured' by adding poisonous substances like Methanol and blue dyes (to identify it).",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "C30",
+    "question": "Assertion: The first member of the alkyne series is ethyne. Reason: A triple bond cannot exist between a single carbon atom and hydrogen.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A carbon-carbon multiple bond requires at least two carbon atoms. Therefore, the series for alkenes and alkynes starts with 2 carbons (Ethene/Ethyne).",
+    "difficulty": "Moderate",
+    "year": "2025"
+  }
+]
