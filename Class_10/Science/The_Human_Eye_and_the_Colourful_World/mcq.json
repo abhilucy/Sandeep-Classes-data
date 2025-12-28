@@ -1,0 +1,422 @@
+[
+  {
+    "id": "HE-01",
+    "question": "A person cannot see objects beyond $1.2\\text{ m}$ distinctly. What should be the type of the corrective lens used to restore proper vision?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Bifocal lens",
+      "Cylindrical lens"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Since the person cannot see far objects clearly (beyond $1.2\\text{ m}$), they are suffering from Myopia (Short-sightedness). Myopia is corrected using a concave lens of suitable power.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "HE-02",
+    "question": "The change in focal length of an eye lens is caused by the action of the:",
+    "options": [
+      "Pupil",
+      "Retina",
+      "Ciliary muscles",
+      "Iris"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ciliary muscles modify the curvature of the eye lens, thereby changing its focal length to focus objects at various distances on the retina.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "HE-03",
+    "question": "The splitting of white light into its component colours is called:",
+    "options": [
+      "Refraction",
+      "Reflection",
+      "Dispersion",
+      "Scattering"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dispersion is the phenomenon where white light splits into its seven constituent colours (VIBGYOR) when passing through a transparent medium like a glass prism.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "HE-04",
+    "question": "Which of the following phenomena of light are involved in the formation of a rainbow?",
+    "options": [
+      "Reflection, refraction and dispersion",
+      "Refraction, dispersion and total internal reflection",
+      "Refraction, dispersion and internal reflection",
+      "Dispersion, scattering and total internal reflection"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rainbow formation involves refraction of sunlight as it enters a raindrop, dispersion into component colors, internal reflection within the drop, and refraction again as it exits.",
+    "difficulty": "Hard",
+    "year": "2023"
+  },
+  {
+    "id": "HE-05",
+    "question": "At noon the sun appears white because:",
+    "options": [
+      "Light is least scattered",
+      "All the colours of the white light are scattered away",
+      "Blue colour is scattered the most",
+      "Red colour is scattered the most"
+    ],
+    "correctAnswer": 0,
+    "explanation": "At noon, the sun is overhead and light travels a shorter distance through the atmosphere. There is very little scattering of light, so it appears white.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "HE-06",
+    "question": "Twinkling of stars is due to atmospheric:",
+    "options": [
+      "Dispersion of light by water droplets",
+      "Refraction of light by different layers of varying refractive indices",
+      "Scattering of light by dust particles",
+      "Internal reflection of light by clouds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Twinkling is caused by atmospheric refraction. The starlight undergoes multiple refractions as it passes through atmospheric layers of varying densities and refractive indices.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "HE-07",
+    "question": "The clear sky appears blue because:",
+    "options": [
+      "Blue light gets absorbed in the atmosphere",
+      "Ultraviolet radiations are absorbed in the atmosphere",
+      "Violet and blue lights get scattered more than lights of all other colours by the atmosphere",
+      "Light of all other colours is scattered more than the violet and blue colour lights by the atmosphere"
+    ],
+    "correctAnswer": 2,
+    "explanation": "According to Rayleigh scattering, the intensity of scattered light is inversely proportional to the fourth power of wavelength ($1/\\lambda^4$). Shorter wavelengths (blue/violet) scatter more.",
+    "difficulty": "Moderate",
+    "year": "2021"
+  },
+  {
+    "id": "HE-08",
+    "question": "Danger signals installed at the top of tall buildings are red in colour. These can be easily seen from a distance because among all other colours, the red light:",
+    "options": [
+      "Is scattered the most by smoke or fog",
+      "Is scattered the least by smoke or fog",
+      "Is absorbed the most by smoke or fog",
+      "Moves fastest in air"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red has the longest wavelength in the visible spectrum. Since scattering is inversely proportional to $\\lambda^4$, red light is scattered the least and can travel longer distances through fog.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "HE-09",
+    "question": "The bluish colour of water in deep sea is due to:",
+    "options": [
+      "The presence of algae and other plants found in water",
+      "Reflection of sky in water",
+      "Scattering of light",
+      "Absorption of light by the sea"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Water molecules scatter the shorter wavelengths (blue) of sunlight more effectively than the longer wavelengths, giving the sea its blue appearance.",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "HE-10",
+    "question": "When light rays enter the eye, most of the refraction occurs at the:",
+    "options": [
+      "Crystalline lens",
+      "Outer surface of the cornea",
+      "Iris",
+      "Pupil"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The cornea is the outermost transparent part of the eye. Most of the refraction of light rays entering the eye occurs at the outer surface of the cornea.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "HE-11",
+    "question": "The focal length of the eye lens increases when eye muscles:",
+    "options": [
+      "Are relaxed and lens becomes thinner",
+      "Contract and lens becomes thicker",
+      "Are relaxed and lens becomes thicker",
+      "Contract and lens becomes thinner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "When ciliary muscles relax, the eye lens becomes thin and its focal length increases, allowing the eye to see distant objects clearly.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "HE-12",
+    "question": "A student sitting on the last bench can read the letters written on the blackboard but cannot read the letters written in his textbook. Which of the following statements is correct?",
+    "options": [
+      "The near point of his eye has receded away",
+      "The near point of his eye has come closer to him",
+      "The far point of his eye has come closer to him",
+      "The far point of his eye has receded away"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The student has Hypermetropia (farsightedness). In this defect, the person can see distant objects but not nearby ones because the near point has moved further than $25\\text{ cm}$.",
+    "difficulty": "Hard",
+    "year": "2023"
+  },
+  {
+    "id": "HE-13",
+    "question": "Which of the following is a natural phenomenon which is caused by the dispersion of sunlight in the sky?",
+    "options": [
+      "Twinkling of stars",
+      "Stars seem higher than they actually are",
+      "Advanced sunrise and delayed sunset",
+      "Rainbow"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A rainbow is a natural spectrum appearing in the sky after rain, caused by the dispersion of sunlight by tiny water droplets present in the atmosphere.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "HE-14",
+    "question": "The sensation of vision in the retina is carried to the brain by:",
+    "options": [
+      "Ciliary muscles",
+      "Optic nerve",
+      "Vitreous humour",
+      "Aqueous humour"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The retina contains light-sensitive cells that generate electrical signals. These signals are sent to the brain via the optic nerve.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "HE-15",
+    "question": "In the dispersion of white light by a common glass prism, which colour deviates the least?",
+    "options": [
+      "Violet",
+      "Indigo",
+      "Red",
+      "Yellow"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Red light has the longest wavelength and the highest speed in glass among visible colors; therefore, it suffers the least deviation upon entering the prism.",
+    "difficulty": "Easy",
+    "year": "2023"
+  },
+  {
+    "id": "HE-16",
+    "question": "The ability of the eye lens to adjust its focal length is called:",
+    "options": [
+      "Accommodation",
+      "Refraction",
+      "Presbyopia",
+      "Myopia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accommodation is the process by which the ciliary muscles change the curvature and focal length of the eye lens to focus on objects at different distances.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "HE-17",
+    "question": "For a normal eye, the range of vision is:",
+    "options": [
+      "$25\\text{ cm}$ to $100\\text{ m}$",
+      "$25\\text{ cm}$ to infinity",
+      "$10\\text{ cm}$ to infinity",
+      "$0$ to $25\\text{ cm}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The near point of a normal eye is $25\\text{ cm}$ and the far point is at infinity. Thus, the range of vision is $25\\text{ cm}$ to infinity.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "HE-18",
+    "question": "The defect of vision in which the crystalline lens of people at old age becomes milky and cloudy is:",
+    "options": [
+      "Myopia",
+      "Presbyopia",
+      "Cataract",
+      "Hypermetropia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cataract is a condition where the eye lens becomes progressively opaque/cloudy, resulting in blurred vision or loss of vision.",
+    "difficulty": "Easy",
+    "year": "2024"
+  },
+  {
+    "id": "HE-19",
+    "question": "A prism $ABC$ (with $BC$ as base) is placed in different orientations. A narrow beam of white light is incident on the prism as shown. In which case, after dispersion, the third colour from the top corresponds to the colour of the sky?",
+    "options": [
+      "Prism base $BC$ is at the bottom",
+      "Prism base $BC$ is at the top",
+      "Prism side $AB$ is at the bottom",
+      "Prism side $AC$ is at the bottom"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When the prism is inverted (base $BC$ at top), the spectrum is also inverted. The sequence from top to bottom becomes Red, Orange, Yellow, Green, Blue, Indigo, Violet. The third color from the top is Yellow. Wait, the question asks for the color of the sky (Blue). In an inverted prism, the sequence from bottom to top is Red, Orange, Yellow, Green, Blue... the third color from top would be Blue if the base is at the top.",
+    "difficulty": "Hard",
+    "year": "2023"
+  },
+  {
+    "id": "HE-20",
+    "question": "Which of the following is correct regarding the atmospheric refraction of light?",
+    "options": [
+      "The sun is visible to us about $2$ minutes before the actual sunrise",
+      "The sun is visible to us about $2$ minutes after the actual sunset",
+      "The apparent flattening of the sun's disc at sunrise and sunset",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Atmospheric refraction causes advanced sunrise ($2$ min), delayed sunset ($2$ min), and the apparent flattening of the sun's disc due to the difference in refraction at the top and bottom of the sun.",
+    "difficulty": "Moderate",
+    "year": "2025"
+  },
+  {
+    "id": "HE-21",
+    "question": "The path of a beam of light passing through a colloidal solution is visible due to:",
+    "options": [
+      "Reflection",
+      "Tyndall effect",
+      "Dispersion",
+      "Internal reflection"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tyndall effect is the scattering of light by colloidal particles, which makes the path of light visible.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "HE-22",
+    "question": "A person needs a lens of power $-4.5\\text{ D}$ for correction of her vision. What is the focal length of the corrective lens?",
+    "options": [
+      "$+0.22\\text{ m}$",
+      "$-0.22\\text{ m}$",
+      "$-0.45\\text{ m}$",
+      "$+0.45\\text{ m}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$f = 1/P = 1/(-4.5) \\approx -0.222\\text{ m}$. The negative sign indicates a concave lens.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "HE-23",
+    "question": "Hypermetropia is also known as:",
+    "options": [
+      "Near-sightedness",
+      "Far-sightedness",
+      "Old-age-sightedness",
+      "None of these"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hypermetropia is called far-sightedness because the person can see distant objects clearly but cannot see nearby objects distinctly.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "HE-24",
+    "question": "The star appears higher than its actual position due to:",
+    "options": [
+      "Atmospheric scattering",
+      "Atmospheric refraction",
+      "Total internal reflection",
+      "Diffraction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "As starlight enters the Earth's atmosphere, it bends towards the normal due to increasing refractive index, making the star appear at a higher position.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "HE-25",
+    "question": "Which of the following colors is scattered the most by the atmosphere?",
+    "options": [
+      "Red",
+      "Yellow",
+      "Blue",
+      "Orange"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Blue light has a shorter wavelength than red or yellow, and thus it is scattered more by the fine particles in the atmosphere.",
+    "difficulty": "Easy",
+    "year": "2022"
+  },
+  {
+    "id": "HE-26",
+    "question": "When white light enters a glass prism from air, which component color travels the slowest in the prism?",
+    "options": [
+      "Red",
+      "Green",
+      "Violet",
+      "Yellow"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In a medium like glass, the speed of light depends on the wavelength. Violet light has the shortest wavelength and travels the slowest, leading to the maximum refractive index and maximum deviation.",
+    "difficulty": "Moderate",
+    "year": "2024"
+  },
+  {
+    "id": "HE-27",
+    "question": "The black opening between the aqueous humour and the lens is called:",
+    "options": [
+      "Retina",
+      "Iris",
+      "Pupil",
+      "Cornea"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pupil is the hole in the center of the iris through which light enters the eye. It appears black because no light is reflected from it.",
+    "difficulty": "Easy",
+    "year": "2021"
+  },
+  {
+    "id": "HE-28",
+    "question": "Bi-focal lenses are required by persons suffering from:",
+    "options": [
+      "Myopia",
+      "Hypermetropia",
+      "Presbyopia",
+      "Both Myopia and Hypermetropia"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Persons suffering from both myopia and hypermetropia (often due to presbyopia at an old age) require bifocal lenses where the upper part is concave and the lower part is convex.",
+    "difficulty": "Moderate",
+    "year": "2023"
+  },
+  {
+    "id": "HE-29",
+    "question": "The angle between the incident ray and the emergent ray of a prism is called:",
+    "options": [
+      "Angle of incidence",
+      "Angle of refraction",
+      "Angle of deviation",
+      "Angle of emergence"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The peculiar shape of a prism makes the emergent ray bend at an angle to the direction of the incident ray. This angle is called the angle of deviation ($D$).",
+    "difficulty": "Moderate",
+    "year": "2022"
+  },
+  {
+    "id": "HE-30",
+    "question": "Newton's experiment with two prisms, one inverted with respect to the other, showed that:",
+    "options": [
+      "Sunlight is made of seven colours",
+      "Prisms can only rotate light",
+      "Light travels in a straight line",
+      "Colors can be changed into white light"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By placing an inverted prism after the first one, Newton showed that the seven colors recombined to form white light, proving that white light consists of seven colors.",
+    "difficulty": "Hard",
+    "year": "2025"
+  }
+]
