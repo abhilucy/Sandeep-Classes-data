@@ -1,0 +1,355 @@
+{
+  "questions": [
+    {
+      "question": "Electrolysis of water is a decomposition reaction. The mass ratio (MH : MO) of hydrogen and oxygen gases liberated at the electrodes during electrolysis of water is : (A) 8 : 1 (B) 2 : 1 (C) 1 : 2 (D) 1 : 8",
+      "answer": "(D) 1 : 8",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (D). Mass of Hydrogen (H2) is 2g, Oxygen (O2) is 16g in 18g of water (H2O). Ratio 2:16 = 1:8.",
+      "type": "mcq",
+      "id": "1",
+      "year": "2025"
+    },
+    {
+      "question": "The products formed when Aluminium and Magnesium are burnt in the presence of air respectively are : (A) Al3O4 and MgO2 (B) Al2O3 and MgO (C) Al3O4 and MgO (D) Al2O3 and MgO2",
+      "answer": "(B) Al2O3 and MgO",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (B). Aluminium forms Aluminium Oxide (Al2O3) and Magnesium forms Magnesium Oxide (MgO).",
+      "type": "mcq",
+      "id": "2",
+      "year": "2025"
+    },
+    {
+      "question": "The following table shows the pH values of four solutions A, B, C and D on a pH scale: A=5, B=7, C=13, D=2. The solutions A, B, C and D respectively are of a: (A) Strong acid, weak acid, neutral, strong base (B) Weak acid, neutral, weak base, strong base (C) Weak acid, neutral, strong base, weak base (D) Weak acid, neutral, strong base, strong acid",
+      "answer": "(D) Weak acid, neutral, strong base, strong acid",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (D). A(pH 5)=Weak acid, B(pH 7)=Neutral, C(pH 13)=Strong base, D(pH 2)=Strong acid.",
+      "type": "mcq",
+      "id": "3",
+      "year": "2025"
+    },
+    {
+      "question": "Consider the following reactions: (i) Dilute hydrochloric acid reacts with sodium hydroxide. (ii) Magnesium oxide reacts with dilute hydrochloric acid. (iii) Carbon dioxide reacts with sodium hydroxide. It is found that in each case: (A) Salt and water is formed. (B) Neutral salts are formed. (C) Hydrogen gas is formed. (D) Acidic salts are formed.",
+      "answer": "(A) Salt and water is formed.",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (A). All three are neutralization or neutralization-like reactions producing salt and water.",
+      "type": "mcq",
+      "id": "4",
+      "year": "2025"
+    },
+    {
+      "question": "Reaction between two elements A and B, forms a compound C. A loses electrons and B gains electrons. Which one of the following properties will not be shown by compound C? (A) It has high melting point. (B) It is highly soluble in water. (C) It has weak electrostatic forces of attraction between its oppositely charged ions. (D) It conducts electricity in its molten state or aqueous solution.",
+      "answer": "(C) It has weak electrostatic forces of attraction between its oppositely charged ions.",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (C). The compound is ionic, which implies strong electrostatic forces, not weak ones.",
+      "type": "mcq",
+      "id": "5",
+      "year": "2025"
+    },
+    {
+      "question": "The metals obtained from their molten chlorides by the process of electrolytic reduction are : (A) Gold and silver (B) Calcium and magnesium (C) Aluminium and silver (D) Sodium and iron",
+      "answer": "(B) Calcium and magnesium",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (B). Highly reactive metals like Calcium and Magnesium are obtained by electrolytic reduction.",
+      "type": "mcq",
+      "id": "6",
+      "year": "2025"
+    },
+    {
+      "question": "The formation of magnesium oxide is correctly shown in option : (A) Mg -> Mg2+ + 2e-, O + 2e- -> O2- (B) ... (C) ... (D) ... [Visual representation of Electron Dot Structure]",
+      "answer": "(A)",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (A), showing transfer of 2 electrons from Mg to O.",
+      "type": "mcq",
+      "id": "7",
+      "year": "2025"
+    },
+    {
+      "question": "Secretion of less saliva in mouth will effect the conversion of : (A) proteins into amino acids (B) fats into fatty acids and glycerol (C) starch into simple sugars (D) sugars into alcohol",
+      "answer": "(C) starch into simple sugars",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (C). Saliva contains salivary amylase which digests starch.",
+      "type": "mcq",
+      "id": "8",
+      "year": "2025"
+    },
+    {
+      "question": "The plant hormone whose concentration stimulates the cells to grow longer on the side of the shoot which is away from light is : (A) Cytokinins (B) Gibberellins (C) Adrenaline (D) Auxins",
+      "answer": "(D) Auxins",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (D). Auxins promote cell elongation on the shady side.",
+      "type": "mcq",
+      "id": "9",
+      "year": "2025"
+    },
+    {
+      "question": "The correct/true statement(s) for a bisexual flower is/are : (i) They possess both stamen and pistil. (ii) They possess either stamen or pistil. (iii) They exhibit either self-pollination or cross-pollination. (iv) They cannot produce fruits on their own. (A) (i) only (B) (iv) only (C) (i) and (iii) (D) (i) and (iv)",
+      "answer": "(C) (i) and (iii)",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (C). Bisexual flowers have both reproductive parts and can undergo both types of pollination.",
+      "type": "mcq",
+      "id": "10",
+      "year": "2025"
+    },
+    {
+      "question": "If pea plants with round and green seeds (RRyy) are crossed with pea plants having wrinkled and yellow seeds (rrYY), the seeds developed by the plants of F1 generation will be : (A) 50% round and green (B) 75% wrinkled and green (C) 100% round and yellow (D) 75% wrinkled and yellow",
+      "answer": "(C) 100% round and yellow",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (C). The F1 genotype will be RrYy, which is phenotypically round and yellow.",
+      "type": "mcq",
+      "id": "11",
+      "year": "2025"
+    },
+    {
+      "question": "The breakdown of glucose has taken the following pathway : Glucose -(a)-> Pyruvate + Energy -(b)-> Lactic acid + Energy. The sites ‘a’ and ‘b’ respectively are : (A) Mitochondria and Oxygen deficient muscle cells (B) Cytoplasm and Oxygen rich muscle cells (C) Cytoplasm and Yeast cells (D) Cytoplasm and Oxygen deficient muscle cells",
+      "answer": "(D) Cytoplasm and Oxygen deficient muscle cells",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (D). Glycolysis occurs in cytoplasm, anaerobic respiration producing lactic acid occurs in muscles lacking oxygen.",
+      "type": "mcq",
+      "id": "12",
+      "year": "2025"
+    },
+    {
+      "question": "Mirror ‘X’ is used to concentrate sunlight in solar furnace and Mirror ‘Y’ is fitted on the side of the vehicle to see the traffic behind the driver. Which of the following statements are true for the two mirrors ? (i) The image formed by mirror ‘X’ is real, diminished and at its focus. (ii) The image formed by mirror ‘Y’ is virtual, diminished and erect. (iii) The image formed by mirror ‘X’ is virtual, diminished and erect. (iv) The image formed by mirror ‘Y’ is real, diminished and at its focus. (A) (i) and (ii) (B) (ii) and (iii) (C) (iii) and (iv) (D) (i) and (iv)",
+      "answer": "(A) (i) and (ii)",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (A). X is concave (solar furnace), Y is convex (rear view).",
+      "type": "mcq",
+      "id": "13",
+      "year": "2025"
+    },
+    {
+      "question": "An old person is suffering from an eye defect caused by weakening of ciliary muscles and diminishing flexibility of the eye lens. If the defect of vision is ‘a’ which can be corrected by lens ‘b’, then ‘a’ and ‘b’ respectively are : (A) hypermetropia and convex lens (B) presbyopia and bifocal lens (C) myopia and concave lens (D) myopia and bifocal lens",
+      "answer": "(B) presbyopia and bifocal lens",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (B). The condition described is Presbyopia.",
+      "type": "mcq",
+      "id": "14",
+      "year": "2025"
+    },
+    {
+      "question": "Which of the following groups do not constitute a food chain ? (i) Wolf, rabbit, grass, lion (ii) Plankton, man, grasshopper, fish (iii) Hawk, grass, snake, grasshopper, frog (iv) Grass, snake, wolf, tiger. (A) (i) and (iv) (B) (i) and (iii) (C) (ii) and (iii) (D) (ii) and (iv)",
+      "answer": "(D) (ii) and (iv)",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (D). Group (ii) and (iv) do not represent valid sequential trophic levels.",
+      "type": "mcq",
+      "id": "15",
+      "year": "2025"
+    },
+    {
+      "question": "The percentage of solar energy which is not converted into food energy by the leaves of green plants in a terrestrial ecosystem is about : (A) 1% (B) 10% (C) 90% (D) 99%",
+      "answer": "(D) 99%",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (D). Only about 1% is captured, so 99% is not converted.",
+      "type": "mcq",
+      "id": "16",
+      "year": "2025"
+    },
+    {
+      "question": "Assertion (A) : Decomposition reactions are generally endothermic reactions. Reason (R) : Decomposition of organic matter into compost is an exothermic process. (A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A). (B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A). (C) Assertion (A) is true, but Reason (R) is false. (D) Assertion (A) is false, but Reason (R) is true.",
+      "answer": "(B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (B). Both statements are factually true but R does not explain A.",
+      "type": "mcq",
+      "id": "17",
+      "year": "2025"
+    },
+    {
+      "question": "Assertion (A) : A human child bears all the basic features of human beings. Reason (R) : It looks exactly like its parents, showing very little variations. (A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A). (B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A). (C) Assertion (A) is true, but Reason (R) is false. (D) Assertion (A) is false, but Reason (R) is true.",
+      "answer": "(C) Assertion (A) is true, but Reason (R) is false.",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (C). R is false because sexual reproduction introduces variations.",
+      "type": "mcq",
+      "id": "18",
+      "year": "2025"
+    },
+    {
+      "question": "Assertion (A) : No two magnetic field lines are found to cross each other. Reason (R) : The compass needle cannot point towards two directions at the point of intersection of two magnetic field lines. (A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A). (B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A). (C) Assertion (A) is true, but Reason (R) is false. (D) Assertion (A) is false, but Reason (R) is true.",
+      "answer": "(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (A). R correctly explains why crossing is impossible.",
+      "type": "mcq",
+      "id": "19",
+      "year": "2025"
+    },
+    {
+      "question": "Assertion (A) : The amount of ozone in the atmosphere began to drop sharply in the 1980s. Reason (R) : The oxygen atoms combine with molecular oxygen to form ozone. (A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A). (B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A). (C) Assertion (A) is true, but Reason (R) is false. (D) Assertion (A) is false, but Reason (R) is true.",
+      "answer": "(B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+      "marks": 1,
+      "explanation": "1 mark for the correct option (B). R explains formation, not the drop (depletion).",
+      "type": "mcq",
+      "id": "20",
+      "year": "2025"
+    },
+    {
+      "question": "A student performs the following experiment in his school laboratory. [Diagram showing dilute sulphuric acid and Zn granules]. List two observations to justify that in this experiment a chemical change has taken place.",
+      "answer": "1. Evolution of gas (Hydrogen). 2. Change / Rise in temperature (Heat evolved).",
+      "marks": 2,
+      "explanation": "1 mark for identifying evolution of gas. 1 mark for identifying temperature change.",
+      "type": "subjective",
+      "id": "21",
+      "year": "2025"
+    },
+    {
+      "question": "Draw labelled diagrams to show different stages of budding in Hydra.",
+      "answer": "Draw diagrams depicting: 1. A small bud developing on the parent body. 2. The bud growing and developing tentacles/mouth. 3. The bud detaching from the parent body to become a new individual.",
+      "marks": 2,
+      "explanation": "1 mark for diagrams showing stages. 1 mark for correct labelling (Parent, Bud, New Hydra).",
+      "type": "subjective",
+      "id": "22",
+      "year": "2025"
+    },
+    {
+      "question": "(a) Besides minimising the loss of blood, why is it essential to plug any leak in a blood vessel ? Name the component of blood which helps in this process and state how this component perform this function.\nOR\n(b) (i) The transport system in plants is relatively slower than in animals. Give reasons. (ii) State the role of phloem in the transport of materials in plants.",
+      "answer": "(a) Plugging leaks prevents the lowering of blood pressure, which maintains the efficiency of the pumping system. Component: Platelets. Function: Help to clot the blood at the site of injury.\nOR\n(b) (i) Plants have low energy needs because they have a large proportion of dead cells in many tissues and do not move. (ii) Phloem is responsible for the translocation of soluble products of photosynthesis (food/amino acids) from leaves to other parts of the plant.",
+      "marks": 2,
+      "explanation": "(a) 1 mark for reason (pressure maintenance), 0.5 for Platelets, 0.5 for function. OR (b) 1 mark for reason (low energy needs), 1 mark for role of phloem.",
+      "type": "subjective",
+      "id": "23",
+      "year": "2025"
+    },
+    {
+      "question": "An object is placed at a distance of 60 cm from a concave lens of focal length 30 cm. Use lens formula to find the position of the image formed in this case.",
+      "answer": "Using lens formula: 1/f = 1/v - 1/u.\nGiven: u = -60 cm, f = -30 cm (concave lens).\n1/(-30) = 1/v - 1/(-60)\n-1/30 = 1/v + 1/60\n1/v = -1/30 - 1/60 = (-2 - 1)/60 = -3/60 = -1/20\nv = -20 cm.\nThe image is formed at 20 cm from the concave lens (on the same side as the object).",
+      "marks": 2,
+      "explanation": "1/2 mark for substitution, 1/2 mark for calculation, 1 mark for final answer v = -20 cm.",
+      "type": "subjective",
+      "id": "24",
+      "year": "2025"
+    },
+    {
+      "question": "(a) A wire of resistance R is cut into three equal parts. If these three parts are then joined in parallel, calculate the total resistance of the combination so formed.\nOR\n(b) Define electric power. When do we say that the power consumed in an electric circuit is 1 watt ?",
+      "answer": "(a) Resistance of each part = R/3.\nIn parallel: 1/Rp = 1/(R/3) + 1/(R/3) + 1/(R/3)\n1/Rp = 3/R + 3/R + 3/R = 9/R\nRp = R/9.\nOR\n(b) Electric power is the rate at which electrical energy is consumed or dissipated in an electric circuit. Power is 1 watt when 1 Ampere current flows at a potential difference of 1 Volt (or 1 Joule of energy is consumed in 1 second).",
+      "marks": 2,
+      "explanation": "(a) 1/2 for part resistance, 1/2 for formula, 1 for correct answer R/9. OR (b) 1 mark for definition of power, 1 mark for definition of 1 watt.",
+      "type": "subjective",
+      "id": "25",
+      "year": "2025"
+    },
+    {
+      "question": "“Excessive use of chemicals and pesticides in agriculture adversely effect the environment.” Justify this statement.",
+      "answer": "Chemicals and pesticides used by farmers get washed down into the soil or water bodies, causing pollution. They are mostly non-biodegradable and accumulate progressively at each trophic level (Biological Magnification), affecting the health of organisms and disrupting the ecosystem.",
+      "marks": 2,
+      "explanation": "2 marks for justification mentioning soil/water pollution and biological magnification.",
+      "type": "subjective",
+      "id": "26",
+      "year": "2025"
+    },
+    {
+      "question": "(a) “Displacement reactions also play a key role in extracting metals in the middle of the reactivity series.” Justify this statement with two examples.\n(b) Why can metals high up in the reactivity series not be obtained by reduction of their oxides by carbon ?",
+      "answer": "(a) Metals like Manganese and Iron are obtained from their oxides by heating with Aluminium (Thermite reaction). Examples: 1. 3MnO2(s) + 4Al(s) -> 3Mn(l) + 2Al2O3(s) + Heat. 2. Fe2O3(s) + 2Al(s) -> 2Fe(l) + Al2O3(s) + Heat.\n(b) Metals high in the reactivity series (Na, Mg, Ca) have more affinity for oxygen than carbon does, so carbon cannot reduce their oxides.",
+      "marks": 3,
+      "explanation": "(a) 1 mark for each example/reaction. (b) 1 mark for reason (higher affinity for oxygen).",
+      "type": "subjective",
+      "id": "27",
+      "year": "2025"
+    },
+    {
+      "question": "(a) With the help of an activity, explain the conditions under which iron articles get rusted.\nOR\n(b) (i) Name two metals which react violently with cold water. List any three observations which a student notes when these metal are dropped in a beaker containing water. (ii) Write a test to identify the gas evolved (if any) during the reaction of these metals with water.",
+      "answer": "(a) Take three test tubes A, B, C with iron nails. A: Air and Water (Rusts). B: Boiled water + Oil layer (No Air, No Rust). C: Anhydrous Calcium Chloride (Dry Air, No Rust). This shows rusting requires both air (oxygen) and water (moisture).\nOR\n(b) (i) Metals: Sodium (Na), Potassium (K). Observations: Violent reaction, heat evolved (exothermic), gas catches fire/fizzing. (ii) Test: Bring a burning splinter near the gas bubbles; it burns with a pop sound (Hydrogen).",
+      "marks": 3,
+      "explanation": "(a) 3 marks for describing activity and conclusion. OR (b) (i) 1 mark for metals, 1.5 marks for observations, (ii) 0.5 mark for gas test.",
+      "type": "subjective",
+      "id": "28",
+      "year": "2025"
+    },
+    {
+      "question": "Plants have neither a nervous system nor muscles, even then they respond to stimuli. For example, the leaves of chhui-mui (touch-me-not) plant when touched begin to fold up and droop.\n(a) How is the information communicated in “touch-me-not” plants ?\n(b) What enables the plant cells to bring out the observable response ?\n(c) Differentiate the movement mentioned above from the movement of tendrils in a pea plant.",
+      "answer": "(a) Plants use electrical-chemical means to convey information from cell to cell.\n(b) Plant cells change shape by changing the amount of water in them (swelling or shrinking).\n(c) Touch-me-not movement is growth-independent (Nastic), while tendril movement is growth-dependent (Tropic/Directional).",
+      "marks": 3,
+      "explanation": "1 mark each for (a), (b), and (c).",
+      "type": "subjective",
+      "id": "29",
+      "year": "2025"
+    },
+    {
+      "question": "(a) What are chromosomes ?\n(b) Explain in brief how stability of DNA content of a species is ensured in sexually reproducing organisms ?",
+      "answer": "(a) Chromosomes are structures carrying genes (DNA) located in the nucleus, controlling traits and inheritance.\n(b) During gamete formation (meiosis), the chromosome number is halved (haploid). Fertilization (fusion of gametes) restores the original chromosome number (diploid) and DNA content in the zygote/offspring.",
+      "marks": 3,
+      "explanation": "(a) 1 mark. (b) 2 marks (1 for halving, 1 for restoring).",
+      "type": "subjective",
+      "id": "30",
+      "year": "2025"
+    },
+    {
+      "question": "Draw ray diagrams to show the nature, position and relative size of the image formed by a convex mirror when the object is placed (i) at infinity and (ii) between infinity and pole P of the mirror.",
+      "answer": "(i) Object at infinity: Rays parallel to principal axis diverge from focus F. Image is virtual, erect, highly diminished (point-sized) at F behind the mirror.\n(ii) Object between infinity and P: Image formed between P and F behind the mirror. It is virtual, erect, and diminished.",
+      "marks": 3,
+      "explanation": "1.5 marks for each correct ray diagram showing rays and image position.",
+      "type": "subjective",
+      "id": "31",
+      "year": "2025"
+    },
+    {
+      "question": "Consider the following electric circuit: [Diagram with 10 ohm & 15 ohm in parallel, connected to 60 ohm & 40 ohm in parallel, 15V source]. Calculate the values of the following :\n(a) The total resistance of the circuit\n(b) The total current drawn from the source\n(c) Potential difference across the parallel combination of 10 Ω and 15 Ω resistors",
+      "answer": "(a) Top parallel block (R1): 1/R1 = 1/10 + 1/15 = 5/30 => R1 = 6 ohm.\nBottom parallel block (R2): 1/R2 = 1/60 + 1/40 = 5/120 => R2 = 24 ohm.\nTotal R = R1 + R2 (Series) = 6 + 24 = 30 ohm.\n(b) Total Current I = V / R_total = 15V / 30 ohm = 0.5 A.\n(c) PD across top block = I * R1 = 0.5 A * 6 ohm = 3.0 V.",
+      "marks": 3,
+      "explanation": "1 mark for total resistance calculation. 1 mark for current calculation. 1 mark for potential difference calculation.",
+      "type": "subjective",
+      "id": "32",
+      "year": "2025"
+    },
+    {
+      "question": "(a) Write the relationship between resistivity and resistance of a cylindrical conductor of length l and area of cross-section A. Hence derive the SI unit of resistivity.\n(b) Why are alloys used in electrical heating devices ?",
+      "answer": "(a) R = ρ(l/A) or ρ = (R*A)/l. SI unit: (Ohm * m^2) / m = Ohm-meter (Ωm).\n(b) Alloys generally have higher resistivity than constituent metals and do not oxidize (burn) readily at high temperatures.",
+      "marks": 3,
+      "explanation": "(a) 1 mark for relationship, 1 mark for unit derivation. (b) 1 mark for reason (resistivity/oxidation).",
+      "type": "subjective",
+      "id": "33",
+      "year": "2025"
+    },
+    {
+      "question": "(a) (i) Draw two isomeric structures of Butene (C4H8).\n(ii) Name the following compounds: (I) Chloropropane structure (II) Butanone structure.\n(iii) Write the chemical equations for the following reactions. Mention one essential condition each for these reactions to take place. (I) Ethanol undergoes complete oxidation (II) Propene undergoes hydrogenation (III) Ethanoic acid reacts with ethanol\nOR\n(b) (i) A carbon compound X is a good solvent. On reaction with sodium, X forms two products Y and Z. Z is used to convert vegetable oil into vegetable ghee. Identify and name X, Y and Z. Also write the equation of reaction of X with sodium to justify your answer. (ii) Write chemical equation to show what happens when ethanol : (I) burns in oxygen/air. (II) is heated at 443 K in excess conc. H2SO4. (III) reacts with acidified potassium dichromate.",
+      "answer": "Option (a):\n(i) Structures of But-1-ene and But-2-ene.\n(ii) (I) Chloropropane (II) Butan-2-one.\n(iii) (I) C2H5OH + 3O2 -> 2CO2 + 3H2O (Combustion/Oxidation).\n(II) CH3CH=CH2 + H2 -(Ni/Pd)-> CH3CH2CH3.\n(III) CH3COOH + C2H5OH -(Conc H2SO4)-> CH3COOC2H5 + H2O.\n\nOption (b):\n(i) X: Ethanol (C2H5OH). Y: Sodium Ethoxide (C2H5ONa). Z: Hydrogen (H2). Equation: 2C2H5OH + 2Na -> 2C2H5ONa + H2.\n(ii) (I) C2H5OH + 3O2 -> 2CO2 + 3H2O + Heat/Light.\n(II) C2H5OH -(443K, Conc H2SO4)-> C2H4 (Ethene) + H2O.\n(III) C2H5OH + 2[O] -(Acidified K2Cr2O7)-> CH3COOH + H2O.",
+      "marks": 5,
+      "explanation": "(a) (i) 1 mark, (ii) 1 mark, (iii) 3 marks. OR (b) (i) 2 marks, (ii) 3 marks.",
+      "type": "subjective",
+      "id": "34",
+      "year": "2025"
+    },
+    {
+      "question": "(a) (i) Write the functions of the following parts of human female reproductive system : (I) Ovary (II) Fallopian tube (III) Uterus\n(ii) State briefly two contraceptive methods used by human males.\nOR\n(b) (i) Differentiate between self-pollination and cross-pollination. (ii) Identify A, B and C in the diagram given below and write one function of each. [Diagram of pistil with pollen tube].",
+      "answer": "Option (a):\n(i) (I) Ovary: Produces eggs (ova) and hormones (estrogen/progesterone). (II) Fallopian tube: Site of fertilization. (III) Uterus: Site of implantation and development of the fetus.\n(ii) Condoms (Mechanical barrier), Vasectomy (Surgical method).\n\nOption (b):\n(i) Self-pollination: Transfer of pollen from anther to stigma of same flower. Cross-pollination: Transfer to stigma of another flower.\n(ii) A: Stigma (Receives pollen, provides medium for germination). B: Pollen tube (Carries male gametes to ovary). C: Egg Cell / Ovary (Fuses with male gamete / Site of double fertilization).",
+      "marks": 5,
+      "explanation": "(a) (i) 3 marks, (ii) 2 marks. OR (b) (i) 2 marks, (ii) 3 marks.",
+      "type": "subjective",
+      "id": "35",
+      "year": "2025"
+    },
+    {
+      "question": "(a) (i) The power of a lens ‘X’ is – 2.5 D. Name the lens and determine its focal length in cm. For which eye defect of vision will an optician prescribe this type of lens as a corrective lens?\n(ii) “The value of magnification ‘m’ for a lens is – 2.” Using new Cartesian Sign Convention and considering that an object is placed at a distance of 20 cm from the optical centre of this lens, state : (I) the nature of the image formed; (II) size of the image compared to the size of the object; (III) position of the image, and (IV) sign of the height of the image.\n(iii) The numerical values of the focal lengths of two lenses A and B are 10 cm and 20 cm respectively. Which one of the two will show higher degree of convergence/divergence? Give reason to justify your answer.\nOR\n(b) (i) Draw a ray diagram to show the refraction of a ray of light through a rectangular glass slab when it falls obliquely from air into glass. (ii) State Snell’s law of refraction of light. (iii) Differentiate between the virtual images formed by a convex lens and a concave lens on the basis of : (I) object distance, and (II) magnification.",
+      "answer": "Option (a):\n(i) Concave Lens. P = -2.5 D => f = 1/P = -1/2.5 m = -40 cm. Used for Myopia (Near-sightedness).\n(ii) m = -2 implies Real and Inverted image. Since it forms a real image, it must be a Convex Lens (contradicting part i context if implied, but answer based on m=-2): (I) Real and Inverted. (II) Magnified (2 times). (III) v = m*u = -2 * (-20) = +40 cm (Beyond 2F). (IV) Negative sign (Inverted).\n(iii) Lens A (10 cm). Power is inversely proportional to focal length (P=1/f). Smaller focal length means higher power/degree of convergence/divergence.\n\nOption (b):\n(i) Ray diagram showing refraction through glass slab (incident, refracted, emergent rays, lateral displacement).\n(ii) Snell's Law: The ratio of sine of angle of incidence to sine of angle of refraction is constant for a given pair of media.\n(iii) Convex Lens: Object must be within focal length (u < f), Image is Magnified (|m| > 1). Concave Lens: Object anywhere, Image is Diminished (|m| < 1).",
+      "marks": 5,
+      "explanation": "(a) (i) 2 marks, (ii) 2 marks (0.5 each), (iii) 1 mark. OR (b) (i) 2 marks, (ii) 1 mark, (iii) 2 marks.",
+      "type": "subjective",
+      "id": "36",
+      "year": "2025"
+    },
+    {
+      "question": "Seawater contains many salts dissolved in it. Common salt is separated from these salts... This is called rock salt... (a) Write balanced chemical equations to show the products formed during electrolysis of brine. (b) List two uses of any one product obtained during electrolysis of brine. (c) (i) A mild non-corrosive basic salt ‘A’, used for faster cooking, is strongly heated to produce a compound ‘B’, that is used for removing permanent hardness of water. Identify A and B and also write the equation for the reaction that occurs when A is heated. OR (c) (ii) Define water of crystallisation. Give two examples of salts that have water of crystallisation.",
+      "answer": "(a) 2NaCl(aq) + 2H2O(l) -> 2NaOH(aq) + Cl2(g) + H2(g).\n(b) Uses of NaOH: Making soaps/detergents, Paper making. (Or uses of Cl2/H2).\n(c) (i) A: Baking Soda (Sodium Hydrogen Carbonate, NaHCO3). B: Sodium Carbonate (Na2CO3). Equation: 2NaHCO3 -(Heat)-> Na2CO3 + H2O + CO2.\nOR (c) (ii) Water of crystallization is the fixed number of water molecules present in one formula unit of a salt. Examples: Copper Sulphate (CuSO4.5H2O), Gypsum (CaSO4.2H2O).",
+      "marks": 4,
+      "explanation": "(a) 1 mark. (b) 1 mark. (c) 2 marks.",
+      "type": "subjective",
+      "id": "37",
+      "year": "2025"
+    },
+    {
+      "question": "The maintenance functions of all living organisms must go on even when they are not doing anything particular... (a) Name and define the process by which green plants prepare food. (b) Write chemical equation involved in the above process. (c) (i) State in proper sequence the events that occur in synthesis of food by desert plants. OR (c) (ii) Explain giving reasons what happens to the rate at which the green plants will prepare food (I) during cloudy weather, and (II) when stomata get blocked due to dust.",
+      "answer": "(a) Photosynthesis: The process by which green plants synthesize nutrients (glucose) from CO2 and water using sunlight and chlorophyll.\n(b) 6CO2 + 12H2O -(Sunlight/Chlorophyll)-> C6H12O6 + 6O2 + 6H2O.\n(c) (i) Desert plants take up CO2 at night and prepare an intermediate. During the day, energy absorbed by chlorophyll is used to act on this intermediate to form carbohydrates.\nOR (c) (ii) (I) Rate decreases due to less sunlight intensity. (II) Rate decreases due to reduced gaseous exchange (CO2 intake) through blocked stomata.",
+      "marks": 4,
+      "explanation": "(a) 1 mark. (b) 1 mark. (c) 2 marks.",
+      "type": "subjective",
+      "id": "38",
+      "year": "2025"
+    },
+    {
+      "question": "In our homes, we receive the supply of electric power through a main supply also called mains... (a) Write the colours of the insulation covers of the line wires through which supply comes to our homes. (b) What should be the current rating of the electric circuit (220 V) so that an electric iron of 1 kW power rating can be operated ? (c) (i) What is the function of the earth wire ? State the advantage of the earth wire in domestic electric appliances such as electric iron. OR (c) (ii) List two precautions to be taken to avoid electrical accidents. State how these precautions prevent possible damage to the circuit/appliance.",
+      "answer": "(a) Live wire: Red (or Brown). Neutral wire: Black (or Blue).\n(b) P = 1 kW = 1000 W. V = 220 V. I = P/V = 1000/220 = 4.54 A. The rating should be 5 A.\n(c) (i) Earth wire provides a low-resistance path for leakage current to flow into the earth, preventing electric shock to the user.\nOR (c) (ii) Precautions: 1. Use of Fuse/MCB (Breaks circuit during overload). 2. Proper Earthing (Prevents shock). 3. Good insulation (Prevents short circuit).",
+      "marks": 4,
+      "explanation": "(a) 1 mark. (b) 1 mark. (c) 2 marks.",
+      "type": "subjective",
+      "id": "39",
+      "year": "2025"
+    }
+  ]
+}
