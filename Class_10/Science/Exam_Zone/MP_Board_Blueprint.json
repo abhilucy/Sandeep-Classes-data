@@ -1,0 +1,106 @@
+{
+  "title": "MP Board Class 10 Science Blueprint 2026",
+  "totalMarks": 75,
+  "sections": [
+    {
+      "name": "Objective Type Questions",
+      "marks": 30,
+      "description": "Comprises 30 questions of 1 mark each: MCQs (6), Fill in the blanks (6), True/False (6), Match the columns (6), and One-word answers (6)."
+    },
+    {
+      "name": "Very Short Answer Type",
+      "marks": 24,
+      "description": "12 questions of 2 marks each. Word limit: 30 words."
+    },
+    {
+      "name": "Short Answer Type",
+      "marks": 9,
+      "description": "3 questions of 3 marks each. Word limit: 75 words."
+    },
+    {
+      "name": "Long Answer Type",
+      "marks": 12,
+      "description": "3 questions of 4 marks each. Word limit: 120 words."
+    }
+  ],
+  "chapterWeightage": [
+    {
+      "unit": "Chemical Substances",
+      "chapter": "Chemical Reactions and Equations",
+      "marks": 7,
+      "type": "2 Objective, 1 Short (2m), 1 Short (3m)"
+    },
+    {
+      "unit": "Chemical Substances",
+      "chapter": "Acids, Bases and Salts",
+      "marks": 6,
+      "type": "2 Objective, 1 Long (4m)"
+    },
+    {
+      "unit": "Chemical Substances",
+      "chapter": "Metals and Non-metals",
+      "marks": 5,
+      "type": "3 Objective, 1 Short (2m)"
+    },
+    {
+      "unit": "Chemical Substances",
+      "chapter": "Carbon and its Compounds",
+      "marks": 6,
+      "type": "2 Objective, 1 Long (4m)"
+    },
+    {
+      "unit": "World of Living",
+      "chapter": "Life Processes",
+      "marks": 8,
+      "type": "2 Objective, 1 Short (2m), 1 Long (4m)"
+    },
+    {
+      "unit": "World of Living",
+      "chapter": "Control and Coordination",
+      "marks": 6,
+      "type": "3 Objective, 1 Short (3m)"
+    },
+    {
+      "unit": "World of Living",
+      "chapter": "How do Organisms Reproduce?",
+      "marks": 6,
+      "type": "2 Objective, 2 Short (2m)"
+    },
+    {
+      "unit": "World of Living",
+      "chapter": "Heredity",
+      "marks": 4,
+      "type": "2 Objective, 1 Short (2m)"
+    },
+    {
+      "unit": "Natural Phenomena",
+      "chapter": "Light - Reflection and Refraction",
+      "marks": 8,
+      "type": "2 Objective, 1 Short (2m), 1 Long (4m)"
+    },
+    {
+      "unit": "Natural Phenomena",
+      "chapter": "The Human Eye and the Colourful World",
+      "marks": 5,
+      "type": "2 Objective, 1 Short (3m)"
+    },
+    {
+      "unit": "Effects of Current",
+      "chapter": "Electricity",
+      "marks": 6,
+      "type": "2 Objective, 2 Short (2m)"
+    },
+    {
+      "unit": "Effects of Current",
+      "chapter": "Magnetic Effects of Electric Current",
+      "marks": 6,
+      "type": "3 Objective, 1 Short (3m) or 1 Short (2m) + 1 Obj"
+    },
+    {
+      "unit": "Natural Resources",
+      "chapter": "Our Environment",
+      "marks": 2,
+      "type": "1 Objective, 1 Short (1m/Part of Obj)"
+    }
+  ]
+}
