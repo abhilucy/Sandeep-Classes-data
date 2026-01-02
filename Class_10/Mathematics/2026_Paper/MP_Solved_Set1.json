@@ -1,0 +1,516 @@
+{
+  "questions": [
+    {
+      "id": "q1_i",
+      "question": "The sum of the exponents of the prime factors in the prime factorisation of 144, is :",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Prime factorization of 144: 144 = 12^2 = (2^2 * 3)^2 = 2^4 * 3^2. The exponents are 4 and 2. Their sum is 4 + 2 = 6.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q1_ii",
+      "question": "The sum of sum and product of zeroes of a quadratic polynomial x² + 5x + 7 is :",
+      "options": [
+        "2",
+        "2",
+        "12",
+        "-12"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For ax² + bx + c, Sum of zeroes (α+β) = -b/a = -5/1 = -5. Product of zeroes (αβ) = c/a = 7/1 = 7. Sum of sum and product = -5 + 7 = 2.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q1_iii",
+      "question": "Distance of point (-3, -4) from x-axis is :",
+      "options": [
+        "3",
+        "-3",
+        "4",
+        "-4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The distance of a point (x, y) from the x-axis is |y|. Here, |-4| = 4.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q1_iv",
+      "question": "Arithmetic mean of 4 and 6 is :",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Arithmetic Mean = (4 + 6) / 2 = 10 / 2 = 5.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q1_v",
+      "question": "Discriminant of quadratic equation √2x² - √5x - 3√2 = 0 is :",
+      "options": [
+        "19",
+        "28",
+        "29",
+        "30"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Discriminant D = b² - 4ac. Here a=√2, b=-√5, c=-3√2. D = (-√5)² - 4(√2)(-3√2) = 5 - 4(-6) = 5 + 24 = 29.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q1_vi",
+      "question": "The lines represented by the graph of the pair of equations 3x + 4y = 6 and 6x + 8y + 12 = 0 are mutually :",
+      "options": [
+        "Intersecting",
+        "Parallel",
+        "Coincide",
+        "None of these"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Equations: 3x + 4y - 6 = 0 and 6x + 8y + 12 = 0. Ratios: a1/a2 = 3/6 = 1/2; b1/b2 = 4/8 = 1/2; c1/c2 = -6/12 = -1/2. Since a1/a2 = b1/b2 ≠ c1/c2, the lines are parallel.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q2_i",
+      "question": "If a line divides any two sides of a triangle in the same ratio, then the line is ................... to the third side.",
+      "answer": "parallel",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q2_ii",
+      "question": "The formula for the length of the arc of a circle of radius r and angle θ, is...................",
+      "answer": "(θ/360) × 2πr",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q2_iii",
+      "question": "nth term of A.P.: 4, 6, 8, 10, … is ...................",
+      "answer": "2n + 2",
+      "explanation": "a=4, d=2. an = a + (n-1)d = 4 + (n-1)2 = 4 + 2n - 2 = 2n + 2.",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q2_iv",
+      "question": "The roots of the quadratic equation 3x² - 6x + k = 0 are equal, then k = ....................",
+      "answer": "3",
+      "explanation": "For equal roots, Discriminant b²-4ac = 0. (-6)² - 4(3)(k) = 0 => 36 - 12k = 0 => 12k = 36 => k = 3.",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q2_v",
+      "question": "The part of the circular region enclosed by the chord and the corresponding arc is called ................... of the circle.",
+      "answer": "segment",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q2_vi",
+      "question": "If the height of a pole and its shadow are equal, then the angle of elevation of the Sun will be...................",
+      "answer": "45°",
+      "explanation": "tan θ = height/shadow = 1. θ = 45°.",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q3_i",
+      "question": "If the vertical angles two isosceles triangles are equal, then they are similar.",
+      "answer": "True",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q3_ii",
+      "question": "The midpoint of the line segment joining the points (-3, 0) and (3, 0) will be the origin.",
+      "answer": "True",
+      "explanation": "Midpoint = ((-3+3)/2, (0+0)/2) = (0, 0).",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q3_iii",
+      "question": "The region bounded by two radii and the corresponding chord of a circle is called a sector.",
+      "answer": "False",
+      "explanation": "It is bounded by two radii and an arc, not a chord. Or, region by chord and arc is segment.",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q3_iv",
+      "question": "Two tangents can be drawn at a point on a circle.",
+      "answer": "False",
+      "explanation": "Only one tangent can be drawn at a point lying on the circle.",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q3_v",
+      "question": "A tangent to a circle intersects the circle at only one point.",
+      "answer": "True",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q3_vi",
+      "question": "The empirical relationship between the three measures of central tendency is “3 median = mean + 2 mode”.",
+      "answer": "False",
+      "explanation": "Correct relationship is 3 Median = Mode + 2 Mean.",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "Match the columns :\n(i) The probability of an event that cannot happen\n(ii) The value of cot 30°\n(iii) The value of cosec 30°\n(iv) sec²θ - tan²θ =\n(v) Curved surface area of the cylinder\n(vi) Total surface area of the hemisphere\n\nOptions:\n(a) 2\n(b) 1\n(c) 3πr²\n(d) 2πrh\n(e) √3\n(f) 0",
+      "answer": "(i)-(f), (ii)-(e), (iii)-(a), (iv)-(b), (v)-(d), (vi)-(c)",
+      "type": "subjective",
+      "marks": 6
+    },
+    {
+      "id": "q5_i",
+      "question": "Write the definition of angle of elevation.",
+      "answer": "The angle formed by the line of sight with the horizontal when an object is viewed above the horizontal level.",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q5_ii",
+      "question": "Write the formula for the sum of n terms of an arithmetic progression with first term a and the common difference d.",
+      "answer": "Sn = n/2 [2a + (n-1)d]",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q5_iii",
+      "question": "Write the number of all possible outcomes obtained when a coin is tossed three times.",
+      "answer": "8",
+      "explanation": "2³ = 8 outcomes.",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q5_iv",
+      "question": "Write the value of the distance of point (a, b) from the origin.",
+      "answer": "√(a² + b²)",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q5_v",
+      "question": "Write the definition of a secant of the circle.",
+      "answer": "A line that intersects a circle at two distinct points.",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q5_vi",
+      "question": "Write the statement of Basic Proportionality Theorem.",
+      "answer": "If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, the other two sides are divided in the same ratio.",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "Given HCF (156, 132) = 12. Find the LCM (156, 132).",
+      "answer": "1716",
+      "explanation": "LCM × HCF = Product of numbers. LCM × 12 = 156 × 132. LCM = (156 × 132)/12 = 156 × 11 = 1716.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q6_or",
+      "question": "Explain why 7 x 11 x 13 + 13 is a composite number?",
+      "answer": "It can be written as 13(7 x 11 + 1) = 13(77+1) = 13 x 78. Since it has factors 13 and 78 other than 1 and itself, it is a composite number.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "Which term of A.P. : 4, 9, 14, 19,… is 124?",
+      "answer": "25th term",
+      "explanation": "a=4, d=5, an=124. 124 = 4 + (n-1)5 => 120 = 5(n-1) => 24 = n-1 => n=25.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q7_or",
+      "question": "Which term of the A.P.: 3, 15, 27, 39,… will be 132 more than its 54th term?",
+      "answer": "65th term",
+      "explanation": "Let nth term be required term. an = a54 + 132. a + (n-1)d = a + 53d + 132. (n-1)d = 53d + 132. d=12. (n-1)12 = 53(12) + 132. Divide by 12: n-1 = 53 + 11 = 64. n = 65.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "Find the zeroes of the quadratic polynomial 2x² + x - 6.",
+      "answer": "3/2, -2",
+      "explanation": "2x² + 4x - 3x - 6 = 2x(x+2) - 3(x+2) = (2x-3)(x+2). Zeroes are x=3/2 and x=-2.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q8_or",
+      "question": "If α and β are the zeroes of polynomial x² + 2x + 3 then find the value of (α + β)² - 2αβ.",
+      "answer": "-2",
+      "explanation": "Sum (α+β) = -2, Product (αβ) = 3. Value = (-2)² - 2(3) = 4 - 6 = -2.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "Find a quadratic polynomial, the sum and product of whose zeroes are 2/3 and 3/4 respectively.",
+      "answer": "12x² - 8x + 9",
+      "explanation": "Polynomial k[x² - (sum)x + product]. k[x² - (2/3)x + (3/4)]. Take k=12 (LCM of 3,4). 12x² - 8x + 9.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q9_or",
+      "question": "Find a quadratic polynomial whose zeroes are 5 and -7.",
+      "answer": "x² + 2x - 35",
+      "explanation": "Sum = 5 + (-7) = -2. Product = 5(-7) = -35. Poly: x² - (-2)x + (-35) = x² + 2x - 35.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "Solve the pair of linear equations 8x + 5y = 9 and 3x + 2y = 4.",
+      "answer": "x = -2, y = 5",
+      "explanation": "Multiplying second eq by 2: 6x + 4y = 8. Multiply first by 2 and second by 5? Let's use substitution or elimination. Multiply eq2 by 4: 12x+8y=16. Multiply eq1 by 2: 16x+10y=18. \nCorrect elimination: Multiply eq2 by 5: 15x + 10y = 20. Multiply eq1 by 2: 16x + 10y = 18. Subtract: (16x-15x) = 18-20 => x = -2. Substitute x=-2 in eq2: 3(-2) + 2y = 4 => -6 + 2y = 4 => 2y = 10 => y = 5.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q10_or",
+      "question": "Two railway tracks are represented by the equations x + 2y - 4 = 0 and 2x + 4y - 12 = 0. Will the railway tracks cross each other?",
+      "answer": "No",
+      "explanation": "Check condition for parallel lines. a1/a2 = 1/2. b1/b2 = 2/4 = 1/2. c1/c2 = -4/-12 = 1/3. Since a1/a2 = b1/b2 ≠ c1/c2, lines are parallel and will not cross.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "Find the area of a quadrant of a circle whose circumference is 22 cm.",
+      "answer": "9.625 cm²",
+      "explanation": "2πr = 22 => 2(22/7)r = 22 => r = 7/2 = 3.5cm. Area of quadrant = (1/4)πr² = (1/4)(22/7)(3.5)(3.5) = (1/4)(22)(0.5)(3.5) = (11/2)(0.5)(3.5) = 5.5 * 1.75 = 9.625 cm² (or 77/8 cm²).",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q11_or",
+      "question": "The length of the minute hand of a clock is 14 cm. Find the area swept by the minute hand in 5 minutes.",
+      "answer": "51.33 cm²",
+      "explanation": "Angle in 5 mins = (360/60)*5 = 30°. Area = (30/360)πr² = (1/12)(22/7)(14)(14) = (1/12)(22)(2)(14) = (1/3)(11)(14) = 154/3 cm².",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "question": "The length of the shadow of a vertical pole of length 6 m on the ground is 4 m. whereas at the same time the length of the shadow of a tower is 28 m. Find the height of the tower.",
+      "answer": "42 m",
+      "explanation": "Triangles formed are similar (sun's elevation is same). h_pole/shadow_pole = h_tower/shadow_tower => 6/4 = h/28 => h = (6/4)*28 = 6*7 = 42m.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q12_or_geo",
+      "question": "In the given figure, DE || BC and AD = 2cm, DB = 3cm and AE = 5cm then find EC.",
+      "answer": "7.5 cm",
+      "explanation": "By BPT, AD/DB = AE/EC => 2/3 = 5/EC => EC = (3*5)/2 = 15/2 = 7.5 cm.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "question": "Find the point on the x-axis which is equidistant from points (2,-5) and (-2, 9).",
+      "answer": "(-7, 0)",
+      "explanation": "Let point be P(x,0). PA² = PB². (x-2)² + (0+5)² = (x+2)² + (0-9)². x²-4x+4+25 = x²+4x+4+81. -4x+29 = 4x+85. -8x = 56. x = -7.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q13_or",
+      "question": "Find the coordinates of the point which divides the line segment joining the points (-1, 7) and (4,-3) in the ratio 2:3.",
+      "answer": "(1, 3)",
+      "explanation": "Using section formula: x = (m1x2 + m2x1)/(m1+m2) = (2*4 + 3*(-1))/5 = (8-3)/5 = 1. y = (m1y2 + m2y1)/(m1+m2) = (2*(-3) + 3*7)/5 = (-6+21)/5 = 15/5 = 3.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q14",
+      "question": "If 15cot A = 8, then find the value of sin A and sec A.",
+      "answer": "sin A = 15/17, sec A = 17/8",
+      "explanation": "cot A = 8/15. Base=8, Perp=15. Hypotenuse=√(8²+15²) = 17. sin A = 15/17, sec A = 17/8.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q14_or",
+      "question": "Find the value of (2 tan 30°) / (1 - tan² 30°).",
+      "answer": "√3",
+      "explanation": "tan 30° = 1/√3. Numerator = 2/√3. Denominator = 1 - 1/3 = 2/3. Expression = (2/√3) / (2/3) = 3/√3 = √3. Also equals tan 60°.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q15",
+      "question": "The length of a tangent from a point A at a distance 5 cm from the centre of the circle is 4 cm. Find the radius of the circle.",
+      "answer": "3 cm",
+      "explanation": "Using Pythagoras in right triangle (Radius-Tangent-Distance): r² + tangent² = distance². r² + 4² = 5². r² = 25 - 16 = 9. r = 3.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q15_or",
+      "question": "Two concentric circles are of radii 5 cm and 3 cm. Find the length of the chord of the larger circle which touches the smaller circle.",
+      "answer": "8 cm",
+      "explanation": "The chord touches smaller circle, so radius (3) is perpendicular to chord. It bisects the chord. In right triangle formed by radius of large circle (5), radius of small circle (3) and half-chord (x): x² + 3² = 5². x² = 16 => x=4. Total length = 2x = 8 cm.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q16",
+      "question": "A card is drawn from a well shuffled deck of 52 cards. Find the probability of getting a red king.",
+      "answer": "1/26",
+      "explanation": "Number of red kings = 2 (King of Hearts, King of Diamonds). Total cards = 52. Probability = 2/52 = 1/26.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q16_or",
+      "question": "Somehow 12 defective pens are accidentally mixed with 132 good ones. It cannot be told whether a pen is bad or good just by looking at it. From this mixture, a pen is drawn at random. Find the probability that the drawn pen is good.",
+      "answer": "11/12",
+      "explanation": "Total pens = 132 + 12 = 144. Good pens = 132. Probability = 132/144 = 11/12.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "question": "A box contains 90 discs which are numbered from 1 to 90. If one disc is drawn at random from the box, find the probability that it bears a perfect square number.",
+      "answer": "1/10",
+      "explanation": "Perfect squares between 1 and 90: 1, 4, 9, 16, 25, 36, 49, 64, 81. Count = 9. Total = 90. Probability = 9/90 = 1/10.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q17_or",
+      "question": "A bag contains 3 red, 2 white and 5 black balls. A ball is drawn at random from this bag. Find the probability that it is not a red.",
+      "answer": "7/10",
+      "explanation": "Total balls = 3+2+5 = 10. Not red = White + Black = 2 + 5 = 7. Probability = 7/10.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "question": "The altitude of a right triangle is 7 cm less than its base. If the hypotenuse is 13 cm, find the other two sides.",
+      "answer": "Base = 12 cm, Altitude = 5 cm",
+      "explanation": "Let base = x. Altitude = x-7. x² + (x-7)² = 13². x² + x² - 14x + 49 = 169. 2x² - 14x - 120 = 0. x² - 7x - 60 = 0. (x-12)(x+5)=0. x=12 (side > 0). Altitude = 5.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q18_or",
+      "question": "Find the roots of the quadratic equation √2x² + 7x + 5√2 = 0.",
+      "answer": "-√2, -5/√2",
+      "explanation": "√2x² + 2x + 5x + 5√2 = 0. √2x(x + √2) + 5(x + √2) = 0. (√2x + 5)(x + √2) = 0. x = -5/√2 or x = -√2.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q19",
+      "question": "From the top of a 7 m high building, the angle of elevation of the top of a cable tower is 60° and the angle of depression of its foot is 45°. Find the height of the tower.",
+      "answer": "7(√3 + 1) m",
+      "explanation": "Let height of tower H = 7 + h. Distance between building and tower = d. From depression 45°, tan 45 = 7/d => d=7. From elevation 60°, tan 60 = h/d => √3 = h/7 => h=7√3. Total height = 7 + 7√3 = 7(1+√3)m.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q19_or",
+      "question": "From a point on the ground, the angles of elevation of the base and the top of communication tower mounted on the top of a 20m tall building are 45° and 60° respectively. Find the height of the tower.",
+      "answer": "20(√3 - 1) m",
+      "explanation": "Let tower height be h. Building height = 20. Distance of point = d. tan 45 = 20/d => d=20. tan 60 = (20+h)/d => √3 = (20+h)/20 => 20√3 = 20 + h => h = 20(√3 - 1).",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q20",
+      "question": "Prove that 3 + 2√5 is an irrational number.",
+      "answer": "Proof provided in explanation.",
+      "explanation": "Assume 3+2√5 is rational = a/b. 2√5 = a/b - 3. √5 = (a-3b)/2b. Since a,b are integers, RHS is rational. But √5 is irrational. Contradiction. Hence irrational.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q20_or",
+      "question": "Check whether 6ⁿ can end with the digit 0 for any natural number n.",
+      "answer": "No",
+      "explanation": "6ⁿ = (2×3)ⁿ = 2ⁿ × 3ⁿ. Prime factorization contains only 2 and 3. For a number to end in 0, it must have factors 2 and 5. Since 5 is missing, 6ⁿ cannot end with 0.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q21",
+      "question": "If 2 is added to both the numerator and denominator of a fraction, then it becomes 9/11. If 3 is added to both the numerator and the denominators, it becomes 5/6. Find the fraction.",
+      "answer": "7/9",
+      "explanation": "Fraction x/y. (x+2)/(y+2)=9/11 => 11x-9y=-4. (x+3)/(y+3)=5/6 => 6x-5y=-3. Solving system: x=7, y=9.",
+      "type": "subjective",
+      "marks": 4
+    },
+    {
+      "id": "q21_or",
+      "question": "The sum of the digits of a two-digit number is 9. Nine times this number is twice the number obtained by reversing the order of the digits of the number. Find that number.",
+      "answer": "18",
+      "explanation": "Let number be 10x+y. x+y=9. 9(10x+y) = 2(10y+x) => 90x+9y = 20y+2x => 88x = 11y => y=8x. Substitute in x+y=9: x+8x=9 => 9x=9 => x=1, y=8. Number is 18.",
+      "type": "subjective",
+      "marks": 4
+    },
+    {
+      "id": "q22",
+      "question": "A vessel is in the shape of a hollow hemisphere on which a hollow cylinder is mounted. The diameter of the hemisphere is 14 cm and the total height of the vessel is 13 cm. Find the internal surface area of the vessel.",
+      "answer": "572 cm²",
+      "explanation": "Radius r=7. Total h=13. Height of cylinder h_cyl = 13-7=6. Surface area = CSA_cyl + CSA_hemi = 2πrh + 2πr² = 2πr(h+r) = 2(22/7)(7)(6+7) = 44(13) = 572.",
+      "type": "subjective",
+      "marks": 4
+    },
+    {
+      "id": "q22_or",
+      "question": "A cubical block of side 7 cm is surmounted by a hemisphere. What is the greatest diameter the hemisphere can have? Find the surface area of the solid.",
+      "answer": "Max diameter = 7 cm, Surface Area = 332.5 cm²",
+      "explanation": "Max diam = side = 7. Radius r = 3.5. TSA = TSA_cube - Base_hemi + CSA_hemi = 6a² - πr² + 2πr² = 6a² + πr² = 6(49) + (22/7)(3.5)(3.5) = 294 + 38.5 = 332.5.",
+      "type": "subjective",
+      "marks": 4
+    },
+    {
+      "id": "q23",
+      "question": "The following table gives the literacy rate (in percentage) of 35 cities.\nLiteracy Rate (in %) | 45 - 55 | 55 - 65 | 65 - 75 | 75 - 85 | 85 - 95\nNumber of Cities | 3 | 10 | 11 | 8 | 3\nFind the mean literacy rate.",
+      "answer": "69.43 %",
+      "explanation": "Class marks (xi): 50, 60, 70, 80, 90. fi: 3, 10, 11, 8, 3. fixi: 150, 600, 770, 640, 270. Sum fixi = 2430. Sum fi = 35. Mean = 2430/35 ≈ 69.43.",
+      "type": "subjective",
+      "marks": 4
+    },
+    {
+      "id": "q23_or",
+      "question": "A survey conducted by a group of students on 20 families in a locality resulted in the following data regarding the number of members in different families:\nFamily size | 1 - 3 | 3 – 5 | 5 – 7 | 7 – 9 | 9 - 11\nNumber of families | 7 | 8 | 2 | 2 | 1\nFind the mode of this data.",
+      "answer": "3.286",
+      "explanation": "Modal class is 3-5 (max freq 8). l=3, f1=8, f0=7, f2=2, h=2. Mode = l + [(f1-f0)/(2f1-f0-f2)]*h = 3 + [(8-7)/(16-7-2)]*2 = 3 + [1/7]*2 = 3 + 0.286 = 3.286.",
+      "type": "subjective",
+      "marks": 4
+    }
+  ]
+}
