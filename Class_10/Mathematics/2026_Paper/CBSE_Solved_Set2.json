@@ -1,0 +1,470 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "question": "The exponent of 3 in the prime factorization of 2025 is",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Prime factorization of 2025: $2025 = 5^2 \\times 81 = 5^2 \\times 3^4$. The exponent of 3 is 4.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "If $2024x + 2025y = 1$ ; $2025x + 2024y = -1$, then $x - y =$",
+      "options": [
+        "A) 0",
+        "B) – 2",
+        "C) 2",
+        "D) – 1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Subtract the second equation from the first: $(2024x + 2025y) - (2025x + 2024y) = 1 - (-1) \\Rightarrow -x + y = 2 \\Rightarrow -(x - y) = 2 \\Rightarrow x - y = -2$.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "The number of polynomials having − 2 and 5 as its zeroes is",
+      "options": [
+        "A) one",
+        "B) two",
+        "C) three",
+        "D) Infinitely many"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A polynomial with zeroes $\\alpha, \\beta$ is given by $k(x-\\alpha)(x-\\beta)$ where $k$ is any non-zero constant. Since $k$ can take infinitely many values, there are infinitely many such polynomials.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following is not a quadratic equation?",
+      "options": [
+        "A) $(x + 2)^2 = 2(x + 3)$",
+        "B) $x^2 + 3x = (-1)(1 - 3x^2)$",
+        "C) $(x + 2)(x - 1) = x^2 - 2x - 3$",
+        "D) $x^3 - x^2 + 2x + 1 = (x + 1)^3$"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Option C: $(x+2)(x-1) = x^2 + x - 2$. The equation becomes $x^2 + x - 2 = x^2 - 2x - 3$. The $x^2$ terms cancel out, leaving a linear equation $3x + 1 = 0$, which is not quadratic.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "The value of x for which 2x, (x + 10) and (3x + 2) are the three consecutive terms of an AP is",
+      "options": [
+        "A) 6",
+        "B) − 6",
+        "C) −2",
+        "D) 2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For an AP, $2b = a + c$. Here $2(x+10) = 2x + (3x+2) \\Rightarrow 2x + 20 = 5x + 2 \\Rightarrow 18 = 3x \\Rightarrow x = 6$.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "If $1 + 2 + 3 + 4 + \\dots + 50 = 25k$, then k =",
+      "options": [
+        "A) 50",
+        "B) 51",
+        "C) 49",
+        "D) 26"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sum of first n natural numbers is $\\frac{n(n+1)}{2}$. Sum = $\\frac{50 \\times 51}{2} = 25 \\times 51$. Given $25 \\times 51 = 25k$, so $k = 51$.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q7",
+      "question": "The distance between the points (cos30°, sin30°) and (cos60°, – sin 60°) is",
+      "options": [
+        "A) 0 unit",
+        "B) $\\sqrt{3}$ units",
+        "C) 1 unit",
+        "D) $\\sqrt{2}$ units"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Points are $(\\frac{\\sqrt{3}}{2}, \t\\frac{1}{2})$ and $(\\frac{1}{2}, -\\frac{\\sqrt{3}}{2})$. Distance formula: $d^2 = (\\frac{\\sqrt{3}-1}{2})^2 + (\\frac{1+\\sqrt{3}}{2})^2 = \\frac{1}{4}(3-2\\sqrt{3}+1 + 1+2\\sqrt{3}+3) = \\frac{8}{4} = 2$. Distance = $\\sqrt{2}$.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q8",
+      "question": "The co-ordinates of the point which is mirror image of the point ( −3, 5) about x-axis are",
+      "options": [
+        "A) (3, 5)",
+        "B) (3, −5)",
+        "C) ( −3, −5)",
+        "D) ( −3, 5)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The mirror image of $(x, y)$ about the x-axis is $(x, -y)$. Image of $(-3, 5)$ is $(-3, -5)$.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q9",
+      "question": "If in $\\Delta ABC$ and $\\Delta DEF$, $\\frac{AB}{EF} = \\frac{AC}{DE}$ then they will be similar when",
+      "options": [
+        "A) $\\angle A = \\angle D$",
+        "B) $\\angle A = \\angle E$",
+        "C) $\\angle C = \\angle F$",
+        "D) $\\angle B = \\angle E$"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For similarity by SAS criterion, the included angles between proportional sides must be equal. Sides AB, AC enclose $\\angle A$. Sides EF, DE enclose $\\angle E$. Thus, $\\angle A = \\angle E$.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q10",
+      "question": "If $\\Delta ABC \\sim \\Delta PQR$, then perimeter of the triangle PQR (in cm) is\n[Diagram showing right-angled triangle ABC with sides AB=3cm (height), BC=4cm (base), and triangle PQR with side PR=10cm (hypotenuse)]",
+      "options": [
+        "A) 12",
+        "B) 24",
+        "C) 18",
+        "D) 20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In $\\Delta ABC$, $AC = \\sqrt{3^2+4^2} = 5$ cm. Since $\\Delta ABC \\sim \\Delta PQR$, ratio of perimeters equals ratio of corresponding sides. Ratio = $PR/AC = 10/5 = 2$. Perimeter of ABC = $3+4+5=12$. Perimeter PQR = $2 \\times 12 = 24$.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q10_vi",
+      "question": "For visually Impaired students only: If $\\Delta ABC \\sim \\Delta PQR$, where AB = 3cm, BC = 4cm, AC = 5cm and PR = 10cm, then perimeter of the triangle PQR (in cm) is",
+      "options": [
+        "A) 12",
+        "B) 24",
+        "C) 18",
+        "D) 20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perimeter of ABC = $3+4+5=12$ cm. Corresponding sides ratio $k = PR/AC = 10/5 = 2$. Perimeter of PQR = $k \\times$ Perimeter ABC = $2 \\times 12 = 24$ cm.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q11",
+      "question": "In the figure given below, radius r of the circle which touches the sides of the triangle is\n[Diagram showing a right-angled triangle with hypotenuse 25cm and one leg 24cm. A circle is inscribed touching the sides. Radius is labeled 'r'.]",
+      "options": [
+        "A) 3 cm",
+        "B) 6 cm",
+        "C) 7 cm",
+        "D) 4 cm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The triangle is a right-angled triangle (indicated by arrow markers typically for hypotenuse/legs). Third side (base) = $\\sqrt{25^2 - 24^2} = \\sqrt{49} = 7$ cm. For a right triangle, inradius $r = (a+b-c)/2 = (24+7-25)/2 = 6/2 = 3$ cm.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q11_vi",
+      "question": "For visually Impaired students only: From a point P, which is at a distance of 26cm from the centre O of a circle with radius 10 cm, the pair of tangents PQ and PR to the circle are drawn. Then the area of the quadrilateral PQOR (in cm²) is",
+      "options": [
+        "A) 220",
+        "B) 240",
+        "C) 260",
+        "D) 280"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Length of tangent $PQ = \\sqrt{OP^2 - r^2} = \\sqrt{26^2 - 10^2} = \\sqrt{676-100} = \\sqrt{576} = 24$ cm. Area of $\\Delta POQ = 0.5 \\times base \\times height = 0.5 \\times 10 \\times 24 = 120$. Area of quadrilateral PQOR = $2 \\times$ Area of $\\Delta POQ = 2 \\times 120 = 240$ cm².",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q12",
+      "question": "Which one of the following is not equal to Unity?",
+      "options": [
+        "A) $\\sin^2 x + \\cos^2 x$",
+        "B) $\\cot^2 x - \\text{cosec}^2 x$",
+        "C) $\\sec^2 x - \\tan^2 x$",
+        "D) $\\tan x \\cdot \\cot x$"
+      ],
+      "correctAnswer": 1,
+      "explanation": "We know $1 + \\cot^2 x = \\text{cosec}^2 x$, so $\\cot^2 x - \\text{cosec}^2 x = -1$, which is not equal to Unity (1).",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q13",
+      "question": "Consider the following frequency distribution\nClass: 0–5, 5–10, 10–15, 15–20, 20–25\nFrequency: 11, 12, 13, 9, 11\nThe upper limit of median class is",
+      "options": [
+        "A) 10",
+        "B) 13",
+        "C) 15",
+        "D) 20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Total frequency $N = 11+12+13+9+11 = 56$. $N/2 = 28$. Cumulative frequencies: 11, 23, 36... The 28th item falls in the class where CF reaches 36, which is 10–15. The upper limit is 15.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q14",
+      "question": "Let empirical relationship between the three measures of central tendency be a(Median) = Mode + b(Mean), then (2b + 3a) =",
+      "options": [
+        "A) 11",
+        "B) 12",
+        "C) 13",
+        "D) 14"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The empirical formula is $3 \\text{Median} = \\text{Mode} + 2 \\text{Mean}$. Comparing with $a(\\text{Median}) = \\text{Mode} + b(\\text{Mean})$, we get $a=3$ and $b=2$. Value of $2b + 3a = 2(2) + 3(3) = 4 + 9 = 13$.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q15",
+      "question": "From an external point Q, the length of tangent to a circle is 12 cm and the distance of Q from the centre of circle is 13 cm. The radius of circle (in cm) is",
+      "options": [
+        "A) 10",
+        "B) 5",
+        "C) 12",
+        "D) 7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Using Pythagoras theorem in the right triangle formed by radius, tangent and distance line: $r = \\sqrt{13^2 - 12^2} = \\sqrt{169-144} = \\sqrt{25} = 5$ cm.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q16",
+      "question": "In the given figure, PA is a tangent from an external point P to a circle with centre O and diameter AB. If $\\angle POB=115^\\circ$, then measure of $\\angle APO$ is",
+      "options": [
+        "A) 25°",
+        "B) 30°",
+        "C) 20°",
+        "D) 65°"
+      ],
+      "correctAnswer": 0,
+      "explanation": "$\\angle POA = 180^\\circ - 115^\\circ = 65^\\circ$ (Linear Pair). Radius OA is perpendicular to tangent PA, so $\\angle OAP = 90^\\circ$. In $\\Delta PAO$, $\\angle APO = 180^\\circ - (90^\\circ + 65^\\circ) = 25^\\circ$.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q16_vi",
+      "question": "For visually Impaired students only: At one end A of a diameter AB of a circle with radius 13 cm, tangent XAY is drawn to the circle. The length of the chord CD parallel to XY and at a distance 18 cm from A is",
+      "options": [
+        "A) 24 cm",
+        "B) 25 cm",
+        "C) 26 cm",
+        "D) 18 cm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Diameter AB passes through center O. Tangent at A is perpendicular to AB. Chord CD is parallel to tangent, so perpendicular to diameter. A is on circle. Center O is 13 cm from A. Chord is 18 cm from A. Distance of chord from center = $|18 - 13| = 5$ cm. Length of chord = $2\\sqrt{r^2 - d^2} = 2\\sqrt{13^2 - 5^2} = 2(12) = 24$ cm.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q17",
+      "question": "The circumferences of two circles are in the ratio 3 : 4. The ratio of their areas is",
+      "options": [
+        "A) 3 : 4",
+        "B) 4 : 3",
+        "C) 9 : 16",
+        "D) 16 : 9"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ratio of circumferences = Ratio of radii = $3:4$. Ratio of areas = $(\\text{Ratio of radii})^2 = (3/4)^2 = 9:16$.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q18",
+      "question": "An event is most unlikely to happen. Its probability is",
+      "options": [
+        "A) 0.0001",
+        "B) 0.001",
+        "C) 0.01",
+        "D) 0.1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The probability closest to 0 indicates the event is most unlikely. 0.0001 is the smallest value among the options.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q19",
+      "question": "ASSERTION (A): Line joining the midpoints of two sides of triangle is parallel to the third side.\nREASON (R): If a line divides two sides of a triangle in the same ratio then it is parallel to the third side.",
+      "options": [
+        "A) Both assertion (A) and reason (R) are true and reason (R) is the correct explanation of assertion (A).",
+        "B) Both assertion (A) and reason (R) are true but reason (R) is not the correct explanation of assertion (A).",
+        "C) Assertion (A) is true but reason (R) is false.",
+        "D) Assertion (A) is false but reason (R) is true."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Assertion A is the Midpoint Theorem, which is true. Reason R is the Converse of Basic Proportionality Theorem, which is true. Since the midpoint divides sides in ratio 1:1 (same ratio), the Converse BPT explains why the line is parallel.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "question": "ASSERTION (A): Two coins are tossed simultaneously. Possible outcomes are two heads, one head and one tail, two tails. Hence, the probability of getting two heads is 1/3.\nREASON (R): Probabilities of ‘equally likely’ outcomes of an experiment are always equal.",
+      "options": [
+        "A) Both assertion (A) and reason (R) are true and reason (R) is the correct explanation of assertion (A).",
+        "B) Both assertion (A) and reason (R) are true but reason (R) is not the correct explanation of assertion (A).",
+        "C) Assertion (A) is true but reason (R) is false.",
+        "D) Assertion (A) is false but reason (R) is true."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Assertion A is false because the sample space is {HH, HT, TH, TT}, total 4 outcomes. 'One head and one tail' corresponds to {HT, TH} (2 outcomes). Probability of two heads (HH) is 1/4, not 1/3. Reason R is true.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q21",
+      "question": "(A) Show that the number $2 \\times 5 \\times 7 \\times 11 + 11 \\times 13$ is a composite number.\nOR\n(B) Find the smallest number which is divisible by both 306 and 657.",
+      "answer": "(A) Composite. (B) 22338",
+      "explanation": "(A) Factor out 11: $11(2 \\times 5 \\times 7 + 13) = 11(70 + 13) = 11 \\times 83$. Since it has factors 11 and 83 other than 1 and itself, it is composite.\n(B) Smallest number divisible is LCM(306, 657). $306 = 2 \\times 3^2 \\times 17$. $657 = 3^2 \\times 73$. LCM = $2 \\times 3^2 \\times 17 \\times 73 = 18 \\times 17 \\times 73 = 22338$.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q22",
+      "question": "Find the radius of the circle with centre at origin, if line l given by $x + y = 5$ is tangent to the circle at point P.\n\nFor visually Impaired students only: Find the radius of the circle whose end points of a diameter are (0, 0) and (6, 8).",
+      "answer": "Radius = $5\\sqrt{2}/2$ or $5/\\sqrt{2}$ units. (VI: 5 units)",
+      "explanation": "Radius is the perpendicular distance from center (0,0) to tangent $x+y-5=0$. $r = |1(0) + 1(0) - 5| / \\sqrt{1^2+1^2} = 5/\\sqrt{2} = 2.5\\sqrt{2}$.\nVI: Diameter length = $\\sqrt{(6-0)^2 + (8-0)^2} = \\sqrt{36+64} = 10$. Radius = 5.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q23",
+      "question": "If the zeroes of the quadratic polynomial $x^2 + (a + 1)x + b$ are 2 and – 3, then find the values of a and b.",
+      "answer": "a = 0, b = -6",
+      "explanation": "Sum of zeroes: $2 + (-3) = -1 = -(a+1)/1 \\Rightarrow a+1 = 1 \\Rightarrow a = 0$. Product of zeroes: $2 \\times (-3) = -6 = b/1 \\Rightarrow b = -6$.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q24",
+      "question": "Find the nature of roots of the quadratic equation $x^2 + 4x - 3\\sqrt{2} = 0$.",
+      "answer": "Real and distinct roots",
+      "explanation": "Discriminant $D = b^2 - 4ac = 4^2 - 4(1)(-3\\sqrt{2}) = 16 + 12\\sqrt{2}$. Since $D > 0$, the roots are real and distinct.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q25",
+      "question": "(A) Evaluate : $2 \\sin 30^\\circ \\tan 60^\\circ - 3 \\cos^2 60^\\circ \\sec^2 30^\\circ$\nOR\n(B) If $\\sin x = 7/25$, where x is an acute angle, then find the value of $\\sin x \\cdot \\cos x(\\tan x + \\cot x)$.",
+      "answer": "(A) $\\sqrt{3} - 1$. (B) 1.",
+      "explanation": "(A) $2(1/2)(\\sqrt{3}) - 3(1/2)^2(2/\\sqrt{3})^2 = \\sqrt{3} - 3(1/4)(4/3) = \\sqrt{3} - 1$.\n(B) Expression simplifies to $\\sin x \\cos x (\\frac{\\sin x}{\\cos x} + \\frac{\\cos x}{\\sin x}) = \\sin x \\cos x (\\frac{\\sin^2 x + \\cos^2 x}{\\sin x \\cos x}) = \\sin x \\cos x (\\frac{1}{\\sin x \\cos x}) = 1$.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q26",
+      "question": "Show that $\\sqrt{2} - \\sqrt{5}$ is an irrational number.",
+      "answer": "Proof provided in explanation.",
+      "explanation": "Assume $x = \\sqrt{2} - \\sqrt{5}$ is rational. Then $x - \\sqrt{2} = -\\sqrt{5}$. Squaring both sides: $x^2 - 2x\\sqrt{2} + 2 = 5$. Rearranging, $\\sqrt{2} = (x^2 - 3) / 2x$. Since $x$ is rational, the RHS is rational, implying $\\sqrt{2}$ is rational, which is a contradiction. Thus, $\\sqrt{2} - \\sqrt{5}$ is irrational.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q27",
+      "question": "(A) The frequency distribution table of agriculture holdings in a village is given below:\nArea of land (in hectares): 1–3, 3–5, 5–7, 7–9, 9–11, 11–13\nNo. of families: 20, 45, 80, 55, 40, 12\nFind the modal agriculture holdings of the village.\nOR\n(B) If the mean of the following distribution is 54, find the value of p.\nClass Interval: 0–20, 20–40, 40–60, 60–80, 80–100\nFrequency: 7, p, 10, 9, 13",
+      "answer": "(A) 6.17 hectares. (B) p = 11.",
+      "explanation": "(A) Modal class 5-7 ($f_1=80, f_0=45, f_2=55, h=2$). Mode = $5 + \\frac{80-45}{2(80)-45-55} \\times 2 = 5 + \\frac{35}{60} \\times 2 = 5 + 1.17 = 6.17$.\n(B) Mean = $\\frac{\\sum f_i x_i}{\\sum f_i}$. $x_i$: 10, 30, 50, 70, 90. $\\sum f = 39+p$. $\\sum fx = 70+30p+500+630+1170 = 2370+30p$. $54 = \\frac{2370+30p}{39+p} \\Rightarrow 2106+54p = 2370+30p \\Rightarrow 24p = 264 \\Rightarrow p=11$.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q28",
+      "question": "A quadrilateral ABCD is drawn to circumscribe a circle, as shown in the given figure. Show that $\\frac{AB + CD}{AD + BC} = 1$.\nFor visually Impaired students only: Show that parallelogram circumscribing a circle is a rhombus.",
+      "answer": "Proof provided in explanation.",
+      "explanation": "Since tangents from an external point are equal in length: $AP=AS, BP=BQ, CR=CQ, DR=DS$. $AB+CD = (AP+PB) + (CR+RD) = AS+BQ+CQ+DS = (AS+DS) + (BQ+CQ) = AD+BC$. Therefore, $(AB+CD)/(AD+BC) = 1$. \nVI: Since ABCD is a parallelogram, $AB=CD$ and $BC=AD$. From result, $2AB = 2AD \\Rightarrow AB=AD$. A parallelogram with adjacent sides equal is a rhombus.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q29",
+      "question": "(A) On a particular day, 50000 people attended a Cricket Test Match between India and Australia in Sydney Cricket Ground. Let x be the number of adults attended the cricket match and y be the number of children attended the cricket match. Cost of an adult ticket was ₹1000 while cost of a child ticket was ₹200. On that day Revenue earned by selling all 50,000 tickets, was ₹4,20,00,000. Find how many adults and how many children attended the cricket match?\nOR\n(B) Solve for x and y, graphically: $2x + y = 6; x + y = 5$\n\nFor visually Impaired students only:\n(A) [Same as above]\nOR\n(B) A 2-digit number is 6 times the sum of its digits. The number formed by reversing the digits is 9 less than the given number. Find the number.",
+      "answer": "(A) Adults: 40,000, Children: 10,000. (B Graph) x=1, y=4. (VI B) 54.",
+      "explanation": "(A) $x+y=50000$; $1000x+200y=42000000 \\Rightarrow 5x+y=210000$. Subtracting: $4x=160000 \\Rightarrow x=40000, y=10000$.\n(B Graph) Lines intersect at $(1, 4)$.\n(VI B) Let number be $10x+y$. $10x+y = 6(x+y) \\Rightarrow 4x=5y$. Reversed: $10y+x = (10x+y)-9 \\Rightarrow x-y=1$. Sub $x=y+1$ in $4x=5y \\Rightarrow 4y+4=5y \\Rightarrow y=4, x=5$. Number is 54.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q30",
+      "question": "Prove that : $(\\sin x - \\cos x + 1)(\\sec x - \\tan x) = (\\sin x + \\cos x - 1)$",
+      "answer": "Proof provided in explanation.",
+      "explanation": "LHS = $(\\sin x - \\cos x + 1)(\\frac{1-\\sin x}{\\cos x}) = \\frac{\\sin x - \\sin^2 x - \\cos x + \\sin x \\cos x + 1 - \\sin x}{\\cos x}$. Using $1-\\sin^2 x = \\cos^2 x$, Numerator = $\\cos^2 x - \\cos x + \\sin x \\cos x = \\cos x(\\cos x - 1 + \\sin x)$. Dividing by $\\cos x$, result is $\\cos x + \\sin x - 1$, which is RHS.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q31",
+      "question": "The sum of first n terms of an AP is $5n^2 - n$. Find the nth term of the AP.",
+      "answer": "$10n - 6$",
+      "explanation": "$a_n = S_n - S_{n-1} = (5n^2 - n) - (5(n-1)^2 - (n-1)) = 5n^2 - n - (5(n^2-2n+1) - n + 1) = 5n^2 - n - (5n^2 - 11n + 6) = 10n - 6$.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q32",
+      "question": "Prove that a line drawn parallel to one side of a triangle intersecting other two sides in distinct points, divides the other two sides in the same ratio.",
+      "answer": "Proof of Basic Proportionality Theorem (Thales Theorem).",
+      "explanation": "Standard theorem proof involving areas of triangles formed by joining vertices to points on the parallel line.",
+      "type": "subjective",
+      "marks": 5
+    },
+    {
+      "id": "q33",
+      "question": "(A) The numerator of a fraction is 3 less than its denominator. If 2 is added to both of its numerator and denominator then the sum of the new fraction and original fraction is 29/20. Find the original fraction.\nOR\n(B) A train covers a distance of 300 km at a uniform speed. If the speed of the train is increased by 5 km/hr, it takes 2 hours less in the journey. Find the original speed of the train.",
+      "answer": "(A) 7/10. (B) 25 km/hr.",
+      "explanation": "(A) Let fraction be $(y-3)/y$. New: $(y-1)/(y+2)$. Sum: $(y-1)/(y+2) + (y-3)/y = 29/20$. Solving quadratic $11y^2 - 98y - 120 = 0 \\Rightarrow y=10$. Fraction $7/10$.\n(B) $300/x - 300/(x+5) = 2 \\Rightarrow 300(5) = 2x(x+5) \\Rightarrow x^2+5x-750=0 \\Rightarrow (x+30)(x-25)=0 \\Rightarrow x=25$.",
+      "type": "subjective",
+      "marks": 5
+    },
+    {
+      "id": "q34",
+      "question": "(A) The angle of elevation of the top of a chimney from the foot of a tower is 60° and the angle of depression of the foot of the chimney from the top of the tower is 30°. If the height of the tower is 40 meters, find the height of the chimney. Also, find the length of the wire tied from the top of the chimney to the top of tower.\nOR\n(B) The angles of depression of the top and bottom of a 50m high building from the top of a tower are 45° and 60° respectively. Find the height of the tower and the horizontal distance between the tower and the building. (Use $\\sqrt{3} = 1.73$)",
+      "answer": "(A) Height: 120m, Wire: $40\\sqrt{7}$m. (B) Height: 118.25m, Distance: 68.25m.",
+      "explanation": "(A) Let $H_c$ be chimney, $H_t=40$ be tower. Angle elev chimney from tower foot = 60. Angle dep chimney foot from tower top = 30 $\\Rightarrow$ elev tower top from chimney foot = 30. Distance $d = 40/\\tan 30 = 40\\sqrt{3}$. $H_c = d \\tan 60 = 40\\sqrt{3} \\times \\sqrt{3} = 120$. Wire $L = \\sqrt{(120-40)^2 + (40\\sqrt{3})^2} = \\sqrt{6400+4800} = \\sqrt{11200} = 40\\sqrt{7}$.\n(B) $h/d = \\tan 60 = \\sqrt{3}$. $(h-50)/d = \\tan 45 = 1$. $h = d\\sqrt{3}, h-50=d$. $h\\sqrt{3} - 50\\sqrt{3} = h \\Rightarrow h = 50\\sqrt{3}/(\\sqrt{3}-1) = 25(3+\\sqrt{3}) = 118.25$. $d = 68.25$.",
+      "type": "subjective",
+      "marks": 5
+    },
+    {
+      "id": "q35",
+      "question": "A solid toy is in the form of a hemisphere surmounted by a right circular cone of height 2cm and diameter of base 4cm. If a right circular cylinder circumscribes the toy, find the difference of the volumes of the cylinder and the toy. [Use $\\pi = 3.14$]",
+      "answer": "25.12 cm³",
+      "explanation": "Radius $r=2$. Cone $h=2$. Hemisphere $r=2$. Toy Vol = $1/3\\pi r^2 h + 2/3\\pi r^3 = \\pi(2)^2(2)/3 + 2\\pi(2)^3/3 = 8\\pi/3 + 16\\pi/3 = 8\\pi$. Cylinder $H = 2+2=4$. Cyl Vol = $\\pi r^2 H = 16\\pi$. Difference = $8\\pi = 8 \\times 3.14 = 25.12$.",
+      "type": "subjective",
+      "marks": 5
+    },
+    {
+      "id": "q36",
+      "question": "Carpooling is the sharing of car journeys... Three friends Amar, Bhavin and Chetanya live in societies represented by the points A(4,5), B(6,2) and C(2,6) respectively. They all work in offices located in a same building represented by the point O(0,0). \ni) What is the distance between B and C?\nii) If Bhavin and Chetanya planned to meet at a club situated at the mid-point of the line joining the points B and C, find the coordinates of this point.\niii) (A) Which society is farthest from the office? Also find its distance from the office.\nOR\n(B) Out of B and C which society is nearer to A? Also find their distances.",
+      "answer": "i) $4\\sqrt{2}$ units. ii) (4, 4). iii A) Society A, $\\sqrt{41}$. iii B) Society C is nearer. AC=$\\sqrt{5}$, AB=$\\sqrt{13}$.",
+      "explanation": "i) $BC = \\sqrt{(6-2)^2 + (2-6)^2} = \\sqrt{16+16} = 4\\sqrt{2}$.\nii) Midpoint $((6+2)/2, (2+6)/2) = (4,4)$.\niii A) $OA=\\sqrt{16+25}=\\sqrt{41}$, $OB=\\sqrt{36+4}=\\sqrt{40}$, $OC=\\sqrt{4+36}=\\sqrt{40}$. A is farthest.\niii B) $AB=\\sqrt{(6-4)^2+(2-5)^2}=\\sqrt{4+9}=\\sqrt{13}$. $AC=\\sqrt{(2-4)^2+(6-5)^2}=\\sqrt{4+1}=\\sqrt{5}$. C is nearer.",
+      "type": "case_study",
+      "marks": 4
+    },
+    {
+      "id": "q37",
+      "question": "A water sprinkler is a device used to irrigate agricultural crops... A water sprinkler is set to shoot a stream of water a distance of 21 m and rotate through an angle which is equal to complementary angle of 10°.\ni) What is the area of sector in terms of arc length?\nii) What is the area of the watered region (in terms of $\\pi$)?\niii) (A) If the radius(r) changes to 28m, find the angle $\\theta$ so that the area of the watered region remains the same.\nOR\n(B) If the radius(r) is increased from 21m to 28m and the angle remains the same, what is the increase in the area of the watered region?",
+      "answer": "i) $A = \\frac{1}{2}Lr$. ii) $308 m^2$ (or $98\\pi$). iii A) $45^\\circ$. iii B) $239.55 m^2$.",
+      "explanation": "Angle = $90-10=80^\\circ$. $r=21$.\ni) Area = $0.5 \\times Arc \\times Radius$.\nii) Area = $(80/360) \\pi (21)^2 = (2/9)(22/7)(441) = 308$.\niii A) $(80/360)\\pi(21)^2 = (\\theta/360)\\pi(28)^2 \\Rightarrow \\theta = 80 \\times (21/28)^2 = 80 \\times 9/16 = 45^\\circ$.\niii B) New Area = $(80/360)\\pi(28)^2 = 547.55$. Increase = $547.55 - 308 = 239.55$.",
+      "type": "case_study",
+      "marks": 4
+    },
+    {
+      "id": "q38",
+      "question": "One of four main blood types can be found in a human body... The data below shows the distribution of the blood types and Rhesus types...\n[Table data: O- x, O+ 30, A- 8, A+ 24, B- 6, B+ 18, AB- 1, AB+ 3]\ni) Find the value of x.\nii) Find the probability that a randomly selected person has a Rhesus negative blood type.\niii) (A) What is the probability that the person selected from the record is Rhesus positive but neither blood type A nor B?\nOR\n(B) ... Find the probability of a selected person to be neither universal recipient nor universal donor.",
+      "answer": "i) 10. ii) 0.25. iii A) 0.33. iii B) 0.87.",
+      "explanation": "i) $x + 30 + 8 + 24 + 6 + 18 + 1 + 3 = 100 \\Rightarrow x + 90 = 100 \\Rightarrow x=10$.\nii) Negatives: $10(O) + 8(A) + 6(B) + 1(AB) = 25$. Prob = $25/100 = 0.25$.\niii A) Positive not A/B: O+ (30) or AB+ (3). Sum=33. Prob = 0.33.\niii B) Not (AB+ or O-). AB+ is 3, O- is 10. Total 13. Not these = $100-13=87$. Prob = 0.87.",
+      "type": "case_study",
+      "marks": 4
+    }
+  ]
+}
