@@ -1,0 +1,452 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "question": "If a = 2² × 3ˣ, b = 2² × 3 × 5, c = 2² × 3 × 7 and LCM (a, b, c) = 3780, then x is equal to",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "correctAnswer": 2,
+      "explanation": "LCM(a, b, c) = 3780. Prime factorization of 3780: 3780 = 10 × 378 = 2 × 5 × 2 × 189 = 2² × 5 × 27 × 7 = 2² × 3³ × 5 × 7. The given numbers are a = 2² × 3ˣ, b = 2² × 3¹ × 5, c = 2² × 3¹ × 7. The LCM of these numbers is 2² × 3^(max(x, 1, 1)) × 5 × 7. Comparing the powers of 3, we get max(x, 1, 1) = 3, which implies x = 3.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "The shortest distance (in units) of the point (2,3) from y-axis is",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The shortest distance of a point (x, y) from the y-axis is the absolute value of its x-coordinate. For the point (2, 3), the distance is |2| = 2 units.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "If the lines given by 3x + 2ky = 2 and 2x + 5y + 1 = 0 are not parallel, then k has to be",
+      "options": [
+        "15/4",
+        "≠15/4",
+        "any rational number",
+        "any rational number having 4 as denominator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The condition for lines a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0 to be parallel is a1/a2 = b1/b2. Here, a1=3, b1=2k and a2=2, b2=5. For the lines NOT to be parallel, a1/a2 ≠ b1/b2. Therefore, 3/2 ≠ 2k/5 => 15 ≠ 4k => k ≠ 15/4.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "A quadrilateral ABCD is drawn to circumscribe a circle. If BC=7cm, CD=4cm and AD=3cm, then the length of AB is",
+      "options": [
+        "3cm",
+        "4cm",
+        "6cm",
+        "7cm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "For a quadrilateral circumscribing a circle, the sum of opposite sides is equal. Therefore, AB + CD = AD + BC. Substituting the values: AB + 4 = 3 + 7 => AB + 4 = 10 => AB = 6cm.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "If sec θ + tan θ = x, then sec θ − tan θ will be",
+      "options": [
+        "x",
+        "x²",
+        "2/x",
+        "1/x"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Using the identity sec²θ - tan²θ = 1, we can factor it as (secθ - tanθ)(secθ + tanθ) = 1. Given secθ + tanθ = x, we have (secθ - tanθ)(x) = 1, which implies secθ - tanθ = 1/x.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "Which one of the following is not a quadratic equation?",
+      "options": [
+        "(x + 2)² = 2(x + 3)",
+        "x² + 3x = (-1)(1 - 3x)²",
+        "x³ - x² + 2x + 1 = (x + 1)³",
+        "(x + 2)(x + 1) = x² + 2x + 3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Let's simplify option (D): (x + 2)(x + 1) = x² + 2x + 3 => x² + 3x + 2 = x² + 2x + 3. Subtracting x² from both sides gives 3x + 2 = 2x + 3 => x - 1 = 0, which is a linear equation, not quadratic. Options A, B, and C result in equations with an x² term.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q7",
+      "question": "Given below is the picture of the Olympic rings made by taking five congruent circles of radius 1cm each, intersecting in such a way that the chord formed by joining the point of intersection of two circles is also of length 1cm. Total area of all the dotted regions (assuming the thickness of the rings to be negligible) is",
+      "options": [
+        "4[π/12 - √3/4] cm²",
+        "[π/6 - √3/4] cm²",
+        "4[π/6 - √3/4] cm²",
+        "8[π/6 - √3/4] cm²"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Each dotted region is the intersection of two circles. The chord length is 1cm and radius is 1cm, forming equilateral triangles with the center, so the sector angle is 60° (π/3). The area of one segment is Area(Sector) - Area(Triangle) = (π/6) - (√3/4). Each intersection region consists of 2 such segments. There are 4 such intersection regions in the Olympic rings. Total area = 4 * 2 * (π/6 - √3/4) = 8[π/6 - √3/4] cm².",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q8",
+      "question": "A pair of dice is tossed. The probability of not getting the sum eight is",
+      "options": [
+        "5/36",
+        "31/36",
+        "5/18",
+        "5/9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total outcomes when tossing two dice = 36. Outcomes with sum 8 are: (2,6), (3,5), (4,4), (5,3), (6,2), which is 5 outcomes. Probability of getting sum 8 is 5/36. Probability of NOT getting sum 8 is 1 - 5/36 = 31/36.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q9",
+      "question": "If 2sin5x = √3, 0° ≤ x ≤ 90°, then x is equal to",
+      "options": [
+        "10°",
+        "12°",
+        "20°",
+        "50°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2sin(5x) = √3 => sin(5x) = √3/2. We know sin(60°) = √3/2. So, 5x = 60° => x = 12°.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q10",
+      "question": "The sum of two numbers is 1215 and their HCF is 81, then the possible pairs of such numbers are",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let the numbers be 81x and 81y where x and y are coprime. Sum = 81x + 81y = 1215 => 81(x + y) = 1215 => x + y = 15. Possible coprime pairs (x, y) summing to 15 are: (1, 14), (2, 13), (4, 11), (7, 8). (3, 12), (5, 10), (6, 9) are not coprime. Thus, there are 4 possible pairs.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q11",
+      "question": "If the area of the base of a right circular cone is 51cm² and it's volume is 85cm², then the height of the cone is given as",
+      "options": [
+        "5/6 cm",
+        "5/3 cm",
+        "5/2 cm",
+        "5cm"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Volume of cone V = (1/3) * BaseArea * height. 85 = (1/3) * 51 * h => 85 = 17h => h = 85/17 = 5cm.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q12",
+      "question": "If zeroes of the quadratic polynomial ax² + bx + c (a, c ≠ 0) are equal, then",
+      "options": [
+        "c and b must have opposite signs",
+        "c and a must have opposite signs",
+        "c and b must have same signs",
+        "c and a must have same signs"
+      ],
+      "correctAnswer": 3,
+      "explanation": "For equal zeroes, the discriminant D = b² - 4ac must be 0. So, b² = 4ac. Since b² is always non-negative (and positive here as roots are non-zero implied by non-trivial coefficients usually, or simply b²≥0), 4ac must be positive. This requires 'a' and 'c' to have the same sign (both positive or both negative).",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q13",
+      "question": "The area (in cm²) of a sector of a circle of radius 21cm cut off by an arc of length 22cm is",
+      "options": [
+        "441",
+        "321",
+        "231",
+        "221"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Area of sector = (1/2) * arc_length * radius = (1/2) * 22 * 21 = 11 * 21 = 231 cm².",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q14",
+      "question": "If ∆ABC ~ ∆DEF, AB=6cm, DE=9cm, EF=6cm and FD=12cm, then the perimeter of ∆ABC is",
+      "options": [
+        "28cm",
+        "28.5cm",
+        "18cm",
+        "23cm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Since ∆ABC ~ ∆DEF, the ratio of their perimeters is equal to the ratio of their corresponding sides. Scale factor = AB/DE = 6/9 = 2/3. Perimeter of ∆DEF = DE + EF + FD = 9 + 6 + 12 = 27cm. Perimeter of ∆ABC = (2/3) * 27 = 18cm.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q15",
+      "question": "If the probability of the letter chosen at random from the letters of the word “Mathematics” to be a vowel is 2/(2x+1), then x is equal to",
+      "options": [
+        "4/11",
+        "9/4",
+        "11/4",
+        "4/9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The word 'Mathematics' has 11 letters. The vowels are a, e, a, i (4 vowels). The probability of choosing a vowel is 4/11. Given prob is 2/(2x+1). So, 4/11 = 2/(2x+1) => 2/11 = 1/(2x+1) => 2x + 1 = 11/2 = 5.5 => 2x = 4.5 => x = 2.25 = 9/4.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q16",
+      "question": "The points A(9,0), B(9, -6) ,C(-9,0) and D(-9,6) are the vertices of a",
+      "options": [
+        "Square",
+        "Rectangle",
+        "Parallelogram",
+        "Trapezium"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Plotting the points: A(9,0) and B(9,-6) form a vertical line segment of length 6. C(-9,0) and D(-9,6) form a vertical line segment of length 6. AB is parallel to CD. The slopes of BC and AD are both -1/3, so BC || AD. A quadrilateral with two pairs of parallel sides is a parallelogram. AB (length 6) is not equal to BC (length √((9-(-9))² + (0-(-6))²) ≈ 19), so not a rhombus/square. Angles are not 90°, so not a rectangle.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q17",
+      "question": "The median of a set of 9 distinct observation is 20.5. If each of the observations of a set is increased by 2, then the median of a new set",
+      "options": [
+        "is increased by 2",
+        "is decreased by 2",
+        "is two times the original number",
+        "Remains same as that of original observations"
+      ],
+      "correctAnswer": 0,
+      "explanation": "If every observation in a data set is increased by a constant k, the median also increases by k. Here k=2, so the median is increased by 2.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q18",
+      "question": "The length of a tangent drawn to a circle of radius 9 cm from a point at a distance of 41cm from the centre of the circle is",
+      "options": [
+        "40cm",
+        "9cm",
+        "41cm",
+        "50cm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Using the Pythagorean theorem for the right-angled triangle formed by the radius, tangent, and the line connecting the center to the external point: r² + tangent² = distance². 9² + T² = 41². 81 + T² = 1681 => T² = 1600 => T = 40cm.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q19",
+      "question": "Assertion (A): The number 5ⁿ cannot end with the digit 0, where n is a natural number\nReason (R): A number ends with 0, if its prime factorization contains both 2 and 5",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Assertion is true because 5^n only has prime factor 5. To end in 0, a number must have 2 and 5 as factors. The Reason correctly states this condition. Thus, both are true and R explains A.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "question": "Assertion (A): If cosA + cos²A=1, then sin²A + sin⁴A =1\nReason (R): sin²A + cos²A =1",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "From cosA + cos²A = 1, we get cosA = 1 - cos²A = sin²A. Substituting sin²A = cosA into the expression sin²A + sin⁴A, we get cosA + (cosA)² = cosA + cos²A, which is given as 1. So Assertion is true. Reason is the standard identity used in the derivation. So A is the correct option.",
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "q21_a",
+      "question": "The A.P 8, 10, 12,……. has 60 terms. Find the sum of last 10 terms.",
+      "answer": "The AP is 8, 10, 12... with a=8, d=2, n=60. \nThe last 10 terms are from the 51st term to the 60th term.\nFirst term of this section (51st term), a₅₁ = a + 50d = 8 + 50(2) = 108.\nLast term (60th term), a₆₀ = a + 59d = 8 + 59(2) = 126.\nSum = (n/2)(first + last) where n=10.\nSum = (10/2)(108 + 126) = 5(234) = 1170.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q21_b",
+      "question": "Find the middle term of A.P 6,13, 20, ……., 230",
+      "answer": "Here a=6, d=7, an=230.\n230 = 6 + (n-1)7 => 224 = 7(n-1) => n-1 = 32 => n = 33.\nThe middle term of 33 terms is the ((33+1)/2)th = 17th term.\na₁₇ = 6 + 16(7) = 6 + 112 = 118.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q22",
+      "question": "If sin(A + B) = 1 and cos(A - B) = √3/2, 0° < A, B < 90°, find the measure of angles A and B.",
+      "answer": "sin(A+B) = 1 => A+B = 90°.\ncos(A-B) = √3/2 => A-B = 30°.\nAdding the two equations: 2A = 120° => A = 60°.\nSubtracting: 2B = 60° => B = 30°.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q23",
+      "question": "If AP and DQ are medians of triangles ABC and DEF respectively, where ∆ABC~ ∆DEF, then prove that AB/DE = AP/DQ",
+      "answer": "Since ∆ABC ~ ∆DEF, AB/DE = BC/EF and ∠B = ∠E.\nSince AP and DQ are medians, BP = BC/2 and EQ = EF/2.\nTherefore, AB/DE = (2BP)/(2EQ) = BP/EQ.\nIn ∆ABP and ∆DEQ:\n1. AB/DE = BP/EQ\n2. ∠B = ∠E\nBy SAS similarity criterion, ∆ABP ~ ∆DEQ.\nHence, corresponding sides are proportional: AB/DE = AP/DQ.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q24_a",
+      "question": "A horse, a cow and a goat are tied, each by ropes of length 14m, at the corners A, B and C respectively, of a grassy triangular field ABC with sides of lengths 35m, 40m and 50 m. Find the area of grass field that can be grazed by them.",
+      "answer": "The animals graze in sectors at each corner of the triangle. The radius of each sector is r = 14m.\nThe sum of the angles of the triangle is A + B + C = 180°.\nTotal area grazed = Area(Sector A) + Area(Sector B) + Area(Sector C)\n= (A/360)πr² + (B/360)πr² + (C/360)πr²\n= [(A+B+C)/360] * πr²\n= (180/360) * (22/7) * 14 * 14\n= (1/2) * 22 * 2 * 14 = 308 m².",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q24_b",
+      "question": "Find the area of the major segment (in terms of π) of a circle of radius 5cm, formed by a chord subtending an angle of 90˚ at the centre.",
+      "answer": "Radius r = 5cm, θ = 90°.\nArea of minor sector = (90/360)π(5)² = 25π/4 cm².\nArea of corresponding triangle = (1/2) * base * height = (1/2) * 5 * 5 = 12.5 cm².\nArea of minor segment = Area(Sector) - Area(Triangle) = 25π/4 - 12.5.\nArea of major segment = Area(Circle) - Area(Minor Segment)\n= 25π - (25π/4 - 12.5)\n= (75π/4 + 12.5) cm².",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q25",
+      "question": "A ∆ABC is drawn to circumscribe a circle of radius 4 cm such that the segments BD and DC are of lengths 10 cm and 8 cm respectively. Find the lengths of the sides AB and AC, if it is given that ar(∆ABC) = 90cm²",
+      "answer": "Let the points of contact on AC and AB be E and F respectively. By tangent properties, CD=CE=8, BD=BF=10, AE=AF=x.\nSides: a = 18, b = x+8, c = x+10.\nSemi-perimeter s = (18 + x+8 + x+10)/2 = x+18.\nArea = s * r = (x+18) * 4 = 4x + 72.\nGiven Area = 90. So 4x + 72 = 90 => 4x = 18 => x = 4.5.\nAlternatively using Heron's formula: Area = √((x+18) * x * 8 * 10) = √(80x(x+18)).\n90² = 80x(x+18) => 8100 = 80(x² + 18x) => 101.25 = x² + 18x (This path is complex, area = rs is sufficient).\nUsing Area = rs => 90 = (x+18)*4 => x+18 = 22.5 => x = 4.5.\nAB = x + 10 = 14.5 cm.\nAC = x + 8 = 12.5 cm.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "q26",
+      "question": "In Figure, XY and X′Y′ are two parallel tangents to a circle with centre O and another tangent AB with point of contact C intersecting XY at A and X′Y′ at B. Prove that ∠ AOB = 90°",
+      "answer": "Join O to C. \nIn ∆OPA and ∆OCA (where P is point of contact on XY): OP=OC (radii), OA=OA (common), AP=AC (tangents from A). Thus ∆OPA ≅ ∆OCA. Hence ∠POA = ∠COA. Let this be x.\nSimilarly for ∆OQB and ∆OCB (where Q is contact on X'Y'): ∆OQB ≅ ∆OCB. Hence ∠QOB = ∠COB. Let this be y.\nPOQ is a diameter line (180°). Sum of angles: ∠POA + ∠COA + ∠COB + ∠QOB = 180° => 2x + 2y = 180° => x + y = 90°.\n∠AOB = ∠COA + ∠COB = x + y = 90°.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q27",
+      "question": "In a workshop, the number of teachers of English, Hindi and Science are 36, 60 and 84 respectively. Find the minimum number of rooms required, if in each room the same number of teachers are to be seated and all of them being of the same subject.",
+      "answer": "To minimize rooms, we must maximize the number of teachers per room. This number must divide 36, 60, and 84 exactly.\nFind HCF(36, 60, 84):\n36 = 2² × 3²\n60 = 2² × 3 × 5\n84 = 2² × 3 × 7\nHCF = 2² × 3 = 12.\nSo, 12 teachers per room.\nNumber of rooms = (Total teachers) / 12 = (36 + 60 + 84) / 12 = 180 / 12 = 15 rooms.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q28",
+      "question": "Find the zeroes of the quadratic polynomial 2x² – (1 + 2√2)x + √2 and verify the relationship between the zeroes and coefficents of the polynomial.",
+      "answer": "Polynomial: 2x² - x - 2√2x + √2 = 0\nx(2x - 1) - √2(2x - 1) = 0\n(x - √2)(2x - 1) = 0\nZeroes are α = √2 and β = 1/2.\nVerification:\nSum of zeroes = √2 + 0.5 = (2√2 + 1)/2.\n-b/a = -(-(1+2√2))/2 = (1+2√2)/2. Matches.\nProduct of zeroes = √2 * (1/2) = √2/2.\nc/a = √2/2. Matches.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q29_a",
+      "question": "If sinθ + cosθ = √3 ,then prove that tanθ + cotθ = 1",
+      "answer": "Given sinθ + cosθ = √3. Squaring both sides:\n(sinθ + cosθ)² = 3\nsin²θ + cos²θ + 2sinθcosθ = 3\n1 + 2sinθcosθ = 3 => 2sinθcosθ = 2 => sinθcosθ = 1.\nNow, tanθ + cotθ = (sinθ/cosθ) + (cosθ/sinθ) = (sin²θ + cos²θ) / (sinθcosθ) = 1 / (sinθcosθ).\nSince sinθcosθ = 1, tanθ + cotθ = 1/1 = 1.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q29_b",
+      "question": "Prove that (cosA - sinA + 1) / (cosA + sinA - 1) = cosecA + cotA",
+      "answer": "Divide numerator and denominator of LHS by sinA:\nNum: cotA - 1 + cosecA\nDen: cotA + 1 - cosecA\nRewrite Num: (cotA + cosecA) - (cosec²A - cot²A) [using 1 = cosec²A - cot²A]\n= (cotA + cosecA) - (cosecA - cotA)(cosecA + cotA)\n= (cotA + cosecA) [1 - (cosecA - cotA)]\n= (cotA + cosecA) (1 - cosecA + cotA)\nDenominator matches the second factor: (cotA + 1 - cosecA).\nSo, expression simplifies to cotA + cosecA = RHS.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q30",
+      "question": "On a particular day, Vidhi and Unnati couldn’t decide on who would get to drive the car. They had one coin each and flipped their coin exactly three times. The following was agreed upon:\n1. If Vidhi gets two heads in a row, she would drive the car\n2. If Unnati gets a head immediately followed by a tail, she would drive the car.\nWho has greater probability to drive the car that day? Justify your answer.",
+      "answer": "Sample space for 3 coin tosses (8 outcomes): {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT}.\nVidhi wins (HH in a row): {HHH (contains HH), HHT (contains HH), THH (contains HH)}. Total = 3.\nP(Vidhi) = 3/8.\nUnnati wins (HT pattern): {HHT, HTH, HTT, THT}. Total = 4.\nP(Unnati) = 4/8 = 1/2.\nSince 4/8 > 3/8, Unnati has the greater probability.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q31_a",
+      "question": "The monthly income of Aryan and Babban are in the ratio 3:4 and their monthly expenditures are in ratio 5:7. If each saves ₹ 15,000 per month, find their monthly incomes.",
+      "answer": "Let incomes be 3x and 4x. Let expenditures be 5y and 7y.\nSavings: 3x - 5y = 15000 and 4x - 7y = 15000.\nMultiply first eq by 7 and second by 5:\n21x - 35y = 105000\n20x - 35y = 75000\nSubtracting: x = 30000.\nIncomes: Aryan = 3(30000) = ₹90,000; Babban = 4(30000) = ₹120,000.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q31_b",
+      "question": "Solve the following system of equations graphically:\n2x + y = 6, 2x – y – 2 = 0. Find the area of the triangle so formed by two lines and x - axis.",
+      "answer": "Eq 1: y = 6 - 2x. Points: (0,6), (3,0).\nEq 2: y = 2x - 2. Points: (0,-2), (1,0), (2,2).\nIntersection: 6 - 2x = 2x - 2 => 4x = 8 => x = 2. y = 2. Vertex (2,2).\nx-intercepts: Line 1 at (3,0). Line 2 at (1,0).\nBase on x-axis = 3 - 1 = 2 units. Height = 2 units (y-coord of intersection).\nArea = (1/2) * base * height = (1/2) * 2 * 2 = 2 sq units.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "q32",
+      "question": "A train travels at a certain average speed for a distance of 63km and then travels at a distance of 72km at an average speed of 6km/hr more than its original speed. If it takes 3 hours to complete the total journey, what is the original average speed?",
+      "answer": "Let original speed be v km/hr.\nTime 1 = 63/v.\nTime 2 = 72/(v+6).\nTotal time = 63/v + 72/(v+6) = 3.\nDivide by 3: 21/v + 24/(v+6) = 1.\n21(v+6) + 24v = v(v+6)\n21v + 126 + 24v = v² + 6v\n45v + 126 = v² + 6v\nv² - 39v - 126 = 0\n(v - 42)(v + 3) = 0.\nSince speed > 0, v = 42 km/hr.",
+      "type": "subjective",
+      "marks": 5
+    },
+    {
+      "id": "q33",
+      "question": "Prove that if a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, the other two sides are divided in the sameratio.\nHence in ΔPQR, prove that a line ℓ intersects the sides PQ and PR of a ∆PQR at L and M respectively such that LM II QR. If PL = 5.7cm, PQ=15.2cm and MR=5.5cm, then find the length of PM (in cm)",
+      "answer": "Part 1: Proof of Basic Proportionality Theorem (Thales Theorem).\nPart 2: Given LM || QR in ∆PQR. By BPT, PL/LQ = PM/MR.\nPL = 5.7, PQ = 15.2 => LQ = 15.2 - 5.7 = 9.5.\nSo, 5.7/9.5 = PM/5.5.\n0.6 = PM/5.5 (since 5.7/9.5 = 57/95 = 3/5 = 0.6).\nPM = 0.6 * 5.5 = 3.3 cm.",
+      "type": "subjective",
+      "marks": 5
+    },
+    {
+      "id": "q34_a",
+      "question": "From a solid right circular cone, whose height is 6cm and radius of base is 12cm, a right circular cylindrical cavity of height 3cm and radius 4cm is hollowed out such that bases of cone and cylinder form concentric circles. Find the surface area of the remaining solid in terms of π.",
+      "answer": "Cone: h=6, r=12. Slant l = √(6²+12²) = √180 = 6√5.\nCylinder cavity: h'=3, r'=4.\nRemaining Surface Area = CSA of Cone + CSA of Cylinder (inner) + Area of Base Ring + Area of Cylinder Top (inner circle).\nCSA Cone = πrl = π(12)(6√5) = 72√5π.\nCSA Cylinder = 2πr'h' = 2π(4)(3) = 24π.\nBase Ring = π(r² - r'²) = π(12² - 4²) = π(144 - 16) = 128π.\nTop of Cylinder (circular base inside) = πr'² = π(4²) = 16π.\nTotal Surface Area = 72√5π + 24π + 128π + 16π = (168 + 72√5)π cm².",
+      "type": "subjective",
+      "marks": 5
+    },
+    {
+      "id": "q34_b",
+      "question": "An empty cone of radius 3cm and height 12cm is filled with ice-cream such that the lower part of the cone which is (1/6)th of the volume of the cone is unfilled (empty) but a hemisphere is formed on the top. Find the volume of the ice-cream.",
+      "answer": "Volume of Cone V_cone = (1/3)πr²h = (1/3)π(3²)(12) = 36π cm³.\nUnfilled volume = (1/6) * 36π = 6π.\nVolume of ice cream inside cone = Total Cone Vol - Unfilled = 36π - 6π = 30π.\nVolume of hemisphere on top = (2/3)πr³ = (2/3)π(3³) = 18π.\nTotal Volume = 30π + 18π = 48π cm³.",
+      "type": "subjective",
+      "marks": 5
+    },
+    {
+      "id": "q35_a",
+      "question": "If the mode of the following distribution is 55, then find the value of x. Hence, find the mean.\nClass Interval: 0-15, 15-30, 30-45, 45-60, 60-75, 75-90\nFrequency: 10, 7, x, 15, 10, 12",
+      "answer": "Mode is 55, so modal class is 45-60.\nMode = l + [(f1-f0)/(2f1-f0-f2)]*h\n55 = 45 + [(15-x)/(30-x-10)]*15\n10 = [(15-x)/(20-x)]*15\n2(20-x) = 3(15-x)\n40 - 2x = 45 - 3x\nx = 5.\nMean calculation:\nClasses: 0-15 (10), 15-30 (7), 30-45 (5), 45-60 (15), 60-75 (10), 75-90 (12).\nMidpoints (xi): 7.5, 22.5, 37.5, 52.5, 67.5, 82.5.\nfixi: 75, 157.5, 187.5, 787.5, 675, 990.\nSum fixi = 2872.5. Total freq = 59.\nMean = 2872.5 / 59 ≈ 48.69.",
+      "type": "subjective",
+      "marks": 5
+    },
+    {
+      "id": "q35_b",
+      "question": "A survey regarding heights (in cm) of 51 girls of class X of a school was conducted and the following data was obtained:\nHeights (in cm) | Number of girls\nless than 140 | 04\nless than 145 | 11\nless than 150 | 29\nless than 155 | 40\nless than 160 | 46\nless than 165 | 51\nFind the median height of girls. If mode of the above distribution is 148.05, find the mean using empirical formula.",
+      "answer": "Classes: 135-140 (4), 140-145 (7), 145-150 (18), 150-155 (11), 155-160 (6), 160-165 (5).\nMedian class: N/2 = 25.5 -> 145-150.\nMedian = l + [(N/2 - cf)/f]*h = 145 + [(25.5 - 11)/18]*5 = 145 + (14.5/18)*5 = 145 + 4.027 = 149.03.\nUsing Empirical Formula: Mode = 3 Median - 2 Mean.\n148.05 = 3(149.03) - 2 Mean\n2 Mean = 447.09 - 148.05 = 299.04\nMean = 149.52.",
+      "type": "subjective",
+      "marks": 5
+    },
+    {
+      "id": "q36",
+      "question": "In a class, the teacher asks every student to write an example of A.P. Two boys Aryan and Roshan writes the progression as −5, −2,1,4, …… and 187, 184, 181, …. respectively. Now the teacher asks his various students the following questions on progression.\ni. Find the sum of the common difference of two progressions.\nii. Find the 34th term of progression written by Roshan.\niii. (A) Find the sum of first 10 terms of the progression written by Aryan.\nOR\n(B) Which term of the progressions will have the same value?",
+      "answer": "i. Aryan: d1 = 3. Roshan: d2 = -3. Sum = 0.\nii. Roshan's AP: a=187, d=-3. a34 = 187 + 33(-3) = 187 - 99 = 88.\niii. (A) Aryan's AP: a=-5, d=3, n=10. S10 = (10/2)[2(-5) + 9(3)] = 5[-10 + 27] = 5(17) = 85.\n(B) -5 + (n-1)3 = 187 + (n-1)(-3) => 3n - 8 = 190 - 3n => 6n = 198 => n = 33. The 33rd term.",
+      "type": "case_study",
+      "marks": 4
+    },
+    {
+      "id": "q37",
+      "question": "A group of class X students goes to picnic during winter holidays. The position of three friends Aman, Kirti and Chahat are shown by the points P, Q and R. \n(i) Find the distance between P and R.\n(ii) Is Q, the midpoint of PR? Justify by finding midpoint of PR.\n(iii) (A) Find the point on x-axis which is equidistant from P and Q.\nOR\n(B) Let S be a point which divides the line joining PQ in ratio 2:3. Find the coordinates of S.",
+      "answer": "Coordinates from graph: P(2,5), Q(5,4), R(8,3).\ni. PR = √((8-2)² + (3-5)²) = √(36+4) = √40 = 2√10 units.\nii. Midpoint of PR = ((2+8)/2, (5+3)/2) = (5, 4). Yes, Q is the midpoint.\niii. (A) Let point be (x,0). (x-2)² + (0-5)² = (x-5)² + (0-4)². x²-4x+4+25 = x²-10x+25+16. 6x = 12 => x=2. Point is (2,0).\niii. (B) S divides PQ (2,5) to (5,4) in 2:3. x = (2*5 + 3*2)/5 = 16/5 = 3.2. y = (2*4 + 3*5)/5 = 23/5 = 4.6. S(3.2, 4.6).",
+      "type": "case_study",
+      "marks": 4
+    },
+    {
+      "id": "q38",
+      "question": "India gate (formerly known as All India war memorial) is located near Karthavya path... This 42m tall structure was designed by Sir Edwin Lutyens... A student Shreya of height 1 m visited India Gate as a part of her study tour.\ni. What is the angle of elevation from Shreya’s eye to the top of India Gate, if she is standing at a distance of 41m away from the India Gate?\nii. If Shreya observes the angle of elevation from her eye to the top of India Gate to be 60°, then how far is the she standing from the base of the India Gate?\niii. (A) If the angle of elevation from Shreya’s eye changes from 45° to 30°, when she moves some distance back from the original position. Find the distance she moves back.\nOR\n(B) If Shreya moves to a point which is at a distance of 41/√3 m from the India Gate, then find the angle of elevation made by her eye to the top of India Gate.",
+      "answer": "Effective height = 42 - 1 = 41m.\ni. tanθ = 41/41 = 1 => θ = 45°.\nii. tan60° = 41/d => d = 41/√3 m.\niii. (A) Initial dist d1 = 41m (angle 45°). Final angle 30° => 41/d2 = 1/√3 => d2 = 41√3. Distance moved = 41√3 - 41 = 41(√3 - 1) m.\niii. (B) d = 41/√3. tanθ = 41 / (41/√3) = √3. θ = 60°.",
+      "type": "case_study",
+      "marks": 4
+    }
+  ]
+}
