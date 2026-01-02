@@ -1,0 +1,500 @@
+{
+  "questions": [
+    {
+      "id": "1_i",
+      "question": "Choose the correct option and write it : \n(i) The sum of a rational number and an irrational number is :",
+      "options": [
+        "(a) a rational number",
+        "(b) an irrational number",
+        "(c) a natural number",
+        "(d) an integer"
+      ],
+      "correctAnswer": 1,
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "1_ii",
+      "question": "Choose the correct option and write it : \n(ii) Which of the following will be a quadratic polynomial :",
+      "options": [
+        "(a) x² + 7x + 10",
+        "(b) 2x + 3",
+        "(c) x³ + x² + 5x + 7",
+        "(d) x/2 + 3"
+      ],
+      "correctAnswer": 0,
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "1_iii",
+      "question": "Choose the correct option and write it : \n(iii) Distance of point P (x, y) from the origin is :",
+      "options": [
+        "(a) x²",
+        "(b) y²",
+        "(c) √(x² + y²)",
+        "(d) x + y"
+      ],
+      "correctAnswer": 2,
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "1_iv",
+      "question": "Choose the correct option and write it : \n(iv) Common difference in the A.P. 4, 10, 16, 22, ... is :",
+      "options": [
+        "(a) 4",
+        "(b) 22",
+        "(c) 6",
+        "(d) -6"
+      ],
+      "correctAnswer": 2,
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "1_v",
+      "question": "Choose the correct option and write it : \n(v) The sum of zeroes in the quadratic polynomial 3x² + 6x - 9 will be :",
+      "options": [
+        "(a) 2",
+        "(b) -2",
+        "(c) 3",
+        "(d) -3"
+      ],
+      "correctAnswer": 1,
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "1_vi",
+      "question": "Choose the correct option and write it : \n(vi) The pair of linear equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0 will have a unique solution, if :",
+      "options": [
+        "(a) a₁/a₂ ≠ b₁/b₂",
+        "(b) a₁/a₂ = b₁/b₂ = c₁/c₂",
+        "(c) a₁/a₂ = b₁/b₂",
+        "(d) a₁/a₂ = b₁/b₂ ≠ c₁/c₂"
+      ],
+      "correctAnswer": 0,
+      "type": "mcq",
+      "marks": 1
+    },
+    {
+      "id": "2_i",
+      "question": "Fill in the blanks : \n(i) Two triangles having the same shape but not necessarily the same size are called .................",
+      "answer": "similar",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "2_ii",
+      "question": "Fill in the blanks : \n(ii) The line drawn from the eye of an observer to the point in the object viewed by the observer is called .................",
+      "answer": "line of sight",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "2_iii",
+      "question": "Fill in the blanks : \n(iii) (x² - 2) is a ................. Polynomial.",
+      "answer": "quadratic",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "2_iv",
+      "question": "Fill in the blanks : \n(iv) Highest power of variable in the quadratic equation is .................",
+      "answer": "2",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "2_v",
+      "question": "Fill in the blanks : \n(v) The part of the circular region enclosed by two radii and the corresponding arc is called ................. of the circle.",
+      "answer": "sector",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "2_vi",
+      "question": "Fill in the blanks : \n(vi) In case of the angle of elevation, the point being viewed is ................. the horizontal level.",
+      "answer": "above",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "3_i",
+      "question": "Write True/False in the following : \n(i) All Congruent figures are similar.",
+      "answer": "True",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "3_ii",
+      "question": "Write True/False in the following : \n(ii) The distance of point (x, y) from x-axis will be zero.",
+      "answer": "False",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "3_iii",
+      "question": "Write True/False in the following : \n(iii) In a circle, sector and segment are equal.",
+      "answer": "False",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "3_iv",
+      "question": "Write True/False in the following : \n(iv) The tangent at any point of a circle is parallel to the radius through the point of contact.",
+      "answer": "False",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "3_v",
+      "question": "Write True/False in the following : \n(v) The tangents drawn at the ends of a diameter of a circle are parallel.",
+      "answer": "True",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "3_vi",
+      "question": "Write True/False in the following : \n(vi) The empirical relationship between the three measures of central tendency is “3 median = mode + 2 mean”.",
+      "answer": "True",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "4",
+      "question": "Match the columns :\n(i) The probability of an event that cannot happen\n(ii) The value of tan 60°\n(iii) The value of sec 60°\n(iv) sin²θ + cos²θ =\n(v) Curved surface area of the cylinder\n(vi) Curved surface area of the cone\n\nOptions:\n(a) 2\n(b) 1\n(c) πrl\n(d) 2πrh\n(e) √3\n(f) 0",
+      "answer": "(i) -> (f), (ii) -> (e), (iii) -> (a), (iv) -> (b), (v) -> (d), (vi) -> (c)",
+      "type": "subjective",
+      "marks": 6
+    },
+    {
+      "id": "5_i",
+      "question": "Answer in one sentence/word : \n(i) Write the formula for the area of the segment of a circle with radius R and angle P°.",
+      "answer": "(P/360) × πR² - Area of corresponding triangle",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "5_ii",
+      "question": "Answer in one sentence/word : \n(ii) Write the quadratic formula for a quadratic equation ax² + bx + c = 0, a ≠ 0.",
+      "answer": "x = [-b ± √(b² - 4ac)] / 2a",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "5_iii",
+      "question": "Answer in one sentence/word : \n(iii) Write the number of possible outcomes when a coin tossed once.",
+      "answer": "2",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "5_iv",
+      "question": "Answer in one sentence/word : \n(iv) Write the coordinates of the origin.",
+      "answer": "(0, 0)",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "5_v",
+      "question": "Answer in one sentence/word : \n(v) Write the definition of the secant of a circle.",
+      "answer": "A line that intersects the circle at two distinct points.",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "5_vi",
+      "question": "Answer in one sentence/word : \n(vi) Write one example of pair of similar figures.",
+      "answer": "Two equilateral triangles",
+      "type": "subjective",
+      "marks": 1
+    },
+    {
+      "id": "6",
+      "question": "Find the LCM of the numbers 12, 15 and 21 by the prime factorization method.",
+      "answer": "420",
+      "explanation": "Prime factors: 12 = 2²×3, 15 = 3×5, 21 = 3×7. LCM = 2²×3×5×7 = 4×3×5×7 = 420.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "6_OR",
+      "question": "Express 140 as a product of its prime factors.",
+      "answer": "2² × 5 × 7",
+      "explanation": "140 = 2 × 70 = 2 × 2 × 35 = 2 × 2 × 5 × 7 = 2² × 5 × 7.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "7",
+      "question": "Find the sum of first 10 terms of an A.P. : 2, 7, 12, ...",
+      "answer": "245",
+      "explanation": "a=2, d=5, n=10. S = (n/2)[2a + (n-1)d] = (10/2)[2(2) + 9(5)] = 5[4 + 45] = 5[49] = 245.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "7_OR",
+      "question": "Find the number of terms in the A.P. : 7, 13, 19, ..., 205.",
+      "answer": "34",
+      "explanation": "a=7, d=6, an=205. an = a + (n-1)d => 205 = 7 + (n-1)6 => 198 = (n-1)6 => n-1 = 33 => n = 34.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "8",
+      "question": "Find the zeroes of the quadratic polynomial x² + 7x + 10.",
+      "answer": "-2, -5",
+      "explanation": "x² + 7x + 10 = x² + 5x + 2x + 10 = x(x+5) + 2(x+5) = (x+2)(x+5). Zeroes are x = -2, -5.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "8_OR",
+      "question": "Find a quadratic polynomial the sum and product of whose zeroes are 5 and 7 respectively.",
+      "answer": "x² - 5x + 7",
+      "explanation": "Polynomial is given by x² - (sum of zeroes)x + (product of zeroes). Here sum=5, product=7. So, x² - 5x + 7.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "9",
+      "question": "An arc of a circle of radius 21 cm subtends an angle of 60° at the centre. Find the length of the arc.",
+      "answer": "22 cm",
+      "explanation": "Length = (θ/360) × 2πr = (60/360) × 2 × (22/7) × 21 = (1/6) × 2 × 22 × 3 = 22 cm.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "9_OR",
+      "question": "A chord of a circle of radius 10 cm subtends right angle at the centre. Find the area of corresponding sector.",
+      "answer": "78.5 cm²",
+      "explanation": "Area = (θ/360) × πr² = (90/360) × 3.14 × 10² = (1/4) × 314 = 78.5 cm².",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "10",
+      "question": "Solve the pair of linear equations x + y = 14 and x - y = 4.",
+      "answer": "x = 9, y = 5",
+      "explanation": "Adding equations: 2x = 18 => x=9. Substitute in first: 9+y=14 => y=5.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "10_OR",
+      "question": "On Comparing the ratios a₁/a₂, b₁/b₂ and c₁/c₂, find out whether the pair of linear equations 3x+2y=5 and 2x-3y=7 are consist or Inconsistent.",
+      "answer": "Consistent",
+      "explanation": "Equations: 3x+2y-5=0 and 2x-3y-7=0. a₁/a₂ = 3/2. b₁/b₂ = 2/-3. Since a₁/a₂ ≠ b₁/b₂, the lines intersect at a unique point, so they are Consistent.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "11",
+      "question": "Write next two terms of A.P. : 4, 9, 14, 19,...",
+      "answer": "24, 29",
+      "explanation": "Common difference d = 9-4 = 5. Next terms: 19+5=24, 24+5=29.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "11_OR",
+      "question": "Write the first term and common difference of the A.P. 3, 15, 27, 39,...",
+      "answer": "First term = 3, Common difference = 12",
+      "explanation": "First term a = 3. Common difference d = 15 - 3 = 12.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "12",
+      "question": "Write the conditions for the similarity of two triangles.",
+      "answer": "1. Their corresponding angles are equal. 2. Their corresponding sides are in the same ratio (proportional).",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "12_OR",
+      "question": "Write the statement of Basic Proportionality Theorem.",
+      "answer": "If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, the other two sides are divided in the same ratio.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "13",
+      "question": "Find the distance between points (2,-5) and (-2, 9).",
+      "answer": "2√53",
+      "explanation": "Distance = √[(-2-2)² + (9-(-5))²] = √[(-4)² + (14)²] = √[16 + 196] = √212 = 2√53.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "13_OR",
+      "question": "Find the coordinates of the point which divides the line segment joining the points (-1, 7) and (4,-3) in the ratio 2:3.",
+      "answer": "(1, 3)",
+      "explanation": "Using section formula: x = (m₁x₂ + m₂x₁)/(m₁+m₂) = (2(4)+3(-1))/(2+3) = 5/5 = 1. y = (2(-3)+3(7))/5 = 15/5 = 3.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "14",
+      "question": "If sin A = 3/5, then find the value of cos A and tan A.",
+      "answer": "cos A = 4/5, tan A = 3/4",
+      "explanation": "Opposite=3, Hypotenuse=5. Adjacent = √(5²-3²) = 4. cos A = Adj/Hyp = 4/5. tan A = Opp/Adj = 3/4.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "14_OR",
+      "question": "Find the value of 2tan30° / (1 + tan²30°).",
+      "answer": "√3 / 2",
+      "explanation": "tan30° = 1/√3. Numerator = 2/√3. Denominator = 1 + 1/3 = 4/3. Result = (2/√3) / (4/3) = (2/√3) * (3/4) = 3/(2√3) = √3/2.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "15",
+      "question": "The length of a tangent from a point A at distance 5 cm from the centre of the circle is 4 cm. Find the radius of the circle.",
+      "answer": "3 cm",
+      "explanation": "Let radius be r. Distance d=5, tangent l=4. In right triangle, r² + l² = d². r² + 4² = 5². r² = 25 - 16 = 9. r = 3.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "15_OR",
+      "question": "Two concentric circles are of radii 5 cm and 3 cm. Find the length of the chord of the larger circle which touches the smaller circle.",
+      "answer": "8 cm",
+      "explanation": "The chord is tangent to the smaller circle. Half length = √(R² - r²) = √(5² - 3²) = √(25-9) = √16 = 4. Total length = 2 * 4 = 8 cm.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "16",
+      "question": "If P(E) = 0.05, what is the probability of 'not E'?",
+      "answer": "0.95",
+      "explanation": "P(not E) = 1 - P(E) = 1 - 0.05 = 0.95.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "16_OR",
+      "question": "Find the Probability of getting a head, when a coin is tossed once.",
+      "answer": "1/2",
+      "explanation": "Possible outcomes: H, T. Favorable: H. Probability = 1/2.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "17",
+      "question": "A card is drawn from a well shuffled deck of 52 cards. Find the probability of getting a king.",
+      "answer": "1/13",
+      "explanation": "Total cards = 52. Number of Kings = 4. Probability = 4/52 = 1/13.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "17_OR",
+      "question": "A bag contains 3 red, 2 white and 5 black balls. A ball is drawn at random from this bag. Find the probability that it is red.",
+      "answer": "3/10",
+      "explanation": "Total balls = 3 + 2 + 5 = 10. Red balls = 3. Probability = 3/10.",
+      "type": "subjective",
+      "marks": 2
+    },
+    {
+      "id": "18",
+      "question": "Find the nature of the roots of quadratic equation 2x² - 6x + 3 = 0.",
+      "answer": "Real and distinct roots",
+      "explanation": "Discriminant D = b² - 4ac = (-6)² - 4(2)(3) = 36 - 24 = 12. Since D > 0, roots are real and distinct.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "18_OR",
+      "question": "Find the roots of the quadratic equation 2x² + x - 6 = 0.",
+      "answer": "3/2, -2",
+      "explanation": "2x² + 4x - 3x - 6 = 0 => 2x(x+2) - 3(x+2) = 0 => (2x-3)(x+2) = 0. Roots: x = 3/2, x = -2.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "19",
+      "question": "A tower stands vertically on the ground. From a point on the ground, which is 15m away from the foot of the tower, the angle of elevation of the top of the tower is found to be 60°. Find the height of the tower.",
+      "answer": "15√3 m",
+      "explanation": "tan 60° = Height / Distance. √3 = h / 15. h = 15√3 m.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "19_OR",
+      "question": "The angle of elevation of the top of a tower from a point on the ground, which is 30m away from the foot of the tower, is 30°. Find the height of the tower.",
+      "answer": "10√3 m",
+      "explanation": "tan 30° = h / 30. 1/√3 = h / 30. h = 30/√3 = 10√3 m.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "20",
+      "question": "Prove that 3 + 2√5 is an irrational number.",
+      "answer": "Proof steps involve assuming it is rational, isolating √5, and showing contradiction.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "20_OR",
+      "question": "Given HCF (306, 657) = 9. Find the LCM (306, 657).",
+      "answer": "22338",
+      "explanation": "LCM × HCF = Product of numbers. LCM = (306 × 657) / 9 = 34 × 657 = 22338.",
+      "type": "subjective",
+      "marks": 3
+    },
+    {
+      "id": "21",
+      "question": "Five years ago, Nuri was thrice as old as Sonu. Ten years later, Nuri will be twice as old as Sonu. How old are Nuri and Sonu.",
+      "answer": "Nuri: 50 years, Sonu: 20 years",
+      "explanation": "N-5 = 3(S-5) => N-3S = -10. N+10 = 2(S+10) => N-2S = 10. Subtracting: -S = -20 => S=20. N=50.",
+      "type": "subjective",
+      "marks": 4
+    },
+    {
+      "id": "21_OR",
+      "question": "The difference between two numbers is 26 and one number is three times the other. Find the numbers.",
+      "answer": "39 and 13",
+      "explanation": "x - y = 26; x = 3y. 3y - y = 26 => 2y = 26 => y = 13. x = 3(13) = 39.",
+      "type": "subjective",
+      "marks": 4
+    },
+    {
+      "id": "22",
+      "question": "A vessel is in the shape of a hollow hemisphere on which a hollow cylinder is mounted. The diameter of the hemisphere is 14 cm and the total height of the vessel is 13 cm. Find the internal surface area of the vessel.",
+      "answer": "572 cm²",
+      "explanation": "Radius r = 7. Height of cylinder h = 13 - 7 = 6. Area = CSA Hemisphere + CSA Cylinder = 2πr² + 2πrh = 2πr(r+h) = 2(22/7)(7)(7+6) = 44(13) = 572.",
+      "type": "subjective",
+      "marks": 4
+    },
+    {
+      "id": "22_OR",
+      "question": "Two Cubes each of volume 64 cm³ are joined end to end. Find the surface area of the resulting cuboid.",
+      "answer": "160 cm²",
+      "explanation": "Volume a³ = 64 => a = 4. Joined cuboid dimensions: Length=8, Width=4, Height=4. SA = 2(lb+bh+hl) = 2(32+16+32) = 2(80) = 160.",
+      "type": "subjective",
+      "marks": 4
+    },
+    {
+      "id": "23",
+      "question": "The following table gives the literacy rate (in percentage) of 35 cities.\nLiteracy Rate (in %) 45 - 55 55 - 65 65 - 75 75 - 85 85 - 95\nNumber of Cities 3 10 11 8 3\nFind the mean literacy rate.",
+      "answer": "69.43 %",
+      "explanation": "Class marks: 50, 60, 70, 80, 90. Σf = 35. Σfx = 150+600+770+640+270 = 2430. Mean = 2430/35 ≈ 69.43.",
+      "type": "subjective",
+      "marks": 4
+    },
+    {
+      "id": "23_OR",
+      "question": "A survey conducted by a group of students on 20 families in a locality resulted in the following data regarding the number of members in different families:\nFamily size 1 - 3 3 – 5 5 – 7 7 – 9 9 - 11\nNumber of families 7 8 2 2 1\nFind the mode of this data.",
+      "answer": "3.286",
+      "explanation": "Modal class 3-5 (freq 8). l=3, f1=8, f0=7, f2=2, h=2. Mode = l + [(f1-f0)/(2f1-f0-f2)]*h = 3 + [(1)/(16-7-2)]*2 = 3 + 2/7 ≈ 3.286.",
+      "type": "subjective",
+      "marks": 4
+    }
+  ]
+}
