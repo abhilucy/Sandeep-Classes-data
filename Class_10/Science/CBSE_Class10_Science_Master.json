@@ -1,0 +1,1599 @@
+{
+  "metadata": {
+    "class": "Class 10",
+    "board": "CBSE",
+    "subject": "Science",
+    "level": "NA",
+    "generatedAt": "2026-01-03T18:49:31.905Z"
+  },
+  "papers": {
+    "2021_1": [
+      {
+        "id": "Q1",
+        "question": "Electrolysis of water is a decomposition reaction. The mass ratio (M_H : M_O) of hydrogen and oxygen gases liberated at the electrodes during electrolysis of water is :",
+        "options": [
+          "8 : 1",
+          "2 : 1",
+          "1 : 2",
+          "1 : 8"
+        ],
+        "correctAnswer": 3,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q2",
+        "question": "The products formed when Aluminium and Magnesium are burnt in the presence of air respectively are :",
+        "options": [
+          "Al₃O₄ and MgO₂",
+          "Al₂O₃ and MgO",
+          "Al₃O₄ and MgO",
+          "Al₂O₃ and MgO₂"
+        ],
+        "correctAnswer": 1,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q3",
+        "question": "The following table shows the pH values of four solutions A, B, C and D on a pH scale :\n[Image: A scale showing D at 2, A at 5, B at 7, C at 13]\nThe solutions A, B, C and D respectively are of a",
+        "options": [
+          "Strong acid, weak acid, neutral, strong base",
+          "Weak acid, neutral, weak base, strong base",
+          "Weak acid, neutral, strong base, weak base",
+          "Weak acid, neutral, strong base, strong acid"
+        ],
+        "correctAnswer": 3,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q4",
+        "question": "Consider the following reactions :\n(i) Dilute hydrochloric acid reacts with sodium hydroxide.\n(ii) Magnesium oxide reacts with dilute hydrochloric acid.\n(iii) Carbon dioxide reacts with sodium hydroxide.\nIt is found that in each case :",
+        "options": [
+          "Salt and water is formed.",
+          "Neutral salts are formed.",
+          "Hydrogen gas is formed.",
+          "Acidic salts are formed."
+        ],
+        "correctAnswer": 0,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q5",
+        "question": "Reaction between two elements A and B, forms a compound C. A loses electrons and B gains electrons. Which one of the following properties will not be shown by compound C ?",
+        "options": [
+          "It has high melting point.",
+          "It is highly soluble in water.",
+          "It has weak electrostatic forces of attraction between its oppositely charged ions.",
+          "It conducts electricity in its molten state or aqueous solution."
+        ],
+        "correctAnswer": 2,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q6",
+        "question": "The metals obtained from their molten chlorides by the process of electrolytic reduction are :",
+        "options": [
+          "Gold and silver",
+          "Calcium and magnesium",
+          "Aluminium and silver",
+          "Sodium and iron"
+        ],
+        "correctAnswer": 1,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q7",
+        "question": "The formation of magnesium oxide is correctly shown in option :",
+        "options": [
+          "(A) Mg (2 dots) + O (6 dots) → Mg²⁺ [:O: (8 dots)]²⁻",
+          "(B) Mg → O ...",
+          "(C) Mg + O ...",
+          "(D) 2Mg + O₂ ..."
+        ],
+        "correctAnswer": 0,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q8",
+        "question": "Secretion of less saliva in mouth will effect the conversion of :",
+        "options": [
+          "proteins into amino acids",
+          "fats into fatty acids and glycerol",
+          "starch into simple sugars",
+          "sugars into alcohol"
+        ],
+        "correctAnswer": 2,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q9",
+        "question": "The plant hormone whose concentration stimulates the cells to grow longer on the side of the shoot which is away from light is :",
+        "options": [
+          "Cytokinins",
+          "Gibberellins",
+          "Adrenaline",
+          "Auxins"
+        ],
+        "correctAnswer": 3,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q10",
+        "question": "The correct/true statement(s) for a bisexual flower is/are :\n(i) They possess both stamen and pistil.\n(ii) They possess either stamen or pistil.\n(iii) They exhibit either self-pollination or cross-pollination.\n(iv) They cannot produce fruits on their own.",
+        "options": [
+          "(i) only",
+          "(iv) only",
+          "(i) and (iii)",
+          "(i) and (iv)"
+        ],
+        "correctAnswer": 2,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q11",
+        "question": "If pea plants with round and green seeds (RRyy) are crossed with pea plants having wrinkled and yellow seeds (rrYY), the seeds developed by the plants of F₁ generation will be :",
+        "options": [
+          "50% round and green",
+          "75% wrinkled and green",
+          "100% round and yellow",
+          "75% wrinkled and yellow"
+        ],
+        "correctAnswer": 2,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q12",
+        "question": "The breakdown of glucose has taken the following pathway :\nGlucose --(a)--> Pyruvate + Energy --(b)--> Lactic acid + Energy\nThe sites 'a' and 'b' respectively are :",
+        "options": [
+          "Mitochondria and Oxygen deficient muscle cells",
+          "Cytoplasm and Oxygen rich muscle cells",
+          "Cytoplasm and Yeast cells",
+          "Cytoplasm and Oxygen deficient muscle cells"
+        ],
+        "correctAnswer": 3,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q13",
+        "question": "Mirror 'X' is used to concentrate sunlight in solar furnace and Mirror 'Y' is fitted on the side of the vehicle to see the traffic behind the driver. Which of the following statements are true for the two mirrors ?\n(i) The image formed by mirror 'X' is real, diminished and at its focus.\n(ii) The image formed by mirror 'Y' is virtual, diminished and erect.\n(iii) The image formed by mirror 'X' is virtual, diminished and erect.\n(iv) The image formed by mirror 'Y' is real, diminished and at its focus.",
+        "options": [
+          "(i) and (ii)",
+          "(ii) and (iii)",
+          "(iii) and (iv)",
+          "(i) and (iv)"
+        ],
+        "correctAnswer": 0,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q14",
+        "question": "An old person is suffering from an eye defect caused by weakening of ciliary muscles and diminishing flexibility of the eye lens. If the defect of vision is 'a' which can be corrected by lens 'b', then 'a' and 'b' respectively are :",
+        "options": [
+          "hypermetropia and convex lens",
+          "presbyopia and bifocal lens",
+          "myopia and concave lens",
+          "myopia and bifocal lens"
+        ],
+        "correctAnswer": 1,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q15",
+        "question": "Which of the following groups do not constitute a food chain ?\n(i) Wolf, rabbit, grass, lion\n(ii) Plankton, man, grasshopper, fish\n(iii) Hawk, grass, snake, grasshopper, frog\n(iv) Grass, snake, wolf, tiger",
+        "options": [
+          "(i) and (iv)",
+          "(i) and (iii)",
+          "(ii) and (iii)",
+          "(ii) and (iv)"
+        ],
+        "correctAnswer": 3,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q16",
+        "question": "The percentage of solar energy which is not converted into food energy by the leaves of green plants in a terrestrial ecosystem is about :",
+        "options": [
+          "1%",
+          "10%",
+          "90%",
+          "99%"
+        ],
+        "correctAnswer": 3,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q17",
+        "question": "Assertion (A) : Decomposition reactions are generally endothermic reactions.\nReason (R) : Decomposition of organic matter into compost is an exothermic process.",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+          "Assertion (A) is true, but Reason (R) is false.",
+          "Assertion (A) is false, but Reason (R) is true."
+        ],
+        "correctAnswer": 1,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q18",
+        "question": "Assertion (A) : A human child bears all the basic features of human beings.\nReason (R) : It looks exactly like its parents, showing very little variations.",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+          "Assertion (A) is true, but Reason (R) is false.",
+          "Assertion (A) is false, but Reason (R) is true."
+        ],
+        "correctAnswer": 2,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q19",
+        "question": "Assertion (A) : No two magnetic field lines are found to cross each other.\nReason (R) : The compass needle cannot point towards two directions at the point of intersection of two magnetic field lines.",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+          "Assertion (A) is true, but Reason (R) is false.",
+          "Assertion (A) is false, but Reason (R) is true."
+        ],
+        "correctAnswer": 0,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q20",
+        "question": "Assertion (A) : The amount of ozone in the atmosphere began to drop sharply in the 1980s.\nReason (R) : The oxygen atoms combine with molecular oxygen to form ozone.",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+          "Assertion (A) is true, but Reason (R) is false.",
+          "Assertion (A) is false, but Reason (R) is true."
+        ],
+        "correctAnswer": 1,
+        "year": "2021",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "Q21",
+        "question": "A student performs the following experiment in his school laboratory.\n[Image showing dilute sulphuric acid and Zn granules in a flask]\nList two observations to justify that in this experiment a chemical change has taken place.",
+        "answer": "1. Evolution of hydrogen gas bubbles.\n2. Change in temperature (flask becomes hot/exothermic reaction).\n3. Zinc granules dissolve/change in state.",
+        "year": "2021",
+        "marks": 2,
+        "type": "subjective"
+      },
+      {
+        "id": "Q22",
+        "question": "Draw labelled diagrams to show different stages of budding in Hydra.",
+        "answer": "(Diagram required showing parent body, bud initiation, bud growth, and separation of new individual).",
+        "year": "2021",
+        "marks": 2,
+        "type": "subjective"
+      },
+      {
+        "id": "Q23",
+        "question": "(a) Besides minimising the loss of blood, why is it essential to plug any leak in a blood vessel ? Name the component of blood which helps in this process and state how this component perform this function.\nOR\n(b) (i) The transport system in plants is relatively slower than in animals. Give reasons.\n(ii) State the role of phloem in the transport of materials in plants.",
+        "answer": "(a) Essential to maintain blood pressure for pumping efficiency. Component: Platelets. Function: Form a clot at injury site.\nOR\n(b) (i) Plants have low energy needs as they do not move; they have many dead cells for support. (ii) Phloem translocates food (sucrose) from leaves to other parts.",
+        "year": "2021",
+        "marks": 2,
+        "type": "subjective"
+      },
+      {
+        "id": "Q24",
+        "question": "An object is placed at a distance of 60 cm from a concave lens of focal length 30 cm. Use lens formula to find the position of the image formed in this case.",
+        "answer": "u = -60 cm, f = -30 cm.\n1/v - 1/u = 1/f => 1/v = 1/f + 1/u = -1/30 - 1/60 = -3/60 = -1/20.\nv = -20 cm. Image is 20 cm from lens on the same side.",
+        "year": "2021",
+        "marks": 2,
+        "type": "subjective"
+      },
+      {
+        "id": "Q25",
+        "question": "(a) A wire of resistance R is cut into three equal parts. If these three parts are then joined in parallel, calculate the total resistance of the combination so formed.\nOR\n(b) Define electric power. When do we say that the power consumed in an electric circuit is 1 watt ?",
+        "answer": "(a) Each part R/3. Parallel: 1/Req = 3/R + 3/R + 3/R = 9/R. Req = R/9.\nOR\n(b) Power is rate of electrical energy consumption. 1 watt is power when 1 Ampere current flows at 1 Volt potential difference.",
+        "year": "2021",
+        "marks": 2,
+        "type": "subjective"
+      },
+      {
+        "id": "Q26",
+        "question": "‘‘Excessive use of chemicals and pesticides in agriculture adversely effect the environment.’’ Justify this statement.",
+        "answer": "Causes biomagnification, kills beneficial organisms, pollutes soil and water bodies.",
+        "year": "2021",
+        "marks": 2,
+        "type": "subjective"
+      },
+      {
+        "id": "Q27",
+        "question": "(a) ‘‘Displacement reactions also play a key role in extracting metals in the middle of the reactivity series.’’ Justify this statement with two examples.\n(b) Why can metals high up in the reactivity series not be obtained by reduction of their oxides by carbon ?",
+        "answer": "(a) Example: Thermite reaction (Fe2O3 + 2Al -> 2Fe + Al2O3) or Manganese extraction using Al.\n(b) Highly reactive metals have higher affinity for oxygen than carbon does.",
+        "year": "2021",
+        "marks": 3,
+        "type": "subjective"
+      },
+      {
+        "id": "Q28",
+        "question": "(a) With the help of an activity, explain the conditions under which iron articles get rusted.\nOR\n(b) (i) Name two metals which react violently with cold water. List any three observations which a student notes when these metal are dropped in a beaker containing water.\n(ii) Write a test to identify the gas evolved (if any) during the reaction of these metals with water.",
+        "answer": "(a) Activity with 3 test tubes (Air+Water, Water only, Dry Air) showing rust only forms with both air and water.\nOR\n(b) (i) Sodium (Na), Potassium (K). Observations: Floats/darts, Hissing, Catches fire. (ii) Gas burns with a pop sound (Hydrogen).",
+        "year": "2021",
+        "marks": 3,
+        "type": "subjective"
+      },
+      {
+        "id": "Q29",
+        "question": "Plants have neither a nervous system nor muscles, even then they respond to stimuli. For example, the leaves of chhui-mui (touch-me-not) plant when touched begin to fold up and droop.\n(a) How is the information communicated in ‘‘touch-me-not’’ plants ?\n(b) What enables the plant cells to bring out the observable response ?\n(c) Differentiate the movement mentioned above from the movement of tendrils in a pea plant.",
+        "answer": "(a) Electrochemical signals. (b) Change in turgor pressure/water amount in pulvinus cells. (c) Touch-me-not is Nastic (non-directional, growth-independent). Tendrils are Tropic (directional, growth-dependent).",
+        "year": "2021",
+        "marks": 3,
+        "type": "subjective"
+      },
+      {
+        "id": "Q30",
+        "question": "(a) What are chromosomes ?\n(b) Explain in brief how stability of DNA content of a species is ensured in sexually reproducing organisms ?",
+        "answer": "(a) Thread-like structures of DNA and protein in nucleus carrying genetic info.\n(b) Gametes are formed by meiosis (halving chromosome number). Fertilization restores the original diploid number.",
+        "year": "2021",
+        "marks": 3,
+        "type": "subjective"
+      },
+      {
+        "id": "Q31",
+        "question": "Draw ray diagrams to show the nature, position and relative size of the image formed by a convex mirror when the object is placed (i) at infinity and (ii) between infinity and pole P of the mirror.",
+        "answer": "(i) At Focus F (behind), Virtual, Erect, Point-sized.\n(ii) Between P and F (behind), Virtual, Erect, Diminished.",
+        "year": "2021",
+        "marks": 3,
+        "type": "subjective"
+      },
+      {
+        "id": "Q32",
+        "question": "Consider the following electric circuit :\n[Circuit Diagram: Battery 15V, Resistors (10Ω || 15Ω) in series with (60Ω || 40Ω)]\nCalculate the values of the following :\n(a) The total resistance of the circuit\n(b) The total current drawn from the source\n(c) Potential difference across the parallel combination of 10 Ω and 15 Ω resistors",
+        "answer": "(a) R1=6Ω, R2=24Ω. Total R = 30Ω.\n(b) I = V/R = 15/30 = 0.5 A.\n(c) V = I * R1 = 0.5 * 6 = 3 V.",
+        "year": "2021",
+        "marks": 3,
+        "type": "subjective"
+      },
+      {
+        "id": "Q33",
+        "question": "(a) Write the relationship between resistivity and resistance of a cylindrical conductor of length l and area of cross-section A. Hence derive the SI unit of resistivity.\n(b) Why are alloys used in electrical heating devices ?",
+        "answer": "(a) R = ρ(l/A) => ρ = RA/l. Unit: Ωm.\n(b) High resistivity, do not oxidize at high temperatures.",
+        "year": "2021",
+        "marks": 3,
+        "type": "subjective"
+      },
+      {
+        "id": "Q34",
+        "question": "(a) (i) Draw two isomeric structures of Butene (C₄H₈).\n(ii) Name the following compounds :\n(I) CH₃-CH₂-CH₂-CH₂-Cl\n(II) CH₃-CH₂-CH₂-CHO\n(iii) Write the chemical equations for the following reactions. Mention one essential condition each for these reactions to take place.\n(I) Ethanol undergoes complete oxidation\n(II) Propene undergoes hydrogenation\n(III) Ethanoic acid reacts with ethanol\nOR\n(b) (i) A carbon compound X is a good solvent. On reaction with sodium, X forms two products Y and Z. Z is used to convert vegetable oil into vegetable ghee. Identify and name X, Y and Z. Also write the equation of reaction of X with sodium to justify your answer.\n(ii) Write chemical equation to show what happens when ethanol :\n(I) burns in oxygen/air.\n(II) is heated at 443 K in excess conc. H₂SO₄.\n(III) reacts with acidified potassium dichromate.",
+        "answer": "(a) (i) But-1-ene, But-2-ene. (ii) 1-Chlorobutane, Butanal. (iii) Eqns for Oxidation (KMnO4), Hydrogenation (Ni catalyst), Esterification (Conc H2SO4).\nOR\n(b) (i) X: Ethanol, Y: Sodium Ethoxide, Z: Hydrogen. 2C2H5OH + 2Na -> 2C2H5ONa + H2. (ii) Combustion, Dehydration to Ethene, Oxidation to Ethanoic acid.",
+        "year": "2021",
+        "marks": 5,
+        "type": "subjective"
+      },
+      {
+        "id": "Q35",
+        "question": "(a) (i) Write the functions of the following parts of human female reproductive system :\n(I) Ovary\n(II) Fallopian tube\n(III) Uterus\n(ii) State briefly two contraceptive methods used by human males.\nOR\n(b) (i) Differentiate between self-pollination and cross-pollination.\n(ii) Identify A, B and C in the diagram given below and write one function of each.",
+        "answer": "(a) (i) Ovary: Egg/Hormone production. Tube: Fertilization. Uterus: Implantation/Fetus development. (ii) Condoms, Vasectomy.\nOR\n(b) (i) Self: Same flower/plant. Cross: Different plant. (ii) A: Stigma (Receives pollen), B: Pollen tube (Transport gamete), C: Ovary/Ovule (Contains egg).",
+        "year": "2021",
+        "marks": 5,
+        "type": "subjective"
+      },
+      {
+        "id": "Q36",
+        "question": "(a) (i) The power of a lens 'X' is – 2.5 D. Name the lens and determine its focal length in cm. For which eye defect of vision will an optician prescribe this type of lens as a corrective lens ?\n(ii) ‘‘The value of magnification 'm' for a lens is – 2.’’ Using new Cartesian Sign Convention and considering that an object is placed at a distance of 20 cm from the optical centre of this lens, state :\n(I) the nature of the image formed;\n(II) size of the image compared to the size of the object;\n(III) position of the image, and\n(IV) sign of the height of the image.\n(iii) The numerical values of the focal lengths of two lenses A and B are 10 cm and 20 cm respectively. Which one of the two will show higher degree of convergence/divergence ? Give reason to justify your answer.\nOR\n(b) (i) Draw a ray diagram to show the refraction of a ray of light through a rectangular glass slab when it falls obliquely from air into glass.\n(ii) State Snell’s law of refraction of light.\n(iii) Differentiate between the virtual images formed by a convex lens and a concave lens on the basis of :\n(I) object distance, and\n(II) magnification.",
+        "answer": "(a) (i) Concave, f = -40 cm. Myopia. (ii) Real/Inverted, Magnified, 40 cm (other side), Negative. (iii) Lens A (10cm) has higher power (P=10D vs 5D).\nOR\n(b) (i) Diagram. (ii) sin i / sin r = constant. (iii) Convex: u<f, m>1. Concave: Any u, m<1.",
+        "year": "2021",
+        "marks": 5,
+        "type": "subjective"
+      },
+      {
+        "id": "Q37",
+        "question": "Seawater contains many salts dissolved in it. Common salt is separated from these salts. Deposits of solid salt are also found in several parts of the world. These large crystals are often brown due to impurities. This is called rock salt and is mined like coal. The common salt is an important raw material for chemicals of daily use.\n(a) Write balanced chemical equations to show the products formed during electrolysis of brine.\n(b) List two uses of any one product obtained during electrolysis of brine.\n(c) (i) A mild non-corrosive basic salt 'A', used for faster cooking, is strongly heated to produce a compound 'B', that is used for removing permanent hardness of water. Identify A and B and also write the equation for the reaction that occurs when A is heated.\nOR\n(c) (ii) Define water of crystallisation. Give two examples of salts that have water of crystallisation.",
+        "answer": "(a) 2NaCl + 2H2O -> 2NaOH + Cl2 + H2. (b) Cl2: PVC, Water treatment. (c)(i) A: Baking Soda (NaHCO3), B: Sodium Carbonate (Na2CO3). 2NaHCO3 -> Na2CO3 + H2O + CO2. (c)(ii) Fixed water molecules in crystal structure. e.g., CuSO4.5H2O, Na2CO3.10H2O.",
+        "year": "2021",
+        "marks": 4,
+        "type": "case_study"
+      },
+      {
+        "id": "Q38",
+        "question": "The maintenance functions of all living organisms must go on even when they are not doing anything particular... This maintenance job has to go on... This energy is obtained by the individual organism from the food prepared by the autotrophs, called producers.\n(a) Name and define the process by which green plants prepare food.\n(b) Write chemical equation involved in the above process.\n(c) (i) State in proper sequence the events that occur in synthesis of food by desert plants.\nOR\n(c) (ii) Explain giving reasons what happens to the rate at which the green plants will prepare food\n(I) during cloudy weather, and\n(II) when stomata get blocked due to dust.",
+        "answer": "(a) Photosynthesis. (b) 6CO2 + 12H2O -> C6H12O6 + 6O2 + 6H2O. (c)(i) Absorption of CO2 at night (intermediate), Energy absorption by chlorophyll during day to finish process. (c)(ii) Rate decreases in both cases due to lack of light and CO2 respectively.",
+        "year": "2021",
+        "marks": 4,
+        "type": "case_study"
+      },
+      {
+        "id": "Q39",
+        "question": "In our homes, we receive the supply of electric power through a main supply also called mains... potential difference between the two wires (live wire and neutral wire) of this supply is 220 V.\n(a) Write the colours of the insulation covers of the line wires through which supply comes to our homes.\n(b) What should be the current rating of the electric circuit (220 V) so that an electric iron of 1 kW power rating can be operated ?\n(c) (i) What is the function of the earth wire ? State the advantage of the earth wire in domestic electric appliances such as electric iron.\nOR\n(c) (ii) List two precautions to avoid electrical accidents. State how these precautions prevent possible damage to the circuit/appliance.",
+        "answer": "(a) Red (Live), Black (Neutral). (b) I = 1000/220 = 4.54A. Rating 5A. (c)(i) Safety/Leakage path. Prevents shock. (c)(ii) Fuse (prevents overload), Earthing (prevents shock), Good insulation.",
+        "year": "2021",
+        "marks": 4,
+        "type": "case_study"
+      }
+    ],
+    "2022_1": [
+      {
+        "id": "1",
+        "question": "Select the group in which all organisms have the same mode of nutrition.\nA. Cuscuta, yeast, legumes, leeches and tapeworm\nB. Cactus, ticks, lice, leeches and cow\nC. Cuscuta, ticks, lice, leeches and tapeworm\nD. Cactus, grass, lice, lion and tapeworm",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "2",
+        "question": "Which of the following options indicates the products formed after breakdown of the glucose in our muscle cells when there is lack of oxygen?\nA. Ethanol + carbon dioxide + Energy\nB. Lactic acid + Energy\nC. Lactic acid + carbon monoxide + Energy\nD. Carbon dioxide + Water + Energy",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "3",
+        "question": "Which of the following is a correct combination of function and part of the brain?\nA. Posture and balance: Cerebrum\nB. Salivation: Medulla in midbrain\nC. Hunger: Pons in hindbrain\nD. Blood pressure: Medulla in hindbrain",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "4",
+        "question": "The blood glucose level in a patient was very high. It may be due to inadequate secretion of:\nA. growth hormone from pituitary gland\nB. oestrogen from ovary\nC. insulin from pituitary gland\nD. insulin from pancreas",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "5",
+        "question": "In a cross between black furred rabbit (B) and white furred rabbit (b), all offspring were found to have black fur. What can be inferred about the genetic makeup of the parent rabbits?\nA. BB X bb\nB. Bb X Bb\nC. Bb X bb\nD. bb X bb",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "6",
+        "question": "Which are the correct statements related to ozone?\n(i) Ozone layer helps in increasing the UV radiations reaching earth.\n(ii) Ozone is a deadly poison.\n(iii) Ozone layer shields the earth from UV radiations.\n(iv) Ozone layer prevents UV rays which cause skin cancer.\n(v) Ozone is formed with the help of Chloroflurocarbons.\n\nA. (i), (ii), (iii)\nB. (ii), (iii), (iv)\nC. (iii), (iv), (v)\nD. (i), (iv), (v)",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "7",
+        "question": "Which of the following human activities has resulted in an increase of non-biodegradable substances?\nA. Organic farming\nB. Increase in tree plantation\nC. Use of plastic as packaging material\nD. Composting of kitchen waste",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "8",
+        "question": "Assertion (A): Tallness of a pea plant is controlled by an enzyme.\nReason (R): The gene for that enzyme makes proteins which help the plant to be tall.\n\nA. Both A and R are true, and R is the correct explanation of A.\nB. Both A and R are true, and R is not the correct explanation of A.\nC. A is true but R is false.\nD. A is false but R is true.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "9",
+        "question": "Assertion (A): Vulture will always have the least amount of pesticides in a food chain.\nReason (R): Vulture occupies the last trophic level and it gets only 10% of energy of the previous trophic level.\n\nA. Both A and R are true, and R is the correct explanation of A.\nB. Both A and R are true, and R is not the correct explanation of A.\nC. A is true but R is false.\nD. A is false but R is true.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "10",
+        "question": "Unlike animals, plants do not have any excretory products as they do not eat food. Comment upon the statement with justification.",
+        "answer": "The statement is incorrect. Plants do generate excretory products despite not eating food. These products arise from metabolic activities such as photosynthesis (producing oxygen as a by-product), respiration (producing carbon dioxide), and transpiration (removing excess water). Other waste products may be stored in vacuoles, leaves that fall off, or as gums and resins in old xylem.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "11",
+        "question": "Students to attempt either option A or B.\nA. How many chambers are there in the heart of the following organisms? How is mixing of oxygenated and deoxygenated blood prevented in their body?\n(i) Fishes\n(ii) Humans\nOR\nB. Explain the mechanism by which the water is transported in plants?",
+        "answer": "A. (i) Fishes have a 2-chambered heart (one atrium, one ventricle). They have single circulation, so blood is oxygenated in the gills and goes directly to the body, preventing mixing in the heart itself but there is no separate oxygenated return to the heart. (ii) Humans have a 4-chambered heart (two atria, two ventricles). The inter-atrial and inter-ventricular septa completely separate the left (oxygenated) and right (deoxygenated) sides, preventing mixing. \nOR\nB. Water is transported in plants through xylem tissue. The main driving force is the transpiration pull generated by the evaporation of water from leaves (transpiration), which creates a suction force (cohesion-tension theory) pulling the water column up. Root pressure also contributes by pushing water up from the roots due to ion absorption.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "12",
+        "question": "About 100 acres of forest land was declared as Natural reserve park. The following organisms were predominant in the Natural reserve park: rabbit, frog, grass, fish, fox, water insects, zebra, peacock, snake, trees, bird, owl, insects, tiger, vulture, duck.\nCreate a food web comprising two separate food chains with different producers by using the above data.",
+        "answer": "Chain 1 (Producer: Grass): Grass -> Zebra -> Tiger.\nChain 2 (Producer: Trees): Trees -> Insect -> Bird -> Snake -> Peacock.\nThe food web would interconnect these chains (e.g., Tiger might eat Rabbit, Snake might eat Frog, etc.).",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "13",
+        "question": "Draw and explain how the nerve cells help in transmission of impulses?",
+        "answer": "Nerve cells (neurons) transmit impulses electrically and chemically. A stimulus is received by the dendrites, generating an electrical impulse that travels along the axon to the nerve ending. At the synapse (gap between neurons), the electrical impulse triggers the release of neurotransmitter chemicals, which cross the gap and start a similar electrical impulse in the dendrite of the next neuron.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "14",
+        "question": "In a genetic experiment, plants with pure round green seeds (RRyy) were crossed with plants with wrinkled yellow seeds (rrYY).\n(i) Show the gametes formed when F1 was self-pollinated.\n(ii) A total of 144 seeds were produced which developed into saplings. Show the ratio in which these traits are independently inherited in these 144 saplings.",
+        "answer": "(i) F1 genotype is RrYy (Round Yellow). The gametes formed are RY, Ry, rY, ry.\n(ii) The phenotypic ratio in F2 is 9:3:3:1 (Round Yellow : Round Green : Wrinkled Yellow : Wrinkled Green). Out of 144 saplings:\n- Round Yellow: 9/16 * 144 = 81\n- Round Green: 3/16 * 144 = 27\n- Wrinkled Yellow: 3/16 * 144 = 27\n- Wrinkled Green: 1/16 * 144 = 9",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "15",
+        "question": "Neha consumed boiled sweet potatoes and boiled eggs for breakfast. Help her to understand some steps in the process of digestion of the food taken by her by answering the questions given below.\nAttempt either subpart A or B.\nA. Which of these food items is rich in proteins? In which part of the alimentary canal is the digestion of this component initiated? Name the enzymes, conditions required and the glands associated with the digestion here.\nOR\nB. Which of these food items contains fats? How is it digested?\nC. Which of these food items is rich in starch? How is its digestion initiated?\nD. The figure given below represents parts of the human alimentary canal. Which of these parts will have the maximum amount of digested food as soon as the process of digestion is completed?",
+        "answer": "A. Boiled eggs are rich in proteins. Digestion is initiated in the Stomach. Enzyme: Pepsin. Condition: Acidic medium (provided by HCl). Gland: Gastric glands.\nOR\nB. Boiled eggs (yolk) contain fats. Digestion occurs in the Small Intestine where bile salts emulsify fats and lipase breaks them down into fatty acids and glycerol.\nC. Boiled sweet potatoes are rich in starch. Digestion initiates in the Mouth with Salivary Amylase breaking starch into maltose.\nD. The Small Intestine (Part O in the standard diagram) will have the maximum amount of digested food.",
+        "type": "subjective",
+        "marks": 4,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "16",
+        "question": "Attempt either option A or B.\nA. Puneet wanted to grow banana plants.\n(i) Based on your knowledge on plant reproduction should he opt for seeds or any alternate method of reproduction. Justify your answer.\n(ii) Offsprings of a banana plant usually show very little variation. What causes variation and are variations good or bad? Justify.\nOR\nB. Annie was conducting research on the number of fruits produced by watermelon under different conditions. She grew 25 watermelon plants each in both glass house A and B. She introduced pollinators in glass house A only.\n(i) What difference will she observe in the number of fruits produced in the two glass houses? Explain with reason.\n(ii) List 3 changes that will occur in a flower once it gets fertilized.",
+        "answer": "A. (i) He should opt for vegetative propagation (e.g., using rhizomes/suckers) because commercial banana plants are often parthenocarpic (seedless) or have non-viable seeds.\n(ii) Variation is caused by DNA copying errors (mutations) or sexual reproduction (recombination). Asexual reproduction in bananas leads to little variation. Variations are generally good as they enhance the chances of survival of a species in changing environmental conditions.\nOR\nB. (i) Glass house A will produce significantly more fruits than B. Watermelon flowers often require cross-pollination by agents (pollinators) to fertilize the ovules and form fruit. Without pollinators in B, fertilization and fruit set will be poor.\n(ii) 1. The zygote divides to form an embryo. 2. The ovule develops into a seed. 3. The ovary ripens to form a fruit (and petals/sepals wither and fall).",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "17",
+        "question": "Which of the following equations represent redox reactions and what are the values for 'p' and 'q' in these equations?\nEquation 1: Fe2O3(s) + 2Al(s) → Al2O3 (s) + p Fe(l) + heat\nEquation 2: 2C4H10(g) + 13O2(g) → 8CO2(g)+ q H2O(g)\n\nA. Only equation 1 is a redox reaction, p =1 and q=3\nB. Both equations 1 and 2 are redox reactions, p= 2 and q=4\nC. Only equation 2 is a redox reaction, p= 2 and q= 10\nD. Both equations 1 and 2 are redox reactions, p= 2 and q=10",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "18",
+        "question": "Four statements about the reactions of oxides with dilute hydrochloric acid and aqueous sodium hydroxide are listed.\nI. Aluminium oxide reacts with both dilute hydrochloric acid and aqueous sodium hydroxide.\nII. Calcium oxide reacts with dilute hydrochloric acid and aqueous sodium hydroxide.\nIII. Zinc oxide reacts with both dilute hydrochloric acid and aqueous sodium hydroxide.\nIV. Sulphur dioxide does not react with either dilute hydrochloric acid or aqueous sodium hydroxide.\nWhich statements are correct?\nA. I and II\nB. I and III\nC. II and IV\nD. III and IV",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "19",
+        "question": "An iron nail is added to each of the two test tubes 'P' and 'Q' containing aqueous copper (II) sulphate, and aqueous silver nitrate respectively. Which of the following observation is correct?\nA. In test tube 'P' iron nail is coated with a blue coating and in test tube 'Q' there is no reaction.\nB. Iron nail is coated with a brown coating in test tube 'P' and silver coating in test tube 'Q'.\nC. There is no reaction in either of the test tubes 'P' or 'Q'.\nD. There is no reaction in test tube 'P' but a silver coating on iron nail is seen in test tube 'Q'.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "20",
+        "question": "Methyl orange is added to dilute hydrochloric acid and to aqueous sodium hydroxide. What is the colour of the methyl orange in each solution?\nSample | colour in dilute hydrochloric acid | colour in aqueous sodium hydroxide\nA | Orange | Red\nB | Red | Yellow\nC | Red | Orange\nD | Yellow | Red",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "21",
+        "question": "Which of the following substances when dissolved in equal volume of water, will have the highest pH value?\nA. Sulphuric acid\nB. Acetic acid\nC. Magnesium hydroxide\nD. Sodium hydroxide",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "22",
+        "question": "When excess of carbon dioxide is passed through lime water, the milkiness disappears because\nA. water soluble calcium carbonate converts to water soluble calcium bicarbonate.\nB. insoluble calcium carbonate converts to water soluble calcium bicarbonate.\nC. water soluble calcium carbonate converts to insoluble calcium bicarbonate.\nD. insoluble calcium carbonate converts to insoluble calcium bicarbonate.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "23",
+        "question": "In the reaction of aqueous solution of barium chloride with aqueous solution of sodium sulphate, the aqueous solution formed will be:\nA. BaCl2\nB. BaSO4\nC. Na2SO4\nD. NaCl",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "24",
+        "question": "Assertion (A): C4H8, C4H6 and C4H10 are members of the same homologous series\nReason (R): C4H8, C4H6, C3H4, C3H6, C2H4, C2H2 are unsaturated hydrocarbons.\n\nA. Both A and R are true, and R is the correct explanation of A.\nB. Both A and R are true, and R is not the correct explanation of A.\nC. A is true but R is false.\nD. A is false but R is true.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "25",
+        "question": "The following activity is set-up in the science lab by the teacher.\nHe clamped an aluminium wire on a stand and fixed a pin to the free end of the wire using wax. Then he heated the wire with a burner from the end where the wire is clamped. Students observed the pin fall off.\nA. If the teacher replaces aluminium wire by silver wire, will the students' observation change? Justify your answer.\nB. Will the aluminium wire melt? Give reason for your answer.",
+        "answer": "A. Yes, the observation will change in terms of time. Silver is a better conductor of heat than aluminium, so the heat will transfer faster, and the pin will fall off sooner.\nB. No, the aluminium wire will not melt under these specific conditions because the melting point of aluminium (approx 660°C) is much higher than the melting point of wax. The wax melts first, dropping the pin, demonstrating heat conduction.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "26",
+        "question": "Attempt either option A or B.\nA. An element 'X' is stored in kerosene, and cannot be extracted from its ore using a reducing agent. 'X' forms an ionic compound on reaction with chlorine.\n(i) Can we store 'X' in water? Give reason to support your answer.\n(ii) Identify element 'X'. Name the process used and write the equation for extraction of 'X' from its ore.\nOR\nB. The domes of many building in Europe are made of copper. These domes now appear greenish in colour.\n(i) Why do the domes appear greenish though copper is orange-red in colour?\n(ii) In your opinion, should the copper domes be replaced by iron domes to overcome the problem of change of colour of copper domes?\n(iii) Domes used to be made from thin sheets of metals. Why did the ancient architects use copper to make domes?",
+        "answer": "A. (i) No, we cannot store 'X' in water. 'X' (Sodium/Potassium) reacts violently with water, producing hydrogen gas which can catch fire.\n(ii) Element 'X' is Sodium (Na). It is extracted by the electrolysis of molten sodium chloride (Down's process). Equation: 2NaCl(l) → 2Na(s) + Cl2(g).\nOR\nB. (i) The greenish colour is due to corrosion of copper, forming a layer of basic copper carbonate (patina) upon reaction with moist carbon dioxide in the air.\n(ii) No, iron should not replace copper because iron rusts (forms hydrated iron oxide) which is flaky and leads to structural degradation, whereas the copper patina protects the underlying metal from further corrosion.\n(iii) Copper is highly malleable (can be beaten into thin sheets) and resistant to corrosion, making it durable for construction.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "27",
+        "question": "Amrita electrolysed distilled water using the set-up shown in figure 1. She was expecting two gases to be evolved at the anode and cathode respectively.\nSuddenly, she realised that the bulb in the circuit did not glow when she used distilled water (figure 2).\nAfter this realization, she added a substance to the distilled water for electrolysis to take place.\nAnswer the following questions based on the information given above:\nA. Which gas was she expecting to be formed at the anode and which one at the cathode respectively?\nB. Why did the bulb not glow when Amrita passed electricity through distilled water?\nC. Which substance was added by Amrita to distilled water to get the expected result?\n\nFor visually impaired students\nIdentify the type of reaction:\nA. ZnO + C → Zn + CO\nB. ZnCO3 -(heat)-> ZnO + CO2\nC. 2Mg + O2 → 2 MgO + heat",
+        "answer": "A. Anode: Oxygen (O2). Cathode: Hydrogen (H2).\nB. The bulb did not glow because distilled water is a poor conductor of electricity as it does not contain free ions to carry the current.\nC. She likely added an acid (like dilute H2SO4), a base, or a salt to provide ions and make the water conductive.\n\nFor visually impaired:\nA. Redox (Reduction of ZnO).\nB. Thermal Decomposition.\nC. Combination (or Oxidation/Exothermic).",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "28",
+        "question": "Sara took 2 mL of dilute NaOH solution in a test tube and added two drops of phenolphthalein solution to it. The solution turned pink in colour. She added dilute H2SO4 to the above solution drop by drop until the solution in the test tube became colourless. 40 drops of dilute H2SO4 were used for the change in colour from pink to colourless. When Sara added a drop of NaOH to the solution, the colour changed to back to pink again.\nSara now tried the activity with different volumes of NaOH and recorded her observation in the table given below:\nS. No. 1: 2 mL NaOH, 20 drops H2SO4\nS. No. 2: 3 mL NaOH, 30 drops H2SO4\nS. No. 3: 4 mL NaOH, 40 drops H2SO4\n\nAnswer the following questions based on the above information:\nA. If Sara used concentrated H2SO4 in place of dilute H2SO4, how many drops will be required for the change in colour to be observed? (a) 40 (b) < 40 (c) >40. Justify your answer.\nB. Sara measured 20 drops of dil. H2SO4 and found its volume to be 1 mL. If Sara observed a change in colour of NaoH solution by using 3 mL of H2SO4, how many mL of NaOH did she add to the test tube initially?\nOR\nSara takes 10 drops of dilute H2SO4 in the test tube and adds two drops of phenolphthalein solution to it. Then she adds NaOH dropwise. Sara observes a change in colour after adding 20 drops of NaOH. What change in colour would she observe and why?\nC. Write a balanced chemical equation for the reaction taking place in the above experiment. Which of the following is true and why? The reaction is a (a) neutralisation and double displacement reaction (b) neutralisation and precipitation reaction (c) precipitation and double displacement reaction (d) neutralisation, double displacement as well as precipitation reaction.",
+        "answer": "A. (b) < 40. Concentrated H2SO4 contains more H+ ions per unit volume, so fewer drops are needed to neutralize the same amount of base.\nB. From the table, 2 mL NaOH requires 20 drops H2SO4. Since 20 drops = 1 mL, the ratio is 1 mL H2SO4 neutralizes 2 mL NaOH. Sara used 3 mL H2SO4. Thus, she must have used 3 * 2 = 6 mL of NaOH initially.\nOR\nSara would observe a change from colourless to pink. The initial solution is acidic (colourless with phenolphthalein). Adding excess NaOH makes the solution basic, turning phenolphthalein pink.\nC. Equation: 2NaOH + H2SO4 → Na2SO4 + 2H2O. Correct option is (a) neutralisation and double displacement reaction.",
+        "type": "subjective",
+        "marks": 4,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "29",
+        "question": "Attempt either option A or B.\nA. A hydrocarbon with the formula CxHy undergoes complete combustion as shown in the following equation: 2CxHy + 9O2 → 6CO2 + 6H2O.\n(a) What are the values of 'x' and 'y'?\n(b) Give the chemical (IUPAC) name of the hydrocarbon.\n(c) Draw its electron dot structure.\n(d) Name the alcohol which on heating with conc. H2SO4 will produce the above hydrocarbon CxHy.\n(e) Write a balanced chemical equation for the reaction of CxHy with hydrogen gas in presence of Nickel.\nOR\nB. The electronic structures of atoms P (Oxygen) and Q (Sodium) are shown... \n(a) If P and Q combine to form a compound, what type of bond is formed between them?\n(b) Give the chemical formula of the compound formed.\n(c) The compound so formed is dissolved in water. Is the resultant solution acidic or basic in nature? Justify your answer.\n(d) Write the chemical equation for the reaction between 'Q' and ethanol.\n(e) What will be the formula of the compound formed when 'P' undergoes bonding with carbon?",
+        "answer": "A. (a) Balancing Carbon: 2x = 6 => x=3. Balancing Hydrogen: 2y = 12 => y=6. Formula C3H6. (b) Propene. (c) Electron dot structure of propene (CH3-CH=CH2). (d) Propanol (or Propan-1-ol/Propan-2-ol). (e) C3H6 + H2 --Ni--> C3H8.\nOR\nB. (a) Ionic bond (between metal Q and non-metal P). (b) Na2O (since P is O, Q is Na). (c) Basic. Metal oxides dissolve in water to form bases (alkalis). Na2O + H2O -> 2NaOH. (d) 2Na + 2CH3CH2OH -> 2CH3CH2ONa + H2. (e) CO2 (Carbon dioxide).",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "30",
+        "question": "Arnav was making notes and he wrote down the following statements from his understanding of reflection from curved surfaces.\nI. Concave mirrors can produce both real and virtual images depending on the position of the object.\nII. Convex mirrors always produce real, inverted images regardless of the object's position.\nIII. In both concave and convex mirrors, the image location can be determined using the mirror formula 1/f = 1/v + 1/u where f is the focal length, v is the image distance, and u is the object distance.\nChoose from the following the correct option that lists the correct statements about reflection from curved surfaces.\nA. I and II\nB. I, II and III\nC. II and III\nD. I and III",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "31",
+        "question": "Choose the correct option from the below which explains the reason for us to perceive the day sky as blue.\nA. As sunlight passes through the atmosphere, shorter wavelengths, such as blue are scattered more than other colors.\nB. The sky appears blue because all colors are scattered equally, but blue light is stronger and more visible to the human eye.\nC. The blue color of the sky is due to longer wavelengths like red and orange scattering more than shorter wavelengths, making blue stand out more.\nD. The atmosphere contains blue-colored particles that give the sky its blue appearance.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "32",
+        "question": "Assertion (A): A point object is placed at a distance of 26 cm from a convex mirror of focal length 26 cm. The image will not form at infinity.\nReason (R): For above given system the equation 1/f = 1/v + 1/u gives v = ∞.\n\nA. Both A and R are true, and R is the correct explanation of A.\nB. Both A and R are true, and R is not the correct explanation of A.\nC. A is true but R is false.\nD. A is false but R is true.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "33",
+        "question": "The above image shows the formation of an image with an optical instrument.\nA. Identify the optical instrument (shown schematically as a rectangle) in the image.\nB. What type of image is formed in this case?\nC. Based on the measurements given in the image, calculate the focal length of the instrument.\n\nFor visually impaired students\nA. Under what conditions can a convex lens form a virtual image?\nB. Why does a piece of paper catch fire if we allow sunlight to pass through a convex lens onto the paper?",
+        "answer": "A. Concave Lens (Diverging lens). B. Virtual, erect, and diminished. C. u = -20 cm, v = -10 cm. 1/f = 1/v - 1/u = -1/10 - (-1/20) = -1/20. f = -20 cm.\n\nFor visually impaired:\nA. When the object is placed between the optical centre and the focus of the convex lens.\nB. The convex lens concentrates the sun's parallel rays at its focus. This concentration of light energy creates intense heat, which ignites the paper.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "34",
+        "question": "Attempt either option A or B.\nA. Find out the following in the electric circuit given in the figure-\n(i) Effective resistance of two 8 ohm resistors in the combination.\n(ii) Current flowing through the 4-ohm resistor\nOR\nB. Study the circuit and find out-\n(i) Current in 12 ohm resistor\n(ii) Difference in the readings of ammeter A1 and A2 if any",
+        "answer": "A. (i) Parallel combo of 8 and 8: Rp = 4 Ohm. (ii) Total R = 4 + 4 = 8 Ohm. Assuming 8V supply (based on typical diagram values or label V), I = 8/8 = 1 A. If the label '8V' is across the parallel part, then I = 8V/4Ohm = 2A. Based on typical paper, I=2A. \nOR\nB. (i) Assuming 6V source and symmetric parallel branch layout followed by 12 ohm. (Calculation depends on exact interpretation of diagram). Typical solution: Total R = 24 Ohm. I = 0.25 A. (ii) A1 reads branch current (0.125A), A2 reads total current (0.25A). Difference 0.125 A.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "35",
+        "question": "The above image shows a corrective measure for a particular defect of vision.\n(i) Identify the defect of vision and state what kind of lens is used to correct this deficiency.\n(ii) Draw and label a ray diagram that shows the defect of vision in the above case before correction.\n\nFor visually impaired students\n(i) What is dispersion of light?\n(ii) Explain the condition under which dispersion happens?\n(iii) Give one reason that causes presbyopia.",
+        "answer": "(i) Hypermetropia (Far-sightedness). Convex lens.\n(ii) Diagram should show light rays from a near object focusing behind the retina.\n\nFor visually impaired:\n(i) Splitting of white light into its constituent colours.\n(ii) Happens when light passes through a dispersive medium like a prism.\n(iii) Weakening of ciliary muscles or hardening of the eye lens with age.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "36",
+        "question": "A student needs to make a 0.12 Ohm resistor. She has some copper wire of 0.80 mm diameter. Resistivity of copper is 1.8 x 10^-8 Ohm m\n(i) Determine the cross-sectional area of the wire.\n(ii) Calculate the length of wire required for the 0.12 Ohm resistor.",
+        "answer": "(i) Radius r = 0.4 mm = 4x10^-4 m. Area A = pi*r^2 = 3.14 * (16x10^-8) = 5.024 x 10^-7 m^2.\n(ii) R = rho * L / A => L = R * A / rho. L = (0.12 * 5.024 x 10^-7) / (1.8 x 10^-8) = 3.35 m.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "37",
+        "question": "Magnetic field lines are shown in the given diagram. A student makes a statement that the magnetic field at X is stronger than at Y.\n(i) Explain with reason if the student's claim is correct.\n(ii) Also redraw the diagram and mark the direction of magnetic field lines.",
+        "answer": "(i) Yes, the claim is correct. The magnetic field lines are crowded/denser at X (inside the loop) compared to Y, indicating a stronger magnetic field.\n(ii) The diagram should show field lines forming concentric circles around the wire segments and straight lines in the center. Direction given by Right Hand Thumb Rule.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "38",
+        "question": "A. What type of lens is used in the DSLR camera shown in the image?\nB. What type of image is formed on the sensor?\nAttempt either subpart C or D.\nC. A photographer is using a DSLR camera with a lens of focal length f=50 mm to take a close-up photograph of a small object. The lens projects an image onto the camera sensor that is located 60 mm behind the lens. Calculate the object distance (i.e., the distance between the object and the lens).\nOR\nD. A photographer is using a DSLR camera to take a picture of a flower. The flower is positioned 150 mm away from the camera lens. The actual height of the flower is 80 mm, and the image height formed on the camera's sensor is measured to be 20 mm. Calculate the focal length of the camera lens.",
+        "answer": "A. Convex Lens.\nB. Real and Inverted.\nC. f=50mm, v=60mm. 1/u = 1/v - 1/f = 1/60 - 1/50 = -1/300. u = -300 mm.\nOR\nD. u=-150mm. m = hi/ho = -20/80 = -1/4 (Real image). v/u = -1/4 => v = -u/4 = 37.5 mm. 1/f = 1/37.5 + 1/150 = 4/150 + 1/150 = 5/150 = 1/30. f = 30 mm.",
+        "type": "subjective",
+        "marks": 4,
+        "year": "2025-26",
+        "subject": "Science"
+      },
+      {
+        "id": "39",
+        "question": "Attempt either option A or B.\nA. The arrangement of resistors shown in the above figure is connected to a battery.; The power dissipation in the 100 Ohm resistor is 81 W. Calculate\n(i) the current in the circuit\n(ii) the reading in the voltmeter V2\n(iii) the reading in the voltmeter V1\nOR\nB. An electric heater consists of three similar heating elements A, B and C, connected as shown in the figure above. Each heating element is rated as 1.2 kW, 240 V and has constant resistance. S1, S2 and S3 are respective switches. The circuit is connected to a 240 V supply.\n(i) Calculate the resistance of one heating element.\n(ii) Calculate the current in each resistor when only S1 and S3 are closed.\n(iii) Calculate the power dissipated across A when S1, S2 and S3 are closed.",
+        "answer": "A. (i) P = I^2 R. 81 = I^2 * 100. I = 0.9 A. (ii) V2 is across 25||25 = 12.5 Ohm. V2 = 0.9 * 12.5 = 11.25 V. (iii) V1 is across 100 Ohm. V1 = 0.9 * 100 = 90 V.\nOR\nB. (i) R = V^2/P = 240^2 / 1200 = 48 Ohm. (ii) S1, S3 closed -> A and C in parallel across 240V. I = 240/48 = 5 A in each. (iii) S1, S2, S3 closed -> A, B, C in parallel. Power across A is still 1.2 kW (1200 W) as voltage is 240V.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2025-26",
+        "subject": "Science"
+      }
+    ],
+    "2024_4": [
+      {
+        "id": "1",
+        "question": "When Sodium bicarbonate reacts with dilute hydrochloric acid, the gas evolved is :",
+        "options": [
+          "Hydrogen; it gives pop sound with burning match stick.",
+          "Hydrogen; it turns lime water milky.",
+          "Carbon dioxide; it turns lime water milky.",
+          "Carbon dioxide; it blows off a burning match stick with a pop sound."
+        ],
+        "correctAnswer": 2,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "2",
+        "question": "When aqueous solutions of potassium iodide and lead nitrate are mixed, an insoluble substance separates out. The chemical equation for the reaction involved is :",
+        "options": [
+          "KI + PbNO3 -> PbI + KNO3",
+          "2KI + Pb(NO3)2 -> PbI2 + 2KNO3",
+          "KI + Pb(NO3)2 -> PbI + KNO3",
+          "KI + PbNO3 -> PbI2 + KNO3"
+        ],
+        "correctAnswer": 1,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "3",
+        "question": "A metal ribbon ‘X’ burns in oxygen with a dazzling white flame forming a white ash ‘Y’. The correct description of X, Y and the type of reaction is :",
+        "options": [
+          "X = Ca ; Y = CaO ; Type of reaction = Decomposition",
+          "X = Mg ; Y = MgO ; Type of reaction = Combination",
+          "X = Al ; Y = Al2O3 ; Type of reaction = Thermal decomposition",
+          "X = Zn ; Y = ZnO ; Type of reaction = Endothermic"
+        ],
+        "correctAnswer": 1,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "4",
+        "question": "Acid present in tomato is :",
+        "options": [
+          "Methanoic acid",
+          "Acetic acid",
+          "Lactic acid",
+          "Oxalic acid"
+        ],
+        "correctAnswer": 3,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "5",
+        "question": "Sodium hydroxide is termed an alkali while Ferric hydroxide is not because :",
+        "options": [
+          "Sodium hydroxide is a strong base, while Ferric hydroxide is a weak base.",
+          "Sodium hydroxide is a base which is soluble in water while Ferric hydroxide is also a base but it is not soluble in water.",
+          "Sodium hydroxide is a strong base while Ferric hydroxide is a strong acid.",
+          "Sodium hydroxide and Ferric hydroxide both are strong base but the solubility of Sodium hydroxide in water is comparatively higher than that of Ferric hydroxide."
+        ],
+        "correctAnswer": 1,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "6",
+        "question": "The name of the salt used to remove permanent hardness of water is :",
+        "options": [
+          "Sodium hydrogen carbonate (NaHCO3)",
+          "Sodium chloride (NaCl)",
+          "Sodium carbonate decahydrate (Na2CO3.10H2O)",
+          "Calcium sulphate hemihydrate (CaSO4. 1/2 H2O)"
+        ],
+        "correctAnswer": 2,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "7",
+        "question": "The electron dot structure of chlorine molecule is :",
+        "options": [
+          "(a) Shows each Cl atom with 7 valence electrons sharing 2 pairs (double bond).",
+          "(b) Shows each Cl atom with 7 valence electrons sharing 3 pairs (triple bond).",
+          "(c) Shows each Cl atom with 7 valence electrons sharing 1 pair (single bond).",
+          "(d) Shows Cl atoms sharing electrons incorrectly."
+        ],
+        "correctAnswer": 2,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "8",
+        "question": "Observe the following diagram and identify the process and its significance from the following options :",
+        "options": [
+          "Evaporation : maintains water contents in leaf cells.",
+          "Transpiration : creates a suction force which pulls water inside the plant.",
+          "Excretion : helps in excreting out waste water from the plant.",
+          "Translocation : helps in transporting materials from one cell to another."
+        ],
+        "correctAnswer": 1,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "9",
+        "question": "Opening and closing of stomata is due to :",
+        "options": [
+          "High pressure of gases inside the cells.",
+          "Movement of water in and out of the guard cells.",
+          "Stimulus of light in the guard cells.",
+          "Diffusion of CO2 in and out of the guard cells."
+        ],
+        "correctAnswer": 1,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "10",
+        "question": "A cross between pea plant with white flowers (vv) and pea plant with violet flowers (VV) resulted in F2 progeny in which ratio of violet (VV) and white (vv) flowers will be :",
+        "options": [
+          "1 : 1",
+          "2 : 1",
+          "3 : 1",
+          "1 : 3"
+        ],
+        "correctAnswer": 2,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "11",
+        "question": "In plants the role of cytokinin is :",
+        "options": [
+          "Promote cell division.",
+          "Wilting of leaves.",
+          "Promote the opening of stomatal pore.",
+          "Help in the growth of stem."
+        ],
+        "correctAnswer": 0,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "12",
+        "question": "The number of chromosomes in parents and offsprings of a particular species undergoing sexual reproduction remain constant due to :",
+        "options": [
+          "doubling of chromosomes after zygote formation.",
+          "halving of chromosomes after zygote formation.",
+          "doubling of chromosomes before gamete formation.",
+          "halving of chromosomes at the time of gamete formation."
+        ],
+        "correctAnswer": 3,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "13",
+        "question": "Two LED bulbs of 12W and 6W are connected in series. If the current through 12W bulb is 0.06A the current through 6W bulb will be :",
+        "options": [
+          "0.04A",
+          "0.06A",
+          "0.08A",
+          "0.12A"
+        ],
+        "correctAnswer": 1,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "14",
+        "question": "The correct pattern of magnetic field lines of the field produced by a current carrying circular loop is :",
+        "options": [
+          "(a) Field lines radiating outwards.",
+          "(b) Field lines forming parallel straight lines.",
+          "(c) Field lines concentric near wires and straight near the center, passing through the loop.",
+          "(d) Field lines distorted."
+        ],
+        "correctAnswer": 2,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "15",
+        "question": "The resistance of a resistor is reduced to half of its initial value. If other parameters of the electrical circuit remain unaltered, the amount of heat produced in the resistor will become :",
+        "options": [
+          "four times",
+          "two times",
+          "half",
+          "one fourth"
+        ],
+        "correctAnswer": 1,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "16",
+        "question": "An alpha particle enters a uniform magnetic field as shown. The direction of force experienced by the alpha particle is :",
+        "options": [
+          "towards right",
+          "towards left",
+          "into the page",
+          "out of the page"
+        ],
+        "correctAnswer": 2,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "17",
+        "question": "Assertion (A) : Reaction of Quicklime with water is an exothermic reaction.\nReason (R) : Quicklime reacts vigorously with water releasing a large amount of heat.",
+        "options": [
+          "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+          "(A) is true but (R) is false.",
+          "(A) is false but (R) is true."
+        ],
+        "correctAnswer": 0,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "18",
+        "question": "Assertion (A) : In humans, if gene (B) is responsible for black eyes and gene (b) is responsible for brown eyes, then the colour of eyes of the progeny having gene combination Bb, bb or BB will be black only.\nReason (R) : The black colour of the eyes is a dominant trait.",
+        "options": [
+          "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+          "(A) is true but (R) is false.",
+          "(A) is false but (R) is true."
+        ],
+        "correctAnswer": 3,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "19",
+        "question": "Assertion (A) : The inner walls of the small intestine have finger like projections called villi which are rich in blood.\nReason (R) : These villi have a large surface area to help the small intestine in completing the digestion of food.",
+        "options": [
+          "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+          "(A) is true but (R) is false.",
+          "(A) is false but (R) is true."
+        ],
+        "correctAnswer": 2,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "20",
+        "question": "Assertion (A) : A current carrying straight conductor experiences a force when placed perpendicular to the direction of magnetic field.\nReason (R) : The net charge on a current carrying conductor is always zero.",
+        "options": [
+          "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+          "(A) is true but (R) is false.",
+          "(A) is false but (R) is true."
+        ],
+        "correctAnswer": 1,
+        "marks": 1,
+        "year": "2024",
+        "type": "mcq"
+      },
+      {
+        "id": "21_A",
+        "question": "(A) A student took a small amount of copper oxide in a conical flask and added dilute hydrochloric acid to it with constant stirring. He observed a change in colour of the solution.\n(i) Write the name of the compound formed and its colour.\n(ii) Write a balanced chemical equation for the reaction involved.",
+        "answer": "(i) Copper(II) chloride is formed. Its colour is blue-green. (ii) CuO + 2HCl -> CuCl2 + H2O.",
+        "marks": 2,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "21_B",
+        "question": "(B) The industrial process used for the manufacture of caustic soda involves electrolysis of an aqueous solution of compound ‘X’. In this process, two gases ‘Y’ and ‘Z’ are liberated. ‘Y’ is liberated at cathode and ‘Z’, which is liberated at anode, on treatment with dry slaked lime forms a compound ‘B’. Name X, Y, Z and B.",
+        "answer": "X: Sodium Chloride (NaCl) / Brine.\nY: Hydrogen (H2).\nZ: Chlorine (Cl2).\nB: Bleaching powder (CaOCl2).",
+        "marks": 2,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "22_A",
+        "question": "(A) Name the part of brain which is responsible for the following actions :\n(i) Maintaining posture and balance\n(ii) Beating of heart\n(iii) Thinking\n(iv) Blood pressure",
+        "answer": "(i) Cerebellum (ii) Medulla oblongata (iii) Cerebrum (Forebrain) (iv) Medulla oblongata.",
+        "marks": 2,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "22_B",
+        "question": "(B) Where are auxins synthesized in a plant ? Which organ of the plant shows :\n(i) Positive phototropism\n(ii) Negative geotropism\n(iii) Positive hydrotropism",
+        "answer": "Auxins are synthesized at the shoot tip (apical meristem).\n(i) Shoot / Stem\n(ii) Shoot / Stem\n(iii) Root",
+        "marks": 2,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "23",
+        "question": "Write one specific function each of the following organs in relation with excretion in human beings :\n(i) Renal Artery\n(ii) Urethra\n(iii) Glomerulus\n(iv) Tubular part of nephron",
+        "answer": "(i) Carries oxygenated blood containing waste (like urea) to the kidneys.\n(ii) Releases urine from the urinary bladder to the outside.\n(iii) Filters blood (ultrafiltration) to form the filtrate.\n(iv) Selectively reabsorbs useful substances like glucose, amino acids, salts, and water from the filtrate.",
+        "marks": 2,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "24",
+        "question": "Two green plants are kept separately in oxygen free containers, one in the dark and other in sunlight. It was observed that plant kept in dark could not survive longer. Give reason for this observation.",
+        "answer": "The plant kept in the dark cannot perform photosynthesis to produce oxygen, which is essential for respiration; hence it dies. The plant in sunlight performs photosynthesis, producing the oxygen required for its respiration.",
+        "marks": 2,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "25_A",
+        "question": "(A) Observe the following diagram and answer the questions following it :\n(i) Identify the defect of vision shown.\n(ii) List its two causes.\n(iii) Name the type of lens used for the correction of this defect.",
+        "answer": "(i) Myopia (Near-sightedness).\n(ii) Causes: Excessive curvature of the eye lens; Elongation of the eyeball.\n(iii) Concave lens.",
+        "marks": 2,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "25_B",
+        "question": "(B) The colour of clear sky from the earth appears blue but from the space it appears black. Why ?",
+        "answer": "On earth, the atmosphere scatters sunlight, with blue light scattered the most (Rayleigh scattering), making the sky appear blue. In space, there is no atmosphere to scatter light, so the sky appears black.",
+        "marks": 2,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "26",
+        "question": "Use of several pesticides which results in excessive accumulation of pesticides in rivers or ponds, is a matter of deep concern. Justify this statement.",
+        "answer": "Pesticides are non-biodegradable chemicals. They enter the food chain and their concentration increases at successive trophic levels, a phenomenon called biological magnification. This accumulation can be harmful to organisms, especially those at the top of the food chain like humans.",
+        "marks": 2,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "27",
+        "question": "(i) While electrolysing water before passing the current some drops of an acid are added. Why ? Name the gases liberated at cathode and anode. Write the relationship between the volume of gas collected at anode and the volume of gas collected at cathode.\n(ii) What is observed when silver chloride is exposed to sunlight ? Give the type of reaction involved.",
+        "answer": "(i) Acid is added to increase the electrical conductivity of water. Cathode: Hydrogen. Anode: Oxygen. Relationship: Volume at Cathode (H2) = 2 × Volume at Anode (O2).\n(ii) Silver chloride turns grey. This is a photolytic decomposition reaction (formation of Silver metal and Chlorine gas).",
+        "marks": 3,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "28",
+        "question": "(i) Suggest a safe procedure of diluting a strong concentrated acid.\n(ii) Name the salt formed when sulphuric acid is added to sodium hydroxide and write its pH.\n(iii) Dry HCl gas does not change the colour of dry blue litmus paper. Why ?",
+        "answer": "(i) Add the concentrated acid slowly to water with constant stirring. Never add water to acid.\n(ii) Sodium sulphate (Na2SO4). pH is 7 (neutral).\n(iii) Dry HCl does not dissociate into ions (H+) in the absence of water. Litmus paper changes colour only in the presence of H+ ions.",
+        "marks": 3,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "29_A",
+        "question": "(A) (i) How does Paramecium obtain its food ?\n(ii) List the role of each of the following in our digestive system :\n(a) Hydrochloric acid\n(b) Trypsin\n(c) Muscular walls of stomach\n(d) Salivary amylase",
+        "answer": "(i) Paramecium uses cilia to sweep food particles from water into its oral groove, forming a food vacuole.\n(ii) (a) HCl: Creates acidic medium for enzyme action (Pepsin) and kills bacteria. (b) Trypsin: Digests proteins. (c) Muscular walls: Churn food to mix with digestive juices. (d) Salivary amylase: Breaks down starch into sugar.",
+        "marks": 3,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "29_B",
+        "question": "(B) (i) What is double circulation ?\n(ii) Why is the separation of the right side and the left side of the heart useful ? How does it help birds and mammals ?",
+        "answer": "(i) Double circulation is a system where blood passes through the heart twice in one complete cycle of the body (Pulmonary and Systemic circulation).\n(ii) It prevents mixing of oxygenated and deoxygenated blood. This ensures an efficient supply of oxygen to the body, which is essential for birds and mammals to maintain their high energy needs and constant body temperature.",
+        "marks": 3,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "30_A",
+        "question": "(A) Define the following terms in the context of a diverging mirror :\n(i) Principal focus\n(ii) Focal length\nDraw a labelled ray diagram to illustrate your answer.",
+        "answer": "(i) Principal Focus: The point on the principal axis where rays of light parallel to the principal axis appear to diverge from after reflection.\n(ii) Focal Length: The distance between the pole of the mirror and its principal focus.\n(Diagram required showing convex mirror with parallel rays diverging from focus behind the mirror).",
+        "marks": 3,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "30_B",
+        "question": "(B) An object of height 10 cm is placed 25 cm away from the optical centre of a converging lens of focal length 15 cm. Calculate the image-distance and height of the image formed.",
+        "answer": "Using lens formula 1/f = 1/v - 1/u:\n1/15 = 1/v - 1/(-25) => 1/v = 1/15 - 1/25 = (5-3)/75 = 2/75. v = +37.5 cm.\nMagnification m = v/u = 37.5 / -25 = -1.5.\nHeight of image h' = m * h = -1.5 * 10 = -15 cm.\nImage distance is 37.5 cm, height is 15 cm (inverted).",
+        "marks": 3,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "31",
+        "question": "The power of a lens is +4D. Find the focal length of this lens. An object is placed at a distance of 50 cm from the optical centre of this lens. State the nature and magnification of the image formed by the lens and also draw a ray diagram to justify your answer.",
+        "answer": "Focal length f = 1/P = 1/4 m = 0.25 m = 25 cm.\nObject distance u = 50 cm. Since u = 2f, the image is formed at 2f on the other side.\nNature: Real, Inverted, Same size.\nMagnification: -1.\n(Diagram required: Convex lens, Object at 2F1, Image at 2F2).",
+        "marks": 3,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "32_A",
+        "question": "(A) (i) Why is an alternating current (A.C.) considered to be advantageous over direct current (D.C.) for the long distance transmission of electric power ?\n(ii) How is the type of current used in household supply different from the one given by a battery of dry cells ?\n(iii) How does an electric fuse prevent the electric circuit and the appliances from a possible damage due to short circuiting or overloading.",
+        "answer": "(i) AC can be transmitted over long distances with minimal energy loss by stepping up the voltage using transformers.\n(ii) Household supply is AC (changes direction periodically), while dry cells provide DC (unidirectional current).\n(iii) The fuse wire has a low melting point. If current exceeds the safe limit (due to short circuit/overload), the heat generated melts the fuse wire, breaking the circuit and preventing damage.",
+        "marks": 3,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "32_B",
+        "question": "(B) For the current carrying solenoid as shown, draw magnetic field lines and give reason to explain that out of the three points A, B and C, at which point the field strength is maximum and at which point it is minimum ?",
+        "answer": "Point A is inside the solenoid, B is outside, C is at the end.\nField strength is maximum at A (inside) because field lines are concentrated and parallel (uniform). It is minimum at B (outside) where field lines are sparse.",
+        "marks": 3,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "33",
+        "question": "Write one difference between biodegradable and non-biodegradable wastes. List two impacts of each type of the accumulated waste on environment if not disposed off properly.",
+        "answer": "Difference: Biodegradable wastes are broken down by biological processes (microbes), while non-biodegradable wastes are not.\nImpacts (Biodegradable): 1. Foul smell/pollution. 2. Breeding ground for disease vectors.\nImpacts (Non-biodegradable): 1. Soil/Water pollution (clogging drains). 2. Biological magnification in food chains.",
+        "marks": 3,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "34_A",
+        "question": "(A) (i) Draw the structure of the following compounds :\n(a) Butanoic acid (b) Chloropentane\n(ii) How are structure (i) and structure (ii) given below related to one another ? Give reason to justify your answer.\nStructure (i): Isobutane (2-methylpropane). Structure (ii): Neohexane (2,2-dimethylbutane).\nDraw one more possible structure for above case.\n(iii) Differentiate between saturated and unsaturated carbon compounds on the basis of their general formula.",
+        "answer": "(i) (a) CH3-CH2-CH2-COOH. (b) C5H11Cl (e.g., CH3-CH2-CH2-CH2-CH2-Cl).\n(ii) They are homologous (alkanes). They have the same general formula and differ by CH2 groups. Another structure: n-Pentane.\n(iii) Saturated: CnH2n+2. Unsaturated: CnH2n (alkenes) or CnH2n-2 (alkynes).",
+        "marks": 5,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "34_B",
+        "question": "(B) (i) What happens when a small piece of sodium is dropped in ethanol ? Write the equation for this reaction.\n(ii) Why is glacial acetic acid called so ?\n(iii) What happens when ethanol is heated at 443 K in the presence of conc. H2SO4 ? Write the role of conc. H2SO4 in this case.\n(iv) Write an equation showing saponification.",
+        "answer": "(i) Hydrogen gas is evolved. 2Na + 2CH3CH2OH -> 2CH3CH2ONa + H2.\n(ii) Pure ethanoic acid freezes at 290K, forming crystals resembling ice (glaciers) in cold weather.\n(iii) Ethene is formed (Dehydration). CH3CH2OH -> CH2=CH2 + H2O. Conc. H2SO4 acts as a dehydrating agent.\n(iv) CH3COOC2H5 + NaOH -> CH3COONa + C2H5OH.",
+        "marks": 5,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "35",
+        "question": "(i) Name and explain the two modes of asexual reproduction observed in hydra.\n(ii) What is vegetative propagation ? List two advantages of using this technique.",
+        "answer": "(i) Budding: A bud develops as an outgrowth due to repeated cell division, matures, and detaches. Regeneration: If cut into pieces, each piece grows into a complete organism.\n(ii) Vegetative propagation: Production of new plants from vegetative parts (root, stem, leaf). Advantages: 1. Plants are genetically identical to parent. 2. Flowers/fruits are produced earlier.",
+        "marks": 5,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "36",
+        "question": "(i) How is electric current related to the potential difference across the terminals of a conductor ? Draw a labelled circuit diagram to verify this relationship.\n(ii) Why should an ammeter have low resistance ?\n(iii) Two V - I graphs A and B for series and parallel combinations of two resistors are as shown. Giving reason state which graph shows (a) series, (b) parallel combination of the resistors.",
+        "answer": "(i) Direct proportionality (Ohm's Law): V = IR. (Diagram required).\n(ii) To ensure it does not significantly alter the resistance or current in the circuit.\n(iii) The slope of I vs V graph is I/V = 1/R. Higher slope means lower resistance. Series combination has higher resistance, so lower slope (Graph A). Parallel has lower resistance, so higher slope (Graph B). Thus: (a) A is Series. (b) B is Parallel.",
+        "marks": 5,
+        "year": "2024",
+        "type": "subjective"
+      },
+      {
+        "id": "37",
+        "question": "The melting points and boiling points of some ionic compounds are given below : [Table with NaCl, LiCl, CaCl2, CaO, MgCl2 data]. These compounds are termed ionic because they are formed by the transfer of electrons from a metal to a non-metal... (i) Show the electron transfer in the formation of magnesium chloride. (ii) List two properties of ionic compounds other than their high melting and boiling points.",
+        "answer": "(i) Mg (2,8,2) loses 2e- to become Mg2+. Two Cl atoms (2,8,7) each gain 1e- to become Cl-. Structure: Mg -> [Cl]- Mg2+ [Cl]-.\n(ii) 1. Soluble in water. 2. Conduct electricity in molten state or aqueous solution.",
+        "marks": 4,
+        "year": "2024",
+        "type": "case_study"
+      },
+      {
+        "id": "37_iii_A",
+        "question": "(iii) (A) While forming an ionic compound say sodium chloride how does sodium atom attain its stable configuration ?",
+        "answer": "Sodium atom (2,8,1) loses one electron from its valence shell to form a sodium ion (Na+) with a stable octet configuration (2,8) similar to Neon.",
+        "marks": 2,
+        "year": "2024",
+        "type": "case_study"
+      },
+      {
+        "id": "37_iii_B",
+        "question": "(iii) (B) Give reasons : (i) Why do ionic compounds in the solid state not conduct electricity ? (ii) What happens at the cathode when electricity is passed through an aqueous solution of sodium chloride ?",
+        "answer": "(i) In solid state, ions are held in fixed positions by strong electrostatic forces and cannot move. (ii) Hydrogen gas is liberated at the cathode.",
+        "marks": 2,
+        "year": "2024",
+        "type": "case_study"
+      },
+      {
+        "id": "38",
+        "question": "The most obvious outcome of the reproductive process is the generation of individuals of similar design, but in sexual reproduction they may not be exactly alike... (i) Why an offspring of human being is not a true copy of his parents in sexual reproduction ? (ii) While performing experiments on inheritance in plants, what is the difference between F1 and F2 generation ?",
+        "answer": "(i) Because offspring receive a mix of DNA from two parents and variations occur due to DNA copying errors and crossing over.\n(ii) F1 generation plants are all genetically/phenotypically uniform (showing dominant trait), while F2 generation shows segregation of traits (both dominant and recessive) in a specific ratio.",
+        "marks": 4,
+        "year": "2024",
+        "type": "case_study"
+      },
+      {
+        "id": "38_iii_A",
+        "question": "(iii) (A) Why do we say that variations are useful for the survival of a species over time ?",
+        "answer": "Variations allow species to adapt to changing environmental conditions, increasing the chances of survival of the species.",
+        "marks": 2,
+        "year": "2024",
+        "type": "case_study"
+      },
+      {
+        "id": "38_iii_B",
+        "question": "(iii) (B) Study Mendel’s cross between two plants with a pair of contrasting characters. RRYY x rryy. He observed 4 types of combinations in F2 generation. Which of these were new combinations ? Why do new features which are not present in the parents, appear in F2 generation ?",
+        "answer": "New combinations: Round Green and Wrinkled Yellow. New features appear due to the independent assortment of gene pairs during gamete formation.",
+        "marks": 2,
+        "year": "2024",
+        "type": "case_study"
+      },
+      {
+        "id": "39",
+        "question": "The ability of a medium to refract light is expressed in terms of its optical density... (i) Determine the speed of light in diamond if the refractive index of diamond with respect to vacuum is 2.42. Speed of light in vacuum is 3×10^8 m/s. (ii) Refractive indices of glass, water and carbon disulphide are 1.5, 1.33 and 1.62 respectively. If a ray of light is incident in these media at the same angle (say θ), then write the increasing order of the angle of refraction in these media.",
+        "answer": "(i) v = c/n = 3x10^8 / 2.42 = 1.24x10^8 m/s.\n(ii) Higher n means lower angle of refraction r. Order of n: Water (1.33) < Glass (1.5) < CS2 (1.62). Order of r: CS2 < Glass < Water.",
+        "marks": 4,
+        "year": "2024",
+        "type": "case_study"
+      },
+      {
+        "id": "39_iii_A",
+        "question": "(iii) (A) The speed of light in glass is 2×10^8 m/s and in water is 2.25×10^8 m/s. (a) Which one of the two is optically denser and why ? (b) A ray of light is incident normally at the water-glass interface when it enters a thick glass container filled with water. What will happen to the path of the ray after entering the glass ? Give reason.",
+        "answer": "(a) Glass is optically denser because the speed of light is lower in it. (b) The ray will pass undeviated (straight) because for normal incidence, the angle of incidence is zero.",
+        "marks": 2,
+        "year": "2024",
+        "type": "case_study"
+      },
+      {
+        "id": "39_iii_B",
+        "question": "(iii) (B) The absolute refractive indices of water and glass are 4/3 and 3/2 respectively. If the speed of light in glass is 2×10^8 m/s, find the speed of light in (i) vacuum and (ii) water.",
+        "answer": "(i) c = n_g * v_g = 1.5 * 2x10^8 = 3x10^8 m/s.\n(ii) v_w = c / n_w = 3x10^8 / (4/3) = 2.25x10^8 m/s.",
+        "marks": 2,
+        "year": "2024",
+        "type": "case_study"
+      }
+    ],
+    "2025_5": [
+      {
+        "id": "Q1",
+        "question": "(a) Write the molecular formula of the following carbon compounds :\n(i) Methane\n(ii) Propane\n(b) Carbon compounds have low melting and boiling points. Why ?",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) (i) CH₄ (ii) C₃H₈\n(b) Carbon compounds have low melting and boiling points because the intermolecular forces of attraction between their molecules are relatively weak, requiring less energy to break them."
+      },
+      {
+        "id": "Q2",
+        "question": "The electrons in the atoms of two elements X and Y are distributed in three shells having 1 and 7 electrons respectively in their outermost shells.\n(a) Write the group numbers of these elements in the Modern Periodic Table.\n(b) Write the molecular formula of the compound formed when X and Y combine with each other.\n(c) Which of the two is electropositive ?",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) X (2,8,1) belongs to Group 1. Y (2,8,7) belongs to Group 17.\n(b) XY (X loses 1 electron, Y gains 1, valency is 1 for both).\n(c) X is electropositive (it loses electrons)."
+      },
+      {
+        "id": "Q3",
+        "question": "(a) Which of the following flowers will have higher possibility of self-pollination ?\n(b) List the two reproductive parts of a bisexual flower.",
+        "options": [
+          "Mustard",
+          "Papaya",
+          "Watermelon",
+          "Hibiscus"
+        ],
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) Mustard and Hibiscus (Bisexual flowers have a higher possibility of self-pollination).\n(b) Stamen (Androecium) and Pistil/Carpel (Gynoecium)."
+      },
+      {
+        "id": "Q4",
+        "question": "Which one of the two multicellular organisms — Spirogyra and Planaria reproduces by regeneration and why ? Give an example of any other organism which can also reproduce by the same process.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "Planaria reproduces by regeneration because it possesses specialized cells that can proliferate and differentiate into various cell types to reconstruct the body. Spirogyra reproduces by fragmentation.\nExample of another organism: Hydra."
+      },
+      {
+        "id": "Q5",
+        "question": "(a) What is variation ? List two main reasons that may lead to variation in a population.\nOR\n(b) (i) In a cross between violet flowered plants and white flowered plants, state the characteristics of the plants obtained in the F1 progeny.\n(ii) If the plants of F1 progeny are self-pollinated, then what would be observed in the plants of F2 progeny ?\n(iii) If 100 plants are produced in F2 progeny, then how many plants will show the recessive trait ?",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) Variation refers to the differences in characters/traits among individuals of a species. Reasons: 1. Errors in DNA copying. 2. Sexual reproduction (mixing of genetic material).\nOR\n(b) (i) All plants in F1 progeny will have violet flowers (assuming violet is dominant).\n(ii) In F2 progeny, both violet and white flowered plants will be observed in a ratio of 3:1.\n(iii) 25 plants (1/4 of 100) will show the recessive trait (white flowers)."
+      },
+      {
+        "id": "Q6",
+        "question": "(a) (i) Name and state the rule to determine the direction of force experienced by a current carrying straight conductor placed in a uniform magnetic field which is perpendicular to it.\n(ii) An alpha particle while passing through a magnetic field gets projected towards north. In which direction will an electron project when it passes through the same magnetic field ?\nOR\n(b) (i) What is a solenoid ?\n(ii) Draw the pattern of magnetic field lines of the magnetic field produced by a solenoid through which a steady current flows.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) (i) Fleming's Left-Hand Rule: Stretch the thumb, forefinger and middle finger of your left hand such that they are mutually perpendicular. If the forefinger points in the direction of magnetic field and the middle finger in the direction of current, then the thumb will point in the direction of motion or force acting on the conductor.\n(ii) An alpha particle is positively charged. If it is projected North, the force on an electron (negatively charged) moving in the same direction in the same field would be opposite, i.e., South.\nOR\n(b) (i) A solenoid is a coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder.\n(ii) [Drawing should show field lines resembling a bar magnet: parallel inside the solenoid and curved loops outside, emerging from North and entering South]."
+      },
+      {
+        "id": "Q7",
+        "question": "(a) What is ozone ? How is it formed in the upper layers of the Earth’s atmosphere ? How does ozone affect our ecosystem ?\nOR\n(b) (i) List two human-made ecosystems.\n(ii) “We do not clean a pond in the same manner as we do in an aquarium.” Give reason to justify this statement.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) Ozone is a molecule formed by three atoms of oxygen (O₃). It is formed when high-energy UV radiation splits O₂ into free oxygen atoms (O), which combine with O₂ to form O₃. It affects the ecosystem by shielding the surface of the earth from harmful ultraviolet (UV) radiation from the Sun.\nOR\n(b) (i) Gardens, Crop fields, Aquarium.\n(ii) A pond is a natural ecosystem with decomposers that clean the waste naturally. An aquarium is an artificial ecosystem that often lacks sufficient decomposers, so waste accumulates and requires manual cleaning."
+      },
+      {
+        "id": "Q8",
+        "question": "(a) List two advantages of adopting the atomic number of an element as the basis of classification of elements in the Modern Periodic Table.\n(b) Write the electronic configurations of the elements X (atomic number 13) and Y (atomic number 20).",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) 1. It explains the position of isotopes (same atomic number, same place). 2. It relates periodicity directly to electronic configuration.\n(b) X (13): 2, 8, 3. Y (20): 2, 8, 8, 2."
+      },
+      {
+        "id": "Q9",
+        "question": "(a) Draw two different possible structures of a saturated hydrocarbon having four carbon atoms in its molecule. What are these two structures of the hydrocarbon having same molecular formula called ? Write the molecular formula and the common name of this compound. Also write the molecular formula of its alkyne.\nOR\n(b) (i) Write the molecular formula of benzene and draw its structure.\n(ii) Write the number of single and double covalent bonds present in a molecule of benzene.\n(iii) Which compounds are called alkynes ?",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) Structures: n-Butane (straight chain) and Isobutane (branched chain). They are called Isomers (Structural Isomers). Molecular formula: C₄H₁₀. Common name: Butane. Formula of its alkyne (Butyne): C₄H₆.\nOR\n(b) (i) Molecular formula: C₆H₆. Structure: Hexagonal ring with alternating double bonds.\n(ii) Single bonds: 9 (6 C-H and 3 C-C). Double bonds: 3 (C=C).\n(iii) Unsaturated hydrocarbons containing at least one triple bond between carbon atoms are called alkynes."
+      },
+      {
+        "id": "Q10",
+        "question": "(a) Mention one function each of the following organs in human male reproductive system :\n(i) Testis\n(ii) Scrotum\n(iii) Vas deferens\n(iv) Prostate gland\n(b) Name the type of germ cell which (i) is motile, and (ii) stores food.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) (i) Testis: Produces sperms and testosterone. (ii) Scrotum: Maintains temperature of testes lower than body temperature for sperm formation. (iii) Vas deferens: Transports sperms from testes/epididymis to urethra. (iv) Prostate gland: Secretes fluid that provides nutrition and aids movement of sperms.\n(b) (i) Motile: Male germ cell (Sperm). (ii) Stores food: Female germ cell (Egg/Ovum)."
+      },
+      {
+        "id": "Q11",
+        "question": "(a) Three resistors R₁, R₂ and R₃ are connected in parallel and the combination is connected to a battery, an ammeter, a voltmeter and a key. Draw suitable circuit diagram to show the arrangement of these circuit components along with the direction of current flowing.\n(b) Calculate the equivalent resistance of the following network : [Diagram showing R₁=5Ω in series with a parallel combination of R₂=10Ω and R₃=10Ω, followed by R₄=5Ω in series]",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) [Circuit diagram with R1, R2, R3 in parallel, connected to battery, key, ammeter in series, voltmeter across the parallel combination].\n(b) R₂ and R₃ are in parallel: Rp = (10*10)/(10+10) = 5 Ω. The circuit is then R₁ + Rp + R₄ in series: 5 + 5 + 5 = 15 Ω."
+      },
+      {
+        "id": "Q12",
+        "question": "(a) (i) Define Electric Power and write its SI unit.\n(ii) Two bulbs rated 100 W; 220 V and 60 W; 220 V are connected in parallel to an electric mains of 220 V. Find the current drawn by the bulbs from the mains.\nOR\n(b) (i) State Joule’s law of heating. Express it mathematically when an appliance of resistance R is connected to a source of voltage V and the current I flows through the appliance for a time t.\n(ii) A 5 Ω resistor is connected across a battery of 6 volts. Calculate the energy that dissipates as heat in 10 s.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) (i) Electric Power is the rate at which electrical energy is consumed or dissipated in an electric circuit. SI unit: Watt (W).\n(ii) Total Power P = P1 + P2 = 100W + 60W = 160W. Voltage V = 220V. Current I = P/V = 160/220 = 8/11 A ≈ 0.727 A.\nOR\n(b) (i) Joule's Law of Heating states that heat produced in a resistor is directly proportional to the square of current (I²), resistance (R), and time (t). Mathematically: H = I²Rt (or H = VIt).\n(ii) V=6V, R=5Ω, t=10s. H = V²/R * t = (6*6)/5 * 10 = 36/5 * 10 = 7.2 * 10 = 72 Joules."
+      },
+      {
+        "id": "Q13",
+        "question": "(a) Name the group of organisms which form in the first trophic level of all food chains. Why are they called so ?\n(b) Why are the human beings most adversely affected by bio-magnification ?\n(c) State one ill-effect of the absence of decomposers from a natural ecosystem.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) Producers (Autotrophs). They are called so because they can produce their own food using sunlight and simple inorganic substances.\n(b) Humans are at the top of the food chain, so harmful chemicals accumulate in maximum concentration in human bodies due to biological magnification.\n(c) Dead and decaying matter would pile up, and nutrients would not be recycled back into the soil, disrupting the ecosystem."
+      },
+      {
+        "id": "Q14",
+        "question": "The mechanism by which the sex of an individual is determined is called sex-determination. In human beings, sex of a newborn is genetically determined, whereas in some others it is not. There are 46 (23 pairs) chromosomes in human beings. Out of these, 44 (22 pairs) control the body characters and 2 (one pair) are known as sex chromosomes. The sex chromosomes are of two types — X chromosome and Y chromosome. At the time of fertilisation, depending upon which type of male gamete fuses with the female gamete, the sex of the newborn child is decided.\n(a) Why is a pair of sex chromosomes in human beings called a mismatched pair in terms of type and size ?\n(b) Out of male or female, which of them has a perfect pair of sex chromosomes ? In case of a perfect pair, will the gametes produced be of the same kind or of a different kind ?\n(c) (i) Name two animals whose sex is not genetically determined. Explain the process of their sex determination.\nOR\n(c) (ii) With the help of a flowchart only, show how sex is genetically determined in human beings.",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) Because in males, the pair consists of one normal-sized X chromosome and one short Y chromosome (XY).\n(b) Female (XX). The gametes produced will be of the same kind (all containing X).\n(c) (i) Some reptiles like turtles and crocodiles. Sex is determined by the environmental temperature at which fertilized eggs are incubated.\n(c) (ii) [Flowchart showing XX x XY -> Gametes X, X and X, Y -> Offspring XX (Female) and XY (Male)]."
+      },
+      {
+        "id": "Q15",
+        "question": "A student fixes a sheet of white paper on a drawing board using some adhesive materials. She places a bar magnet in the centre of it and sprinkles some iron filings uniformly around the bar magnet using a salt-sprinkler. On tapping the board gently, she observes that the iron filings have arranged themselves in a particular pattern.\n(a) Draw a diagram to show this pattern of iron filings.\n(b) Draw the magnetic field lines of a bar magnet showing the poles of the bar magnet as well as the direction of the magnetic field lines.\n(c) (i) How is the direction of magnetic field at a point determined using the field lines ? Why do two magnetic field lines not cross each other ?\nOR\n(c) (ii) How are the magnetic field lines of a bar magnet drawn using a small compass needle ? Draw one magnetic field line each on both sides of the magnet.",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2025",
+        "subject": "Science",
+        "answer": "(a) [Diagram showing iron filings aligning in curved loops around the magnet, concentrating at poles].\n(b) [Diagram showing field lines emerging from North pole and entering South pole externally].\n(c) (i) The direction is determined by drawing a tangent to the field line at that point. They do not cross because if they did, there would be two directions of the magnetic field at the point of intersection, which is impossible.\n(c) (ii) By placing the compass at the north pole, marking the direction of the needle, moving the compass so its tail is at the previous mark, and repeating until the south pole is reached. [Diagram with one line on each side]."
+      }
+    ]
+  }
+}
