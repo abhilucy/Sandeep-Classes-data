@@ -1,0 +1,2610 @@
+{
+  "metadata": {
+    "class": "Class 12",
+    "board": "CBSE",
+    "subject": "Mathematics",
+    "level": "NA",
+    "generatedAt": "2026-01-04T08:43:34.418Z"
+  },
+  "papers": {
+    "2021_1": [
+      {
+        "id": "1",
+        "question": "Identify the function shown in the graph\n(Graph shows a wave passing through origin with domain [-1, 1] and range [-π/2, π/2])",
+        "options": [
+          "(A) sin⁻¹ x",
+          "(B) sin⁻¹ (2x)",
+          "(C) sin⁻¹ (x/2)",
+          "(D) 2 sin⁻¹ x"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "1_VI",
+        "question": "For Visually Impaired:\nInverse Trigonometric Function, whose domain is [-1/3, 1/3], is …",
+        "options": [
+          "(A) cos⁻¹ x",
+          "(B) cos⁻¹ (x/3)",
+          "(C) cos⁻¹ (3x)",
+          "(D) 3 cos⁻¹ x"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "2",
+        "question": "If for three matrices A = [a_ij]_{m×4} , B = [b_ij]_{n×3} and C = [c_ij]_{p×q} products AB and AC both are defined and are square matrices of same order, then value of m, n, p and q are:",
+        "options": [
+          "(A) m = q = 3 and n = p = 4",
+          "(B) m = 2, q = 3 and n = p = 4",
+          "(C) m = q = 4 and n = p = 3",
+          "(D) m = 4, p = 2 and n = q = 3"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "3",
+        "question": "If the matrix A = [0 r -2; 3 p t; q -4 0] is skew-symmetric, then value of (q+t)/(p+r) is….",
+        "options": [
+          "(A) -2",
+          "(B) 0",
+          "(C) 1",
+          "(D) 2"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "4",
+        "question": "If A is a square matrix of order 4 and |adj A| = 27, then A (adj A) is equal to",
+        "options": [
+          "(A) 3",
+          "(B) 9",
+          "(C) 3 I",
+          "(D) 9 I"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "5",
+        "question": "The inverse of the matrix [3 0 0; 0 2 0; 0 0 5] is…",
+        "options": [
+          "(A) [0 0 3; 0 2 0; 5 0 0]",
+          "(B) [1/3 0 0; 0 1/2 0; 0 0 1/5]",
+          "(C) [-1/3 0 0; 0 -1/2 0; 0 0 -1/5]",
+          "(D) [-3 0 0; 0 -2 0; 0 0 -5]"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "6",
+        "question": "Value of the determinant |cos 67° sin 67°; sin 23° cos 23°| is",
+        "options": [
+          "(A) 0",
+          "(B) 1/2",
+          "(C) √3/2",
+          "(D) 1"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "7",
+        "question": "If a function defined by f(x) = {kx + 1, x ≤ π; cos x, x > π} is continuous at x = π, then the value of k is",
+        "options": [
+          "(A) π",
+          "(B) -1/π",
+          "(C) 0",
+          "(D) -2/π"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "8",
+        "question": "If f(x) = x tan⁻¹ x , then f'(1) is equal to",
+        "options": [
+          "(A) π/4 - 1/2",
+          "(B) π/4 + 1/2",
+          "(C) -π/4 - 1/2",
+          "(D) -π/4 + 1/2"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "9",
+        "question": "A function f(x) = 10 - x - 2x² is increasing on the interval",
+        "options": [
+          "(A) (-∞, -1/4]",
+          "(B) (-∞, 1/4)",
+          "(C) [-1/4, ∞)",
+          "(D) [-1/4, 1/4]"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "10",
+        "question": "The solution of the differential equation xdx + ydy = 0 represents a family of",
+        "options": [
+          "(A) straight lines",
+          "(B) parabolas",
+          "(C) Circles",
+          "(D) Ellipses"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "11",
+        "question": "If f(a + b - x) = f(x), then ∫_a^b x f(x) dx is equal to",
+        "options": [
+          "(A) (a+b)/2 ∫_a^b f(b-x) dx",
+          "(B) (a+b)/2 ∫_a^b f(a-x) dx",
+          "(C) (b-a)/2 ∫_a^b f(x) dx",
+          "(D) (a+b)/2 ∫_a^b f(x) dx"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "12",
+        "question": "If ∫ x³ sin⁴(x⁴) cos(x⁴) dx = a sin⁵(x⁴) + C, then a is equal to",
+        "options": [
+          "(A) -1/10",
+          "(B) 1/20",
+          "(C) 1/4",
+          "(D) 1/5"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "13",
+        "question": "A bird flies through a distance in a straight line given by the vector î + 2ĵ + k̂. A man standing beside a straight metro rail track given by r⃗ = (3 + λ)î + (2λ - 1)ĵ + 3λk̂ is observing the bird. The projected length of its flight on the metro track is",
+        "options": [
+          "(A) 6/√14 units",
+          "(B) 14/√6 units",
+          "(C) 8/√14 units",
+          "(D) 5/√6 units"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "14",
+        "question": "The distance of the point with position vector 3î + 4ĵ + 5k̂ from the y-axis is",
+        "options": [
+          "(A) 4 units",
+          "(B) √34 units",
+          "(C) 5 units",
+          "(D) 5√2 units"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "15",
+        "question": "If a⃗ = 3î + 2ĵ + 4k̂, b⃗ = î + ĵ - 3k̂ and c⃗ = 6î - ĵ + 2k̂ are three given vectors, then (2a⃗.î)î - (b⃗.ĵ)ĵ + (c⃗.k̂)k̂ is same as the vector",
+        "options": [
+          "(A) a⃗",
+          "(B) b⃗ + c⃗",
+          "(C) a⃗ - b⃗",
+          "(D) c⃗"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "16",
+        "question": "A student of class XII studying Mathematics comes across an incomplete question in a book.\nMaximise Z = 3x + 2y + 1\nSubject to the constraints x ≥ 0, y ≥ 0, 3x + 4y ≤ 12,\nHe/ She notices the below shown graph for the said LPP problem, and finds that a constraint is missing in it:\nHelp him/her choose the required constraint from the graph.\nThe missing constraint is",
+        "options": [
+          "(A) x + 2y ≤ 2",
+          "(B) 2x + y ≥ 2",
+          "(C) 2x + y ≤ 2",
+          "(D) x + 2y ≥ 2"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "16_VI",
+        "question": "For Visually Impaired:\nIf Z = ax + by + c, where a, b, c > 0, attains its maximum value at two of its corner points (4,0) and (0,3) of the feasible region determined by the system of linear inequalities, then",
+        "options": [
+          "(A) 4a = 3b",
+          "(B) 3a = 4b",
+          "(C) 4a + c = 3b",
+          "(D) 3a + c = 4b"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "17",
+        "question": "The feasible region of a linear programming problem is bounded but the objective function attains its minimum value at more than one point. One of the points is (5,0).\nThen one of the other possible points at which the objective function attains its minimum value is",
+        "options": [
+          "(A) (2,9)",
+          "(B) (6,6)",
+          "(C) (4,7)",
+          "(D) (0,0)"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "17_VI",
+        "question": "For Visually Impaired:\nThe graph of the inequality 3x + 5y < 10 is the",
+        "options": [
+          "(A) Entire XY -plane",
+          "(B) Open Half plane that doesn’t contain origin",
+          "(C) Open Half plane that contains origin, but not the points of the line 3x + 5y = 10",
+          "(D) Half plane that contains origin and the points of the line 3x + 5y = 10"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "18",
+        "question": "A person observed the first 4 digits of your 6-digit PIN. What is the probability that the person can guess your PIN?",
+        "options": [
+          "(A) 1/81",
+          "(B) 1/100",
+          "(C) 1/90",
+          "(D) 1"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "19",
+        "question": "Assertion (A): Value of the expression sin⁻¹(√3/2) + tan⁻¹ 1 - sec⁻¹(√2) is π/4.\nReason (R): Principal value branch of sin⁻¹ x is [-π/2, π/2] and that of sec⁻¹ x is [0, π] - {π/2}.",
+        "options": [
+          "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+          "(C) (A) is true but (R) is false.",
+          "(D) (A) is false but (R) is true."
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "20",
+        "question": "Assertion(A): Given two non-zero vectors a⃗ and b⃗. If r⃗ is another non-zero vector such that r⃗ × (a⃗ + b⃗) = 0⃗. Then r⃗ is perpendicular to a⃗ × b⃗.\nReason (R): The vector (a⃗ + b⃗) is perpendicular to the plane of a⃗ and b⃗",
+        "options": [
+          "(A) Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "(B) Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+          "(C) (A) is true but (R) is false.",
+          "(D) (A) is false but (R) is true."
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2025-26"
+      },
+      {
+        "id": "21A",
+        "question": "Evaluate tan (tan⁻¹(-1) + π/3)",
+        "answer": "tan(tan⁻¹(-1) + π/3) = tan(-π/4 + π/3) = tan(π/12) = 2 - √3",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26"
+      },
+      {
+        "id": "21B",
+        "question": "Find the domain of cos⁻¹(3x - 2)",
+        "answer": "Domain of cos⁻¹(X) is [-1, 1]. So -1 ≤ 3x - 2 ≤ 1 ⇒ 1 ≤ 3x ≤ 3 ⇒ 1/3 ≤ x ≤ 1. Domain is [1/3, 1].",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26"
+      },
+      {
+        "id": "22",
+        "question": "If y = log tan (π/4 + x/2), then prove that dy/dx - sec x = 0",
+        "answer": "dy/dx = (1/tan(π/4 + x/2)) * sec²(π/4 + x/2) * (1/2) = 1/(2sin(π/4+x/2)cos(π/4+x/2)) = 1/sin(π/2+x) = 1/cos x = sec x. Thus dy/dx - sec x = 0.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26"
+      },
+      {
+        "id": "23A",
+        "question": "Find: ∫ ((x-3)/(x-1)³) e^x dx",
+        "answer": "∫ e^x [1/(x-1)² - 2/(x-1)³] dx. Let f(x) = 1/(x-1)², f'(x) = -2/(x-1)³. Using ∫e^x(f(x)+f'(x))dx = e^xf(x), result is e^x/(x-1)² + C.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26"
+      },
+      {
+        "id": "23B",
+        "question": "Find out the area of shaded region in the enclosed figure.\n(Figure shows parabola x²=y and line y=4)",
+        "answer": "Area = 2 ∫[0 to 4] x dy = 2 ∫[0 to 4] √y dy = 2 [2/3 y^(3/2)]_0^4 = 4/3 * 8 = 32/3 sq units.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26"
+      },
+      {
+        "id": "23B_VI",
+        "question": "For Visually Impaired:\nFind out the area of the region enclosed by the curve y² = x , x = 3 and x-axis in the first quadrant.",
+        "answer": "Area = ∫[0 to 3] y dx = ∫[0 to 3] √x dx = [2/3 x^(3/2)]_0^3 = 2/3 (3√3) = 2√3 sq units.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26"
+      },
+      {
+        "id": "24",
+        "question": "If f(x+y) = f(x)f(y) for all x, y ∈ R and f(5)= 2, f'(0) = 3, then using the definition of derivatives, find f'(5).",
+        "answer": "f'(x) = f(x)f'(0). So f'(5) = f(5)f'(0) = 2 * 3 = 6.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26"
+      },
+      {
+        "id": "25",
+        "question": "The two vectors î+ ĵ + k̂ and 3î - ĵ + 3k̂ represent the two sides OA and OB, respectively of a ∆OAB, where O is the origin. The point P lies on AB such that OP is a median. Find the area of the parallelogram formed by the two adjacent sides as OA and OP.",
+        "answer": "Area = |OA × OP|. OP = (OA+OB)/2. Area = 1/2 |OA × OB|. OA×OB = 4î - 4k̂. Magnitude = 4√2. Area = 1/2(4√2) = 2√2 sq units.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025-26"
+      },
+      {
+        "id": "26A",
+        "question": "If x^y = e^(x-y) prove that dy/dx = log x / (log(xe))² and hence find its value at x = e.",
+        "answer": "Taking log: y ln x = x - y ⇒ y = x/(1+ln x). dy/dx = ln x / (1+ln x)². Note: log(xe) = 1+log x. At x=e, dy/dx = 1/(2)² = 1/4.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "26B",
+        "question": "If x = a(θ - sin θ ), y = a (1 - cos θ ) find d²y/dx².",
+        "answer": "dy/dx = cot(θ/2). d²y/dx² = -1/(4a sin⁴(θ/2)).",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "27",
+        "question": "A spherical ball of ice melts in such a way that the rate at which its volume decreases at any instant is directly proportional to its surface area. Prove that the radius of the ice ball decreases at a constant rate.",
+        "answer": "dV/dt = -kS ⇒ 4πr² dr/dt = -k(4πr²) ⇒ dr/dt = -k (constant).",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "28A",
+        "question": "Sketch the graph y = |x + 1| . Evaluate ∫_(-4)^2 |x + 1|dx. What does the value of this integral represent on the graph?",
+        "answer": "Value = 9. It represents the area of the region bounded by y=|x+1|, x-axis, x=-4 and x=2.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "28B",
+        "question": "Using integration find the area of the region {(x,y) : x² - 4y ≤ 0, y - x ≤ 0}",
+        "answer": "Region bounded by x²=4y and y=x. Intersection at (0,0) and (4,4). Area = ∫[0 to 4] (x - x²/4) dx = 8/3 sq units.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "28A_VI",
+        "question": "For Visually Impaired:\nDefine the function y = |x + 1| . Evaluate ∫_(-4)^2 |x + 1|dx. What does the value of this integral represent?",
+        "answer": "f(x) = -(x+1) for x<-1, (x+1) for x≥-1. Integral value = 9. Represents area under curve.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "28B_VI",
+        "question": "Using integration find the area enclosed within the curve: 25x² + 16y² = 400",
+        "answer": "Equation of ellipse x²/16 + y²/25 = 1. Area = πab = π(4)(5) = 20π.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "29A",
+        "question": "Find the distance of the point (2, -1,3) from the line r⃗ = (2î - ĵ + 2k̂) + μ(3î + 6ĵ + 2k̂) measured parallel to the z-axis.",
+        "answer": "Intersection of line with line through P parallel to z-axis. Point on line Q(2, -1, 2). Distance PQ = 1 unit.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "29B",
+        "question": "Find the point of intersection of the line r⃗ = (3î + k̂) + μ(î + ĵ + k̂) and the line through (2, -1,1) parallel to the z-axis. How far is this point from the z-axis?",
+        "answer": "Intersection point is (2, -1, 0). Distance from z-axis = √((2)²+(-1)²) = √5 units.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "30",
+        "question": "Solve graphically:\nMaximise Z = 2x + y subject to\nx + y ≤ 1200\nx + y ≥ 600\ny ≤ x/2\nx ≥ 0, y ≥ 0 .",
+        "answer": "Max Z = 2400 at point (1200, 0).",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "30_VI",
+        "question": "For Visually Impaired:\nThe objective function Z = 3x + 2y of a linear programming problem under some constraints is to be maximized and minimized. The corner points of the feasible region are A(600,0), B(1200,0), C(800, 400) and D(400, 200). Find the point at which Z is maximum and the point at which Z is minimum. Also, find the corresponding maximum and minimum values of Z.)",
+        "answer": "Z(A)=1800, Z(B)=3600, Z(C)=3200, Z(D)=1600. Max Z = 3600 at B(1200,0). Min Z = 1600 at D(400,200).",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "31",
+        "question": "Two students Mehul and Rashi are seeking admission in a college. The probability that Mehul is selected is 0.4 and the probability of selection of exactly one of the them is 0.5. Chances of selection of them is independent of each other. Find the chances of selection of Rashi. Also find the probability of selection of at least one of them.",
+        "answer": "P(R) = 0.5. P(at least one) = 0.7.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025-26"
+      },
+      {
+        "id": "32",
+        "question": "For two matrices A = [3 -6 -1; 2 -5 -1; -2 4 1] and B = [1 -2 -1; 0 -1 -1; 2 0 3], find the product AB and hence solve the system of equations:\n3x - 6y - z = 3\n2x - 5y - z + 2 = 0\n-2x + 4y + z = 5",
+        "answer": "AB = I. A⁻¹ = B. System solution X = B * [3; -2; 5]. x = 2, y = -3, z = 21.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2025-26"
+      },
+      {
+        "id": "33A",
+        "question": "Evaluate: ∫_0^1 log(1+x)/(1+x²) dx",
+        "answer": "(π/8) log 2.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2025-26"
+      },
+      {
+        "id": "33B",
+        "question": "Find ∫ (3 sin θ - 2) cos θ / (5 - cos²θ - 4 sin θ) dθ",
+        "answer": "3 log|sin θ - 2| - 4/(sin θ - 2) + C.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2025-26"
+      },
+      {
+        "id": "34A",
+        "question": "Solve the differential equation: y + d/dx(xy) = x (sin x + x)",
+        "answer": "yx² = -x² cos x + 2x sin x + 2 cos x + x⁴/4 + C.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2025-26"
+      },
+      {
+        "id": "34B",
+        "question": "Find the particular solution of the differential equation:\n2 y e^(x/y) dx + (y - 2 x e^(x/y) ) dy = 0 given that y(0) = 1",
+        "answer": "2e^(x/y) + log|y| = 2.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2025-26"
+      },
+      {
+        "id": "35",
+        "question": "The two lines (x-1)/3 = -y, z + 1 = 0 and -x/2 = (y+1)/2 = z + 2 intersect at a point whose y-coordinate is 1. Find the co-ordinates of their point of intersection. Find the vector equation of a line perpendicular to both the given lines and passing through this point of intersection.",
+        "answer": "Point of intersection: (-2, 1, -1). Line equation: r⃗ = (-2î + ĵ - k̂) + λ(î + 3ĵ - 4k̂).",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2025-26"
+      },
+      {
+        "id": "36",
+        "question": "Case Study -1\nA city’s traffic management department is planning to optimize traffic flow by analyzing the connectivity between various traffic signals. The city has five major spots labelled A, B, C, D, and E.\nThe department has collected the following data regarding one-way traffic flow between spots:\n1. Traffic flows from A to B, A to C, and A to D.\n2. Traffic flows from B to C and B to E.\n3. Traffic flows from C to E.\n4. Traffic flows from D to E and D to C.\nThe department wants to represent and analyze this data using relations and functions. Use the given data to answer the following questions:\nI. Is the traffic flow reflexive? Justify. [1]\nII. Is the traffic flow transitive? Justify. [1]\nIII A. Represent the relation describing the traffic flow as a set of ordered pairs. Also state the domain and range of the relation.\nOR\nIII B. Does the traffic flow represent a function? Justify your answer. [2]",
+        "answer": "I. No, (A,A) not in R. II. No, (A,B) and (B,E) in R but (A,E) not in R. III A. R={(A,B),(A,C),(A,D),(B,C),(B,E),(C,E),(D,E),(D,C)}. Domain {A,B,C,D}, Range {B,C,D,E}. III B. No, A maps to B, C, D (one-to-many).",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2025-26"
+      },
+      {
+        "id": "37",
+        "question": "Case Study -2\nLED bulbs are energy-efficient... A company manufactures a new type of energy-efficient LED bulb. The cost of production and the revenue generated by selling x bulbs (in an hour) are modelled as\nC(x) = 0.5x² - 10x + 150 and R(x) = -0.3x² + 20x respectively, where C(x) and R(x) are both in ₹.\nTo maximize the profit, the company needs to analyze these functions using calculus. Use the given models to answer the following questions:\nI. Derive the profit function P(x) [1]\nII. Find the critical points of P(x). [1]\nIII A. Determine whether the critical points correspond to a maximum or a minimum profit by using the second derivative test.\nOR\nIII B. Identify the possible practical value of x (i.e., the number of bulbs that can realistically be produced and sold) that can maximize the profit, if the resources available and the expenditure on machines allows to produce minimum 10 but not more than 18 bulbs per hour. Also calculate the maximum profit. [2]",
+        "answer": "I. P(x) = -0.8x² + 30x - 150. II. x = 18.75. III A. P''(x)=-1.6 < 0, so Maximum. III B. Max at x=18 (since 18.75 not in range [10,18] and function increasing). P(18) = 130.8.",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2025-26"
+      },
+      {
+        "id": "38",
+        "question": "Case Study -3\nExcessive use of screens can result in vision problems... In a class of students of the age group 14 to 17... The first group constituted of the students who spent more than 4 hours per day... second group spent 2 to 4 hours... third group spent less than 2 hours... The first group... is 60% of all the students, whereas the second group... is 30% and the third group... is 10%... It was observed that 80% students of first group faced severe anxiety..., with 70% of second group, and 30% of third group having the same symptoms.\nI. What is the total percentage of students who suffer from anxiety and low retention issues in the class? [2]\nII. A student is selected at random, and he is found to suffer from anxiety and low retention issues. What is the probability that he/she spends screen time more than 4 hours per day? [2]",
+        "answer": "I. 72%. II. 2/3.",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2025-26"
+      }
+    ],
+    "2022_2": [
+      {
+        "id": "1",
+        "question": "The principal value of sin⁻¹(sin(-10π/3)) is :",
+        "options": [
+          "-2π/3",
+          "-π/3",
+          "π/3",
+          "2π/3"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "2",
+        "question": "If A and B are square matrices of same order such that AB = A and BA = B, then A² + B² is equal to :",
+        "options": [
+          "A + B",
+          "BA",
+          "2 (A + B)",
+          "2BA"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "3",
+        "question": "For real x, let f(x) = x³ + 5x + 1. Then :",
+        "options": [
+          "f is one-one but not onto on R",
+          "f is onto on R but not one-one",
+          "f is one-one and onto on R",
+          "f is neither one-one nor onto on R"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "4",
+        "question": "If y = sin⁻¹ x, then (1 - x²) d²y/dx² is equal to :",
+        "options": [
+          "x dy/dx",
+          "-x dy/dx",
+          "x² dy/dx",
+          "-x² dy/dx"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "5",
+        "question": "The values of λ so that f(x) = sin x - cos x - λx + C decreases for all real values of x are :",
+        "options": [
+          "1 < λ < √2",
+          "λ ≥ 1",
+          "λ ≥ √2",
+          "λ < 1"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "6",
+        "question": "If P is a point on the line segment joining (3, 6, -1) and (6, 2, -2) and y-coordinate of P is 4, then its z-coordinate is :",
+        "options": [
+          "-3/2",
+          "0",
+          "1",
+          "3/2"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "7",
+        "question": "If M and N are square matrices of order 3 such that det (M) = m and MN = mI, then det (N) is equal to :",
+        "options": [
+          "- 1",
+          "1",
+          "- m²",
+          "m²"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "8",
+        "question": "If f(x) = { 3x - 2, 0 < x ≤ 1 ; 2x² + ax, 1 < x < 2 } is continuous for x ∈ (0, 2), then a is equal to :",
+        "options": [
+          "- 4",
+          "- 7/2",
+          "- 2",
+          "- 1"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "9",
+        "question": "If f : N → W is defined as\nf(n) = { n/2, if n is even ; 0, if n is odd }\nthen f is :",
+        "options": [
+          "injective only",
+          "surjective only",
+          "a bijection",
+          "neither surjective nor injective"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "10",
+        "question": "The matrix [ 0  1  -2 ; -1  0  -7 ; 2  7  0 ] is a :",
+        "options": [
+          "diagonal matrix",
+          "symmetric matrix",
+          "skew symmetric matrix",
+          "scalar matrix"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "11",
+        "question": "If the sides AB and AC of Δ ABC are represented by vectors ĵ + k̂ and 3î - ĵ + 4k̂ respectively, then the length of the median through A on BC is :",
+        "options": [
+          "2√2 units",
+          "√18 units",
+          "√34 / 2 units",
+          "√48 / 2 units"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "12",
+        "question": "The function f defined by f(x) = { x, if x ≤ 1 ; 5, if x > 1 } is not continuous at :",
+        "options": [
+          "x = 0",
+          "x = 1",
+          "x = 2",
+          "x = 5"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "13",
+        "question": "If f(x) = 2x + cos x, then f(x) :",
+        "options": [
+          "has a maxima at x = π",
+          "has a minima at x = π",
+          "is an increasing function",
+          "is a decreasing function"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "14",
+        "question": "∫ (cos 2x - cos 2α) / (cos x - cos α) dx is equal to :",
+        "options": [
+          "2(sin x + x cos α) + C",
+          "2(sin x - x cos α) + C",
+          "2(sin x + 2x cos α) + C",
+          "2(sin x + sin α) + C"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "15",
+        "question": "The value of ∫₀¹ dx / (eˣ + e⁻ˣ) is :",
+        "options": [
+          "- π/4",
+          "π/4",
+          "tan⁻¹ e - π/4",
+          "tan⁻¹ e"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "16",
+        "question": "The order and degree of the differential equation (d²y/dx²)² + (dy/dx)² = x sin(dy/dx) are :",
+        "options": [
+          "order 2, degree 2",
+          "order 2, degree 1",
+          "order 2, degree not defined",
+          "order 1, degree not defined"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "17",
+        "question": "The area of the region enclosed by the curve y = √x and the lines x = 0 and x = 4 and x-axis is :",
+        "options": [
+          "16/9 sq. units",
+          "32/9 sq. units",
+          "16/3 sq. units",
+          "32/3 sq. units"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "18",
+        "question": "The corner points of the feasible region of a Linear Programming Problem are (0, 2), (3, 0), (6, 0), (6, 8) and (0, 5). If Z = ax + by; (a, b > 0) be the objective function, and maximum value of Z is obtained at (0, 2) and (3, 0), then the relation between a and b is :",
+        "options": [
+          "a = b",
+          "a = 3b",
+          "b = 6a",
+          "3a = 2b"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "19",
+        "question": "Assertion (A) : If A and B are two events such that P(A ∩ B) = 0, then A and B are independent events.\nReason (R) : Two events are independent if the occurrence of one does not effect the occurrence of the other.",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+          "Assertion (A) is true, but Reason (R) is false.",
+          "Assertion (A) is false, but Reason (R) is true."
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "20",
+        "question": "Assertion (A) : In a Linear Programming Problem, if the feasible region is empty, then the Linear Programming Problem has no solution.\nReason (R) : A feasible region is defined as the region that satisfies all the constraints.",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+          "Assertion (A) is true, but Reason (R) is false.",
+          "Assertion (A) is false, but Reason (R) is true."
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "21",
+        "question": "Let A and B be two square matrices of order 3 such that det (A) = 3 and det (B) = - 4. Find the value of det (- 6AB).",
+        "answer": "2592",
+        "explanation": "det(-6AB) = (-6)³ det(A) det(B) = -216 * 3 * (-4) = 2592.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "22a",
+        "question": "Find the least value of 'a' so that f(x) = 2x² - ax + 3 is an increasing function on [2, 4].",
+        "answer": "There is no least value. For the function to be increasing, a ≤ 8.",
+        "explanation": "f'(x) = 4x - a. For increasing, f'(x) ≥ 0 for all x in [2, 4]. Min(4x) = 8. So 8 - a ≥ 0, which implies a ≤ 8. Thus, any 'a' less than or equal to 8 works. The set is (-∞, 8].",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "22b",
+        "question": "If f(x) = x + 1/x, x ≥ 1, show that f is an increasing function.",
+        "answer": "See explanation.",
+        "explanation": "f'(x) = 1 - 1/x². For x ≥ 1, x² ≥ 1 implies 1/x² ≤ 1, so 1 - 1/x² ≥ 0. Thus f is increasing.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "23a",
+        "question": "Simplify sin⁻¹(x / √(1 + x²)).",
+        "answer": "tan⁻¹ x",
+        "explanation": "Let x = tan θ. Then x/√(1+x²) = sin θ. sin⁻¹(sin θ) = θ = tan⁻¹ x.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "23b",
+        "question": "Find domain of sin⁻¹ √(x - 1).",
+        "answer": "[1, 2]",
+        "explanation": "0 ≤ √(x-1) ≤ 1. So 0 ≤ x-1 ≤ 1 => 1 ≤ x ≤ 2.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "24",
+        "question": "Calculate the area of the region bounded by the curve x²/9 + y²/4 = 1 and the x-axis using integration.",
+        "answer": "3π sq units",
+        "explanation": "Area = ∫ from -3 to 3 of y dx = ∫ 2√(1-x²/9) dx = 3π. (Assuming upper half area).",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "25",
+        "question": "For the curve y = 5x - 2x³, if x increases at the rate of 2 units/s, then how fast is the slope of the curve changing when x = 2 ?",
+        "answer": "-48 units/s",
+        "explanation": "Slope m = dy/dx = 5 - 6x². dm/dt = -12x(dx/dt). At x=2, dm/dt = -12(2)(2) = -48.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "26a",
+        "question": "If f : R⁺ → R is defined as f(x) = logₐ x (a > 0 and a ≠ 1), prove that f is a bijection. (R⁺ is a set of all positive real numbers.)",
+        "answer": "Proof",
+        "explanation": "f is one-one as log x is strictly monotonic. f is onto as range of log is R.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2022"
+      },
+      {
+        "id": "26b",
+        "question": "Let A = {1, 2, 3} and B = {4, 5, 6}. A relation R from A to B is defined as R = {(x, y) : x + y = 6, x ∈ A, y ∈ B}.\n(i) Write all elements of R.\n(ii) Is R a function ? Justify.\n(iii) Determine domain and range of R.",
+        "answer": "(i) {(1, 5), (2, 4)} (ii) No (iii) Domain {1, 2}, Range {4, 5}",
+        "explanation": "(i) Pairs sum to 6: 1+5, 2+4. (ii) No, element 3 in A has no image. (iii) Domain {1, 2}, Range {4, 5}.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2022"
+      },
+      {
+        "id": "27a",
+        "question": "Find k so that f(x) = { (x² - 2x - 3)/(x + 1), x ≠ -1 ; k, x = -1 } is continuous at x = -1.",
+        "answer": "k = -4",
+        "explanation": "Limit as x→-1 is lim (x-3)(x+1)/(x+1) = lim (x-3) = -4.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2022"
+      },
+      {
+        "id": "27b",
+        "question": "Check the differentiability of function f(x) = x|x| at x = 0.",
+        "answer": "Differentiable",
+        "explanation": "LHD = 0, RHD = 0. Function is differentiable at x=0.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2022"
+      },
+      {
+        "id": "28",
+        "question": "Evaluate : ∫[π/2 to π] eˣ ((1 - sin x) / (1 - cos x)) dx",
+        "answer": "e^(π/2)",
+        "explanation": "Integrand simplifies to eˣ(f(x)+f'(x)) with f(x) = -cot(x/2). Value is [ -eˣ cot(x/2) ] from π/2 to π = 0 - (-e^(π/2)) = e^(π/2).",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2022"
+      },
+      {
+        "id": "29a",
+        "question": "Find the probability distribution of the number of boys in families having three children, assuming equal probability for a boy and a girl.",
+        "answer": "X: 0, 1, 2, 3; P(X): 1/8, 3/8, 3/8, 1/8",
+        "explanation": "Binomial distribution with n=3, p=0.5.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2022"
+      },
+      {
+        "id": "29b",
+        "question": "A coin is tossed twice. Let X be a random variable defined as number of heads minus number of tails. Obtain the probability distribution of X and also find its mean.",
+        "answer": "X: -2, 0, 2; P(X): 1/4, 1/2, 1/4; Mean = 0",
+        "explanation": "Outcomes: TT (X=-2), HT/TH (X=0), HH (X=2). Probabilities 1/4, 2/4, 1/4. Mean = -2(0.25) + 0 + 2(0.25) = 0.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2022"
+      },
+      {
+        "id": "30",
+        "question": "Find the distance of the point (-1, -5, -10) from the point of intersection of the lines (x-1)/2 = (y-2)/3 = (z-3)/4 and (x-4)/5 = (y-1)/2 = z.",
+        "answer": "√97 units",
+        "explanation": "Intersection point Q is (-1, -1, -1). Distance PQ = √((-1+1)²+(-5+1)²+(-10+1)²) = √(0+16+81) = √97.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2022"
+      },
+      {
+        "id": "31",
+        "question": "Solve the following Linear Programming Problem using graphical method :\nMaximise Z = 100x + 50y\nsubject to the constraints\n3x + y ≤ 600\nx + y ≤ 300\ny ≤ x + 200\nx ≥ 0, y ≥ 0",
+        "answer": "Solve graphically.",
+        "explanation": "Find feasible region, evaluate Z at corner points.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2022"
+      },
+      {
+        "id": "32",
+        "question": "If A is a 3 × 3 invertible matrix, show that for any scalar k ≠ 0, (kA)⁻¹ = (1/k) A⁻¹. Hence calculate (3A)⁻¹, where A = [ 2 -1 1 ; -1 2 -1 ; 1 -1 2 ].",
+        "answer": "Matrix calculation required.",
+        "explanation": "Use A⁻¹ formula. Then multiply by 1/3.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2022"
+      },
+      {
+        "id": "33",
+        "question": "The relation between the height of the plant (y cm) with respect to exposure to sunlight is governed by the equation y = 4x - (1/2)x², where x is the number of days exposed to sunlight.\n(i) Find the rate of growth of the plant with respect to sunlight.\n(ii) In how many days will the plant attain its maximum height ? What is the maximum height ?",
+        "answer": "(i) 4 - x (ii) 4 days, 8 cm",
+        "explanation": "(i) dy/dx = 4 - x. (ii) dy/dx = 0 => x=4. y(4) = 16 - 8 = 8.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2022"
+      },
+      {
+        "id": "34a",
+        "question": "Find : ∫ (cos x / ((4 + sin² x)(5 - 4 cos² x))) dx",
+        "answer": "Detailed integration.",
+        "explanation": "Substitute sin x = t. Denominator becomes (4+t²)(1+4t²). Use partial fractions.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2022"
+      },
+      {
+        "id": "34b",
+        "question": "Evaluate : ∫₀^π dx / (a² cos² x + b² sin² x)",
+        "answer": "π² / ab (if limits 0 to π, actually 2 * integral 0 to π/2)",
+        "explanation": "Standard integral.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2022"
+      },
+      {
+        "id": "35a",
+        "question": "Show that the area of a parallelogram whose diagonals are represented by a⃗ and b⃗ is given by (1/2)|a⃗ × b⃗|. Also find the area of a parallelogram whose diagonals are 2î - ĵ + k̂ and î + 3ĵ - k̂.",
+        "answer": "Area calculation.",
+        "explanation": "Calculate cross product magnitude.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2022"
+      },
+      {
+        "id": "35b",
+        "question": "Find the equation of a line in vector and cartesian form which passes through the point (1, 2, -4) and is perpendicular to the lines (x-8)/3 = (y+19)/-16 = (z-10)/7 and r⃗ = 15î + 29ĵ + 5k̂ + µ(3î + 8ĵ - 5k̂).",
+        "answer": "Vector and Cartesian equations.",
+        "explanation": "Direction is cross product of (3, -16, 7) and (3, 8, -5).",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2022"
+      },
+      {
+        "id": "36i",
+        "question": "Case Study - 1: (i) What is the probability of a student not having misconception but still answers Bijoy in the test ?",
+        "answer": "0.06",
+        "explanation": "P(nM ∩ B) = P(nM) * P(B|nM) = 0.60 * 0.10 = 0.06.",
+        "type": "case_study",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "36ii",
+        "question": "Case Study - 1: (ii) What is the probability that a randomly selected student answers Bijoy as his answer in the test ?",
+        "answer": "0.38",
+        "explanation": "P(B) = P(M ∩ B) + P(nM ∩ B) = 0.32 + 0.06 = 0.38.",
+        "type": "case_study",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "36iiia",
+        "question": "Case Study - 1: (iii) (a) What is the probability that a student who answered as Bijoy is having misconception ?",
+        "answer": "16/19",
+        "explanation": "P(M|B) = P(M ∩ B) / P(B) = 0.32 / 0.38 = 16/19.",
+        "type": "case_study",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "36iiib",
+        "question": "Case Study - 1: (iii) (b) What is the probability that a student who answered as Bijoy is amongst students who do not have the misconception ?",
+        "answer": "3/19",
+        "explanation": "P(nM|B) = 0.06 / 0.38 = 3/19.",
+        "type": "case_study",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "37i",
+        "question": "Case Study - 2: (i) Find whether the two metro tracks are parallel.",
+        "answer": "No",
+        "explanation": "Direction vectors (3, -2, 4) and (2, 1, -3) are not proportional.",
+        "type": "case_study",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "37ii",
+        "question": "Case Study - 2: (ii) Determine the equation of the line representing the placement of solar panels on the rooftop of Line A's stations, given that panels are to be positioned parallel to Line A's track (l₁) and pass through the point (1, -2, -3).",
+        "answer": "(x-1)/3 = (y+2)/-2 = (z+3)/4",
+        "explanation": "Parallel line has same direction ratios (3, -2, 4).",
+        "type": "case_study",
+        "marks": 1,
+        "year": "2022"
+      },
+      {
+        "id": "37iiia",
+        "question": "Case Study - 2: (iii) (a) To connect the stations, a pedestrian pathway perpendicular to the two metro lines is to be constructed which passes through point (3, 2, 1). Determine the equation of the pedestrian walkway.",
+        "answer": "(x-3)/2 = (y-2)/17 = (z-1)/7",
+        "explanation": "Direction is cross product of line directions.",
+        "type": "case_study",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "37iiib",
+        "question": "Case Study - 2: (iii) (b) Find the shortest distance between Line A and Line B.",
+        "answer": "Calculation required.",
+        "explanation": "Use formula for shortest distance between skew lines.",
+        "type": "case_study",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "38i",
+        "question": "Case Study - 3: (i) Find the expression for temperature of processor, T(t) given that T(0) = 85°C.",
+        "answer": "T(t) = 25 + 60 e^(-kt)",
+        "explanation": "Solve differential equation dT/dt = -k(T-25).",
+        "type": "case_study",
+        "marks": 2,
+        "year": "2022"
+      },
+      {
+        "id": "38ii",
+        "question": "Case Study - 3: (ii) How long will it take for the processor's temperature to reach 40°C ? Given that k = 0.03, logₑ 4 = 1.3863.",
+        "answer": "46.21 minutes",
+        "explanation": "40 = 25 + 60 e^(-0.03t). Solve for t.",
+        "type": "case_study",
+        "marks": 2,
+        "year": "2022"
+      }
+    ],
+    "2023_3": [
+      {
+        "id": "1",
+        "question": "If A = [a_ij] is an identity matrix, then which of the following is true?",
+        "options": [
+          "a_ij = { 0, if i = j; 1, if i ≠ j }",
+          "a_ij = 1, ∀ i, j",
+          "a_ij = 0, ∀ i, j",
+          "a_ij = { 0, if i ≠ j; 1, if i = j }"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "2",
+        "question": "Let R_+ denote the set of all non-negative real numbers. Then the function f: R_+ → R_+ defined as f(x) = x² + 1 is :",
+        "options": [
+          "one-one but not onto",
+          "onto but not one-one",
+          "both one-one and onto",
+          "neither one-one nor onto"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "3",
+        "question": "Let A = [[a, b], [c, d]] be a square matrix such that adj A = A. Then, (a + b + c + d) is equal to :",
+        "options": [
+          "2a",
+          "2b",
+          "2c",
+          "0"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "4",
+        "question": "A function f(x) = |1 – x + |x|| is :",
+        "options": [
+          "discontinuous at x = 1 only",
+          "discontinuous at x = 0 only",
+          "discontinuous at x = 0, 1",
+          "continuous everywhere"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "5",
+        "question": "If the sides of a square are decreasing at the rate of 1.5 cm/s, the rate of decrease of its perimeter is :",
+        "options": [
+          "1.5 cm/s",
+          "6 cm/s",
+          "3 cm/s",
+          "2.25 cm/s"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "6",
+        "question": "∫_{-a}^{a} f(x) dx = 0, if :",
+        "options": [
+          "f(– x) = f(x)",
+          "f(– x) = – f(x)",
+          "f(a – x) = f(x)",
+          "f(a – x) = – f(x)"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "7",
+        "question": "x log x dy/dx + y = 2 log x is an example of a :",
+        "options": [
+          "variable separable differential equation.",
+          "homogeneous differential equation.",
+          "first order linear differential equation.",
+          "differential equation whose degree is not defined."
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "8",
+        "question": "If a⃗ = 2î – ĵ + k̂ and b⃗ = î + ĵ – k̂, then a⃗ and b⃗ are :",
+        "options": [
+          "collinear vectors which are not parallel",
+          "parallel vectors",
+          "perpendicular vectors",
+          "unit vectors"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "9",
+        "question": "If α, β and γ are the angles which a line makes with positive directions of x, y and z axes respectively, then which of the following is not true ?",
+        "options": [
+          "cos² α + cos² β + cos² γ = 1",
+          "sin² α + sin² β + sin² γ = 2",
+          "cos 2α + cos 2β + cos 2γ = – 1",
+          "cos α + cos β + cos γ = 1"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "10",
+        "question": "The restrictions imposed on decision variables involved in an objective function of a linear programming problem are called :",
+        "options": [
+          "feasible solutions",
+          "constraints",
+          "optimal solutions",
+          "infeasible solutions"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "11",
+        "question": "Let E and F be two events such that P(E) = 0.1, P(F) = 0.3, P(E ∪ F) = 0.4, then P(F|E) is :",
+        "options": [
+          "0.6",
+          "0.4",
+          "0.5",
+          "0"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "12",
+        "question": "If A and B are two skew symmetric matrices, then (AB + BA) is :",
+        "options": [
+          "a skew symmetric matrix",
+          "a symmetric matrix",
+          "a null matrix",
+          "an identity matrix"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "13",
+        "question": "If | 1 3 1 | \n   | k 0 1 | = ± 6, then the value of k is :\n   | 0 0 1 |",
+        "options": [
+          "2",
+          "– 2",
+          "± 2",
+          "∓ 2"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "14",
+        "question": "The derivative of 2^x w.r.t. 3^x is :",
+        "options": [
+          "(2/3)^x (log 3 / log 2)",
+          "(3/2)^x (log 2 / log 3)",
+          "(3/2)^x (log 3 / log 2)",
+          "(2/3)^x (log 2 / log 3)"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "15",
+        "question": "If | a⃗ | = 2 and – 3 ≤ k ≤ 2, then | k a⃗ | ∈ :",
+        "options": [
+          "[– 6, 4]",
+          "[0, 4]",
+          "[4, 6]",
+          "[0, 6]"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "16",
+        "question": "If a line makes an angle of π/4 with the positive directions of both x-axis and z-axis, then the angle which it makes with the positive direction of y-axis is :",
+        "options": [
+          "0",
+          "π/4",
+          "π/2",
+          "π"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "17",
+        "question": "Of the following, which group of constraints represents the feasible region given below ?",
+        "options": [
+          "x + 2y ≤ 76, 2x + y ≥ 104, x, y ≥ 0",
+          "x + 2y ≤ 76, 2x + y ≤ 104, x, y ≥ 0",
+          "x + 2y ≥ 76, 2x + y ≤ 104, x, y ≥ 0",
+          "x + 2y ≥ 76, 2x + y ≥ 104, x, y ≥ 0"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "18",
+        "question": "If A = [[2, 0, 0], [0, 3, 0], [0, 0, 5]], then A⁻¹ is :",
+        "options": [
+          "[[1/2, 0, 0], [0, 1/3, 0], [0, 0, 1/5]]",
+          "30 [[1/2, 0, 0], [0, 1/3, 0], [0, 0, 1/5]]",
+          "(1/30) [[2, 0, 0], [0, 3, 0], [0, 0, 5]]",
+          "(1/30) [[1/2, 0, 0], [0, 1/3, 0], [0, 0, 1/5]]"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "19",
+        "question": "Assertion (A) : Every scalar matrix is a diagonal matrix.\nReason (R) : In a diagonal matrix, all the diagonal elements are 0.",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+          "Assertion (A) is true, but Reason (R) is false.",
+          "Assertion (A) is false, but Reason (R) is true."
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "20",
+        "question": "Assertion (A) : Projection of a⃗ on b⃗ is same as projection of b⃗ on a⃗.\nReason (R) : Angle between a⃗ and b⃗ is same as angle between b⃗ and a⃗ numerically.",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+          "Assertion (A) is true, but Reason (R) is false.",
+          "Assertion (A) is false, but Reason (R) is true."
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2023"
+      },
+      {
+        "id": "21",
+        "question": "Evaluate : sec²(tan⁻¹(1/2)) + cosec²(cot⁻¹(1/3))",
+        "answer": "85/36",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2023"
+      },
+      {
+        "id": "22",
+        "question": "(a) If x = e^(x/y), prove that dy/dx = (log x - 1) / (log x)²\n\nOR\n\n(b) Check the differentiability of f(x) = { x² + 1, 0 ≤ x < 1 ; 3 - x, 1 ≤ x ≤ 2 } at x = 1.",
+        "answer": "For (b): Left Hand Derivative = 2, Right Hand Derivative = -1. Since LHD ≠ RHD, f(x) is not differentiable at x=1.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2023"
+      },
+      {
+        "id": "23",
+        "question": "(a) Evaluate : ∫_0^{π/2} sin 2x cos 3x dx\n\nOR\n\n(b) Given d/dx F(x) = 1/√(2x-x²) and F(1) = 0, find F(x).",
+        "answer": "(a) -2/5  (b) F(x) = sin⁻¹(x-1)",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2023"
+      },
+      {
+        "id": "24",
+        "question": "Find the position vector of point C which divides the line segment joining points A and B having position vectors î + 2ĵ – k̂ and – î + ĵ + k̂ respectively in the ratio 4 : 1 externally. Further, find |AB⃗| : |BC⃗|.",
+        "answer": "Position vector of C = (1/3)(-5î + 2ĵ + 5k̂). Ratio |AB|:|BC| = 3:1.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2023"
+      },
+      {
+        "id": "25",
+        "question": "Let a⃗ and b⃗ be two non-zero vectors. Prove that | a⃗ × b⃗ | ≤ | a⃗ | | b⃗ |. State the condition under which equality holds, i.e., | a⃗ × b⃗ | = | a⃗ | | b⃗ |.",
+        "answer": "Equality holds when a⃗ and b⃗ are perpendicular (θ = 90°).",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2023"
+      },
+      {
+        "id": "26",
+        "question": "(a) If x cos (p + y) + cos p sin (p + y) = 0, prove that cos p dy/dx = – cos² (p + y), where p is a constant.\n\nOR\n\n(b) Find the value of a and b so that function f defined as : f(x) = { (x-2)/|x-2| + a, if x < 2; a + b, if x = 2; (x-2)/|x-2| + b, if x > 2 } is a continuous function.",
+        "answer": "(b) a = 1, b = -1",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2023"
+      },
+      {
+        "id": "27",
+        "question": "(a) Find the intervals in which the function f(x) = (log x)/x is strictly increasing or strictly decreasing.\n\nOR\n\n(b) Find the absolute maximum and absolute minimum values of the function f given by f(x) = x/2 + 2/x, on the interval [1, 2].",
+        "answer": "(a) Strictly increasing in (0, e), strictly decreasing in (e, ∞). (b) Absolute maximum: 2.5 at x=1. Absolute minimum: 2 at x=2.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2023"
+      },
+      {
+        "id": "28",
+        "question": "Find : ∫ (x² + 1) / ((x² + 2)(x² + 4)) dx",
+        "answer": "(-1/(2√2)) tan⁻¹(x/√2) + (3/4) tan⁻¹(x/2) + C",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2023"
+      },
+      {
+        "id": "29",
+        "question": "(a) Find : ∫ e^x ((2+sin 2x)/(1+cos 2x)) dx\n\nOR\n\n(b) Evaluate : ∫_0^{π/4} 1/(sin x + cos x) dx",
+        "answer": "(a) e^x tan x + C  (b) (1/√2) log(√2 + 1)",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2023"
+      },
+      {
+        "id": "30",
+        "question": "Solve the following linear programming problem graphically : Maximise z = 4x + 3y, subject to the constraints x + y ≤ 800, 2x + y ≤ 1000, x ≤ 400, x, y ≥ 0.",
+        "answer": "Maximum value z = 2600 at (200, 600).",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2023"
+      },
+      {
+        "id": "31",
+        "question": "The chances of P, Q and R getting selected as CEO of a company are in the ratio 4 : 1 : 2 respectively. The probabilities for the company to increase its profits from the previous year under the new CEO, P, Q or R are 0.3, 0.8 and 0.5 respectively. If the company increased the profits from the previous year, find the probability that it is due to the appointment of R as CEO.",
+        "answer": "1/3",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2023"
+      },
+      {
+        "id": "32",
+        "question": "A relation R on set A = {– 4, – 3, – 2, – 1, 0, 1, 2, 3, 4} be defined as R = {(x, y) : x + y is an integer divisible by 2}. Show that R is an equivalence relation. Also, write the equivalence class [2].",
+        "answer": "Equivalence class [2] = {-4, -2, 0, 2, 4}",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2023"
+      },
+      {
+        "id": "33",
+        "question": "(a) It is given that function f(x) = x^4 – 62x² + ax + 9 attains local maximum value at x = 1. Find the value of ‘a’, hence obtain all other points where the given function f(x) attains local maximum or local minimum values.\n\nOR\n\n(b) The perimeter of a rectangular metallic sheet is 300 cm. It is rolled along one of its sides to form a cylinder. Find the dimensions of the rectangular sheet so that volume of cylinder so formed is maximum.",
+        "answer": "(a) a = 120. Local minima at x = -6 and x = 5. (b) Dimensions: 100 cm and 50 cm.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2023"
+      },
+      {
+        "id": "34",
+        "question": "Using integration, find the area of the region enclosed between the circle x² + y² = 16 and the lines x = – 2 and x = 2.",
+        "answer": "8√3 + 16π/3",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2023"
+      },
+      {
+        "id": "35",
+        "question": "(a) Find the equation of the line passing through the point of intersection of the lines x/1 = (y-1)/2 = (z-2)/3 and (x-1)/0 = y/-3 = (z-7)/2 and perpendicular to these given lines.\n\nOR\n\n(b) Two vertices of the parallelogram ABCD are given as A(– 1, 2, 1) and B(1, – 2, 5). If the equation of the line passing through C and D is (x-4)/1 = (y+7)/-2 = (z-8)/2, then find the distance between sides AB and CD. Hence, find the area of parallelogram ABCD.",
+        "answer": "(a) (x-1)/13 = (y-3)/-2 = (z-5)/-3  (b) Distance = √26/3. Area = 2√26.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2023"
+      },
+      {
+        "id": "36",
+        "question": "Case Study – 1\nA student may spend 1 hour to 6 hours in a day in upskilling self. The probability distribution of the number of hours spent by a student is given below :\nP(X = x) = { kx² , for x = 1, 2, 3 ; 2kx, for x = 4, 5, 6 ; 0, otherwise }\nwhere x denotes the number of hours.\n(i) Express the probability distribution given above in the form of a probability distribution table.\n(ii) Find the value of k.\n(iii) (a) Find the mean number of hours spent by the student.\nOR\n(iii) (b) Find P(1 < X < 6).",
+        "answer": "(i) Table with P(1)=k, P(2)=4k, P(3)=9k, P(4)=8k, P(5)=10k, P(6)=12k. (ii) k = 1/44 (iii)(a) 95/22 (approx 4.32) (b) 31/44",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2023"
+      },
+      {
+        "id": "37",
+        "question": "Case Study – 2\nThe differential equation representing the growth of bacteria is given as : dP/dt = kP, where P is the population of bacteria at any time ‘t’.\n(i) Obtain the general solution of the given differential equation and express it as an exponential function of ‘t’.\n(ii) If population of bacteria is 1000 at t = 0, and 2000 at t = 1, find the value of k.",
+        "answer": "(i) P = P₀ e^(kt)  (ii) k = log 2",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2023"
+      },
+      {
+        "id": "38",
+        "question": "Case Study – 3\nIn the session 2022 – 23, the school offered monthly scholarship of ₹ 3,000 each to some girl students and ₹ 4,000 each to meritorious achievers... In all, 50 students were given the scholarships and monthly expenditure incurred by the school on scholarships was ₹ 1,80,000.\n(i) Express the given information algebraically using matrices.\n(ii) Check whether the system of matrix equations so obtained is consistent or not.\n(iii) (a) Find the number of scholarships of each kind given by the school, using matrices.\nOR\n(iii) (b) Had the amount of scholarship given to each girl child and meritorious student been interchanged, what would be the monthly expenditure incurred by the school ?",
+        "answer": "(i) Matrix equation [[1,1],[3,4]][x,y]^T = [50, 180]^T. (ii) Consistent (|A|≠0). (iii)(a) 20 girls, 30 meritorious. (b) ₹ 1,70,000",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2023"
+      }
+    ],
+    "2024_4": [
+      {
+        "id": "q1",
+        "question": "If for a square matrix A, A² - 3A + I = O and A⁻¹ = xA + yI, then the value of x + y is :",
+        "options": [
+          "-2",
+          "2",
+          "3",
+          "-3"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q2",
+        "question": "If |A| = 2, where A is a 2 × 2 matrix, then |4A⁻¹| equals :",
+        "options": [
+          "4",
+          "2",
+          "8",
+          "32"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q3",
+        "question": "Let A be a 3 × 3 matrix such that |adj A| = 64. Then |A| is equal to :",
+        "options": [
+          "8 only",
+          "-8 only",
+          "64",
+          "8 or -8"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q4",
+        "question": "If A = [3 4; 5 2] and 2A + B is a null matrix, then B is equal to :",
+        "options": [
+          "[6 8; 10 4]",
+          "[-6 -8; -10 -4]",
+          "[5 8; 10 3]",
+          "[-5 -8; -10 -3]"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q5",
+        "question": "If d/dx(f(x)) = log x, then f(x) equals :",
+        "options": [
+          "-1/x + C",
+          "x(log x - 1) + C",
+          "x(log x + x) + C",
+          "1/x + C"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q6",
+        "question": "∫₀^(π/6) sec²(x - π/6) dx is equal to :",
+        "options": [
+          "1/√3",
+          "-1/√3",
+          "√3",
+          "-√3"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q7",
+        "question": "The sum of the order and the degree of the differential equation d²y/dx² + (dy/dx)³ = sin y is :",
+        "options": [
+          "5",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q8",
+        "question": "The value of p for which the vectors 2î + pĵ + k̂ and -4î - 6ĵ + 26k̂ are perpendicular to each other, is :",
+        "options": [
+          "3",
+          "-3",
+          "-17/3",
+          "17/3"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q9",
+        "question": "The value of (î × ĵ) ⋅ ĵ + (ĵ × î) ⋅ k̂ is :",
+        "options": [
+          "2",
+          "0",
+          "1",
+          "-1"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q10",
+        "question": "If a⃗ + b⃗ = î and a⃗ = 2î - 2ĵ + 2k̂, then |b⃗| equals :",
+        "options": [
+          "√14",
+          "3",
+          "√12",
+          "√17"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q11",
+        "question": "Direction cosines of the line (x - 1)/2 = (1 - y)/3 = (2z - 1)/12 are :",
+        "options": [
+          "2/7, 3/7, 6/7",
+          "2/√157, -3/√157, 12/√157",
+          "2/7, -3/7, 6/7",
+          "2/7, -3/7, -6/7"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q12",
+        "question": "If P(A/B) = 0.3, P(A) = 0.4 and P(B) = 0.8, then P(B/A) is equal to :",
+        "options": [
+          "0.6",
+          "0.3",
+          "0.06",
+          "0.4"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q13",
+        "question": "The value of k for which f(x) = { 3x + 5, x ≥ 2; kx², x < 2 } is a continuous function, is :",
+        "options": [
+          "-11/4",
+          "4/11",
+          "11",
+          "11/4"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q14",
+        "question": "If A = [0 1; -1 0] and (3I + 4A)(3I - 4A) = x²I, then the value(s) x is/are :",
+        "options": [
+          "±√7",
+          "0",
+          "±5",
+          "25"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q15",
+        "question": "The general solution of the differential equation x dy - (1 + x²) dx = dx is :",
+        "options": [
+          "y = 2x + x³/3 + C",
+          "y = 2 log x + x³/3 + C",
+          "y = x²/2 + C",
+          "y = 2 log x + x²/2 + C"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q16",
+        "question": "If f(x) = a(x - cos x) is strictly decreasing in R, then 'a' belongs to",
+        "options": [
+          "{0}",
+          "(0, ∞)",
+          "(-∞, 0)",
+          "(-∞, ∞)"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q17",
+        "question": "The corner points of the feasible region in the graphical representation of a linear programming problem are (2, 72), (15, 20) and (40, 15). If z = 18x + 9y be the objective function, then :",
+        "options": [
+          "z is maximum at (2, 72), minimum at (15, 20)",
+          "z is maximum at (15, 20), minimum at (40, 15)",
+          "z is maximum at (40, 15), minimum at (15, 20)",
+          "z is maximum at (40, 15), minimum at (2, 72)"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q18",
+        "question": "The number of corner points of the feasible region determined by the constraints x - y ≥ 0, 2y ≤ x + 2, x ≥ 0, y ≥ 0 is :",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q19",
+        "question": "Assertion (A): The range of the function f(x) = 2 sin⁻¹ x + 3π/2, where x ∈ [-1, 1], is [π/2, 5π/2].\nReason (R): The range of the principal value branch of sin⁻¹ (x) is [0, π].",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+          "Assertion (A) is true and Reason (R) is false.",
+          "Assertion (A) is false and Reason (R) is true."
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q20",
+        "question": "Assertion (A): Equation of a line passing through the points (1, 2, 3) and (3, -1, 3) is (x-3)/2 = (y+1)/3 = (z-3)/0.\nReason (R): Equation of a line passing through points (x₁, y₁, z₁), (x₂, y₂, z₂) is given by (x-x₁)/(x₂-x₁) = (y-y₁)/(y₂-y₁) = (z-z₁)/(z₂-z₁).",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+          "Assertion (A) is true and Reason (R) is false.",
+          "Assertion (A) is false and Reason (R) is true."
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2024"
+      },
+      {
+        "id": "q21_a",
+        "question": "A function f : A → B defined as f(x) = 2x is both one-one and onto. If A = {1, 2, 3, 4}, then find the set B.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2024"
+      },
+      {
+        "id": "q21_b",
+        "question": "Evaluate: sin⁻¹(sin 3π/4) + cos⁻¹(cos 3π/4) + tan⁻¹(1)",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2024"
+      },
+      {
+        "id": "q22",
+        "question": "Find all the vectors of magnitude 3√3 which are collinear to vector î + ĵ + k̂.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2024"
+      },
+      {
+        "id": "q23_a",
+        "question": "Position vectors of the points A, B and C as shown in the figure below are a⃗, b⃗ and c⃗ respectively. If AC⃗ = 5/4 AB⃗, express c⃗ in terms of a⃗ and b⃗.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2024"
+      },
+      {
+        "id": "q23_b",
+        "question": "Check whether the lines given by equations x = 2λ + 2, y = 7λ + 1, z = -3λ - 3 and x = -μ - 2, y = 2μ + 8, z = 4μ + 5 are perpendicular to each other or not.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2024"
+      },
+      {
+        "id": "q24",
+        "question": "If y = (x + √(x² - 1))², then show that (x² - 1) (dy/dx)² = 4y².",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2024"
+      },
+      {
+        "id": "q25",
+        "question": "Show that the function f(x) = (16 sin x)/(4 + cos x) - x, is strictly decreasing in (π/2, π).",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2024"
+      },
+      {
+        "id": "q26",
+        "question": "Evaluate : ∫₀^(π/2) [log (sin x) - log (2 cos x)] dx.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2024"
+      },
+      {
+        "id": "q27",
+        "question": "Find : ∫ 1 / (√x (√x + 1) (√x + 2)) dx",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2024"
+      },
+      {
+        "id": "q28_a",
+        "question": "Find the particular solution of the differential equation dy/dx + sec² x · y = tan x · sec² x, given that y(0) = 0.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2024"
+      },
+      {
+        "id": "q28_b",
+        "question": "Solve the differential equation given by x dy - y dx - √(x² + y²) dx = 0.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2024"
+      },
+      {
+        "id": "q29",
+        "question": "Solve graphically the following linear programming problem :\nMaximise z = 6x + 3y,\nsubject to the constraints\n4x + y ≥ 80,\n3x + 2y ≤ 150,\nx + 5y ≥ 115,\nx ≥ 0, y ≥ 0.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2024"
+      },
+      {
+        "id": "q30_a",
+        "question": "The probability distribution of a random variable X is given below :\nX | 1 | 2 | 3\nP(X) | k/2 | k/3 | k/6\n(i) Find the value of k.\n(ii) Find P(1 ≤ X < 3).\n(iii) Find E(X), the mean of X.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2024"
+      },
+      {
+        "id": "q30_b",
+        "question": "A and B are independent events such that P(A ∩ B̄) = 1/4 and P(Ā ∩ B) = 1/6. Find P(A) and P(B).",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2024"
+      },
+      {
+        "id": "q31_a",
+        "question": "Evaluate : ∫₀^(π/2) eˣ sin x dx",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2024"
+      },
+      {
+        "id": "q31_b",
+        "question": "Find : ∫ 1 / (cos(x - a) cos(x - b)) dx",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2024"
+      },
+      {
+        "id": "q32",
+        "question": "A relation R is defined on a set of real numbers R as R = {(x, y) : x . y is an irrational number}.\nCheck whether R is reflexive, symmetric and transitive or not.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2024"
+      },
+      {
+        "id": "q33_a",
+        "question": "If A = [1 2 -2; -1 3 0; 0 -2 1] and B⁻¹ = [3 -1 1; -15 6 -5; 5 -2 2], find (AB)⁻¹.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2024"
+      },
+      {
+        "id": "q33_b",
+        "question": "Solve the following system of equations by matrix method :\nx + 2y + 3z = 6\n2x - y + z = 2\n3x + 2y - 2z = 3",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2024"
+      },
+      {
+        "id": "q34_a",
+        "question": "Find the vector and the Cartesian equations of a line passing through the point (1, 2, -4) and parallel to the line joining the points A(3, 3, -5) and B(1, 0, -11). Hence, find the distance between the two lines.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2024"
+      },
+      {
+        "id": "q34_b",
+        "question": "Find the equations of the line passing through the points A(1, 2, 3) and B(3, 5, 9). Hence, find the coordinates of the points on this line which are at a distance of 14 units from point B.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2024"
+      },
+      {
+        "id": "q35",
+        "question": "Find the area of the region bounded by the curves x² = y, y = x + 2 and x-axis, using integration.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2024"
+      },
+      {
+        "id": "q36",
+        "question": "Case Study - 1\nThe Venn diagram below represents the probabilities of three different types of Yoga, A, B and C performed by the people of a society. Further, it is given that probability of a member performing type C Yoga is 0.44.\nOn the basis of the above information, answer the following questions :\n(i) Find the value of x.\n(ii) Find the value of y.\n(iii) (a) Find P(C/B).\nOR\n(iii) (b) Find the probability that a randomly selected person of the society does Yoga of type A or B but not C.",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2024"
+      },
+      {
+        "id": "q37",
+        "question": "Case Study - 2\nA tank, as shown in the figure below, formed using a combination of a cylinder and a cone, offers better drainage as compared to a flat bottomed tank. A tap is connected to such a tank whose conical part is full of water. Water is dripping out from a tap at the bottom at the uniform rate of 2 cm³/s. The semi-vertical angle of the conical tank is 45°.\nOn the basis of given information, answer the following questions :\n(i) Find the volume of water in the tank in terms of its radius r.\n(ii) Find rate of change of radius at an instant when r = 2√2 cm.\n(iii) (a) Find the rate at which the wet surface of the conical tank is decreasing at an instant when radius r = 2√2 cm.\nOR\n(iii) (b) Find the rate of change of height 'h' at an instant when slant height is 4 cm.",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2024"
+      },
+      {
+        "id": "q38",
+        "question": "Case Study - 3\nThe equation of the path traced by a roller-coaster is given by the polynomial f(x) = a(x + 9) (x + 1) (x - 3). If the roller-coaster crosses y-axis at a point (0, -1), answer the following :\n(i) Find the value of 'a'.\n(ii) Find f\"(x) at x = 1.",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2024"
+      }
+    ],
+    "2025_5": [
+      {
+        "id": "Q1_a",
+        "question": "Find the sum of first 30 terms of AP : - 30, - 24, - 18, ..... .",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "answer": "1710",
+        "explanation": "Here, a = -30, d = -24 - (-30) = 6, n = 30.\nSum = n/2 [2a + (n-1)d]\nS30 = 30/2 [2(-30) + (29)(6)]\n= 15 [-60 + 174]\n= 15 [114]\n= 1710"
+      },
+      {
+        "id": "Q1_b",
+        "question": "In an AP if Sn = n (4n + 1), then find the AP.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "answer": "5, 13, 21, ...",
+        "explanation": "S1 = 1(4(1) + 1) = 5. So, first term a1 = 5.\nS2 = 2(4(2) + 1) = 2(9) = 18.\nSecond term a2 = S2 - S1 = 18 - 5 = 13.\nCommon difference d = a2 - a1 = 13 - 5 = 8.\nThe AP is 5, 13, 21, ..."
+      },
+      {
+        "id": "Q2",
+        "question": "A solid metallic sphere of radius 10·5 cm is melted and recast into a number of smaller cones, each of radius 3·5 cm and height 3 cm. Find the number of cones so formed.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "answer": "126",
+        "explanation": "Let n be the number of cones.\nVolume of Sphere = n * Volume of Cone\n(4/3) * pi * R^3 = n * (1/3) * pi * r^2 * h\n4 * (10.5)^3 = n * (3.5)^2 * 3\n4 * 1157.625 = n * 12.25 * 3\n4630.5 = n * 36.75\nn = 4630.5 / 36.75 = 126"
+      },
+      {
+        "id": "Q3_a",
+        "question": "Find the value of m for which the quadratic equation (m - 1) x^2 + 2 (m - 1) x + 1 = 0 has two real and equal roots.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "answer": "m = 2",
+        "explanation": "For real and equal roots, Discriminant D = 0.\nb^2 - 4ac = 0\n[2(m-1)]^2 - 4(m-1)(1) = 0\n4(m-1)^2 - 4(m-1) = 0\n4(m-1)[(m-1) - 1] = 0\n4(m-1)(m-2) = 0\nm = 1 or m = 2.\nSince coefficient of x^2 cannot be 0, m-1 != 0, so m != 1.\nTherefore, m = 2."
+      },
+      {
+        "id": "Q3_b",
+        "question": "Solve the following quadratic equation for x : √3 x^2 + 10x + 7√3 = 0",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "answer": "-√3, -7/√3",
+        "explanation": "Using quadratic formula x = [-b ± sqrt(b^2 - 4ac)] / 2a\na = √3, b = 10, c = 7√3\nD = 10^2 - 4(√3)(7√3) = 100 - 84 = 16\nx = [-10 ± 4] / 2√3\nx1 = -6 / 2√3 = -3/√3 = -√3\nx2 = -14 / 2√3 = -7/√3"
+      },
+      {
+        "id": "Q4",
+        "question": "Find the mode of the following frequency distribution :\nClass: 10 - 20, 20 - 30, 30 - 40, 40 - 50, 50 - 60\nFrequency: 15, 10, 12, 17, 4",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "answer": "42.78",
+        "explanation": "Maximum frequency is 17, so modal class is 40-50.\nl = 40, f1 = 17, f0 = 12, f2 = 4, h = 10.\nMode = l + [(f1 - f0) / (2f1 - f0 - f2)] * h\n= 40 + [(17 - 12) / (34 - 12 - 4)] * 10\n= 40 + [5 / 18] * 10\n= 40 + 50/18 = 40 + 2.78 = 42.78"
+      },
+      {
+        "id": "Q5",
+        "question": "The product of Rehan’s age (in years) 5 years ago and his age 7 years from now, is one more than twice his present age. Find his present age.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "answer": "6 years",
+        "explanation": "Let present age be x.\n(x - 5)(x + 7) = 2x + 1\nx^2 + 7x - 5x - 35 = 2x + 1\nx^2 + 2x - 35 = 2x + 1\nx^2 = 36\nx = 6 (Age cannot be negative)"
+      },
+      {
+        "id": "Q6",
+        "question": "Two concentric circles are of radii 4 cm and 3 cm. Find the length of the chord of the larger circle which touches the smaller circle.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2025",
+        "answer": "2√7 cm",
+        "explanation": "Radius of large circle R = 4, small circle r = 3.\nThe chord touches the small circle, so the radius is perpendicular to the chord and bisects it.\nHalf-length of chord = sqrt(R^2 - r^2) = sqrt(16 - 9) = sqrt(7).\nTotal length = 2 * sqrt(7) cm."
+      },
+      {
+        "id": "Q7",
+        "question": "For what value of x, is the median of the following frequency distribution 34·5 ?\nClass: 0-10, 10-20, 20-30, 30-40, 40-50, 50-60, 60-70\nFrequency: 3, 5, 11, 10, x, 3, 2",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025",
+        "answer": "13",
+        "explanation": "Median = 34.5, so median class is 30-40.\nl = 30, h = 10, f = 10, cf (cumulative frequency before class) = 3+5+11 = 19.\nN = Total frequency = 3+5+11+10+x+3+2 = 34 + x.\nMedian = l + [(N/2 - cf)/f] * h\n34.5 = 30 + [((34+x)/2 - 19) / 10] * 10\n4.5 = (34+x)/2 - 19\n23.5 = (34+x)/2\n47 = 34 + x\nx = 13"
+      },
+      {
+        "id": "Q8",
+        "question": "Draw a circle of radius 3 cm. Take two points P and Q on one of its extended diameter each at a distance of 7 cm from its centre. Construct tangents to the circle from these two points P and Q.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025",
+        "answer": "Construction",
+        "explanation": "1. Draw a circle with center O and radius 3 cm.\n2. Extend diameter to points P and Q such that OP = OQ = 7 cm.\n3. Find midpoint of OP (let it be M) and OQ (let it be N).\n4. Draw circles with centers M and N and radii MO and NO respectively.\n5. Where these circles intersect the original circle, mark points.\n6. Join P and Q to these intersection points to form tangents."
+      },
+      {
+        "id": "Q9_a",
+        "question": "The angle of elevation of the top of a building from the foot of the tower is 30° and the angle of elevation of the top of the tower from the foot of the building is 60°. If the tower is 50 m high, then find the height of the building.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025",
+        "answer": "16.67 m",
+        "explanation": "Let height of building be H and distance between feet be d.\nFor tower: tan(60) = 50/d => d = 50/√3.\nFor building: tan(30) = H/d => 1/√3 = H / (50/√3).\nH = 50/3 = 16.67 m."
+      },
+      {
+        "id": "Q9_b",
+        "question": "From a point on a bridge across a river, the angles of depression of the banks on opposite sides of the river are 30° and 45° respectively. If the bridge is at a height of 3 m from the banks, then find the width of the river.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025",
+        "answer": "3(√3 + 1) m",
+        "explanation": "Let the point on the bridge be P (height 3m).\nLet the width be w = x + y, where x and y are horizontal distances to the banks.\ntan(30) = 3/x => x = 3√3.\ntan(45) = 3/y => y = 3.\nWidth = 3√3 + 3 = 3(√3 + 1) m."
+      },
+      {
+        "id": "Q10",
+        "question": "Following is the daily expenditure on lunch by 30 employees of a company :\nDaily Expenditure (in Rupees): 100-120, 120-140, 140-160, 160-180, 180-200\nNumber of Employees: 8, 3, 8, 6, 5\nFind the mean daily expenditure of the employees.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2025",
+        "answer": "148 Rupees",
+        "explanation": "Midpoints (xi): 110, 130, 150, 170, 190\nFrequencies (fi): 8, 3, 8, 6, 5\nfixi: 880, 390, 1200, 1020, 950\nSum(fi) = 30\nSum(fixi) = 4440\nMean = 4440 / 30 = 148."
+      },
+      {
+        "id": "Q11_a",
+        "question": "From a solid cylinder of height 30 cm and radius 7 cm, a conical cavity of height 24 cm and same radius is hollowed out. Find the total surface area of the remaining solid.",
+        "type": "subjective",
+        "marks": 4,
+        "year": "2025",
+        "answer": "2024 cm²",
+        "explanation": "TSA = Area of Base + CSA of Cylinder + CSA of Cone (inner)\nRadius r = 7, Height cyl H = 30, Height cone h = 24.\nSlant height l = sqrt(h^2 + r^2) = sqrt(24^2 + 7^2) = 25.\nArea = πr^2 + 2πrH + πrl\n= π(7)[7 + 2(30) + 25]\n= (22/7)(7)[7 + 60 + 25]\n= 22 * 92 = 2024 cm²"
+      },
+      {
+        "id": "Q11_b",
+        "question": "Water in a canal, 8 m wide and 6 m deep, is flowing with a speed of 12 km/hour. How much area will it irrigate in one hour, if 0·05 m of standing water is required ?",
+        "type": "subjective",
+        "marks": 4,
+        "year": "2025",
+        "answer": "1,152,000 m²",
+        "explanation": "Volume of water in 1 hour = Width * Depth * Length\n= 8 * 6 * 12000 m = 576,000 m³.\nArea * Height = Volume\nArea * 0.05 = 576,000\nArea = 576,000 / 0.05 = 11,520,000 / 5 = 1,152,000 m² (or 115.2 hectares)."
+      },
+      {
+        "id": "Q12",
+        "question": "In Figure 1, a triangle ABC with ∠ B = 90° is shown. Taking AB as diameter, a circle has been drawn intersecting AC at point P. Prove that the tangent drawn at point P bisects BC.",
+        "type": "subjective",
+        "marks": 4,
+        "year": "2025",
+        "answer": "Proof provided in explanation.",
+        "explanation": "Let the tangent at P intersect BC at Q.\nSince AB is a diameter and ∠B = 90°, BC is tangent to the circle at B.\nFrom external point Q, lengths of tangents are equal, so QB = QP.\nThis implies ΔQBP is isosceles, so ∠QBP = ∠QPB.\nLet ∠QPB = x, so ∠QBP = x.\nSince ∠B = 90°, ∠ABC = 90°.\nIn ΔABC, ∠C = 90° - ∠A.\nAlso, line APB is a right angle (angle in semicircle), so AP ⊥ PB.\nThe angle between tangent QP and chord PB is equal to angle in alternate segment ∠PAB (or ∠A). So ∠QPB = ∠A.\nTherefore x = ∠A.\nSince ∠QBP is part of 90°, and Q, B, C are collinear... actually, let's use angles in ΔPQC.\n∠QPC = 90° - ∠QPB (since QP is tangent and AP is normal-ish... actually ∠APB=90, so ∠CPB=90. Tangent QP makes angle A with PB. So with perpendicular PC, it makes 90-A).\n∠C = 90° - A.\nThus, ∠QPC = ∠C.\nSo ΔPQC is isosceles with QP = QC.\nSince QB = QP and QP = QC, then QB = QC.\nHence Q bisects BC."
+      },
+      {
+        "id": "Q13",
+        "question": "Case Study – 1\nIn Mathematics, relations can be expressed in various ways. The matchstick patterns are based on linear relations. Different strategies can be used to calculate the number of matchsticks used in different figures.\nOne such pattern is shown below. Observe the pattern and answer the following questions using Arithmetic Progression :\nFigure 1, Figure 2, Figure 3\n(a) Write the AP for the number of triangles used in the figures. Also, write the nth term of this AP.\n(b) Which figure has 61 matchsticks ?",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2025",
+        "answer": "(a) AP: 4, 6, 8, ... nth term: 2n + 2; (b) Figure 14",
+        "explanation": "(a) Figure 1 has 4 triangles, Figure 2 has 6, Figure 3 has 8. AP is 4, 6, 8... a=4, d=2. an = 4 + (n-1)2 = 2n + 2.\n(b) Number of matchsticks follows pattern 2(Triangles) + 1. For Figure 1 (4 tris), sticks = 9. For Fig 2 (6 tris), sticks = 13.\nFormula: Sticks = 2(2n+2) + 1 = 4n + 5.\n4n + 5 = 61 => 4n = 56 => n = 14."
+      },
+      {
+        "id": "Q14",
+        "question": "Case Study – 2\nGadisar Lake is located in the Jaisalmer district of Rajasthan. It was built by the King of Jaisalmer and rebuilt by Gadsi Singh in 14th century. The lake has many Chhatris. One of them is shown below :\nObserve the picture. From a point A h m above from water level, the angle of elevation of top of Chhatri (point B) is 45° and angle of depression of its reflection in water (point C) is 60°. If the height of Chhatri above water level is (approximately) 10 m, then\n(a) draw a well-labelled figure based on the above information;\n(b) find the height (h) of the point A above water level.\n(Use √3 = 1·73)",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2025",
+        "answer": "(b) 2.7 m",
+        "explanation": "(a) Figure showing water level, Chhatri height 10m above, Reflection 10m below. Point A at height h. Angles 45 elevation and 60 depression.\n(b) Let x be horizontal distance. B is 10m above water, C is 10m below.\nHeight of B from A's level = 10 - h. Height of C from A's level = 10 + h.\ntan(45) = (10-h)/x => x = 10-h.\ntan(60) = (10+h)/x => x = (10+h)/√3.\n10-h = (10+h)/√3\n10√3 - h√3 = 10 + h\nh(√3 + 1) = 10(√3 - 1)\nh = 10(√3 - 1)/(√3 + 1) = 10(1.73-1)/(1.73+1) = 10(0.73/2.73) = 2.67 m (approx 2.7m)."
+      }
+    ],
+    "2026_6": [
+      {
+        "id": "1",
+        "question": "The principal value of sin⁻¹(sin(-10π/3)) is :",
+        "options": [
+          "- 2π/3",
+          "- π/3",
+          "π/3",
+          "2π/3"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "2",
+        "question": "If A and B are square matrices of same order such that AB = A and BA = B, then A² + B² is equal to :",
+        "options": [
+          "A + B",
+          "BA",
+          "2 (A + B)",
+          "2BA"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "3",
+        "question": "For real x, let f(x) = x³ + 5x + 1. Then :",
+        "options": [
+          "f is one-one but not onto on R",
+          "f is onto on R but not one-one",
+          "f is one-one and onto on R",
+          "f is neither one-one nor onto on R"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "4",
+        "question": "If y = sin⁻¹ x, then (1 - x²)d²y/dx² is equal to :",
+        "options": [
+          "x dy/dx",
+          "-x dy/dx",
+          "x² dy/dx",
+          "-x² dy/dx"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "5",
+        "question": "The values of λ so that f(x) = sin x - cos x - λx + C decreases for all real values of x are :",
+        "options": [
+          "1 < λ < √2",
+          "λ ≥ 1",
+          "λ ≥ √2",
+          "λ < 1"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "6",
+        "question": "If P is a point on the line segment joining (3, 6, -1) and (6, 2, -2) and y-coordinate of P is 4, then its z-coordinate is :",
+        "options": [
+          "- 3/2",
+          "0",
+          "1",
+          "3/2"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "7",
+        "question": "If M and N are square matrices of order 3 such that det (M) = m and MN = mI, then det (N) is equal to :",
+        "options": [
+          "- 1",
+          "1",
+          "- m²",
+          "m²"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "8",
+        "question": "If f(x) = { 3x - 2, 0 < x ≤ 1 ; 2x² + ax, 1 < x < 2 } is continuous for x ∈ (0, 2), then a is equal to :",
+        "options": [
+          "- 4",
+          "- 7/2",
+          "- 2",
+          "- 1"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "9",
+        "question": "If f : N → W is defined as f(n) = { n/2, if n is even ; 0, if n is odd }, then f is :",
+        "options": [
+          "injective only",
+          "surjective only",
+          "a bijection",
+          "neither surjective nor injective"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "10",
+        "question": "The matrix [ 0 1 -2 ; -1 0 -7 ; 2 7 0 ] is a :",
+        "options": [
+          "diagonal matrix",
+          "symmetric matrix",
+          "skew symmetric matrix",
+          "scalar matrix"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "11",
+        "question": "If the sides AB and AC of Δ ABC are represented by vectors ĵ + k̂ and 3î - ĵ + 4k̂ respectively, then the length of the median through A on BC is :",
+        "options": [
+          "2√2 units",
+          "√18 units",
+          "√34 / 2 units",
+          "√48 / 2 units"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "12",
+        "question": "The function f defined by f(x) = { x, if x ≤ 1 ; 5, if x > 1 } is not continuous at :",
+        "options": [
+          "x = 0",
+          "x = 1",
+          "x = 2",
+          "x = 5"
+        ],
+        "correctAnswer": 1,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "13",
+        "question": "If f(x) = 2x + cos x, then f(x) :",
+        "options": [
+          "has a maxima at x = π",
+          "has a minima at x = π",
+          "is an increasing function",
+          "is a decreasing function"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "14",
+        "question": "∫ (cos 2x - cos 2α)/(cos x - cos α) dx is equal to :",
+        "options": [
+          "2(sin x + x cos α) + C",
+          "2(sin x - x cos α) + C",
+          "2(sin x + 2x cos α) + C",
+          "2(sin x + sin α) + C"
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "15",
+        "question": "The value of ∫₀¹ dx/(eˣ + e⁻ˣ) is :",
+        "options": [
+          "- π/4",
+          "π/4",
+          "tan⁻¹ e - π/4",
+          "tan⁻¹ e"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "16",
+        "question": "The order and degree of the differential equation (d²y/dx²)² + (dy/dx)² = x sin(dy/dx) are :",
+        "options": [
+          "order 2, degree 2",
+          "order 2, degree 1",
+          "order 2, degree not defined",
+          "order 1, degree not defined"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "17",
+        "question": "The area of the region enclosed by the curve y = √x and the lines x = 0 and x = 4 and x-axis is :",
+        "options": [
+          "16/9 sq. units",
+          "32/9 sq. units",
+          "16/3 sq. units",
+          "32/3 sq. units"
+        ],
+        "correctAnswer": 2,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "18",
+        "question": "The corner points of the feasible region of a Linear Programming Problem are (0, 2), (3, 0), (6, 0), (6, 8) and (0, 5). If Z = ax + by; (a, b > 0) be the objective function, and maximum value of Z is obtained at (0, 2) and (3, 0), then the relation between a and b is :",
+        "options": [
+          "a = b",
+          "a = 3b",
+          "b = 6a",
+          "3a = 2b"
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "19",
+        "question": "Assertion (A) : If A and B are two events such that P(A ∩ B) = 0, then A and B are independent events.\nReason (R) : Two events are independent if the occurrence of one does not effect the occurrence of the other.",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+          "Assertion (A) is true, but Reason (R) is false.",
+          "Assertion (A) is false, but Reason (R) is true."
+        ],
+        "correctAnswer": 3,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "20",
+        "question": "Assertion (A) : In a Linear Programming Problem, if the feasible region is empty, then the Linear Programming Problem has no solution.\nReason (R) : A feasible region is defined as the region that satisfies all the constraints.",
+        "options": [
+          "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).",
+          "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).",
+          "Assertion (A) is true, but Reason (R) is false.",
+          "Assertion (A) is false, but Reason (R) is true."
+        ],
+        "correctAnswer": 0,
+        "type": "mcq",
+        "marks": 1,
+        "year": "2026"
+      },
+      {
+        "id": "21",
+        "question": "Let A and B be two square matrices of order 3 such that det (A) = 3 and det (B) = -4. Find the value of det (-6AB).",
+        "answer": "2592",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2026"
+      },
+      {
+        "id": "22",
+        "question": "(a) Find the least value of 'a' so that f(x) = 2x² - ax + 3 is an increasing function on [2, 4].\n\nOR\n\n(b) If f(x) = x + 1/x, x ≥ 1, show that f is an increasing function.",
+        "answer": "(a) a ≤ 8, but question asks for least value? Assuming upper bound condition or misinterpretation, the condition is a ≤ 8. (b) f'(x) = 1 - 1/x² ≥ 0 for x ≥ 1.",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2026"
+      },
+      {
+        "id": "23",
+        "question": "(a) Simplify sin⁻¹(x/√(1+x²)).\n\nOR\n\n(b) Find domain of sin⁻¹√(x-1).",
+        "answer": "(a) tan⁻¹ x  (b) [1, 2]",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2026"
+      },
+      {
+        "id": "24",
+        "question": "Calculate the area of the region bounded by the curve x²/9 + y²/4 = 1 and the x-axis using integration.",
+        "answer": "3π",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2026"
+      },
+      {
+        "id": "25",
+        "question": "For the curve y = 5x - 2x³, if x increases at the rate of 2 units/s, then how fast is the slope of the curve changing when x = 2 ?",
+        "answer": "-48 units/s",
+        "type": "subjective",
+        "marks": 2,
+        "year": "2026"
+      },
+      {
+        "id": "26",
+        "question": "(a) If f : R⁺ → R is defined as f(x) = logₐ x (a > 0 and a ≠ 1), prove that f is a bijection. (R⁺ is a set of all positive real numbers.)\n\nOR\n\n(b) Let A = {1, 2, 3} and B = {4, 5, 6}. A relation R from A to B is defined as R = {(x, y) : x + y = 6, x ∈ A, y ∈ B}.\n(i) Write all elements of R.\n(ii) Is R a function ? Justify.\n(iii) Determine domain and range of R.",
+        "answer": "(a) f is one-one and onto. (b) (i) R = {(1, 5), (2, 4)} (ii) No, element 3 has no image. (iii) Domain {1, 2}, Range {4, 5}",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2026"
+      },
+      {
+        "id": "27",
+        "question": "(a) Find k so that f(x) = { (x² - 2x - 3)/(x + 1), x ≠ -1 ; k, x = -1 } is continuous at x = -1.\n\nOR\n\n(b) Check the differentiability of function f(x) = x|x| at x = 0.",
+        "answer": "(a) k = -4 (b) Differentiable at x=0.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2026"
+      },
+      {
+        "id": "28",
+        "question": "Evaluate : ∫(from π/2 to π) eˣ ((1-sin x)/(1-cos x)) dx",
+        "answer": "e^(π/2)",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2026"
+      },
+      {
+        "id": "29",
+        "question": "(a) Find the probability distribution of the number of boys in families having three children, assuming equal probability for a boy and a girl.\n\nOR\n\n(b) A coin is tossed twice. Let X be a random variable defined as number of heads minus number of tails. Obtain the probability distribution of X and also find its mean.",
+        "answer": "(a) P(0)=1/8, P(1)=3/8, P(2)=3/8, P(3)=1/8. (b) X in {-2, 0, 2}, P(-2)=1/4, P(0)=1/2, P(2)=1/4, Mean=0.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2026"
+      },
+      {
+        "id": "30",
+        "question": "Find the distance of the point (-1, -5, -10) from the point of intersection of the lines (x-1)/2 = (y-2)/3 = (z-3)/4 and (x-4)/5 = (y-1)/2 = z.",
+        "answer": "√97",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2026"
+      },
+      {
+        "id": "31",
+        "question": "Solve the following Linear Programming Problem using graphical method :\nMaximise Z = 100x + 50y\nsubject to the constraints\n3x + y ≤ 600\nx + y ≤ 300\ny ≤ x + 200\nx ≥ 0, y ≥ 0",
+        "answer": "Graph the constraints and find max Z at corner points.",
+        "type": "subjective",
+        "marks": 3,
+        "year": "2026"
+      },
+      {
+        "id": "32",
+        "question": "If A is a 3 × 3 invertible matrix, show that for any scalar k ≠ 0, (kA)⁻¹ = (1/k)A⁻¹. Hence calculate (3A)⁻¹, where A = [ 2 -1 1 ; -1 2 -1 ; 1 -1 2 ].",
+        "answer": "Standard matrix inversion.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2026"
+      },
+      {
+        "id": "33",
+        "question": "The relation between the height of the plant (y cm) with respect to exposure to sunlight is governed by the equation y = 4x - (1/2)x², where x is the number of days exposed to sunlight.\n(i) Find the rate of growth of the plant with respect to sunlight.\n(ii) In how many days will the plant attain its maximum height ? What is the maximum height ?",
+        "answer": "(i) 4 - x (ii) 4 days, 8 cm",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2026"
+      },
+      {
+        "id": "34",
+        "question": "(a) Find : ∫ (cos x) / ((4+sin² x)(5-4cos² x)) dx\n\nOR\n\n(b) Evaluate : ∫₀^π dx / (a² cos² x + b² sin² x)",
+        "answer": "Standard integration techniques.",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2026"
+      },
+      {
+        "id": "35",
+        "question": "(a) Show that the area of a parallelogram whose diagonals are represented by a⃗ and b⃗ is given by (1/2)|a⃗ × b⃗|. Also find the area of a parallelogram whose diagonals are 2î - ĵ + k̂ and î + 3ĵ - k̂.\n\nOR\n\n(b) Find the equation of a line in vector and cartesian form which passes through the point (1, 2, -4) and is perpendicular to the lines (x-8)/3 = (y+19)/-16 = (z-10)/7 and r⃗ = 15î + 29ĵ + 5k̂ + μ(3î + 8ĵ - 5k̂).",
+        "answer": "(a) √62 / 2 (b) r = (1,2,-4) + λ(24, 36, 72) [simplified direction]",
+        "type": "subjective",
+        "marks": 5,
+        "year": "2026"
+      },
+      {
+        "id": "36",
+        "question": "Case Study - 1\nSome students are having a misconception while comparing decimals. For example, a student may mention that 78.56 > 78.9 as 7856 > 789. In order to assess this concept, a decimal comparison test was administered to the students of class VI through the following question : In the recently held Sports Day in the school, 5 students participated in a javelin throw competition. The distances to which they have thrown the javelin are shown below in the table :\nName | Distance (m)\nAjay | 47.7\nBijoy | 47.07\nKartik | 43.09\nDinesh | 43.9\nDevesh | 45.2\nThe students were asked to identify who has thrown the javelin the farthest.\nBased on the test attempted by the students, the teacher concludes that 40% of the students have the misconception in the concept of decimal comparison and the rest do not have the misconception. 80% of the students having misconception answered Bijoy as the correct answer in the paper. 90% of the students who are identified with not having misconception, did not answer Bijoy as their answer.\nOn the basis of the above information, answer the following questions :\n(i) What is the probability of a student not having misconception but still answers Bijoy in the test ?\n(ii) What is the probability that a randomly selected student answers Bijoy as his answer in the test ?\n(iii) (a) What is the probability that a student who answered as Bijoy is having misconception ?\nOR\n(iii) (b) What is the probability that a student who answered as Bijoy is amongst students who do not have the misconception ?",
+        "answer": "(i) 0.06 (ii) 0.38 (iii)(a) 16/19 (b) 3/19",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2026"
+      },
+      {
+        "id": "37",
+        "question": "Case Study - 2\nAn engineer is designing a new metro rail network in a city.\nInitially, two metro lines, Line A and Line B, each consisting of multiple stations are designed. The track for Line A is represented by l₁ : (x-2)/3 = (y+1)/-2 = (z-3)/4 , while the track for Line B is represented by l₂ : (x-1)/2 = (y-3)/1 = (z+2)/-3 .\nBased on the above information, answer the following questions :\n(i) Find whether the two metro tracks are parallel.\n(ii) Solar panels are to be installed on the rooftop of the metro stations. Determine the equation of the line representing the placement of solar panels on the rooftop of Line A's stations, given that panels are to be positioned parallel to Line A's track (l₁) and pass through the point (1, -2, -3).\n(iii) (a) To connect the stations, a pedestrian pathway perpendicular to the two metro lines is to be constructed which passes through point (3, 2, 1). Determine the equation of the pedestrian walkway.\nOR\n(iii) (b) Find the shortest distance between Line A and Line B.",
+        "answer": "(i) No (ii) (x-1)/3 = (y+2)/-2 = (z+3)/4 (iii) Vector approach / Shortest distance formula.",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2026"
+      },
+      {
+        "id": "38",
+        "question": "Case Study - 3\nDuring a heavy gaming session, the temperature of a student's laptop processor increases significantly. After the session, the processor begins to cool down, and the rate of cooling is proportional to the difference between the processor's temperature and the room temperature (25°C). Initially the processor's temperature is 85°C. The rate of cooling is defined by the equation d/dt(T(t)) = -k(T(t) - 25), where T(t) represents the temperature of the processor at time t (in minutes) and k is a constant.\nBased on the above information, answer the following questions :\n(i) Find the expression for temperature of processor, T(t) given that T(0) = 85°C.\n(ii) How long will it take for the processor's temperature to reach 40°C ? Given that k = 0.03, logₑ 4 = 1.3863.",
+        "answer": "(i) T(t) = 25 + 60e^(-kt) (ii) ~46.21 minutes",
+        "type": "case_study",
+        "marks": 4,
+        "year": "2026"
+      }
+    ]
+  }
+}
